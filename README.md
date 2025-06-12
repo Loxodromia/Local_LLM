@@ -1,0 +1,1 @@
+This is VISION and though it was meant to destroy us all, it will end up saving us.
