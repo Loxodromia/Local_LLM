@@ -8,7 +8,7 @@ Install the dependecies per README.md and check the paths below for Tesseract an
 '''
 
 #----------------------------------
-# PARAMETERS
+# DEPENDENCIES
 #----------------------------------
 
 # PATHS OF PACKAGES TO INSTALL - CHECK AND AMEND IF NEEDED

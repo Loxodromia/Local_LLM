@@ -54,17 +54,13 @@ Test in VSCode’s Bash terminal:
 # Dependencies
 
 1. Install Tesseract for OCR: ` https://github.com/UB-Mannheim/tesseract/wiki `
-Run the installer. By default, it installs to C:\Program Files\Tesseract-OCR.
-
-Add Tesseract to your system PATH:
-Right-click "This PC" → Properties → Advanced system settings → Environment Variables.
-
-Under "System variables," find Path, click Edit, and add C:\Program Files\Tesseract-OCR.
-
+Run the installer. By default, it installs to C:\Program Files\Tesseract-OCR. Otherwise, adjust the path in ` fileprocessing.py ` # Dependencies
 Verify installation by opening a Command Prompt and running:
+
 ` tesseract --version `
 
 You should see the Tesseract version (e.g., tesseract v5.3.4).
 
 2. Install Poppler for pdf 2 image: ` https://stackoverflow.com/questions/53481088/poppler-in-path-for-pdf2image `
+Meaning, download it and unzip in a location whose path you'll enter in ` fileprocessing.py ` # Dependencies
 
