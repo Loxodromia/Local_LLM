@@ -51,8 +51,9 @@ Test in VSCode’s Bash terminal:
 2. If there is a multiple usage error: `Error: listen tcp 127.0.0.1:11434: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted`
 * Close the Ollama window and if still happening, open the Task Manager and close any ollama processes. Then restart VSCode and try again.
 
+# Dependencies
 
-Install Tesseract for OCR: ` https://github.com/UB-Mannheim/tesseract/wiki `
+1. Install Tesseract for OCR: ` https://github.com/UB-Mannheim/tesseract/wiki `
 Run the installer. By default, it installs to C:\Program Files\Tesseract-OCR.
 
 Add Tesseract to your system PATH:
@@ -61,9 +62,9 @@ Right-click "This PC" → Properties → Advanced system settings → Environmen
 Under "System variables," find Path, click Edit, and add C:\Program Files\Tesseract-OCR.
 
 Verify installation by opening a Command Prompt and running:
-bash
-
-tesseract --version
+` tesseract --version `
 
 You should see the Tesseract version (e.g., tesseract v5.3.4).
+
+2. Install Poppler for pdf 2 image: ` https://stackoverflow.com/questions/53481088/poppler-in-path-for-pdf2image `
 

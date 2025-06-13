@@ -1,14 +1,5 @@
 
 import ollama
-import PyPDF2
-
-# Function to read file content
-def read_file(file_path):
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            return file.read()
-    except Exception as e:
-        return f"Error reading file: {str(e)}"
 
 # Function to process file with DeepSeek-R1
 def process_file(file_path, task="summarize"):
@@ -33,12 +24,3 @@ def process_file(file_path, task="summarize"):
         return response['response']
     except Exception as e:
         return f"Error processing with DeepSeek: {str(e)}"
-
-# Function to read PDF content
-def read_pdf(file_path):
-    try:
-        with open(file_path, 'rb') as file:
-            reader = PyPDF2.PdfReader(file)
-            return " ".join(page.extract_text() for page in reader.pages)
-    except Exception as e:
-        return f"Error reading PDF: {str(e)}"
