@@ -32,7 +32,8 @@ import win32com.client  # For .doc, .ppt, .xls on Windows
 #----------------------------------
 
 # PATHS OF PACKAGES TO INSTALL - CHECK AND AMEND IF NEEDED
-# Set Tesseract path for OCR. 
+
+# Set Tesseract path for OCR (text from images)
 pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 # Set Poppler path for PDF to image processing
 actualpoppler_path = r'C:/Users/sanc615/AppData/Local/poppler-24.08.0/Library/bin'
@@ -198,6 +199,7 @@ def read_pdf(file_path, ocr_mode=ocrmode):
 # PROCESSORS
 #----------------------------------
 
+# Extract text from a single file and export to txt_processing_dir
 def extract_text_from_file(file_path, txt_processing_dir="txt_processing", ocr_mode=False):
     """Extract text from a single file and export to txt_processing_dir."""
     file_extension = os.path.splitext(file_path)[1].lower()
@@ -240,6 +242,7 @@ def extract_text_from_file(file_path, txt_processing_dir="txt_processing", ocr_m
 
     return content
 
+# Extract text from all supported files in a directory, ignoring files in txt_processing_dir subfolder
 def extract_text_from_directory(directory, ocr_mode=False, txt_processing_dir="txt_processing"):
     """Extract text from all supported files in a directory, ignoring files in txt_processing_dir subfolder."""
     supported_extensions = {'.txt', '.docx', '.doc', '.odt', '.pptx', '.ppt', '.xlsx', '.xls', '.csv', '.pdf', '.jpg', '.jpeg', '.png'}

@@ -3,6 +3,13 @@
 Project to build a local instance of a ~multimodal~ GenAI.
 Model choice: ` deepseek-r1:8b `
 
+# Structure
+* Files for RAG are placed in folder ` INPUT/ ` (excluded from git in .gitignore)
+* ` fileprocessing.py ` contains the readers and processors to turn multiple file types into text, then save in a subfolder.
+* ` RAG.py ` contains the langchain functions to chunk and index these text files into a vector store for RAG.
+* ` tests.py ` contains past tests during development in raw form, for future creation of automated tests.
+
+
 # Install
 (In VSCode)
 
@@ -13,6 +20,20 @@ Run `ollama serve` to check it works. Leave that terminal open and open a new on
 Run `ollama run deepseek-r1:8b`
 Write something to test the model and then `/exit`
 Run the script.
+
+# Dependencies
+
+1. Install Tesseract for OCR: ` https://github.com/UB-Mannheim/tesseract/wiki `
+Run the installer. By default, it installs to C:\Program Files\Tesseract-OCR. Otherwise, adjust the path in ` fileprocessing.py ` # Dependencies
+Verify installation by opening a Command Prompt and running:
+
+` tesseract --version `
+
+You should see the Tesseract version (e.g., tesseract v5.3.4).
+
+2. Install Poppler for pdf 2 image: ` https://stackoverflow.com/questions/53481088/poppler-in-path-for-pdf2image `
+Meaning, download it and unzip in a location whose path you'll enter in ` fileprocessing.py ` # Dependencies
+
 
 ### Troubleshooting: 
 
@@ -46,21 +67,7 @@ Reload the profile:
 Test in VSCode’s Bash terminal:
 `ollama serve `
 
-
-
 2. If there is a multiple usage error: `Error: listen tcp 127.0.0.1:11434: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted`
 * Close the Ollama window and if still happening, open the Task Manager and close any ollama processes. Then restart VSCode and try again.
 
-# Dependencies
-
-1. Install Tesseract for OCR: ` https://github.com/UB-Mannheim/tesseract/wiki `
-Run the installer. By default, it installs to C:\Program Files\Tesseract-OCR. Otherwise, adjust the path in ` fileprocessing.py ` # Dependencies
-Verify installation by opening a Command Prompt and running:
-
-` tesseract --version `
-
-You should see the Tesseract version (e.g., tesseract v5.3.4).
-
-2. Install Poppler for pdf 2 image: ` https://stackoverflow.com/questions/53481088/poppler-in-path-for-pdf2image `
-Meaning, download it and unzip in a location whose path you'll enter in ` fileprocessing.py ` # Dependencies
 

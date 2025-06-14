@@ -12,10 +12,11 @@ from RAG import load_or_create_vector_store, query_vector_store
 directory = "INPUT/"  # Replace with your directory path
 text_directory = f"{directory}text_processing"  # Directory for .txt files
 vector_subdirectory = f"vector_store"  # Directory for vector store
+# OCR Mode: Choose if pdfs are processed from their text only (faster) or transfored to images and OCR (slower but includes images)
+ocr_mode = False  # Set to True if you want to use OCR for PDFs
 
 # Main function to process files
-
-def main(directory, txt_folder=text_directory, vector_store_subfolder=vector_subdirectory):
+def RAG_base(directory, txt_folder=text_directory, vector_store_subfolder=vector_subdirectory):
     """
     Main function to process files, create/update vector store, and query it.
     
@@ -27,7 +28,7 @@ def main(directory, txt_folder=text_directory, vector_store_subfolder=vector_sub
     # txt_folder = Path(txt_folder)
     
     # Step 1: Process input files to .txt
-    extract_text_from_directory(directory, ocr_mode=False, txt_processing_dir=text_directory)
+    extract_text_from_directory(directory, ocr_mode=ocr_mode, txt_processing_dir=text_directory)
     
     # Step 2: Create or update vector store
     vector_store = load_or_create_vector_store(
@@ -58,9 +59,5 @@ def main(directory, txt_folder=text_directory, vector_store_subfolder=vector_sub
     # print("Answer:", response)
     # print("Sources:", list(set(sources)))
 
-if __name__ == "__main__":
-    # Example input files (replace with your files)
-    directory = directory
-    txt_folder = text_directory
-    vector_store_subfolder = vector_subdirectory
-    main(directory, txt_folder=text_directory, vector_store_subfolder=vector_subdirectory)
+# Process the documents and create/update the vector store
+RAG_base(directory, txt_folder=text_directory, vector_store_subfolder=vector_subdirectory)
