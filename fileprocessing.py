@@ -8,16 +8,6 @@ Install the dependecies per README.md and check the paths below for Tesseract an
 '''
 
 #----------------------------------
-# DEPENDENCIES
-#----------------------------------
-
-# PATHS OF PACKAGES TO INSTALL - CHECK AND AMEND IF NEEDED
-# Set Tesseract path for OCR. 
-pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
-# Set Poppler path for PDF to image processing
-actualpoppler_path = r'C:/Users/sanc615/AppData/Local/poppler-24.08.0/Library/bin'
-
-#----------------------------------
 # LIBRARIES
 #----------------------------------
 
@@ -36,6 +26,16 @@ from odf import text, teletype
 from odf.opendocument import load
 import win32com.client  # For .doc, .ppt, .xls on Windows
 # import comtypes.client  # Alternative for COM automation
+
+#----------------------------------
+# DEPENDENCIES
+#----------------------------------
+
+# PATHS OF PACKAGES TO INSTALL - CHECK AND AMEND IF NEEDED
+# Set Tesseract path for OCR. 
+pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
+# Set Poppler path for PDF to image processing
+actualpoppler_path = r'C:/Users/sanc615/AppData/Local/poppler-24.08.0/Library/bin'
 
 #----------------------------------
 # PARAMETERS
@@ -198,19 +198,22 @@ def read_pdf(file_path, ocr_mode=ocrmode):
 # PROCESSORS
 #----------------------------------
 
-def chunk_content(text, metadata, max_length=maxlength):
-    """Split text into chunks with metadata."""
-    if "Error" in text.lower():
-        return [(text, metadata)]
-    chunks = []
-    num_chunks = (len(text) + max_length - 1) // max_length  # Ceiling division
-    for i in range(0, len(text), max_length):
-        chunk_text = text[i:i + max_length]
-        chunk_metadata = metadata.copy()
-        chunk_metadata["part"] = i // max_length + max_length
-        chunk_metadata["total_parts"] = num_chunks
-        chunks.append((chunk_text.strip(), chunk_metadata))
-    return chunks if chunks else [(f"No text in chunk.", metadata)]
+# Chunk content into manageable pieces with metadata for LLM processing if files are directly sent to LLMs. The other option
+# that we're exploring is a RAG approach with Streamlit and Ollama, which would not require chunking.
+
+# def chunk_content(text, metadata, max_length=maxlength):
+#     """Split text into chunks with metadata."""
+#     if "Error" in text.lower():
+#         return [(text, metadata)]
+#     chunks = []
+#     num_chunks = (len(text) + max_length - 1) // max_length  # Ceiling division
+#     for i in range(0, len(text), max_length):
+#         chunk_text = text[i:i + max_length]
+#         chunk_metadata = metadata.copy()
+#         chunk_metadata["part"] = i // max_length + max_length
+#         chunk_metadata["total_parts"] = num_chunks
+#         chunks.append((chunk_text.strip(), chunk_metadata))
+#     return chunks if chunks else [(f"No text in chunk.", metadata)]
 
 
 def extract_text_from_file(file_path, ocr_mode=False, troubleshoot=False):
@@ -240,8 +243,10 @@ def extract_text_from_file(file_path, ocr_mode=False, troubleshoot=False):
     if "Error" in content:
         return content
 
-    # Chunk content
-    chunks = chunk_content(content, max_length=3000)
+    # # Chunk content
+    chunks = chunk_content(content, max_length=maxlength)
+    # For simplicity, we can return the full content instead of chunks
+    # chunks = [content]  # Treat the entire content as a single chunk for now
 
     # Troubleshooting: Save chunks to txt_processing subfolder
     if troubleshoot:

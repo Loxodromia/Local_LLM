@@ -26,4 +26,6 @@ directory = "INPUT/"  # Replace with your directory path
 # print(read_excel(f'{directory}Reqs.xlsx'))
 # print(read_docx(f'{directory}RFP - SOR.docx'))
 # print(read_txt(f'{directory}tbc.txt'))
-print(read_pdf(f'{directory}Sign-in & Set-up MFA.pdf'))
+# print(read_pdf(f'{directory}Sign-in & Set-up MFA.pdf'))
+
+print(extract_text_from_file(f'{directory}Sign-in & Set-up MFA.pdf', ocr_mode=False, troubleshoot=False))
