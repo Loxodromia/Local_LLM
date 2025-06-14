@@ -1,5 +1,14 @@
-
 import ollama
+
+
+'''Prompt placeholder
+Context:
+[Source: safety_report.txt] Project X uses certified materials meeting ISO 9001 standards.
+[Source: training_log.txt] All personnel are trained per OSHA guidelines.
+
+Query: Show evidence of compliance with safety standards for Project X.
+
+Answer: Provide the evidence, quoting the exact text and citing the source.'''
 
 # Function to process file with DeepSeek-R1
 def process_file(file_path, task="summarize"):

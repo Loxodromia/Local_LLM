@@ -24,6 +24,7 @@ from PIL import Image
 import ollama
 from odf import text, teletype
 from odf.opendocument import load
+import json
 import win32com.client  # For .doc, .ppt, .xls on Windows
 # import comtypes.client  # Alternative for COM automation
 
@@ -243,13 +244,18 @@ def extract_text_from_file(file_path, txt_processing_dir="txt_processing", ocr_m
     return content
 
 # Extract text from all supported files in a directory, ignoring files in txt_processing_dir subfolder
+
 def extract_text_from_directory(directory, ocr_mode=False, txt_processing_dir="txt_processing"):
-    """Extract text from all supported files in a directory, ignoring files in txt_processing_dir subfolder."""
+    """Extract text from all supported files in a directory, ignoring files in txt_processing_dir subfolder.
+    Also creates a file_mapping.json mapping each generated .txt file to its original file and extension.
+    """
     supported_extensions = {'.txt', '.docx', '.doc', '.odt', '.pptx', '.ppt', '.xlsx', '.xls', '.csv', '.pdf', '.jpg', '.jpeg', '.png'}
     file_paths = []
     results = {}
+    file_mapping = {}
 
-    abs_txt_dir = os.path.abspath(os.path.join(directory, txt_processing_dir))
+    # Place txt_processing_dir directly under the provided directory (not nested)
+    abs_txt_dir = os.path.abspath(os.path.join(os.path.dirname(directory), txt_processing_dir))
 
     # Find supported files, skipping txt_processing_dir and its subfolders
     for root, _, files in os.walk(directory):
@@ -257,7 +263,8 @@ def extract_text_from_directory(directory, ocr_mode=False, txt_processing_dir="t
         if os.path.abspath(root).startswith(abs_txt_dir):
             continue
         for file in files:
-            if os.path.splitext(file)[1].lower() in supported_extensions:
+            ext = os.path.splitext(file)[1].lower()
+            if ext in supported_extensions:
                 file_paths.append(os.path.join(root, file))
 
     if not file_paths:
@@ -265,7 +272,20 @@ def extract_text_from_directory(directory, ocr_mode=False, txt_processing_dir="t
 
     print(f"Found {len(file_paths)} supported files: {file_paths}")
     for file_path in file_paths:
-        results[file_path] = extract_text_from_file(file_path, txt_processing_dir, ocr_mode)
+        content = extract_text_from_file(file_path, abs_txt_dir, ocr_mode)
+        results[file_path] = content
+        # Map generated txt file to original file and extension
+        txt_filename = os.path.splitext(os.path.basename(file_path))[0] + ".txt"
+        file_mapping[txt_filename] = os.path.basename(file_path)
+
+    # Write file_mapping.json in txt_processing_dir (directly under the parent of the provided directory)
+    os.makedirs(abs_txt_dir, exist_ok=True)
+    mapping_path = os.path.join(abs_txt_dir, "file_mapping.json")
+    try:
+        with open(mapping_path, "w", encoding="utf-8") as f:
+            json.dump(file_mapping, f, indent=2)
+    except Exception as e:
+        print(f"Warning: Failed to save file mapping: {str(e)}")
 
     return results
 
