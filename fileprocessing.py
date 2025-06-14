@@ -198,26 +198,8 @@ def read_pdf(file_path, ocr_mode=ocrmode):
 # PROCESSORS
 #----------------------------------
 
-# Chunk content into manageable pieces with metadata for LLM processing if files are directly sent to LLMs. The other option
-# that we're exploring is a RAG approach with Streamlit and Ollama, which would not require chunking.
-
-# def chunk_content(text, metadata, max_length=maxlength):
-#     """Split text into chunks with metadata."""
-#     if "Error" in text.lower():
-#         return [(text, metadata)]
-#     chunks = []
-#     num_chunks = (len(text) + max_length - 1) // max_length  # Ceiling division
-#     for i in range(0, len(text), max_length):
-#         chunk_text = text[i:i + max_length]
-#         chunk_metadata = metadata.copy()
-#         chunk_metadata["part"] = i // max_length + max_length
-#         chunk_metadata["total_parts"] = num_chunks
-#         chunks.append((chunk_text.strip(), chunk_metadata))
-#     return chunks if chunks else [(f"No text in chunk.", metadata)]
-
-
-def extract_text_from_file(file_path, ocr_mode=False, troubleshoot=False):
-    """Extract text from a single file, with optional troubleshooting."""
+def extract_text_from_file(file_path, txt_processing_dir="txt_processing", ocr_mode=False):
+    """Extract text from a single file and export to txt_processing_dir."""
     file_extension = os.path.splitext(file_path)[1].lower()
     readers = {
         '.txt': read_txt,
@@ -243,34 +225,34 @@ def extract_text_from_file(file_path, ocr_mode=False, troubleshoot=False):
     if "Error" in content:
         return content
 
-    # # Chunk content
-    chunks = chunk_content(content, max_length=maxlength)
-    # For simplicity, we can return the full content instead of chunks
-    # chunks = [content]  # Treat the entire content as a single chunk for now
+    # Export content to txt_processing_dir, preserving only the filename (not subfolders)
+    abs_txt_dir = os.path.abspath(txt_processing_dir)
+    filename = os.path.splitext(os.path.basename(file_path))[0] + ".txt"
+    export_path = os.path.join(abs_txt_dir, filename)
+    export_folder = os.path.dirname(export_path)
 
-    # Troubleshooting: Save chunks to txt_processing subfolder
-    if troubleshoot:
-        os.makedirs("txt_processing", exist_ok=True)
-        base_name = os.path.splitext(os.path.basename(file_path))[0]
-        for i, chunk in enumerate(chunks):
-            chunk_file = os.path.join("txt_processing", f"{base_name}_chunk_{i}.txt")
-            try:
-                with open(chunk_file, 'w', encoding='utf-8') as f:
-                    f.write(chunk)
-            except Exception as e:
-                print(f"Warning: Failed to save chunk {chunk_file}: {str(e)}")
+    os.makedirs(export_folder, exist_ok=True)
+    try:
+        with open(export_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+    except Exception as e:
+        print(f"Warning: Failed to save file {export_path}: {str(e)}")
 
-    # Return full content (not chunks) for simplicity
     return content
 
-def extract_text_from_directory(directory, ocr_mode=False, troubleshoot=False):
-    """Extract text from all supported files in a directory."""
+def extract_text_from_directory(directory, ocr_mode=False, txt_processing_dir="txt_processing"):
+    """Extract text from all supported files in a directory, ignoring files in txt_processing_dir subfolder."""
     supported_extensions = {'.txt', '.docx', '.doc', '.odt', '.pptx', '.ppt', '.xlsx', '.xls', '.csv', '.pdf', '.jpg', '.jpeg', '.png'}
     file_paths = []
     results = {}
 
-    # Find supported files
+    abs_txt_dir = os.path.abspath(os.path.join(directory, txt_processing_dir))
+
+    # Find supported files, skipping txt_processing_dir and its subfolders
     for root, _, files in os.walk(directory):
+        # Skip txt_processing_dir and its subfolders
+        if os.path.abspath(root).startswith(abs_txt_dir):
+            continue
         for file in files:
             if os.path.splitext(file)[1].lower() in supported_extensions:
                 file_paths.append(os.path.join(root, file))
@@ -280,27 +262,7 @@ def extract_text_from_directory(directory, ocr_mode=False, troubleshoot=False):
 
     print(f"Found {len(file_paths)} supported files: {file_paths}")
     for file_path in file_paths:
-        results[file_path] = extract_text_from_file(file_path, ocr_mode, troubleshoot)
+        results[file_path] = extract_text_from_file(file_path, txt_processing_dir, ocr_mode)
 
     return results
 
-def main():
-    """Main function to extract text from files or directories."""
-    mode = input("Process a single file or all files in a directory? (single/directory): ").lower()
-    ocr_mode = input("Process PDFs with full OCR (captures diagrams, slower)? (yes/no): ").lower() == 'yes'
-    troubleshoot = input("Enable troubleshooting (save chunks to txt_processing)? (yes/no): ").lower() == 'yes'
-
-    if mode == 'single':
-        file_path = input("Enter the file path: ")
-        result = extract_text_from_file(file_path, ocr_mode, troubleshoot)
-        print(f"\nResult for {file_path}:\n{result}")
-    elif mode == 'directory':
-        directory = input("Enter the directory path: ")
-        results = extract_text_from_directory(directory, ocr_mode, troubleshoot)
-        for file, result in results.items():
-            print(f"\n{file}:\n{result}")
-    else:
-        print("Invalid mode. Choose 'single' or 'directory'.")
-
-if __name__ == "__main__":
-    main()
