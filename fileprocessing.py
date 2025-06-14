@@ -49,8 +49,6 @@ ocrmode = True  # Set to True for OCR mode (text from images), False for text-on
 dpino = 150  # Lower DPI for faster processing, adjust as needed
 # Max chunk length for LLM processing
 maxlength = 3000  # Adjust based on LLM's token limit. Note prompt must be included. Deepseek-R1 has a 4096 token limit.
-# Troubleshooting mode
-troubleshoot = True  # Set to True to enable txt exports for debugging and troubleshooting
 
 #----------------------------------
 # READERS

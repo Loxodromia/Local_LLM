@@ -23,7 +23,7 @@ CHUNK_OVERLAP = 200  # Character overlap for context continuity
 
 # RAG Parameters
 top_k = 5  # Number of top relevant chunks to retrieve for each LLM call
-depth = 1  # Number of retrieval iterations: 1 to 3. E.g. if top_k = 5 and depth = 2, the LLM will retrieve the top 5 chunks from the vector store in a prompt, then the next 5, and use them to generate a response.
+depth = 1  # Number of retrieval iterations: 1 to 3. The higher, the more search extent, but processing time multiplies. E.g. if top_k = 5 and depth = 2, the LLM will retrieve the top 5 chunks from the vector store in a prompt, then the next 5, and use them to generate a response.
 max_context_length = 3000  # Maximum length of context to pass to the LLM for each prompt, from collating the top chunks
 
 # Prompt parameters
@@ -182,7 +182,7 @@ Answer:
     
     return answer
 
-
+# Main RAG pipeline function
 def rag_pipeline(
     query: str,
     vector_store_path: str,

@@ -1,5 +1,4 @@
-
-from ollama_fn import process_file
+import ollama
 from fileprocessing import read_csv, read_pdf, read_image, read_doc, read_docx, read_odt, read_ppt, read_pptx, read_txt, read_xls, read_excel
 from fileprocessing import extract_text_from_file, extract_text_from_directory
 from RAG import load_or_create_vector_store, embed_query, retrieve_chunks, assemble_context, generate_response, rag_pipeline
@@ -61,17 +60,23 @@ def main():
 
 
 # Test usage of the ollama library to generate a response using the DeepSeek-R1 model.
-# import ollama
-# response = ollama.generate(
-#     model="deepseek-r1:8b",
-#     prompt="Write a Python function to calculate the factorial of a number."
-# )
-# print(response['response'])
-# # Sample output:
-# '''
-# <think>
-# We are going to write a function that calculates the factorial of a non-negative integer...
-# '''
+def test_ollama_generate():
+    """Test Ollama generate function with DeepSeek-R1 model."""
+    try:
+        response = ollama.generate(
+            model="deepseek-r1:8b",
+            prompt="Write a Python function to calculate the factorial of a number."
+        )
+        print(response['response'])
+    except Exception as e:
+        print(f"Error generating response: {e}")
+
+# Sample output:
+'''
+<think>
+We are going to write a function that calculates the factorial of a non-negative integer...
+'''
+# test_ollama_generate()
 
 # Test function
 def test_embed_query():
@@ -158,5 +163,5 @@ def test_rag_pipeline():
     response = rag_pipeline(query, vector_store_path, k=top_k, depth=2, show_thinking=True)
     print(f"RAG pipeline response:\n{response}")
 
-test_rag_pipeline()
+# test_rag_pipeline()
 
