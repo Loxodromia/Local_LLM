@@ -6,7 +6,9 @@ and manage embeddings for a RAG pipeline.
 
 import os
 import re
+import json
 from pathlib import Path
+import urllib.parse
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -198,6 +200,8 @@ Answer:
 def rag_pipeline(
     query: str,
     vector_store_path: str,
+    directory: str,
+    text_directory: str,
     k: int = top_k,
     depth: int = depth,
     max_context_length: int = max_context_length,
@@ -252,7 +256,33 @@ def rag_pipeline(
     if not responses:
         return "No relevant evidence found."
     final_response = f"\n".join(responses)
+    final_response = process_citations(response, directory, text_directory) # Convert references to original file names and hyperlinks
     return final_response
 
 
+
+def process_citations(response, directory, text_directory):
+    mapping_file = os.path.join(directory, text_directory, "file_mapping.json")
+    if not os.path.exists(mapping_file):
+        return response
+
+    try:
+        with open(mapping_file, "r") as f:
+            file_mapping = json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return response
+
+    for txt_file, orig_file in file_mapping.items():
+        txt_file_escaped = re.escape(txt_file)
+        orig_file_path = Path(os.path.abspath(os.path.join(directory, orig_file)))
+        orig_file_url = orig_file_path.as_uri()  # Don't encode again
+        # Use proper HTML anchor tag
+        html_link = f'<a href="{orig_file_url}" target="_blank">{orig_file}</a>'
+        response = re.sub(
+            rf"\[Source: {txt_file_escaped}\]",
+            f'[Source: {html_link}]',
+            response
+        )
+
+    return response
 

@@ -5,6 +5,7 @@ from RAG import load_or_create_vector_store, rag_pipeline
 from PIL import Image  # For loading the header image
 from pathlib import Path
 
+
 # Initialize session state
 if "reset" not in st.session_state:
     st.session_state.reset = False
@@ -14,7 +15,7 @@ try:
     header_image = Image.open("logo.png")  # Replace with your image path
     st.image(header_image, use_container_width=True)
 except FileNotFoundError:
-    st.warning("Header image not found. Please add 'header_image.png' to the project directory.")
+    st.warning("Header image not found. Please add 'logo.png' to the project directory.")
 
 # Title and subheader
 st.title("DeepSeek R1 Query Interface")
@@ -71,7 +72,7 @@ ocr_mode = st.checkbox("", value=st.session_state.get("ocr_mode", True), key="oc
 # Button to process files
 if st.button("Process Files"):
     if os.path.exists(directory):
-        with st.spinner("Processing files and creating vector store..."):
+        with st.spinner("Processing files and creating indexing..."):
             extract_text_from_directory(directory, ocr_mode=ocr_mode, txt_processing_dir=text_directory)
             vector_store = load_or_create_vector_store(
                 directory=directory,
@@ -79,9 +80,9 @@ if st.button("Process Files"):
                 vector_store_subfolder=vector_subdirectory
             )
             if vector_store:
-                st.success("Files processed and vector store created!")
+                st.success("Files processed and indexing created!")
             else:
-                st.error("Failed to create vector store.")
+                st.error("Failed to create indexing.")
     else:
         st.error("Invalid directory path!")
 
@@ -96,9 +97,9 @@ if st.button("Submit Query"):
     vector_store_path = os.path.join(directory, text_directory, vector_subdirectory)
     if query.strip() and os.path.exists(vector_store_path):
         with st.spinner("Querying model..."):
-            response = rag_pipeline(query, vector_store_path, show_thinking=False)
+            response = rag_pipeline(query, vector_store_path, directory, text_directory, show_thinking=False)
             st.subheader("Model Response:")
-            st.write(response)
+            st.markdown(response, unsafe_allow_html=True)
     elif not query.strip():
         st.error("Please enter a query!")
     else:

@@ -1,7 +1,7 @@
 import ollama
 from fileprocessing import read_csv, read_pdf, read_image, read_doc, read_docx, read_odt, read_ppt, read_pptx, read_txt, read_xls, read_excel
 from fileprocessing import extract_text_from_file, extract_text_from_directory
-from RAG import load_or_create_vector_store, embed_query, retrieve_chunks, assemble_context, generate_response, rag_pipeline
+from RAG import load_or_create_vector_store, embed_query, retrieve_chunks, assemble_context, generate_response, rag_pipeline, process_citations
 import os
 import pytesseract
 
@@ -165,14 +165,22 @@ def test_rag_pipeline():
 
 # test_rag_pipeline()
 
+def test_process_citations():
+    response = "Here is the evidence of lessons learned from Bishopsgate project. [Source: Reqs.txt]"
+    directory = "INPUT/"  # Replace with your directory path
+    text_directory = "text_processing"  # Subdirectory for .txt files
+    citation = process_citations(response, directory, text_directory)
+    print(citation)
+
+test_process_citations()
 
 #-------------------------#
 # APP TESTS
 #-------------------------#
 
-import streamlit as st
+# import streamlit as st
 
-st.title("Test Streamlit App")
-st.write("Hello, this is a test!")
-if st.button("Click me"):
-    st.write("Button clicked!")
+# st.title("Test Streamlit App")
+# st.write("Hello, this is a test!")
+# if st.button("Click me"):
+#     st.write("Button clicked!")
