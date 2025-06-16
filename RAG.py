@@ -15,11 +15,21 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 import ollama
 
+from sentence_transformers import SentenceTransformer
+
+os.environ["TRANSFORMERS_OFFLINE"] = "1"  # Use local models only, no internet access]
+
+
 # Configuration
 MODEL_NAME = "all-MiniLM-L6-v2"  # Lightweight embedding model
 LLM_MODEL_NAME = "deepseek-r1:8b"  # DeepSeek R1 model for response generation
 CHUNK_SIZE = 1000  # Characters per chunk
 CHUNK_OVERLAP = 200  # Character overlap for context continuity
+
+# Saving a local copy of the embedding (RAG) model
+model = SentenceTransformer(MODEL_NAME)
+model_path = r".venv/model/all-MiniLM-L6-v2"
+model.save(model_path)  # Specify a local path
 
 # RAG Parameters
 top_k = 5  # Number of top relevant chunks to retrieve for each LLM call
@@ -89,7 +99,7 @@ def load_or_create_vector_store(directory, txt_folder, vector_store_subfolder="v
         return None
 
     # Initialize embeddings
-    embeddings = HuggingFaceEmbeddings(model_name=MODEL_NAME)
+    embeddings = HuggingFaceEmbeddings(model_name=model_path)
     
     # Prepare texts and metadata
     texts = [chunk["text"] for chunk in all_chunks]
@@ -107,13 +117,15 @@ def load_or_create_vector_store(directory, txt_folder, vector_store_subfolder="v
 # Query the vector store
 def embed_query(query: str, model_name: str = "all-MiniLM-L6-v2") -> list: # Convert query to embedding using HuggingFaceEmbeddings
     """Convert query to embedding using HuggingFaceEmbeddings."""
-    embeddings = HuggingFaceEmbeddings(model_name=model_name)
+    embeddings = HuggingFaceEmbeddings(model_name=model_path) # Use the local model path
     query_embedding = embeddings.embed_query(query)
     return query_embedding
 
 def retrieve_chunks(query: str, vector_store_path: str, k: int = depth*top_k) -> list: # Retrieve top-k relevant chunks from FAISS vector store, considering depth for multiple calls
     """Retrieve top-k relevant chunks from FAISS vector store."""
-    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embeddings = HuggingFaceEmbeddings(
+        model_name=model_path,  # Use the local model path
+    )
     vector_store = FAISS.load_local(vector_store_path, embeddings, allow_dangerous_deserialization=True)
     query_embedding = embed_query(query)
     results = vector_store.similarity_search_by_vector(query_embedding, k=k)

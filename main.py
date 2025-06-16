@@ -31,7 +31,7 @@ regenerate_vector_store = False  # Set to True to regenerate the vector database
 
 # Note: additional prompt and RAG parameters in RAG.py
 
-query = "Show evidence of lessons learned from Bishopsgate project."
+query = "Show evidence of lessons learned about rain screen cladding."
 
 # ---------------------------------------------- #
 # --------------- Main Functions --------------- #

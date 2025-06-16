@@ -165,3 +165,14 @@ def test_rag_pipeline():
 
 # test_rag_pipeline()
 
+
+#-------------------------#
+# APP TESTS
+#-------------------------#
+
+import streamlit as st
+
+st.title("Test Streamlit App")
+st.write("Hello, this is a test!")
+if st.button("Click me"):
+    st.write("Button clicked!")
