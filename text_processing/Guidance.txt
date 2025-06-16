@@ -1,0 +1,83 @@
+GUIDANCE
+
+TEAM ARRANGEMENT
+Recommendations:
+Teams should try to be a max of 6 people.
+Try to ensure a diversity of skills.
+Be aware of what people want from the event.
+Rules:
+Multiple teams can tackle the same challenge.
+You must submit your Team information by 11:00 am Day 1, including a designated Team Captain.
+Teams are free to work through the night.
+
+Think about the following skills:
+Data Science
+Development
+Data Analyst
+Data Visualisations 
+Project Management
+Project Controls
+THE DEVELOPMENT PROCESS
+REQUIREMENTS GATHERING
+PLANNING TOOL
+Use Miro to perform your Product Discovery
+We have provided you with access to a Miro board to help you decompose your problem.
+Teams can find their board linked in the Microsoft Teams Rooms(I.e. Team 1A, Team 1B….etc)
+
+This not only makes it easier to work together and design your solution, it also allows us to understand and learn from your achievements. 
+
+The Judges will also consider this when reviewing your results
+PLANNING TOOL
+PRODUCT DISCOVERY
+Customer Need
+Product Vision
+Customer Persona
+Value
+Creating Features
+CUSTOMER NEED
+PRODUCT VISION
+What will your solution look like? What will it be called?
+What would a solution need to be able to do in order to fulfil the core need?
+A good way to do this is to create an Elevator Pitch for your idea.
+Envision what comes next, what would your solution look like if you had a week to make it, what would it look like if you had a month, a year?
+Make sure you include your Vision in your final presentation.
+
+
+USER PERSONA
+Use the User Persona to inform you on the types of users you have.
+
+Think about the different users:
+Background & demographic
+Personal goals
+Personal challenges
+Product fit
+
+VALUE
+What value will your solution bring?
+Will it save time?
+Will it improve quality?
+Will it change work culture?
+Is it worth investing in?
+What does the effort vs value look like?
+CREATING FEATURES
+Design a solution on a feature by feature basis. What does your product specifically need to do? 
+How does a feature fulfil a customer need?
+How does each feature drive the product vision?
+Which user needs which feature and why? 
+How does each feature bring value?
+
+
+PRIORITIES
+Make sure you include your Product Discovery in your final presentation. 
+This will allow you to show the Judges why your solution is so great!
+What is possible 
+in two days?
+What features are 
+the most important?
+What is your 
+Minimum Viable Product 
+(MVP)?
+MODULARITY
+Project:Hack is all about creating open-source benefits for the community. 
+
+As such, solutions designed to be reusable and interoperable with other industry tools are greatly valued by the Judges.

@@ -1,0 +1,13 @@
+Local LLM
+
+1a mane 2025 Uhh
+
+Install Ollama
+Clase Ollama and processes
+
+Create VS Code folder and virtual environment
+Pip install ollama
+
+llama run deapseekert:8h
+
+Write something to test the model if successful

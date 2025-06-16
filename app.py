@@ -3,6 +3,7 @@ import os
 from fileprocessing import extract_text_from_directory
 from RAG import load_or_create_vector_store, rag_pipeline
 from PIL import Image  # For loading the header image
+from pathlib import Path
 
 # Initialize session state
 if "reset" not in st.session_state:
@@ -35,10 +36,24 @@ if st.button("Reset"):
     st.rerun()  # Refresh the app to reflect cleared inputs
 
 # Input for directory
-directory = st.text_input(
-    "Enter the reference folder path:",
-    value=st.session_state.get("directory", "INPUT/")
+raw_path = st.text_input(
+    "Enter or paste folder path:",
+    value=st.session_state.get("directory", "INPUT/"),
+    key="raw_path"
 )
+# Sanitize the input path
+sanitized_path = None
+try:
+    sanitized_path = str(Path(raw_path).resolve())  # Normalize \ to / and validate
+    # Ensure trailing slash
+    if not sanitized_path.endswith(os.sep):
+        sanitized_path += os.sep
+    st.session_state.directory = sanitized_path
+    st.write(f"Sanitised path: {sanitized_path}")
+except (ValueError, OSError):
+    st.error("Invalid folder path. Please enter a valid directory.")
+    st.session_state.directory = "INPUT/"  # Fallback to default
+directory = st.session_state.directory
 text_directory = "text_processing"
 vector_subdirectory = "vector_store"
 

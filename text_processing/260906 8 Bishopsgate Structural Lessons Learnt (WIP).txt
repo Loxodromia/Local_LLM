@@ -1,0 +1,1033 @@
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+6-8 Bishopsgate / 150 Leadenhall Street —
+Structural ‘Lessons Learned / Observations’
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Leared’
+
+Contents
+
+1.0 Interpretation.
+2.0 Structural Steelwork
+
+2.1 People / Managemen
+
+2.2 Edge Protection (CellShield) oo... cesses nesses ceseesaesaeseesnesaeen sen seeennenes tee tesaeseesneae 4
+
+2.3 Safety Fans
+
+2.4 MEWP Track Checking / Sign-Off (Temporary Load Out of Steel / Decking)................. 7
+3.0 Substructure, Cores & Superstructure Concrete... ccceescecseeeeeseeeereeeeeeeeeeeees 18
+4.0 H1500 Tower Cranes... eee cesses cscs sessnsenessesnecsnesnscessssseseneessessneansessnesniesinesaceennesnecsiees 34
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+1.0 Interpretation
+- “Project” meaning 6-8 Bishopsgate / 150 Leadenhall Street.
+
+-  “Keltbray Structures” meaning Keltbray Structures Limited who were responsible for undertaking
+works associated with A2600.
+
+- “William Hare” meaning William Hare Limited who were responsible for undertaking works
+associated with A2400.
+
+-  “Wolffkran” meaning Wolffkran Limited who were responsible for undertaking works associated with
+H1500.
+
+- “Arup” meaning Ove Arup & Partners Limited who were the Structural Engineer on the Project.
+-  “Alinea” meaning Alinea Consulting LLP who were the Cost Consultant on the Project.
+- “Scope of Work” refers to the document attached as part of Appendix 1.
+
+- “Normal Working Hours” refers to 08:00-13:00 Monday to Friday and 08:00-13:00 Saturday.
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+2.0 Structural Steelwork
+2.1 People / Management
+
+Following the Critical Incident in January 2021, William Hare terminated the sub-contract for the
+company responsible for their steel erection on the Site. As consequence, William Hare decided to then
+employ labour directly and manage the erection themselves with their own supervision. This resulted in
+the ‘erection’ labour was being paid on ‘price’. William Hare’s own supervision faced significant
+problems with managing the erection themselves, and the fact labour was being paid on ‘price’ also
+influenced the safety-culture. Prior to this, William Hare's own management which was directly
+employed were effectively back-to-back with their sub-contractor.
+
+2.2 Edge Protection {CellShield)
+
+The Scope of Work required William Hare to provide 1800mm of edge protection to the perimeter of the
+structure and around unprotected openings. William Hare's system consisted of two panels, comprising
+one 1200mm panel, and another 600mm panel. There was an option for William Hare to reduce this to
+1200mm once the Tower Facade Trade Contractor commenced.
+
+The consensus by the Project was that William Hare's proposals for 1800mm panels were not “user-
+friendly” and were not designed to be specific to the Site. This was because by removing one risk,
+additional risks were being added by doing so.
+
+Firstly, this system does not consider the tolerances of the concrete structure.
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+It was also found that William Hare had not considered the gaps that would exist beneath the panels.
+This should not have been an afterthought but should have been an integral part of said panels. William
+Hare had to make subsequent amendments to the design using ArmaFlex (foam) to seal these gaps.
+
+Additionally, there were concerns over whether the handrail pots themselves were sufficient to
+withstand the movement of the 1800mm panels.
+
+William Hare's system is based on ease and simplicity whereby the posts are simply positioned within
+the handrail pots without any mechanical locking system. It was found that during slinging operations,
+there was risk that the handrails could be dislodged when caught. It should be noted that other systems
+such as K-Guard, are locked into position.
+
+An exercise was completed by Paul Martyn that outlines the advantages and disadvantages of William
+Hare's system, versus other systems available on the market.
+
+2.3 Safety Fans
+
+During November 2021, the Project experienced adverse weather. Specifically, there were high winds
+which resulted in damaged Vertemax fans. On further review, the Construction Manager discovered
+that the fans did not have a suitable base design, incorrect bolts were installed on a significant number
+of arms (one bolt had no nut which we can only assume fell into either the Pit Lane or Bishopsgate) and
+there was not a designed restraint mechanism for the top of the fans. It took well into December 2021
+before the design and practical issues around the fans were fully resolved.
+
+The design of the Verternax fans is based on a simply supported system. Where the fan rests on the
+upper metal deck and relies on the “eg” pushing against the beam underneath to provide support, when
+the fans are deployed / erected. However, this design was only suitable for wind speeds up to 30mph,
+which was stated on William Hare's own documentation. The Project was experiencing wind speeds
+significantly more than 30mph which highlighted issues with the design. Additionally, William Hare had
+no strategy and/or methodology to overcome this. To overcome this, William Hare and Lendlease co-
+ordinated, to design a system whereby the fans could be fixed onto a bracket at deck level, to ensure
+that they remained in position during high winds, with the top of the fans tied back to the studs.
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Construction to manufactuers manuals??
+Below should be related to fans...
+
+Due to the nature and sequencing of the works, William Hare were obligated to both supply and fit the
+safety fans. The edge protection should be flush with the ‘Comffor metal decking, to ensure that there
+were no gaps present under the edge protection, however, when Keltbray Structures accessed the
+unconcreted floor to fix reinforcement and then pour concrete, these works could not be completed until
+the edge protection was raised. There were various claims received from Keltbray Structures associated
+with the non-productivity of their steel-fixing resource when William Hare had failed to raise their fans
+to required levels. This exposure should have been managed within the Scope of Work for both Keltbray
+Structures and William Hare. For example, an addition to Keltbray Structures’ Scope of Work may be,
+“... the Trade Contractor shall also be responsible for co-ordinating and completing amendments to the
+edge protection to ensure the continuity of their Works”.
+
+Note that Keltbray need to install their nappies.
+Steel frame needs to be four floors ahread of where we are pouring (based on maxi fan system).
+
+Standard v Maxi Fans = What are the pros and cons (lock at EDR’s).
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Standard 3m from edge of protection / maxi fans are 4.2m
+Standard allows you to do 2 floor jump.
+Maxi allows you to do 4
+
+EDR's Say 3 floors
+
+For each of the brackets on the floors for hare’s, there were 8 loose slements that had to be installed
+(what drawings??}
+
+Strip netting???? What detail was this for edge of building???
+
+2.4 MEWP Track Checking / Sign-Off (Temporary Load Out of Steel / Decking)
+
+This evolved throughout the Project as consequence of the Critical Incident in January 2021. There was
+no thorough “Shake-Out” plan prior to the Critical Incident. This plan empowered William Hare's
+operatives to properly consider the works ahead of erection.
+
+The Critical Incident in January 2021 resulted in an overhaul of William Hare’s temporary works design
+and series of “standard” layouts (which covered several levels) and zones showed how loading
+occurred. This also resulted in William Hare using the “Deck Ryder” system for spreading the loads on
+the metal decking.
+
+What was the shake out plan??? Load out plan?? Examples??
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+West Elevation / Public Interface
+
+1} The Western elevation of the structure cantilevered across Bishopsgate and therefore the public.
+To adhere to the Work at Height Regulations 2005, to complete works to this elevation, particularly
+to the North-West corner, William Hare was required to prevent materials and/or objects from falling
+firstly, before any further measures are undertaken to prevent any falling material and/or objects
+striking any person. This meant that both primary and secondary means of protection were required.
+
+At tender stage, William Hare had committed at the start of the Project to develop and use bolt and
+nut tethers as primary means of protection, an engineered control. This was unsuccessful,
+rendering the fans as the primary means of protection —- no other engineering control has been
+proposed. As stated, as part of the ‘Safety Fans’ section, the fans had been incorrectly deployed
+on numerous occasions and therefore could not alone be relied on upon to provide suitable
+protection to the public during Normal Working Hours.
+
+The secondary means of protection was the exclusion zone {crash deck) setup directly below the
+Western elevation on Bishopsgate.
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Exclusion Zones
+
+1} The exclusion zones need to be considered, with respect to 8bg being a highrise job...
+
+- Do EDR's cover this???
+
+Deckers found to be working directly below steel erection...
+
+Lifting
+Controlling lifting zones...
+Temporary works, loading out plans???
+
+Repetition is easy, but due to differing nature of phases, William hare didn’t keep p with - each section
+had different layouts and needed to be managed differently.
+
+Prior to incident Originally, whl would bring materials, they would balance them on beams / junctions of
+beams — i.e. sitting across beams. They neeed temp works for this.
+
+Same applies to steel.
+
+Go to drops prevention in steelwork folders and look at means and methods!!!
+
+Deliveries
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+1) William Hare’s proposal post-contract was to load up to 25te of steel onto HGVs, but the edge
+protection to the perimeter of the HGVs flatbed was not sufficient. Notwithstanding this, the Site did
+
+not have the space for William Hare to load-out and laydown material thereafter.
+
+The below photograph of offloading operations at 1 Leadenhall Street (Brookfield Multiplex) shows.
+how William Hare had intended to offload material from the outset of the Project.
+
+- Steel could become destabilised and ‘toppie’ over the side of the HGV due to the loading of the
+steel being stacked higher than the steel king posts.
+
+- There are no handrails to prevent the operatives from falling.
+
+- It also seemed that William Hare relied too heavily on Tekla to calculate their deliveries and did
+not take account of the Site’s constraints, logistically. As noted, there was nowhere on the Site
+to store 25te of material.
+
+10
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+2) The Project's Pit Lane, also on Bishopsgate, was logistically constrained. The Contract Documents
+and specifically the Logistics Plans showed this constraint.
+
+Nylon banding v steel banding on decking — due strength / sharp edges
+Nylon was stronger in tension, but did not deter sharp edges???
+
+William ahre believed it was stronger. Tata steel!!
+
+Comflor Metal Decking
+
+1} The Comflor metal decking had to be slung using chains, but this could not be done outside of
+Normal Working Hours (i.e., 08:00-18:00) due to City of London’s restrictions on noise. Were the
+Comflor metal decking to arrive pre-slung, then this could have been loaded onto the required floor
+straight away (avoids removing chains outside of Normal Working Hours).
+
+2) After they were no longer required, the temporary beams that were required to support the Comflor
+metal decking caused problems, as were left “stuck” on floors, even after the floor structure had
+been concreted. This needs to be considered as part of the Programme also. This prevents MEP
+Trade Contractors from visiting areas on occasion.
+
+3) William Hare used propping {when safe to do so) to prop the composite decking. This caused
+interruption to MEP Trade Contractors, when the propping was not removed timely.
+
+4) Load-out of metal decking being loaded out incorrectly onto beams.
+
+[See Oxford House Lesson Learned and Critical Incident at Triton Street]
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Materials
+
+1} The Project's hoists could only serve concreted floors. This restricted the load-out of materials
+earlier, thus preventing the early build of shaft-related works by Keltbray Structures for example,
+who were responsible for constructing Working Decks and Protection Decks. Opportunities should
+be explored as to whether the Project’s hoists could be amended to serve unconcreted floors, i.e.,
+Only those with only the Comflor metal decking.
+
+Kone used metal
+
+Does this add risk into programme??
+
+Kone had those grated flooring systems???
+
+2) With respect to the Programme, Trade Contractor's programmes should be queried as to whether
+there is enough time to load away materials for removal from the Site.
+
+3) William Hare also continually failed to achieve their piece-count.
+
+PIECE COUNT???? DATA (SEE DATA AFTER INCIDENT).
+
+Painting
+
+1) William Hare were not permitted to complete painting to steel members outside of the perimeter
+netting. This resulted in return visits.
+
+PAINTING OUTSIDE OF NETTING = RETURN VISITS???
+If job necesstitates, because you cannot put no person zone in.
+
+Or William ahre can come up with painting before concrete is done {when they have fan).
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Fire / Intumescent Paint
+
+1} The issue of placing attachments onto and through structural steelwork protected with an
+intumescent coating was raised on the Project. There was concern that when areas of the
+intumescent coating are unable to expand and perform their function in a fire, that a conduction
+path for heat transfer would be created which could lead to the primary structural steel member
+becoming hot in localised points and therefore damaging the integrity/stability of the steel member.
+The subsequent outcome of this was to achieve what is known as a “coaf-back”. This purpose of
+this coat-back is to prevent heat transfer to the primary steel.
+
+2.2.Larger Attachments — 30-90 Minutes Protection
+NOT USED, ALL. ATTACHMENTS TREATED AS INDICATED IN SECTION 2.3
+
+2.3.Larger Attachments - +20 Minutes Protection
+
+At protection periods of 120 minutes or longer the FIRETEX applied to the attachment
+should extend for a minimum of 200mm (‘coatback”) from the point of connection. A fin
+plate, toe plate or similar which is not connecting an item that requires fire protection should
+be protected with FIRETEX for a minimum of 200mm from the point of connection to the
+primary structural element.
+
+Please Refer to Extraordinary Use of FIRETEX Intumescent TAD for illustration of above
+scenarios
+
+* Macropoxy 400 has been rebranded from Macropoxy C400V3
+
+William Hare's ‘Behaviour of Intumescent Steelwork’ (260906-WHL-XX-XX-TS-X-0001) document
+explained, from Sherwin Williarn’s (FIRETEX) perspective, how the treatment of attachments to
+primary steel should be designed.
+
+The below illustration from the ‘Behaviour of intumescent Steelwork’ (260906-WHL-XX-XX-TS-X-
+0001) document provides examples of how secondary attachment could be treated.
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+a SIRETEX Protected 6
+Steetwark
+
+Bracket or
+FIRETEX Z6er
+FIRETEK
+
+FIRETEX Protected FIRETEX Protected
+
+Steelwork
+
+FIRETEX
+
+Stestwark
+
+4 ‘on-Fire Protected
+
+2) Item 1, above, generally applies to fagade-related bracketry, however, there may be other Trade
+Contractors whose own works interface with the primary steel and therefore require coat-backs
+where they are connecting onto the permanent steel structure. For example, there were brackets
+that supported the glass bridge in the reception area that required coat-backs. This has been shown
+on the screenshot of the model below, circled.
+
+Where these coat-backs are required, William Hare, or similar, should remain responsible for the
+co-ordination and application of these coat-backs to ensure that intumescent to the permanent steel
+structure can be warranted by William Hare, and then Sherwin Williams. Where design is being
+developed, following the execution of the Steelwork Trade Contract, then Orders Not Placed should
+be allowed for, to cover where William Hare are required to provide additional protection extra over
+from their Contract Documents.
+
+3) Check that the specification correctly calls for corrosion protection (galvanising) in external areas.
+This may be required to areas with high condensation or dampness, such as plant areas.
+
+Regarding corrosivity, the Project should ensure that correct paint is specified for areas working in
+€3 to C5 corrosion environments. The below extract from the Structural Steelwork Specification
+(260906-ARP-XX-ZZ-SP-S-0006) was amended post execution of the Trade Contract to confirm
+that plant space at Level 49 and Level 50 were considered external steelwork.
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+{¥) The cladding support frame along the North and East of the pavilion roof
+structure and level 49 and 30 plant space (columas and beams) is the oaly
+
+external sicelwork. Typieally, these members will aot be insulated or clad
+
+2000s ARP 20-22: 56--006 [0912 Rover 20:3 Page 3
+NEC Prom Lnsie & Somes PLC eae
+
+and will be subject to thennal variations and an external C3 to CS
+evrrosion environment, The required paint spevification for these items is
+E-1. No other pari of the structure is external and where the steelwork is
+present outside the building envelope bur will be insulated to perform as it
+would internally.
+
+(vi)
+
+No part of the structure may be manufactured to Execution Class 1.
+
+To provide context, BS EN ISO 12944-2 provides categories for corrosivity environments, below
+
+(from https://www.steelconstruction.info/Standard_ corrosion protection systems for buildings).
+
+Aumospherie carrasivity eategaries and examplas of typleal environments (BS HN ISO 12944.2!1h
+Corosivity _Low-carbon otee! ‘Exempies of lypical environments {informative only)
+eetegory —Thleknese loos (umi> Exterior Interior
+1 sa Heated buildings with elean atmospheres. e.g
+verylow offices shops, schools, hotels
+ce 2131025 Atmospheres wh low level of pollution mostly _Unheated buldings where condensation can
+tow rua areas occur. 8g. depots. sports halls
+co > 287050 Unban and industtal aimespheres, mederate _Pradustion rooms with hah humidity and same
+meciun sulbtur elon peluian coaslal area with iow air pollution, €9, foodaprocessing plants
+sabmty vaunaves, breweries. dalies
+oe > 891980 ‘ndustial aleas.and coasla areas with mederate Chemical plas. swimming pool, coastal ship
+high salinity and boalyares
+cs > 8940200 indystral areas wit nigh numiaty and Bunge or areas wth abrost permanent
+very bight aygceseive atmosphere and coastal areas wilh candensatior and Nigh polluter
+righ catty
+ox > 20010 700 COfsnare areas win nign sainay anc mdusieal —Ingustnal areas vamn extreme RUmIay Ana
+exieme reac wilh exterre Numi and aggressive agressive almasphave
+almasphe‘e ane sulntopical and woplcal
+atmospheres
+
+4) Attender stage, tenderers should be queried on what has been allowed for with regard intumescent
+paint. For example, has the tenderer priced for the painting of the top flange? Tenderers may use
+this as opportunity to value engineer post-execution of the Trade Contract, as the top flange is not
+exposed where the metal decking sits on this area of the steel member. This query should however
+be checked with the Structural Engineer beforehand (as part of the tender process).
+5)
+
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+The behaviour of other building components also came into question regarding their interface with
+the structure and specifically the steel. William Hare
+
+Steel to Concrete Connections
+
+1)
+
+2)
+
+William Hare was asked to model steel-to-concrete connections pre-execution of the Trade
+Contract. This enabled the Structural Engineer to identify clashes and update their design
+accordingly. This proved to be highly beneficial and cost effective. It is perhaps something that
+could be delivered as part of PCSAs.
+
+Grouting of steel members was bought directly from William Hare (who sub-contracted this to
+Keltbray Structures). This was based on a ‘Lesson Learned’ from Google whereby
+
+Pricing Schedule
+
+1)
+
+2)
+
+The addition of the 'Average Steel Rate’ to the Trade Contract proved beneficial when valuing
+variations post-contract.
+
+‘Measured Works - Average Steel Rate
+
+[Average Stee! Rate
+Material Cost z rma. 27-18%
+Engineering 7 £710.01 2.07%
+Fabrication t B07 08 31.01%
+Transport t £12.77 2.50%
+Erection t £286.03 10.95%
+
+£2.603.00 300.0%
+
+Additional wording should be added to the Schedule of Rates to the
+
+William Hare submitted Daywork rates which were significantly high at tender stage, and these
+were not inserted into the Trade Contract's Schedule of Rates for obvious reasons. Greater
+emphasis should be placed on securing fair and reasonable Daywork rates with Trade Contractors
+
+16
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+such as William Hare at tender stage. The rates that William Hare were charging post-contract were
+extortionate and were difficult to negotiate due to rates being agreed on another Project — these
+were also too high.
+
+Post execution of the Trade Contract, benchmark rates of circa £69.69/hour were obtained from
+previous projects such as Oxford House and Triton Street. However, even these rates were too
+high - greater emphasis should be placed on securing reasonable rates at tender stage and adding
+them to the Schedule of Rates.
+
+Procurement
+
+1} Alinea were not aligned with Arup when producing the Cost Plan. Need to understand whether
+castellations are accounted for in Arup's tonnage estimate before finalising Cost Plan.
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+3.0 Substructure, Cores & Superstructure Concrete
+
+People / Management
+
+1} Keltbray Structures’ safety culture was concerning. Even greater focus and emphasis should be
+placed on their ‘People’ at forthcoming tender stages.
+
+Shafts
+
+1) Following various examples of poor safety performance by Keltbray Structures directly employed
+scaffolding resource, there should be greater focus on the supply chain employing competent
+labour for works that are considered high-risk. This should be queries at tender stage.
+
+Exclusion Zones
+
+1) Exclusion zones were required for stee/concrete frame, which meant that TC1a was put out-of-
+service. This was not considered at tender stage.
+
+18
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+2) The top deck of the composite decking was also a ‘No Person Zone’.
+
+Leading Edges
+
+Gullies
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Uulzcze .
+
+Une GZATING.
+ss bsponity CenERTION
+
+To GULL,
+weneta S Tee.
+
+WF
+DAs
+TTHENS
+Bsns
+a ~ ‘DHUTTER, -
+SOSH
+sem Lacese
+
+P
+ETL Fo, Post Fix GULLY  [bbucen ee]
+
+Lifting
+
+1) Keltbray Structures’ supplier for reinforcement, F Brazil Reinforcement Limited, were not bundling
+reinforcement correctly. They were mixing different lengths, configurations, and sizes of
+reinforcement bar. These unsafe practices ultimately resulted in the Critical Incident that occurred
+in November 2020, whereby...
+
+20
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Temporary Core Stability
+
+1} Fortunately, the behaviour of the core during the construction phase was well understood by the
+Project.
+
+Formwork Hoists (Temporary Works)
+
+1} Keltbray Structures’ own formwork hoists were situated within various shafts. There were two hoists
+situated within PA & FF and HR of the North Core, and one hoist situated in SL 02 of the South
+Core. Once the North Core’s structure had progressed far enough, Keltbray Structures had planned
+to re-construct “flying” hoist bases / platforms at intermediate levels of the North Core. This was to
+ensure that their operatives could get access to the rig. Note that the Project's Metal Stairs also
+
+provided secondary means of access.
+
+21
+2)
+
+3)
+
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Keltbray Structures subsequently submitted RAMS to reflect their proposal for the “fying” hoist base
+f platform.
+
+The Designer's Risk Assessment stated that other Trade Contractor's Works could not continue
+below this platform / base. This also contradicted 3.23 of the Scope of Works which stated that“...
+No access to the lift shafts will be permitted after handover’.
+
+In addition, the removal of these formwork hoists from the shafts caused delays to other Trade
+Contractor's Works, namely, the Lifts Trade Contractor, who could not commence their Works until
+these temporary formwork hoists were removed from the shafts.
+
+When in operation, Keltbray Structures’ formwork hoist had insufficient lighting. Keltbray Structures
+claimed that this was a “safety feature”. Lendlease’s framework agreements should be back-to-
+back with the supply chain and whatever sub-contractors and/or suppliers, the supply chain propose
+for use on any construction site being operated by Lendlease.
+
+Three Lift Shafts were always planned to be used for beneficial builder's use; however, as noted,
+Keltbray Structures positioned their ‘formwork’ hoists into two Lift Shafts and TC1a was positioned
+in SL 01. This added risk into the Programme, particularly from the perspective of Lift Trade
+Contractor, Kone Plc.
+
+Rig Activities
+
+1) The Programme should have separated the normal vertical and horizontal construction of the North
+
+Core and South Core (e.g., Separating Lobby Slabs from North Core) respectively, from the period
+required by Keltbray Structures to remove the rig. This activity caused significant disruption to other
+Trade Contractor's on the Project due to the exclusion zones required and the fact that Keltbray
+Structures required William Hare's craneage allocation between 08:00-18:00.
+
+22
+2)
+
+3)
+
+4)
+
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Bcd Re ed Occ ed dG Wd 2D ed Ge cd
+
+TF Net Core Consaveton tine Rig Setup § Rdroval |
+
+When the rig was being jumped between cycles, this required exclusion zones to be setup around
+the Site. This prevented William Hare from working within specific areas. This also meant William
+Hare could not carry out their steel erection within these zones on occasion. William Hare used this
+as opportunity to make claims associated with “disruption” to their Works.
+
+Whilst the Trade Contract was clear on the requirement for Trade Contractor's to ensure continuity
+of their Works where re-sequencing is required. This prevented William Hare from using TC1a for
+1-3h once per week. This “disruption” needs to be considered at tender stage.
+
+In addition, wording should be added to Keltbray Structures’ Scope of Work to the effect...
+
+The Scope of Work should have added an obligation on the Trade Contractor to maintain materials
+such as reinforcement and formwork on the rig to ensure continuity Works can continue for period
+of 48h in the event of adverse weather preventing the lifting of reinforcement to the rig. However,
+the Scope of Work should be clear so as not to contradict Lendlease’s own procedures regarding
+Just-In-Time deliveries. In addition, the Trade Contractor must also ensure that they do not overload
+the rig beyond the allowances in their temporary works design.
+
+The loading plan for the rig limited the weight of reinforcement (or material, generally) that could be.
+loaded — specifically, only 28te could be loaded onto the rig, when some floor levels required c.
+5Ote of reinforcement.
+
+Due to changes in geometry of the core walls, adaptions were required at various stages of during
+construction of the South Core and from Level 47 upwards of the North Core. These adaptions
+meant removing and adapting formwork at height, thus adding additional risk. In addition, the
+adaptions add ‘time’ onto the Programme. This needs greater consideration at tender stage, as
+neither Keltbray Structures or the Programme.
+
+Reinforcement
+
+23
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+1} Keltbray Structures raised a Technical Submittal prior to commencing on the Site, proposing the
+use of Dextra Rolltec couplers in lieu of the lapping of reinforcement. These couplers however only
+have technical approval by CARES for static applications in tension only, but no approval for
+compression applications. The Technical Submittal was subsequently recommended Status C.
+
+Fortunately, the ‘Concrete Specification’ was clear on requirements for couplers to work in both
+tension and compression. It was also clear on the requirement for relevant technical approval by
+CARES. For tension-compression applications, the coupler should be CARES approved for both
+tension and compression. Additionally, the Concrete Specification also stated that reinforcement
+detailing should be carried out to BS EN 1992 (Eurocode EC2) and highlights that this may be
+different to previous British Standards.
+
+2) At tender stage,
+
+3) Following a Critical Incident in Novernber 2020,
+
+[Insert File Note on lifting procedures and drawing showing Belgrano]
+
+Lift Shafts
+
+1) The document that outlined the scope associated with the Working Decks and Protection Decks
+should have had a caveat relating to building the shaft at the highest level possible, based on the
+progress of the structure.
+
+Waterproofing
+
+1} Ground Floor slab should have been designed to be waterproof, with for example water-bars to
+create a watertight seal. Alternatively, the Scope of Work should be very clear on the Trade
+Contractor's {e.g., Keltbray Structures) responsibility to ensure that basement areas are maintained
+as watertight following casting of the Ground Floor slab.
+
+An example addition to the Scope of Work could be, “... The Trade Contractor shall also ensure that
+the basement shail remain watertight up to Practical Completion of the Project’.
+
+24
+2)
+
+3)
+
+4)
+
+5)
+
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+There were numerous issues associated with the temporary waterproofing of the Ground Floor slab.
+Although the temporary waterproofing of this area was bought from Keltbray Structures, this was
+only bought to the extent that was shown on the Contract Documents, therefore, where additional
+builder's work was requested, these were considered variations. As such, rates should be added
+to the Schedule of Rates to cater for this.
+
+Where there are temporary openings through concrete slabs and there are subsequent construction
+joints, the Scope of Work should be clear on the requirement for the Trade Contractor to waterproof
+said construction joints.
+
+The Contract Documents and the design intent within need to be clear on where the waterproofing
+
+membrane (ie., Preprufe was specified on the Project) terminates vertically. This applies
+specifically where there are multiple interfacing Trade Contractors.
+
+The Scope of Work should have been clearer regarding who was responsible for the provision of
+puddle flanges, or similar, to the secant wall, or other vertical areas of the basement.
+
+The Scope of Work should have been clearer on the party responsible for casting sleeves into the
+secant wall for services, along with the requirement for waterproofing for said sleeves.
+
+25
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+6) Kone’s JumpLift required weather protection to protect activities taking place below from water
+ingress. Keltbray Structures Limited failed to properly weatherproof the Working / Protection Decks.
+
+In Lift Shafts with the JumpLift, only the Crash / Weather Deck would be required as the JumpLift
+system provides the Working Deck.
+
+1. Deflection Deck {provided by Construction Manager via Keltbray Structures). It should be noted
+that Kone recommend in their JumpLift ‘instalation instruction’ that the Deflection Deck is
+attached to the core form.
+
+2. Waterproof Crash Deck (provided by Construction Manager via Keltbray Structures)
+3. Crash Deck (provided by Construction Manager via Keltbray Structures)
+4. Installation ‘Time’ Platform (provided by Kone)
+&. Cathead Hoisting Beam (provided by Kone)
+6. Cathead (provided by Kone)
+7. Car {provided by Kone)
+fA
+2
+—3
+I 4
+a
+-
+Ha °
+_-§|
+if 7
+L—
+
+26
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Liner Walls
+
+1)
+
+In October 2020, Keltbray Structures poured concrete into the Site's lateral sewer (which exits into
+Bishopsgate). This came as consequence of Keltbray Structures engineer failing to check that the
+cap was solid enough - Keltbray Structures had used ‘duck’ tape to seal the opening. It should have
+been cast iron.
+
+Metal Stairs
+
+2)
+
+3)
+
+The conversation around damage and protection to Metal Stairs was frequently discussed.
+
+There should be greater emphasis, driven by milestones on the Programme and corresponding
+wording in the Scope of Work, to ensure that stairs are handed over timely. Where Trade
+Contractors are required to carry out repairs to their...
+
+PAD Contracts Limited (sub-contractor for Keltbray Structures) advised post-contract that paying
+an additional amount for applying and then maintaining protection to handrails and balustrades
+outweighs the cost of retrospectively repairing damage to balustrades. Tenderers should be asked
+to price this ‘below-the-line’ at tender stage; under the Trade Contract, this could be added as an
+‘Alternate’ in the Trade Contract. The cost associated with maintaining protection can be significant.
+This was bought successfully.
+
+13.2 Protection
+
+The Trade Contractor shall protect the Works to prevent damage to them as required by
+Appendix 2 and shall maintain such protection until Practical Completion of the Project or
+Practical Completion of any Section in which the part of the Works to be so protected is
+comprised. The Trade Contractor shall take all reasonable steps to prevent loss or damage
+to all work executed aor in the course of execution and any goods and materials on the Site.
+The Trade Contractor shall also protect occupiers of adjacent properties and the public from
+danger, discomfort, disturbance, trespass cr nusance caused by the Works.
+
+27
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+8. Protection of the Works (Clause 13.2):
+
+The Trade Contractor shail provide protection to the Werks as required prior to practical completion
+of the works.
+
+Specific requirements for protechon shai! be as follows:
+
+« = The Trade Contractor shall provide protection as required by the Contract Documents.
+
+« The Trade Contractor shall provide suitable protection of architecturally finished concrete
+finishes (Including protection from construction activites and weathering).
+
+« The Trade Contractor shall provide suitable protection to all completed work elements.
+including stairs, handrails, gullies and any other architecturally finished concrete surfaces.
+
+* The compatibility of the protection material with any other adjacent material shall be tested
+and guaranteed.
+
+« Stairs protected with anti-slip surfacing during construction phase
+
+4)
+
+The Scope of Work should have been clearer regarding the responsibility of who was to provide
+fixings for the handrail to the stairs.
+
+During the construction phase, Keltbray Structures argued that the “stem” bracket which
+allowed for the external balustrade to be fixed onto, did not form part of their Trade Contract.
+The Scope of Work was not entirely clear on this element of scoping.
+
+28
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+3.16 of the Scope of Work stated, *... Steel stairs inside cores shail include the flights, landings,
+and internal permanent handrails (factory) finished to base and first coats only. Final finishes
+and the associated external permanent handrail will be completed by following trades”.
+
+The Scope of Work’s wording could be amended to, “... Meta/ Stairs on the Project shail include
+the flights, landings, half-landings, and internal permanent handrails, and associated fixtures
+and fittings. The Metal Stairs should be (factory) finished to base and first coats only. Final
+finishes and the associated external permanent handrails fixed to concrete will be completed
+by follow-on trades.
+
+Where fixtures and fittings are welded and therefore form part of the structure of the Metal Stair,
+these should also be allowed for by the Trade Contractor”.
+
+There were two Wilkinson Eyre documents, namely, 260906-WEA-XX-XX-SP-A-Section L30 -
+‘Stairs Specification’ and 260906-WEA-XX-XX-SP-A-Section L32 - ‘Balustrades / Handrails’.
+
+The ‘Stairs Specification’ and specifically L30.1207(c) refers you to L32 of the specification for
+‘Balustrades / Handrails’.
+
+c) Integrated balustrades and handrails:
+i) Type BAL-114, balustrading to be welded fo stair treads (Refer to Section L32).
+
+il) Balustrading types to give visually seamless continuation/ appearance from top
+floor to basement level.
+
+Regarding L32.1215 of ‘Balustrades / Handrails’ states the below.
+
+32.1218 ‘Type BAL.305 Extemat Metal Balustrade
+
+External metal balustrade system, configured as indicated on the Design Drawings,
+compnsing:
+
+a) Balusters:
+
+1) Galvanised mild steel Rat rectangular balusters to sizes and profiles configured
+as indicated on the Design Drawings.
+
+Fy The balusters shall be welded ta mild stee! hase plates.
+
+b} 40mm diameter stainiess steel handtall bolt fixed to stainless steel circular section
+bracket, welded to batuster.
+
+Note that the “stain/ess steel circular section bracket’ (stem) is to be welded to the balustrade,
+as per ‘b' above. Therefore, the Project could argue that the intent had always been that this
+bracket has formed part of the structure of the balustrade.
+
+29
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+30
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Riser Protection
+
+Riser protection was bought from two Trade Contractors, namely, Keltbray Structures (Substructure,
+Cores & Superstructure Concrete and William Hare (Structural Steelwork). Keltbray Structures were
+responsible for the supply and fitting of RiserSafe to any opening, greater than 300x300mm, within the
+concrete structure, whilst William Hare were responsible for fitting free-issued RiserSafe to any opening
+that was supported on at least one side by metal decking.
+
+1) This generally applies to the Project,
+Had the
+Access platfom in Im01-Im3
+Current design
+MJL'scontract din't have creanega /
+Hare’s and Keltbray weren't using it
+46 nights = 10h — 460 hours of lifting - wasn't factored into MJL
+
+1 HOUR EQUATES TO 460 DAYS.
+
+William Hare and Keltbray Structures were allocated 90% of the craneage throughout the duration of
+the structure during Normal Working Hours, whilst Keltbray Structures Limited had 90% allocation to
+craneage during backshift hours of 18:00-23:00 Monday to Friday. This means Michael J Lonsdale’s
+Trade Contract had craneage allowance of 1h per day.
+
+https://youtu.be/H2ELBYrKbUA
+
+31
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Miscellaneous
+
+1)
+
+2)
+
+Wording should be added to the Scope of Work that protects the Project from claims associated
+with activities carried out by UK Power Networks (or similar) for example, that would mean the Site
+could be potentially closed during Normal Working Hours.
+
+The Trade Contract was not clear on the Construction Manager's entitlement to stop Trade
+Contractor's Works on safety grounds and/or safety stand-downs, such as those that following
+Critical Incidents. Trade Contractor's should not be able to claim ‘time’ associated with these events.
+This is an area that should be checked with Macfarlanes. Below is an example of wording that was
+added to the Sub-Contract at Deptford, Plot 4.
+
+32
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+"2.198 For the avoidance of doubt the following do not constitute a Variation or
+Relevant Sub-Contract Event and no extension of time or loss and
+expense will be given’
+
++ in respect of weather delays, including winding-off of craneage:
+
+2 im respect of logistical issues, lack of craneage, Site access. Site
+
+terface, design co-ordination and/or design development of
+
+|
+Hope 10: 8B692388-52FD-496S-82B1-CBC7BFESCOSE
+
+items to complete the Sub-Contract Works which are the
+responsibilty or fault of the Sub-Centractor, or
+
+3 In respect of any delays arising in connection with: (a) site-wide
+stand-downs for to health and safety reasons; or (b) ‘topping-out’
+ceremonies for the Project (or part of the Project) in respect of
+which the Contractor has given the Sub-Contractor reasonable
+advance notice, or
+
+4 where the Sub-Contractor has failed to comply with clause 2.34.”
+
+33
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+4.0 H1500 Tower Cranes
+
+Lendlease European Delivery Requirements / Global Minimum Requirements.
+
+1) Careful consideration must be given when placing an order to the Lendlease’s European Delivery
+Requirements, as they are not clear on requirements.
+
+2) Crane Supervisors were not bought as part of the Hire Contract. The European Delivery
+Requirements do not clearly stipulate the requirements for this role, as they only say this
+requirement is dependent on the degree of risk. These requirements also state that the “Appointed
+Person” can act as the “Crane Supervisor’.
+
+An Appointed Person was bought, along with supervision and resource downstream from Trade
+Contractors.
+
+Project Lifting Profile :
+Requi
+
+Profile 1 - projects with:
+
+1 lower crane and high risk
+
+BET ower crane + 1 or more mobile
+cranes nct including compact
+cranes’)
+
+1 Muluple tower cranes
+
+= Mote cranes only and high ask
+operations
+
+High risk includes:
+
+1 Lifting in close proximity 10 the
+public or railways
+
+= Complex iting operations ot
+Ming in tose proximity to other
+opetatians
+
+Once the craneage scheme had commenced on the Site, with more than one tower crane, the
+Project decided that two Crane Supervisors were required, in addition to the Appointed Person and
+the resource already bought downstream from Trade Contractors on the Project.
+
+3) JR Crane Services Limited were appointed on the Project to provide independent third-party
+attendance to oversee crane activities such as erections, dismantles and climbs. Currently, the
+business only has one person that can provide this attendance. This was not bought as part of the
+Hire Contract. This requirement is also not clear in Lendlease’s European Delivery Requirements.
+
+Other Lendlease projects within the business had previously set this up as a Simple Purchase
+
+Order. However, this does not provide appropriate insurance coverage, that is back-to-back with
+other Trade Contracts and/or Hire Contracts on the Project.
+
+34
+1)
+
+2)
+
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+Orders Not Placed
+
+Ensure that the requirement and quantity of ‘Independent Category 3 Design Checks’ are firstly
+understood and scheduled out at tender stage. These should be either allowed for as an Orders
+Not Placed, or bought with one of the other Trade Contractors, e.g., Keltbray Structures. The
+allowance of £50,000.00 was not enough for the number of these checks required on the Project.
+
+It should be noted that there are approved sub-consultants that the business considers to be
+acceptable. These sub-consultants are vetted by Lendlease’s Temporary Works Department.
+
+Most of these checks for the craneage scheme were bought with Keltbray Structures. It would be
+beneficial to add rates to the Trade Contract’s Schedule of Rates...
+
+An Orders Not Placed should be allowed for within Temporary Services for out of hours working
+where attendance is required for climbing of craneage. This was not bought, but this was required
+every weekend where the crane was climbing.
+
+Communication
+
+Communication between Crane Operators (from Wolffkran) and William Hare’s workforce was the
+
+potential cause of two Critical Incidents on the Project. Crane Operators could not understand William
+Hare's operatives’ accents, with many of them coming from Northern areas of the country. There were
+
+workshops held to better the communication between the two parties
+
+Culture??
+
+William Hare became poor in communication with Wolffkran.
+
+Certain crane drivres coulnd’t understand different slingers (because they were Northern).
+
+Communication not clear
+
+There was workshop on communication to better the communication
+
+35
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+We took hare’s sligners up the crane to understand what the crane drivers were ‘seeing’
+British standard says that you need to establish common means of communication!!!
+Transient workforce!!!
+
+There needs to be groundrules — they also talk to eachother day, but never see eachother.
+
+General Notes
+
+1} Scope of Work covers the time allowed for associated with the submittal of Method Statements,
+however, this should also add that “... fhe Construction Manager is allowed to revisit the contents
+of the Method Statement as and when required, to reflect the current state of progress on the Site”.
+
+2) The “Facilities” provided by the Construction Manager and specifically stated in Appendix 2 need
+to be clearer regarding the power and lighting requirements that are going to be provided to Trade
+Contractors. For example,
+
+3) Percentage for overheads and profit should be agreed at tender stage and added to the Schedule
+of Rates (where necessary). An appropriate rate of profit is often taken from a Trade Contractor's
+audited accounts for the previous three financial years, whilst the percentage for overheads can be
+arrived at
+
+36
+6-8 Bishopsgate / 150 Leadenhall Street — Structural ‘Lessons Learned’
+
+4) Trade Contractor's should be obligated to provide their yearly audited management accounts to
+Lendlease regularly.
+
+37
