@@ -24,9 +24,30 @@ def parse_llm_output_to_df(query, raw_output: str) -> pd.DataFrame:
     answer = raw_output.strip()
     
     # Extract confidence percentages (with or without brackets)
-    confidence_pattern = r"(?:\[Confidence: |Confidence: )(\d+)%\]"
-    confidence_matches = re.findall(confidence_pattern, raw_output)
-    highest_confidence = float(max([int(match) for match in confidence_matches])) if confidence_matches else np.nan
+    # Mapping for textual confidence levels
+    confidence_map = {
+        "High": 80,
+        "Medium": 50,
+        "Low": 10
+    }
+
+    # Regex pattern to match both percentage and text-based confidence
+    pattern = r"(?:\[?Confidence: ?)(\d+|High|Medium|Low)%?\]?"
+
+    # Find all matches
+    matches = re.findall(pattern, raw_output, flags=re.IGNORECASE)
+
+    # Convert matches to numeric values
+    confidence_values = []
+    for match in matches:
+        if match.isdigit():
+            confidence_values.append(float(match))
+        else:
+            confidence_values.append(confidence_map.get(match.lower(), np.nan))
+
+    # Get the highest confidence
+    highest_confidence = float(max(confidence_values)) if confidence_values else np.nan
+
     
     # Extract file names from [Source: <a href="...">filename</a>] tags
     source_pattern = r"\[Source: <a href=\"[^\"]+\"[^>]*>([^<]+)</a>\]"

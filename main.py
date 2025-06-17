@@ -114,22 +114,29 @@ prompts_df = read_xlsm_file(questions_file, sheet)
 prompts_list = prompts_df["Prompt"]
 number_of_prompts = len(prompts_list)
 print(f"Number of prompts found: {number_of_prompts}. Iterating...")
-
 all_dfs = []
 
-for prompt in prompts_list:
-    print(f"Processing prompt: {prompt}")
+for idx, prompt in enumerate(prompts_list):
+    print(f"Processing Prompt {idx + 1} of {number_of_prompts}: {prompt}")
     response = run_rag_pipeline(query=prompt, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
     
-    # Parse the response into a DataFrame and add a column for the prompt
+    # Parse the response into a DataFrame
     df = parse_llm_output_to_df(prompt, response)
-    df["Prompt"] = prompt  # Add prompt column for traceability
+
+    # Drop repeated "Prompt" column
+    if "Prompt" in df.columns:
+        df = df.drop(columns=["Prompt"])
+    
+    # Add all columns from prompts_df for this prompt
+    for col in prompts_df.columns:
+        df[col] = prompts_df.iloc[idx][col]
+    
     all_dfs.append(df)
 
-# Concatenate all DataFrames into one
+# Concatenate all DataFrames and export as a single CSV
 if all_dfs:
-    full_df = pd.concat(all_dfs, ignore_index=True)
-    full_df.to_csv(f"{directory}/{text_directory}/rag_responses_full.csv", index=False)
-    print(f"Full responses saved to {directory}/{text_directory}/rag_responses_full.csv")
-else:
-    print("No responses to save.")
+    combined_df = pd.concat(all_dfs, ignore_index=True)
+    # Drop repeated "Prompt" column if it exists
+    if "Prompt" in combined_df.columns:
+        combined_df = combined_df.drop(columns=["Prompt"])
+    combined_df.to_csv(f"{directory}/{text_directory}/rag_response_all.csv", index=False)
