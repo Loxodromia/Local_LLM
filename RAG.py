@@ -40,7 +40,11 @@ max_context_length = 3000  # Maximum length of context to pass to the LLM for ea
 
 # Prompt parameters
 temperature = 0.3  # Temperature for response generation (creativity)
-prompt_text = '''Provide a clear and concise response, quoting the exact text from the context as evidence and including the source references in the format [Source: filename].'''
+prompt_text = '''Provide a clear and concise response, quoting the exact text from the context as evidence, with the following structure for each prompt (3 bullet points starting with "-"):
+- Evidence explanation:... (summarise key points, can be multiple)
+- Evidence text:... (citing exactly from the source - can be multiple)
+- Confidence level that the evidence is adequate and sufficient, in the format "[Confidence: XX%]".
+- Source reference(s) with the exact format [Source: filename].'''
 max_tokens = 500  # Maximum tokens for the response generation (output length)
 
 # Prepare text in chunks
@@ -154,7 +158,7 @@ def generate_response(
     """Generate response using DeepSeek via Ollama with query and context."""
     # Create prompt with instructions
     if show_thinking:
-        thinking_prompt = """First, explain your reasoning step-by-step in a <think> section. Then, provide the answer as specified below."""
+        thinking_prompt = """First, explain your reasoning in a <think> section. Then, provide the answer as specified below."""
         full_prompt = f"""Context:
 {context}
 

@@ -26,7 +26,7 @@ directory = "INPUT/"  # Replace with your directory path
 text_directory = "text_processing"  # Subdirectory for .txt files
 vector_subdirectory = "vector_store"  # Subdirectory for vector store
 # OCR Mode: Choose if pdfs are processed from their text only (faster) or transfored to images and OCR (slower but includes images)
-ocr_mode = True  # Set to True if you want to use OCR for PDFs
+ocr_mode = False # Set to True if you want to use OCR for PDFs
 regenerate_vector_store = False  # Set to True to regenerate the vector database e.g. after adding new files
 
 # Note: additional prompt and RAG parameters in RAG.py
@@ -62,10 +62,10 @@ def RAG_base(directory, txt_folder=text_directory, vector_store_subfolder=vector
         return
 
 # Query function for RAG pipeline
-def run_rag_pipeline(query):
+def run_rag_pipeline(query, directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory):
     vector_store_path = f"{directory}/{text_directory}/{vector_subdirectory}"
     print(f"Querying: {query}")
-    response = rag_pipeline(query, vector_store_path, show_thinking=False)
+    response = rag_pipeline(query, directory=directory, text_directory=text_directory, vector_store_path=vector_store_path, show_thinking=False)
     print(f"RAG pipeline response:\n{response}\n")
 
 # ---------------------------------------------- #
@@ -79,4 +79,4 @@ if regenerate_vector_store:
 else:
     pass
 
-run_rag_pipeline(query = query)
+run_rag_pipeline(query = query, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
