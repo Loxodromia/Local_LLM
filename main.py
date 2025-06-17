@@ -74,7 +74,8 @@ def run_rag_pipeline(query, directory, text_directory=text_directory, vector_sub
     vector_store_path = f"{directory}/{text_directory}/{vector_subdirectory}"
     print(f"Querying: {query}")
     response = rag_pipeline(query, directory=directory, text_directory=text_directory, vector_store_path=vector_store_path, show_thinking=False)
-    print(f"RAG pipeline response:\n{response}\n")
+    # print(f"RAG pipeline response:\n{response}\n")
+    print("Response produced. Writing.")
     return response
 
 # ---------------------------------------------- #
@@ -111,10 +112,10 @@ else:
 # Retrieve prompts from the specified Excel file and sheet
 prompts_df = read_xlsm_file(questions_file, sheet)
 prompts_list = prompts_df["Prompt"]
-print(prompts_list)
+number_of_prompts = len(prompts_list)
+print(f"Number of prompts found: {number_of_prompts}. Iterating...")
 
-# Create an empty list to collect DataFrames
-df_list = []
+all_dfs = []
 
 for prompt in prompts_list:
     print(f"Processing prompt: {prompt}")
@@ -122,9 +123,13 @@ for prompt in prompts_list:
     
     # Parse the response into a DataFrame and add a column for the prompt
     df = parse_llm_output_to_df(prompt, response)
-    df["Prompt"] = prompt  # Optionally track which prompt generated each row
-    df_list.append(df)
+    df["Prompt"] = prompt  # Add prompt column for traceability
+    all_dfs.append(df)
 
 # Concatenate all DataFrames into one
-final_df = pd.concat(df_list, ignore_index=True)
-final_df.to_csv(f"{directory}/{text_directory}/rag_responses_all.csv", index=False)
+if all_dfs:
+    full_df = pd.concat(all_dfs, ignore_index=True)
+    full_df.to_csv(f"{directory}/{text_directory}/rag_responses_full.csv", index=False)
+    print(f"Full responses saved to {directory}/{text_directory}/rag_responses_full.csv")
+else:
+    print("No responses to save.")
