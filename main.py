@@ -17,7 +17,8 @@ from pathlib import Path
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import PromptTemplate
 from RAG import load_or_create_vector_store, rag_pipeline
-from structure_output import parse_llm_output_to_df
+from structure_output import parse_llm_output_to_df, read_xlsm_file
+import pandas as pd
 
 # ---------------------------------------------- #
 # ------------------- Inputs ------------------- #
@@ -33,6 +34,12 @@ regenerate_vector_store = False  # Set to True to regenerate the vector database
 # Note: additional prompt and RAG parameters in RAG.py
 
 query = '''Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?'''
+
+# Read queries from excel
+questions_file = r"INPUT/PEAT_reduced.xlsm"
+sheet = r"2.1 LOEs, Artefacts & Assurance"
+startrow = 7  # Excel row number to start reading (1-indexed, so 11 means row 10 in 0-indexed Python)
+
 
 # ---------------------------------------------- #
 # --------------- Main Functions --------------- #
@@ -82,19 +89,42 @@ else:
     pass
 
 # Save response as txt
-response = run_rag_pipeline(query = query, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
-print(response)
-# Save the run rag pipeline response to a .txt file
-output_file = f"{directory}/{text_directory}/rag_response.txt"
-def write_output(output_file, query, response):
-    with open(output_file, "w") as f:
-        f.write(f"Query: {query}\n")
-        f.write("RAG pipeline response:\n")
-        f.write(response)
+# response = run_rag_pipeline(query = query, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
+# print(response)
+# # Save the run rag pipeline response to a .txt file
+# output_file = f"{directory}/{text_directory}/rag_response.txt"
+# def write_output(output_file, query, response):
+#     with open(output_file, "w") as f:
+#         f.write(f"Query: {query}\n")
+#         f.write("RAG pipeline response:\n")
+#         f.write(response)
 
 # write_output(output_file, query, response)
-df = parse_llm_output_to_df(query, response)
-df.head()
-df.to_csv(f"{directory}/{text_directory}/rag_response.csv", index=False)
+# df = parse_llm_output_to_df(query, response)
+# df.head()
+# df.to_csv(f"{directory}/{text_directory}/rag_response.csv", index=False)
 
+# ---------------------------------------------- #
+# Read queries from excel
+# ----------------------------------- #
 
+# Retrieve prompts from the specified Excel file and sheet
+prompts_df = read_xlsm_file(questions_file, sheet)
+prompts_list = prompts_df["Prompt"]
+print(prompts_list)
+
+# Create an empty list to collect DataFrames
+df_list = []
+
+for prompt in prompts_list:
+    print(f"Processing prompt: {prompt}")
+    response = run_rag_pipeline(query=prompt, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
+    
+    # Parse the response into a DataFrame and add a column for the prompt
+    df = parse_llm_output_to_df(prompt, response)
+    df["Prompt"] = prompt  # Optionally track which prompt generated each row
+    df_list.append(df)
+
+# Concatenate all DataFrames into one
+final_df = pd.concat(df_list, ignore_index=True)
+final_df.to_csv(f"{directory}/{text_directory}/rag_responses_all.csv", index=False)
