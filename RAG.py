@@ -43,7 +43,7 @@ temperature = 0.3  # Temperature for response generation (creativity)
 prompt_text = '''Provide a clear and concise response, quoting the exact text from the context as evidence, with the following structure for each prompt (3 bullet points starting with "-"):
 - Evidence explanation:... (summarise key points, can be multiple)
 - Evidence text:... (citing exactly from the source - can be multiple)
-- Confidence level that the evidence is adequate and sufficient, in the format "[Confidence: XX%]".
+- Confidence level that the evidence is adequate and sufficient, in the format "[Confidence: XX%]" (0-100).
 - Source reference(s) with the exact format [Source: filename].'''
 max_tokens = 500  # Maximum tokens for the response generation (output length)
 

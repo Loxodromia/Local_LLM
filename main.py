@@ -17,6 +17,7 @@ from pathlib import Path
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import PromptTemplate
 from RAG import load_or_create_vector_store, rag_pipeline
+from structure_output import parse_llm_output_to_df
 
 # ---------------------------------------------- #
 # ------------------- Inputs ------------------- #
@@ -31,7 +32,7 @@ regenerate_vector_store = False  # Set to True to regenerate the vector database
 
 # Note: additional prompt and RAG parameters in RAG.py
 
-query = "Show evidence of lessons learned from Bishopsgate project."
+query = '''Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?'''
 
 # ---------------------------------------------- #
 # --------------- Main Functions --------------- #
@@ -67,6 +68,7 @@ def run_rag_pipeline(query, directory, text_directory=text_directory, vector_sub
     print(f"Querying: {query}")
     response = rag_pipeline(query, directory=directory, text_directory=text_directory, vector_store_path=vector_store_path, show_thinking=False)
     print(f"RAG pipeline response:\n{response}\n")
+    return response
 
 # ---------------------------------------------- #
 # --------------- Main Execution --------------- #
@@ -79,4 +81,20 @@ if regenerate_vector_store:
 else:
     pass
 
-run_rag_pipeline(query = query, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
+# Save response as txt
+response = run_rag_pipeline(query = query, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
+print(response)
+# Save the run rag pipeline response to a .txt file
+output_file = f"{directory}/{text_directory}/rag_response.txt"
+def write_output(output_file, query, response):
+    with open(output_file, "w") as f:
+        f.write(f"Query: {query}\n")
+        f.write("RAG pipeline response:\n")
+        f.write(response)
+
+# write_output(output_file, query, response)
+df = parse_llm_output_to_df(query, response)
+df.head()
+df.to_csv(f"{directory}/{text_directory}/rag_response.csv", index=False)
+
+
