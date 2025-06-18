@@ -1,13 +1,16 @@
-*This is VISION and though it was meant to destroy us all, it will end up saving us.*
+PROJECT HACK 25 - GROUP 1F "The Winning Team"
+18/06/2025
 
 Project to build a local instance of a ~multimodal~ GenAI.
 Model choice: ` deepseek-r1:8b `
+Embedding model choice: ` all-MiniLM-L6-v2 `
 
 # Structure
-* Files for RAG are placed in folder ` INPUT/ ` (excluded from git in .gitignore)
+* Files for RAG are placed in folder ` INPUT/ ` (excluded from git in .gitignore). The txt processing files will be created in a subfolder of the input directory, as well as the indexing.
 * ` fileprocessing.py ` contains the readers and processors to turn multiple file types into text, then save in a subfolder.
 * ` RAG.py ` contains the langchain functions to chunk and index these text files into a vector store for RAG.
 * ` tests.py ` contains past tests during development in raw form, for future creation of automated tests.
+* ` structure_output.py ` contains functions to parse the LLM response into structured fields (e.g. confidence %) and aggregate data for the csv output.
 
 
 # Install
