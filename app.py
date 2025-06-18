@@ -27,14 +27,15 @@ st.markdown(
     **Version**: v1, 2025-06-14  
     **Author**: Cristina Sanchez  
     **Description**: This application processes documents in a specified folder, converts them to text, creates a vector store, and queries a DeepSeek R1 8b model using a Retrieval-Augmented Generation (RAG) pipeline to provide relevant answers - all with a **local** setup, no cloud.
-    """,
+    **Files supported**: pdf, docx, xlsx, txt, csv, pptx, and images (png, jpg, jpeg) for now.
+     """,
     unsafe_allow_html=True
 )
 
 # Reset button
 if st.button("Reset"):
     st.session_state.directory = "INPUT/"
-    st.session_state.ocr_mode = True
+    st.session_state.ocr_mode = False
     st.session_state.query = query
     st.session_state.reset = True
     st.rerun()  # Refresh the app to reflect cleared inputs
@@ -71,6 +72,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 ocr_mode = st.checkbox("", value=st.session_state.get("ocr_mode", True), key="ocr_mode")
+
+st.write(f"File processing run only needed when files are added.")
 
 # Button to process files
 if st.button("Process Files"):

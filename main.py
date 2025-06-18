@@ -27,6 +27,7 @@ import logging
 # ---------------------------------------------- #
 
 directory = "INPUT/"  # Replace with your directory path
+output = "OUTPUT/"  # Replace with your output directory path
 text_directory = "text_processing"  # Subdirectory for .txt files
 vector_subdirectory = "vector_store"  # Subdirectory for vector store
 # OCR Mode: Choose if pdfs are processed from their text only (faster) or transfored to images and OCR (slower but includes images)
@@ -38,7 +39,7 @@ regenerate_vector_store = False  # Set to True to regenerate the vector database
 query = '''Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?'''
 
 # Read queries from excel
-questions_file = r"INPUT/PEAT_tool_v3.0 -O.xlsm"
+questions_file = r"INPUT/PEAT_reduced.xlsm"
 sheet = r"2.1 LOEs, Artefacts & Assurance"
 startrow = 7  # Excel row number to start reading (1-indexed, so 11 means row 10 in 0-indexed Python)
 
@@ -154,7 +155,7 @@ if all_dfs:
     # Drop repeated "Prompt" column if it exists
     if "Prompt" in combined_df.columns:
         combined_df = combined_df.drop(columns=["Prompt"])
-    combined_df.to_csv(f"{directory}/{text_directory}/rag_response_all.csv", index=False)
+    combined_df.to_csv(f"{output}/rag_response_part.csv", index=False)
 
 end_time = datetime.datetime.now()
 run_time = end_time - start_time
