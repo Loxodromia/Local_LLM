@@ -1,4 +1,5 @@
-PROJECT HACK 25 - GROUP 1F "The Winning Team"
+# PROJECT HACK 25 - GROUP 1F 
+## "The Winning Team"
 18/06/2025
 
 Project to build a local instance of a ~multimodal~ GenAI.
