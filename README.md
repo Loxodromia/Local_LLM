@@ -7,8 +7,11 @@ Model choice: ` deepseek-r1:8b `
 Embedding model choice: ` all-MiniLM-L6-v2 `
 
 # Git repo
-MVP branch - V1, single prompt on RAG with Streamlit UI, no parsing:  ` RAG ` 
-Most current branch - V2, structured data and iteration over list of queries from spreadsheet: ` struct-output ` (built from ` RAG `)
+https://github.com/Loxodromia/Local_LLM/
+
+MVP branch - V1, single prompt on RAG with Streamlit UI, no parsing:  ` RAG ` https://github.com/Loxodromia/Local_LLM/tree/RAG
+
+Most current branch - V2, structured data and iteration over list of queries from spreadsheet: ` struct-output ` (built from ` RAG `) https://github.com/Loxodromia/Local_LLM/tree/struct-output
 
 ## File Structure
 * Files for RAG are placed in folder ` INPUT/ ` (excluded from git in .gitignore). The txt processing files will be created in a subfolder of the input directory, as well as the indexing.
