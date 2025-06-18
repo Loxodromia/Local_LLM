@@ -1,0 +1,953 @@
+2025-06-17 17:19:43,317 [INFO] Number of prompts found: 158. Iterating...
+2025-06-17 17:19:43,318 [INFO] Processing Prompt 1 of 158: Is the analysis of the military capability gap and/or business capability gap suitably evidenced to inform the need/case for change?
+2025-06-17 17:19:43,319 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:19:43,320 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:19:43,423 [INFO] Loading faiss with AVX2 support.
+2025-06-17 17:19:43,440 [INFO] Successfully loaded faiss with AVX2 support.
+2025-06-17 17:19:43,444 [INFO] Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-17 17:19:43,449 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:19:43,449 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:01,837 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:20:01,842 [INFO] Processing Prompt 2 of 158: Is the military capability gap and/or business capability gap to be addressed suitably defined?
+2025-06-17 17:20:01,844 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:01,844 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:01,921 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:01,921 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:21,207 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:20:21,211 [INFO] Processing Prompt 3 of 158: Is there evidence that SMART objectives and business need have been derived from a case-for-change workshop with relevant stakeholders
+2025-06-17 17:20:21,213 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:21,213 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:21,286 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:21,286 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:31,846 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:20:31,850 [INFO] Processing Prompt 4 of 158: Is there evidence of the military capability or business capability need being include within FLC/TLB plans?
+2025-06-17 17:20:31,852 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:31,852 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:31,933 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:31,934 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:49,084 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:20:49,086 [INFO] Processing Prompt 5 of 158: Is there evidence of the military capability or business capability need being given priority within FLC/TLB plans?
+2025-06-17 17:20:49,088 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:49,088 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:20:49,164 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:20:49,164 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:05,200 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:21:05,203 [INFO] Processing Prompt 6 of 158: Is there evidence that all relevant requirement stakeholders have been identified?
+2025-06-17 17:21:05,204 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:05,206 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:05,283 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:05,283 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:16,049 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:21:16,053 [INFO] Processing Prompt 7 of 158: Is there evidence demonstrating that a systematic approach has been/will be taken to requirement set development and releted risk management?
+2025-06-17 17:21:16,055 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:16,056 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:16,136 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:16,137 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:31,812 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:21:31,815 [INFO] Processing Prompt 8 of 158: Is there evidence that the necessary human resource and requirement management tools are in place/will be in place to enable effective requirement and acceptance management?
+2025-06-17 17:21:31,816 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:31,816 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:31,902 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:31,902 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:48,046 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:21:48,051 [INFO] Processing Prompt 9 of 158: Is there evidence of a suitable plan for managing the requirements, related risks and acceptance for the next phase, and across DLODs.
+2025-06-17 17:21:48,054 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:48,055 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:48,134 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:48,134 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:59,231 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:21:59,236 [INFO] Processing Prompt 10 of 158: Is there evidence of a suitable plan for consideration of integration/interoperability with all other relevant capabilities?
+2025-06-17 17:21:59,238 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:59,239 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:21:59,324 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:21:59,324 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:22:14,825 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:22:14,829 [INFO] Processing Prompt 11 of 158: Is there evidence of Multi-domain Integration having been considered?
+2025-06-17 17:22:14,832 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:22:14,832 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:22:14,951 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:22:14,951 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:22:37,795 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:22:37,801 [INFO] Processing Prompt 12 of 158: Is there evidence of requirements management being subject to a risk review and any risks identified having been recorded and accepted?
+2025-06-17 17:22:37,803 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:22:37,804 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:22:37,943 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:22:37,943 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:22:59,219 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:22:59,226 [INFO] Processing Prompt 13 of 158: For military capability, is there sufficient evidence to demonstrate what part the military capability to be delivered will play in the Concept of Operations (CONOPS) or its equivalent. 
+2025-06-17 17:22:59,232 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:22:59,232 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:22:59,398 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:22:59,398 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:23:21,754 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:23:21,760 [INFO] Processing Prompt 14 of 158: For business capability, is there sufficient evidence to demonstrate what part the business capability will play in wider Departmental/Government delivery.
+2025-06-17 17:23:21,764 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:23:21,765 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:23:21,933 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:23:21,933 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:23:35,493 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:23:35,502 [INFO] Processing Prompt 15 of 158: For military capability, is there evidence that the Concept of Employment (CONEMP), or equivalent, is suitably mature to support the requirement set?
+2025-06-17 17:23:35,510 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:23:35,510 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:23:35,733 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:23:35,733 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:23:57,693 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:23:57,702 [INFO] Processing Prompt 16 of 158: For business capability, is there evidence that the Operating / Enterprise Model, or equivalent, is suitably mature to support the requirement set?
+2025-06-17 17:23:57,707 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:23:57,707 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:23:57,872 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:23:57,873 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:24:16,052 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:24:16,058 [INFO] Processing Prompt 17 of 158: For military capability, is there evidence that the Concept of Use (CONUSE), or equivalent, is suitably mature to support the requirement set?
+2025-06-17 17:24:16,062 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:24:16,062 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:24:16,236 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:24:16,237 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:24:28,908 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:24:28,914 [INFO] Processing Prompt 18 of 158: Is there an interest in the programme/project requirement, and the solution to it, from an Operations perspective?  If so, what is the nature of the interest?
+2025-06-17 17:24:28,917 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:24:28,918 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:24:29,110 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:24:29,110 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:24:42,598 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:24:42,605 [INFO] Processing Prompt 19 of 158: Is there evidence of critical consideration of contextual knowledge gaps that could impact efficient development of the requirement set, and have any identified risks being agreed between the capability Sponsor?
+2025-06-17 17:24:42,611 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:24:42,611 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:24:42,790 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:24:42,791 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:02,809 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:25:02,816 [INFO] Processing Prompt 20 of 158: Is there evidence that the project requirement is aligned with underlying policies, strategies and business plans of the TLB/Dept/Gov?  
+2025-06-17 17:25:02,823 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:02,823 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:03,017 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:03,017 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:25,414 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:25:25,424 [INFO] Processing Prompt 21 of 158: Is there evidence that the User requirement, cross DLOD, is sufficiently mature to support generation of the  System Requirement / Service Requirement and support User acceptance of the capability/service to be delivered?
+2025-06-17 17:25:25,431 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:25,431 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:25,621 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:25,621 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:41,782 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:25:41,791 [INFO] Processing Prompt 22 of 158: Is there evidence that the System Requirement / Service Requirement is suitably mature to proceed with formal procurement?
+2025-06-17 17:25:41,798 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:41,798 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:41,976 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:41,977 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:55,868 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:25:55,875 [INFO] Processing Prompt 23 of 158: Is there evidence of the requirement set being 'red teamed' to check that it is fit-for-purpose?
+2025-06-17 17:25:55,881 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:55,882 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:25:56,069 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:25:56,070 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:09,664 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:26:09,671 [INFO] Processing Prompt 24 of 158: Is there evidence of the risks to Capability Protection being considered iaw JSP 656 and mitigation put in place if required/appropriate?
+2025-06-17 17:26:09,674 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:09,675 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:09,874 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:09,874 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:25,336 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:26:25,344 [INFO] Processing Prompt 25 of 158: Is there evidence of environmental sustainability requirements being drawn from a suitable Sustainability Appraisal to support the next phase of the project?  
+2025-06-17 17:26:25,351 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:25,351 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:25,540 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:25,540 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:40,279 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:26:40,286 [INFO] Processing Prompt 26 of 158: Is there evidence of military / business (capability) options being suitably defined within the long list of options?
+2025-06-17 17:26:40,290 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:40,291 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:40,470 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:40,470 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:55,569 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:26:55,575 [INFO] Processing Prompt 27 of 158: Is there evidence of delivery (procurement) options being suitably defined within the long list of options?
+2025-06-17 17:26:55,580 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:55,580 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:26:55,757 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:26:55,757 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:27:19,728 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:27:19,735 [INFO] Processing Prompt 28 of 158: Is there evidence of funding options being suitably defined within the long list of options?
+2025-06-17 17:27:19,741 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:27:19,742 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:27:19,939 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:27:19,939 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:27:35,428 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:27:35,434 [INFO] Processing Prompt 29 of 158: Is there evidence of test and evaluation options being suitably defined within the long list of options?
+2025-06-17 17:27:35,437 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:27:35,438 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:27:35,618 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:27:35,618 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:27:55,953 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:27:55,962 [INFO] Processing Prompt 30 of 158: Is there evidence of appropriate Critical Success Factors being used to assess the long list of options?
+2025-06-17 17:27:55,965 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:27:55,966 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:27:56,152 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:27:56,152 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:12,193 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:28:12,199 [INFO] Processing Prompt 31 of 158: Is there evidence of an appropriate evaluation approach being used to assess the long-list of options and generate the short-list of options?
+2025-06-17 17:28:12,204 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:12,205 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:12,430 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:12,430 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:26,809 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:28:26,816 [INFO] Processing Prompt 32 of 158: Is there evidence of an appropriate short-list of defined options to be taken forward for more detailed analysis in the next phase?
+2025-06-17 17:28:26,821 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:26,822 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:27,021 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:27,021 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:43,298 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:28:43,306 [INFO] Processing Prompt 33 of 158: Is there evidence of an appropriate plan for assessing cost-effectiveness of shortlisted options inline with JSP 507 and Green Book standards, including costs and benefits to UK society (i.e. social value) including the effects of climate change?
+2025-06-17 17:28:43,310 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:43,310 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:43,489 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:43,490 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:58,200 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:28:58,209 [INFO] Processing Prompt 34 of 158: Is there evidence that the plan for assessing the cost-effectiveness of shortlisted options having been independently endorsed by economic and operational analysis Subject Matter Experts - typically at 1* level?  
+2025-06-17 17:28:58,215 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:58,215 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:28:58,407 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:28:58,407 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:10,232 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:29:10,238 [INFO] Processing Prompt 35 of 158: Is there evidence of a suitably robust quantitative / qualitative assessment of the cost-effectiveness of the short listed options against the requirement?
+2025-06-17 17:29:10,244 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:10,245 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:10,425 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:10,426 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:23,699 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:29:23,705 [INFO] Processing Prompt 36 of 158: Is there evidence that, when the outsourcing activities currently undertaken by MOD staff is being considered, an appropriate VfM benchmark has been developed in accordance with the Business Improvement Policy
+2025-06-17 17:29:23,712 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:23,712 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:23,909 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:23,910 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:34,635 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:29:34,642 [INFO] Processing Prompt 37 of 158: Is there evidence of a robust plan to compare market proposals (compared against benchmark where appropriate)?
+2025-06-17 17:29:34,648 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:34,649 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:34,830 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:34,830 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:47,699 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:29:47,706 [INFO] Processing Prompt 38 of 158: For all single source procurements is there evidence that there is a robust 'should cost' comparator against which to assess VfM?
+2025-06-17 17:29:47,712 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:47,712 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:29:47,890 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:29:47,891 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:04,591 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:30:04,597 [INFO] Processing Prompt 39 of 158: Is there any evidence at FBC of fundamental changes that would indicate a need to re-open the option set?
+2025-06-17 17:30:04,601 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:04,602 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:04,800 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:04,801 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:21,006 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:30:21,015 [INFO] Processing Prompt 40 of 158: Is there evidence that the defined tender evaluation plan has been followed?
+2025-06-17 17:30:21,021 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:21,022 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:21,207 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:21,207 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:41,187 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:30:41,192 [INFO] Processing Prompt 41 of 158: Is there suitable evidence that overall Value for Money has been demonstrated?
+2025-06-17 17:30:41,195 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:41,195 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:41,351 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:41,351 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:56,911 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:30:56,918 [INFO] Processing Prompt 42 of 158: Is there evidence that the Defence Economics Price Indices has been consulted and agreed indices to be applied in Variation of Price (VoP) clauses?
+2025-06-17 17:30:56,924 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:56,924 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:30:57,094 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:30:57,095 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:05,597 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:31:05,603 [INFO] Processing Prompt 43 of 158: Is there evidence of an outline Programme Evaluation Plan (PEP) with a focus on project rationale and proportionality?
+2025-06-17 17:31:05,606 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:05,606 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:05,784 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:05,784 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:18,242 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:31:18,250 [INFO] Processing Prompt 44 of 158: Is there evidence of a draft detailed Programme Evaluation Plan (PEP) describing expected evaluation activity through the life of the programme?
+2025-06-17 17:31:18,255 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:18,255 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:18,434 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:18,435 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:28,385 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:31:28,391 [INFO] Processing Prompt 45 of 158: Is there evidence of comprehensive Programme Evaluation Plan with proportionate scoping, design, considered evaluation questions, and a high-level timetable?
+2025-06-17 17:31:28,395 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:28,395 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:28,589 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:28,589 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:37,836 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:31:37,838 [INFO] Processing Prompt 46 of 158: Is there evidence that a need is identified and solution possible?
+2025-06-17 17:31:37,841 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:37,841 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:38,141 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:38,141 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:53,456 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:31:53,465 [INFO] Processing Prompt 47 of 158: Is there evidence that the approach to Market Engagement is sufficiently mature and meets Cabinet Office guidance on Market Engagement?
+2025-06-17 17:31:53,472 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:53,472 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:31:53,647 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:31:53,647 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:02,604 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:32:02,610 [INFO] Processing Prompt 48 of 158: Is there evidence of appropriate Category Management consideration being made with the commercial solution?
+2025-06-17 17:32:02,614 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:02,615 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:02,793 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:02,793 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:16,844 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:32:16,851 [INFO] Processing Prompt 49 of 158: Is there evidence of commercial risk assessment and mitigation management appropriate to that stage of the programme?
+2025-06-17 17:32:16,855 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:16,856 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:17,034 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:17,034 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:41,392 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:32:41,398 [INFO] Processing Prompt 50 of 158: Is there evidence of commercial models analysis, including contract duration, being suitably mature?
+2025-06-17 17:32:41,402 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:41,403 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:41,576 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:41,576 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:58,501 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:32:58,507 [INFO] Processing Prompt 51 of 158: Is there evidence of a mature approach to security matters?
+2025-06-17 17:32:58,511 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:58,512 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:32:58,686 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:32:58,687 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:33:14,774 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:33:14,793 [INFO] Processing Prompt 52 of 158: Is there evidence of a mature approach to safety and that the required safety design and production capability is available from potential or selected suppliers?
+2025-06-17 17:33:14,797 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:33:14,798 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:33:15,000 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:33:15,000 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:33:31,758 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:33:31,765 [INFO] Processing Prompt 53 of 158: Is there evidence of sufficient commercial resource planning to support the commercial strategy and desired outcomes?
+2025-06-17 17:33:31,771 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:33:31,771 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:33:31,950 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:33:31,951 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:33:55,600 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:33:55,608 [INFO] Processing Prompt 54 of 158: Is there evidence of appropriate consideration and analysis of purchasing routes?
+2025-06-17 17:33:55,612 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:33:55,613 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:33:55,795 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:33:55,795 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:34:17,450 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:34:17,457 [INFO] Processing Prompt 55 of 158: Is there evidence of the tendering approach being suitably mature?
+2025-06-17 17:34:17,461 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:34:17,461 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:34:17,631 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:34:17,632 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:34:40,617 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:34:40,624 [INFO] Processing Prompt 56 of 158: Is there evidence that the IPR  management approach is sufficiently mature?
+2025-06-17 17:34:40,629 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:34:40,629 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:34:40,791 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:34:40,791 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:34:57,890 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:34:57,897 [INFO] Processing Prompt 57 of 158: Is the project's approach to pricing, payment and incentivisation sufficiently mature?
+2025-06-17 17:34:57,901 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:34:57,901 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:34:58,069 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:34:58,069 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:35:15,695 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:35:15,702 [INFO] Processing Prompt 58 of 158: Is there evidence of Corporate Social Responsibility considerations sufficiently mature?
+2025-06-17 17:35:15,705 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:35:15,706 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:35:15,889 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:35:15,890 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:35:27,326 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:35:27,333 [INFO] Processing Prompt 59 of 158: Is there evidence of relevant sustainability legislation and policy being appropriately addressed in the tender and contractual documents to reflect any social and environmental issues?
+2025-06-17 17:35:27,338 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:35:27,338 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:35:27,509 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:35:27,509 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:35:43,650 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:35:43,657 [INFO] Processing Prompt 60 of 158: Is there evidence of the approach to Social Value being sufficiently mature?
+2025-06-17 17:35:43,660 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:35:43,661 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:35:43,840 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:35:43,841 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:03,214 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:36:03,222 [INFO] Processing Prompt 61 of 158: Is there evidence that Commercial Resource planning is suitably mature?
+2025-06-17 17:36:03,226 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:03,227 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:03,406 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:03,406 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:19,321 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:36:19,327 [INFO] Processing Prompt 62 of 158: Is there evidence that the Commercial Governance and contract management is suitably mature?
+2025-06-17 17:36:19,332 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:19,332 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:19,504 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:19,504 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:29,988 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:36:29,996 [INFO] Processing Prompt 63 of 158: Is there evidence that the Cabinet Office contract drafting guides are being followed?
+2025-06-17 17:36:30,000 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:30,001 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:30,174 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:30,174 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:45,093 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:36:45,100 [INFO] Processing Prompt 64 of 158: Is there evidence that policy requirements for Transparency are being suitably addressed? 
+2025-06-17 17:36:45,104 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:45,105 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:36:45,272 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:36:45,273 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:05,232 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:37:05,239 [INFO] Processing Prompt 65 of 158: Is there evidence that appropriate Procurement Regulations are being adopted? 
+2025-06-17 17:37:05,242 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:05,242 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:05,421 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:05,421 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:20,643 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:37:20,651 [INFO] Processing Prompt 66 of 158: Is there evidence of commercial "Playbooks" relevant to the programme being followed?
+2025-06-17 17:37:20,655 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:20,655 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:20,829 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:20,829 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:29,848 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:37:29,855 [INFO] Processing Prompt 67 of 158: Is there evidence that the negotiation team has secured the deal as set out in the negotiation strategy?
+2025-06-17 17:37:29,860 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:29,861 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:30,037 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:30,038 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:47,278 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:37:47,287 [INFO] Processing Prompt 68 of 158: Is there evidence that the Moderation Panel has assessed whether the tender evaluation process set out in the advert has been followed? Is the language used in the evaluation and moderation consistent with that set out in the tender documentation?
+2025-06-17 17:37:47,293 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:47,293 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:37:47,468 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:37:47,468 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:05,103 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:38:05,110 [INFO] Processing Prompt 69 of 158: Is there evidence that the Tender Evaluation Report (TER) confirms that the preferred / selected supplier will provide the required deliverables and services in full?
+2025-06-17 17:38:05,114 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:05,114 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:05,290 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:05,290 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:14,386 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:38:14,393 [INFO] Processing Prompt 70 of 158: Is there evidence that the Moderation Panel has assessed the risk of a legal challenge to the result of the tender assessment? Has the Moderation Panel considered the need for a legal review of the wording of the tender evaluation documentation?
+2025-06-17 17:38:14,396 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:14,396 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:14,577 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:14,577 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:21,629 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:38:21,634 [INFO] Processing Prompt 71 of 158: Is there evidence that suitable consideration is being given to Cabinet Office Spend Controls?
+2025-06-17 17:38:21,637 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:21,638 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:21,774 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:21,774 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:36,748 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:38:36,755 [INFO] Processing Prompt 72 of 158: Is there evidence that the programme has factored in the 28 day Service Level Agreement timescale for obtaining Cabinet Office approval following internal MOD approval?
+2025-06-17 17:38:36,760 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:36,760 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:36,936 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:36,937 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:51,052 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:38:51,060 [INFO] Processing Prompt 73 of 158: Is there evidence to confirm whether the programme is subject to Cabinet Office Spend Control, Office of Government Property FM Pipeline Control (joint with CCS).  
+2025-06-17 17:38:51,064 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:51,064 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:38:51,241 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:38:51,242 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:04,326 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:39:04,335 [INFO] Processing Prompt 74 of 158: Is there evidence to confirm programme activity is subject to Cabinet Office Spend Control, Office of Government Property Controls including the proportionate pipeline (being tested with Office of Government Property (OGP))?
+2025-06-17 17:39:04,341 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:04,342 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:04,517 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:04,518 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:14,200 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:39:14,207 [INFO] Processing Prompt 75 of 158: Is there evidence that a suitable cost breakdown structure has been adopted within the cost model, to support the cost estimate for the acquisition phase being approved?
+2025-06-17 17:39:14,211 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:14,212 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:14,349 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:14,349 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:29,240 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:39:29,246 [INFO] Processing Prompt 76 of 158: Is there evidence of cost data and assumptions being suitably recorded, to support the cost estimate for the acquisition phase being approved?
+2025-06-17 17:39:29,250 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:29,250 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:29,437 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:29,437 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:43,504 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:39:43,511 [INFO] Processing Prompt 77 of 158: Is there evidence of cost data and assumptions being suitably underpinned with source information, including basis-of-estimate, to support the cost estimate for the acquisition phase being approved?
+2025-06-17 17:39:43,515 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:43,515 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:39:43,691 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:39:43,692 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:00,797 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:40:00,806 [INFO] Processing Prompt 78 of 158: Is there evidence that cost uncertainty and risk has been suitably estimated and modelled, to support the cost estimate for the acquisition phase being approved?
+2025-06-17 17:40:00,810 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:00,811 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:00,976 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:00,976 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:14,765 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:40:14,772 [INFO] Processing Prompt 79 of 158: Is there evidence that the overall estimated cost risk and uncertainty provision is appropriate for the project type and stage of acquisition and any adjustments justified, to support the cost estimate for the acquisition phase being approved?
+2025-06-17 17:40:14,777 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:14,778 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:14,937 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:14,937 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:30,185 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:40:30,191 [INFO] Processing Prompt 80 of 158: Is there evidence of appropriate accounting treatments being applied within the cost model, to support the cost estimate for the acquisition phase being approved?
+2025-06-17 17:40:30,195 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:30,196 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:30,355 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:30,356 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:38,218 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:40:38,224 [INFO] Processing Prompt 81 of 158: Is there evidence that the cost model is has been suitably verified and validated, to support the cost estimate for the acquisition phase being approved?
+2025-06-17 17:40:38,229 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:38,230 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:38,390 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:38,391 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:57,982 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:40:57,989 [INFO] Processing Prompt 82 of 158: Is there evidence of cost benchmarking in support of the cost estimate for the acquisition phase being approved?
+2025-06-17 17:40:57,994 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:57,994 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:40:58,169 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:40:58,170 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:41:12,408 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:41:12,416 [INFO] Processing Prompt 83 of 158: Is there evidence that a suitable assessment has been made of the overall cost of the programme?
+2025-06-17 17:41:12,421 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:41:12,421 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:41:12,603 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:41:12,604 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:41:22,814 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:41:22,821 [INFO] Processing Prompt 84 of 158: Is there evidence that a suitable cost breakdown structure has been adopted within the WLC model?
+2025-06-17 17:41:22,824 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:41:22,825 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:41:23,002 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:41:23,002 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:41:39,309 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:41:39,317 [INFO] Processing Prompt 85 of 158: Is there evidence of cost data and assumptions being suitably recorded, to support the WLC model?
+2025-06-17 17:41:39,323 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:41:39,324 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:41:39,502 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:41:39,503 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:01,340 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:42:01,350 [INFO] Processing Prompt 86 of 158: Is there evidence of cost data and assumptions being suitably underpinned with source information,  including basis-of-estimate, to support the WLC model?
+2025-06-17 17:42:01,357 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:01,358 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:01,607 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:01,608 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:20,906 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:42:20,916 [INFO] Processing Prompt 87 of 158: Is there evidence that cost uncertainty and risk has been suitably estimated and modelled, to support the WLC model?
+2025-06-17 17:42:20,922 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:20,923 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:21,173 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:21,174 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:36,304 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:42:36,314 [INFO] Processing Prompt 88 of 158: Is there evidence that the overall estimated risk and uncertainty provision is appropriate for the project type and stage of acquisition and any adjustments justified, to support the WLC model?
+2025-06-17 17:42:36,320 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:36,320 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:36,559 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:36,559 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:46,726 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:42:46,735 [INFO] Processing Prompt 89 of 158: Is there evidence of appropriate accounting treatments being applied within the WLC model?
+2025-06-17 17:42:46,741 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:46,742 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:42:47,001 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:42:47,001 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:02,694 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:43:02,700 [INFO] Processing Prompt 90 of 158: Is there evidence that the WLC model has been suitably verified and validated?
+2025-06-17 17:43:02,704 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:02,705 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:02,877 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:02,878 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:22,153 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:43:22,159 [INFO] Processing Prompt 91 of 158: Is there evidence of the WLC estimate being benchmarked?
+2025-06-17 17:43:22,163 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:22,163 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:22,337 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:22,337 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:35,310 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:43:35,317 [INFO] Processing Prompt 92 of 158: Is there evidence that all potential/planned sources of funding have been identified to make programme delivery affordable? programme delivery have been identified?
+2025-06-17 17:43:35,320 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:35,321 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:35,496 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:35,497 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:48,790 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:43:48,796 [INFO] Processing Prompt 93 of 158: Is there evidence that a suitable affordability assessment has been made and appropriately referenced?
+2025-06-17 17:43:48,801 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:48,801 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:43:48,970 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:43:48,971 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:03,402 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:44:03,410 [INFO] Processing Prompt 94 of 158: For next  phase is there evidence that the identified funding provision lines are correct and using the correct ABC reference year?
+2025-06-17 17:44:03,417 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:03,417 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:03,604 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:03,605 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:23,479 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:44:23,486 [INFO] Processing Prompt 95 of 158: For  next phase is  there evidence that the forecast funding requirement is affordable, in both total and profile?
+2025-06-17 17:44:23,489 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:23,490 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:23,666 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:23,666 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:45,613 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:44:45,619 [INFO] Processing Prompt 96 of 158: For  next phase  for any funding shortfalls (total and/or profile) is there evidence for how these shortfalls will be addressed and the impact that this may have of TLB/Department plans?
+2025-06-17 17:44:45,624 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:45,624 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:45,796 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:45,797 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:59,407 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:44:59,415 [INFO] Processing Prompt 97 of 158: For WLC is there evidence that the identified funding provision lines are correct and using the correct ABC reference year?
+2025-06-17 17:44:59,419 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:59,419 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:44:59,599 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:44:59,599 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:45:15,153 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:45:15,159 [INFO] Processing Prompt 98 of 158: For WLC is there evidence that the forecast funding requirement is affordable? 
+2025-06-17 17:45:15,163 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:45:15,164 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:45:15,334 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:45:15,334 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:45:31,370 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:45:31,377 [INFO] Processing Prompt 99 of 158: For WLC for any funding shortfalls (total and/or profile) is there evidence for how these shortfalls will be addressed and the impact that this may have of TLB/Department plans?
+2025-06-17 17:45:31,383 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:45:31,384 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:45:31,560 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:45:31,560 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:45:49,262 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:45:49,268 [INFO] Processing Prompt 100 of 158: Is there evidence of the Project/Programme/Portfolio boundary(ies) being appropriately defined?
+2025-06-17 17:45:49,272 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:45:49,273 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:45:49,455 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:45:49,456 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:00,169 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:46:00,179 [INFO] Processing Prompt 101 of 158: Is there evidence of a suitable through-life management approach being adopted?
+2025-06-17 17:46:00,182 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:00,183 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:00,366 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:00,367 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:17,622 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:46:17,629 [INFO] Processing Prompt 102 of 158: Is there evidence that appropriate assumptions (including cost assumptions) have been captured and there is a suitable audit trail?
+2025-06-17 17:46:17,632 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:17,633 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:17,802 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:17,802 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:29,719 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:46:29,725 [INFO] Processing Prompt 103 of 158: Is there evidence that a fit-for-purpose governance regime is in place?
+2025-06-17 17:46:29,729 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:29,730 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:29,891 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:29,891 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:53,485 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:46:53,493 [INFO] Processing Prompt 104 of 158: Is there evidence of an appropriate approach being adopted for the delivery of the programme and its outputs (i.e. Spiral, Waterfall, Agile, Wagile, etc)?
+2025-06-17 17:46:53,496 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:53,497 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:46:53,659 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:46:53,659 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:11,983 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:47:11,989 [INFO] Processing Prompt 105 of 158: Is there evidence of a robust Work Breakdown Structure (WBS) for the phase of acquisition being approved.
+2025-06-17 17:47:11,993 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:11,993 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:12,142 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:12,142 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:20,224 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:47:20,232 [INFO] Processing Prompt 106 of 158: It there evidence that dependencies are being managed appropriately?
+2025-06-17 17:47:20,235 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:20,235 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:20,396 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:20,396 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:31,190 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:47:31,198 [INFO] Processing Prompt 107 of 158: Is there evidence of an appropriate delivery schedule for the programme?
+2025-06-17 17:47:31,201 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:31,202 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:31,358 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:31,359 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:49,588 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:47:49,593 [INFO] Processing Prompt 108 of 158: Is there evidence that appropriate programme delivery human resource management is in place?
+2025-06-17 17:47:49,597 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:49,597 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:47:49,760 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:47:49,761 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:03,513 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:48:03,518 [INFO] Processing Prompt 109 of 158: For Change Programmes, is there evidence that appropriate workforce change management is in place.
+2025-06-17 17:48:03,522 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:03,522 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:03,674 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:03,675 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:19,451 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:48:19,458 [INFO] Processing Prompt 110 of 158: Is there evidence that  appropriate fallback plans are in place?
+2025-06-17 17:48:19,462 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:19,462 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:19,618 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:19,618 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:34,726 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:48:34,733 [INFO] Processing Prompt 111 of 158: If the programme is expected to include international trade, is there evidence that the implications of this are being suitably considered and recorded?
+2025-06-17 17:48:34,737 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:34,738 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:34,898 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:34,899 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:52,110 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:48:52,116 [INFO] Processing Prompt 112 of 158: Is there evidence that a suitably mature management plan exists for the acceptance of deliverables?
+2025-06-17 17:48:52,120 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:52,120 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:48:52,286 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:48:52,287 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:49:09,202 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:49:09,209 [INFO] Processing Prompt 113 of 158: Is there evidence of suitable quality assurance approach covering both internal to MOD and and supply chain?
+2025-06-17 17:49:09,213 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:49:09,213 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:49:09,373 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:49:09,374 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:49:26,934 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:49:26,935 [INFO] Processing Prompt 114 of 158: For Business Change Management Programmes, is the evidence of a clear documented approach to manage the planned implementation of business change within the organisation(s) in scope.  
+2025-06-17 17:49:26,943 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:49:26,943 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:49:27,087 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:49:27,087 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:49:45,218 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:49:45,222 [INFO] Processing Prompt 115 of 158: For programmes/projects with infrastructure elements, is there evidence that Government Soft Landings guidance is being followed and the adoption of the UK Building Information Management (BIM) Framework - ref. JSP850?
+2025-06-17 17:49:45,230 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:49:45,230 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:49:45,366 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:49:45,366 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:50:01,032 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:50:01,033 [INFO] Processing Prompt 116 of 158: Is there evidence that a suitable Risk, Issues and Opportunities management approach (i.e. management plans / governance processes) defined for the programme? 
+2025-06-17 17:50:01,043 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:50:01,043 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:50:01,198 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:50:01,198 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:50:27,447 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:50:27,454 [INFO] Processing Prompt 117 of 158: Is there suitable evidence that all relevant Risks, Issues and Opportunities have been appropriately quantified, owned and are being actively managed?
+2025-06-17 17:50:27,456 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:50:27,456 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:50:27,607 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:50:27,607 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:50:48,023 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:50:48,024 [INFO] Processing Prompt 118 of 158: Is there evidence that overall risk is suitably understood for the phase of the programme and that the SRO, or equivalent, is content with the level of military/business capability, cost and time risk exposure within the programme (risk 'appetite')? 
+2025-06-17 17:50:48,032 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:50:48,032 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:50:48,176 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:50:48,176 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:51:15,623 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:51:15,625 [INFO] Processing Prompt 119 of 158: Is there evidence of an appropriately mature sustainability management plan / project sustainability strategy, commensurate with the stage of the project?
+2025-06-17 17:51:15,633 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:51:15,633 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:51:15,777 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:51:15,777 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:51:34,296 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:51:34,301 [INFO] Processing Prompt 120 of 158: Is there evidence of an appropriate environmental management approach being followed?
+2025-06-17 17:51:34,305 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:51:34,305 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:51:34,449 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:51:34,449 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:52:00,942 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:52:00,950 [INFO] Processing Prompt 121 of 158: Is there evidence of appropriate specialist sustainability assessments being made (inc. statutory and regulatory assessments), as identified by the Sustainability Appraisal?
+2025-06-17 17:52:00,951 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:52:00,951 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:52:01,088 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:52:01,088 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:52:24,472 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:52:24,473 [INFO] Processing Prompt 122 of 158: For programmes/projects with infrastructure elements (new build and major refurbishments), is there evidence that the need for a planning application has been determined and planned? 
+2025-06-17 17:52:24,481 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:52:24,481 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:52:24,632 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:52:24,632 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:52:55,049 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:52:55,049 [INFO] Processing Prompt 123 of 158: Is there evidence of an appropriate safety and environment management approach /plan being followed?
+2025-06-17 17:52:55,057 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:52:55,057 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:52:55,535 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:52:55,535 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:53:15,670 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:53:15,672 [INFO] Processing Prompt 124 of 158: Is there evidence that the programme's Safety Case is suitably mature for the stage of acquisition?
+2025-06-17 17:53:15,681 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:53:15,681 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:53:15,841 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:53:15,841 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:53:30,389 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:53:30,390 [INFO] Processing Prompt 125 of 158: Is there evidence that a suitable Security Risk/Threat Assessment has been conducted for the project and its deliverable capability?
+2025-06-17 17:53:30,398 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:53:30,398 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:53:30,552 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:53:30,552 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:53:54,174 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:53:54,178 [INFO] Processing Prompt 126 of 158: Is there evidence that the programme Security Grading has been completed and endorsed by DSR-IIPCSy?
+2025-06-17 17:53:54,186 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:53:54,186 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:53:54,349 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:53:54,349 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:09,537 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:54:09,539 [INFO] Processing Prompt 127 of 158: Is there evidence that a suitably mature Security Plan exists highlighting key security requirements and risk areas, as well as documenting security activities, products, resources and governance arrangements required, in accordance with JSP 440.
+2025-06-17 17:54:09,547 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:09,547 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:09,683 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:09,683 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:26,816 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:54:26,816 [INFO] Processing Prompt 128 of 158: Is there evidence that a suitable Security Aspects Letters has been included in each contract graded OFFICIAL-SENSITIVE or above?
+2025-06-17 17:54:26,824 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:26,824 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:26,967 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:26,967 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:37,427 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:54:37,432 [INFO] Processing Prompt 129 of 158: Is there evidence that a suitable Personal Data Aspects Letter has been included in each contract involving the processing of OFFICIAL-SENSITIVE-PERSONAL information?
+2025-06-17 17:54:37,432 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:37,432 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:37,601 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:37,601 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:59,651 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:54:59,656 [INFO] Processing Prompt 130 of 158: Is there evidence that appropriate security DEFCONs are being include in each contract?
+2025-06-17 17:54:59,656 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:59,656 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:54:59,808 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:54:59,808 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:55:35,852 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:55:35,853 [INFO] Processing Prompt 131 of 158: Is there evidence that each contract has a current MOD Cyber Risk Profile and associated Supplier Assurance Questionnaire submitted.
+2025-06-17 17:55:35,853 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:55:35,860 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:55:35,957 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:55:35,957 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:55:50,399 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:55:50,404 [INFO] Processing Prompt 132 of 158: Where there is a requirement for crypt-key use, is there evidence that the programme has a suitable crypto management approach that has be endorsed by the Crypt Key Enterprise Authority.
+2025-06-17 17:55:50,405 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:55:50,406 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:55:50,497 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:55:50,497 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:56:14,246 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:56:14,250 [INFO] Processing Prompt 133 of 158: Is there evidence that a suitable Security Case has been developed to provide compliance with MOD and DE&S security policy to support effective security risk management for Products, Systems and Services.
+2025-06-17 17:56:14,250 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:56:14,250 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:56:14,338 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:56:14,338 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:56:53,358 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:56:53,365 [INFO] Processing Prompt 134 of 158: Is there evidence that the project is following Secure by Design principles and its Secure by Design plans are sufficiently mature for the stage of the project?
+2025-06-17 17:56:53,367 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:56:53,367 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:56:53,592 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:56:53,592 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:57:09,823 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:57:09,831 [INFO] Processing Prompt 135 of 158: Is there evidence that all DLOD owners have been identified and are engaged in developing their respective requirements, aligned with the Strategic Case, and engaged in delivery planning to ensure 'synchronisation' of cross-DLOD milestones?
+2025-06-17 17:57:09,831 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:57:09,831 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:57:10,000 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:57:10,008 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:57:37,062 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:57:37,068 [INFO] Processing Prompt 136 of 158: Is there evidence that the Training DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:57:37,070 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:57:37,070 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:57:37,226 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:57:37,226 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:57:52,640 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:57:52,645 [INFO] Processing Prompt 137 of 158: Is there evidence that the Equipment DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:57:52,645 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:57:52,645 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:57:52,796 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:57:52,796 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:58:15,716 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:58:15,719 [INFO] Processing Prompt 138 of 158: Is there evidence that the Personnel DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:58:15,719 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:58:15,727 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:58:15,871 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:58:15,871 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:58:34,657 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:58:34,657 [INFO] Processing Prompt 139 of 158: Is there evidence that the Information DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:58:34,665 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:58:34,665 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:58:34,818 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:58:34,818 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:58:58,967 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:58:58,969 [INFO] Processing Prompt 140 of 158: Is there evidence that the Doctrine and Concepts DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:58:58,977 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:58:58,977 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:58:59,136 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:58:59,137 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:59:14,596 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:59:14,596 [INFO] Processing Prompt 141 of 158: Is there evidence that the Organisation DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:59:14,606 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:59:14,606 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:59:14,757 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:59:14,757 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:59:39,044 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:59:39,049 [INFO] Processing Prompt 142 of 158: Is there evidence that the Infrastructure DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:59:39,057 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:59:39,057 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:59:39,217 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:59:39,217 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:59:53,932 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 17:59:53,939 [INFO] Processing Prompt 143 of 158: Is there evidence that the Logistics DLOD is suitably mature for the stage of acquisition with plans for delivery of outputs?
+2025-06-17 17:59:53,941 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:59:53,941 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 17:59:54,101 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 17:59:54,101 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:00:14,550 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:00:14,555 [INFO] Processing Prompt 144 of 158: Is there evidence that the strategy/plan for Logistics Support is sufficiently mature for the stage of the programme?
+2025-06-17 18:00:14,559 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:00:14,559 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:00:14,718 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:00:14,718 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:00:55,651 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:00:55,655 [INFO] Processing Prompt 145 of 158: Is there evidence that the strategy/plan for Logistics Information is sufficiently mature?
+2025-06-17 18:00:55,661 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:00:55,661 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:00:55,809 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:00:55,809 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:01:09,065 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:01:09,066 [INFO] Processing Prompt 146 of 158: Is there evidence that the strategy/plan for Supportability Engineering is sufficiently mature for the stage of the programme?
+2025-06-17 18:01:09,075 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:01:09,075 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:01:09,226 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:01:09,226 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:01:22,399 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:01:22,400 [INFO] Processing Prompt 147 of 158: Is there evidence that the strategy/plan for the Supply Chain is sufficiently mature for the stage of the programme?
+2025-06-17 18:01:22,400 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:01:22,408 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:01:22,546 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:01:22,546 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:01:45,776 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:01:45,776 [INFO] Processing Prompt 148 of 158: Is there evidence of suitable engineering management practice being adopted?
+2025-06-17 18:01:45,784 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:01:45,784 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:01:45,917 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:01:45,917 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:07,889 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:02:07,890 [INFO] Processing Prompt 149 of 158: Is there evidence of suitable technology management practice being adopted?
+2025-06-17 18:02:07,890 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:07,898 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:08,048 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:08,048 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:25,576 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:02:25,576 [INFO] Processing Prompt 150 of 158: Is there evidence that programme details have been recorded on Digital Approvals Tool (DAT) at least 6 months prior to planned submission date?
+2025-06-17 18:02:25,583 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:25,583 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:25,700 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:25,700 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:40,265 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:02:40,266 [INFO] Processing Prompt 151 of 158: Has the programme provided evidence of the sponsoring Director of Resource's view (in conjunction with the SRO) on the Accounting Officer Standards? Required for Category A and centrally approved Category B cases.
+2025-06-17 18:02:40,274 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:40,274 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:40,422 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:40,422 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:54,171 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:02:54,171 [INFO] Processing Prompt 152 of 158: Is there evidence of a record of previous approvals (including standing approvals) and the spend to date?
+2025-06-17 18:02:54,179 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:54,179 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:02:54,329 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:02:54,337 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:03:15,507 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:03:15,510 [INFO] Processing Prompt 153 of 158: If an approval contains any retrospective elements is there evidence of relevant lessons being identified and reported?
+2025-06-17 18:03:15,510 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:03:15,510 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:03:15,673 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:03:15,673 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:03:35,539 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:03:35,540 [INFO] Processing Prompt 154 of 158: If a Review Note is being submitted,  is there evidence of relevant lessons being identified and reported?
+2025-06-17 18:03:35,548 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:03:35,548 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:03:35,705 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:03:35,705 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:03:54,641 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:03:54,647 [INFO] Processing Prompt 155 of 158: Is there evidence of suitable assurance and approvals management?
+2025-06-17 18:03:54,650 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:03:54,650 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:03:54,817 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:03:54,817 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:04:15,667 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:04:15,671 [INFO] Processing Prompt 156 of 158: Is there evidence that the business case is following JSP 655 guidance?
+2025-06-17 18:04:15,671 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:04:15,671 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:04:15,817 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:04:15,817 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:04:41,809 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:04:41,811 [INFO] Processing Prompt 157 of 158: If Standing Approval (standing financial delegation) is being used, is there evidence that the Standing Approval funding limit has been calculated correctly?
+2025-06-17 18:04:41,811 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:04:41,811 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:04:41,953 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:04:41,953 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:04:56,373 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:04:56,375 [INFO] Processing Prompt 158 of 158: Is there evidence of a suitably mature communication requirement and plan for meeting these requirements? E.g. staff and trade union engagement, cross government co-ordination, ministerial announcements, etc.
+2025-06-17 18:04:56,375 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:04:56,375 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:04:56,482 [INFO] Use pytorch device_name: cuda:0
+2025-06-17 18:04:56,482 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-17 18:05:31,667 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-17 18:05:31,707 [INFO] 158 prompts processed in 0 hours, 45 minutes and 48 seconds

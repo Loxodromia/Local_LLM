@@ -1,0 +1,166 @@
+Question,Answer,Confidence,Source,Index,Case,Level 1 LoE Function,Level 2 LoE Function,Line of Enquiry (Level 1),
+Is the analysis of the military capability gap and/or business capability gap suitably evidenced to inform the need/case for change?,"Here is the analysis:
+
+-   **Evidence explanation:**... (summarise key points, can be multiple)
+    *   The requirement has been assessed against planning assumptions and considers MOTS solutions while acknowledging elements may not be suitable for such an approach. It also discusses capability tailoring through modifications using existing military technologies to address minor gaps.
+    -   There have been significant changes in key assumptions due to other programs entering service, which collectively change the requirement and allow consideration of transfer options.
+
+-   **Evidence text:**... (citing exactly from the source - can be multiple)
+    *   ""The operating model used to drive down requirements and deliver smaller, more available DELIVERABLES . The scenarios cannot be met with two DELIVERABLES and KURs are driven by a three DELIVERABLE model.""
+    *   ""ensure that the UK configuration is aligned with the latest commercial baseline configuration (i.e. to address in-line obsolescence and production changes), but this is expected to be low risk...""
+    *   ""**Capability Tailoring.** When assessed against the KURs, the Product Line version had a number of minor shortfalls...""
+
+-   **Confidence level that the evidence is adequate and sufficient:** [Confidence: 90%]
+    - Source reference(s): [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>], [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]",90.0,"20250604-Anonymised_OBC_1_FINAL.pdf, 20250609-Anonymised_OBC_2_FINAL.pdf",1.0,Strategic,MoD - Military Capability Management,Capability Analysis,Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?,
+Is the military capability gap and/or business capability gap to be addressed suitably defined?,"Here is the response based on the provided context:
+
+**Evidence explanation:** The text indicates that capability shortfalls exist between the Product Line version and UK requirements, and specific modifications are planned to address these military capability gaps.
+
+*   **Evidence text:** ""When assessed against the KURs, the Product Line version had a number of minor shortfalls... SUPPLIER have agreed to develop a small number of modifications to introduce additional capabilities to mitigate the gaps."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>]
+
+**Evidence explanation:** The requirement is designed considering MOTS solutions, acknowledging that some elements might not be suitable for off-the-shelf use. This planning approach allows flexibility to address necessary customisation or adaptation.
+
+*   **Evidence text:** ""The operating model used... The scenarios cannot be met with two DELIVERABLES and KURs are driven by a three DELIVERABLE model."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]
+
+**Evidence explanation:** Capability studies are explicitly mentioned as part of the process to tailor the Product Line capability for the UK. These studies aim to identify opportunities and manage technical risks associated with filling gaps.
+
+*   **Evidence text:** ""a small number of additional studies will be conducted ahead of FBC... if these studies highlight an opportunity which is containable within delivery cost and/or time bounds then these will be highlighted..."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]
+
+**Confidence level:** The evidence directly addresses the military capability gap through configuration alignment and modifications. MOTS suitability highlights a business consideration, but doesn't explicitly define the *business* gap itself; it implies flexibility is needed to bridge any potential fit issues. The studies point indicates proactive identification of technical risks associated with gaps.
+
+[Confidence: 80%]
+
+**Source reference(s):**
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>]
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]",80.0,"20250604-Anonymised_OBC_1_FINAL.pdf, 20250609-Anonymised_OBC_2_FINAL.pdf, 20250609-Anonymised_OBC_2_FINAL.pdf, 20250604-Anonymised_OBC_1_FINAL.pdf, 20250609-Anonymised_OBC_2_FINAL.pdf",2.0, ,MoD - Military Capability Management,Capability Analysis,Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?,
+Is there evidence that SMART objectives and business need have been derived from a case-for-change workshop with relevant stakeholders,"Okay, let's break this down based on the provided text.
+
+1.  **Evidence explanation:** The context mentions stakeholder engagement and integration workshops in relation to business change at another location (Source 2). It also refers to adopting Infrastructure and Projects Authority best practice involving agile thinking for program development (Source 3), which often includes iterative review and collaboration with stakeholders, potentially covering aspects of defining requirements like SMART objectives. Furthermore, the existence of an Economic Case is noted across sources, indicating a formal process was undertaken.
+2.  **Evidence text:** ""The OTHER LOCATION Transition Team are the focal point for Business Change at CUSTOMER OTHER LOCATION and as such are already heavily engaged with stakeholder s and in the provision of integration workshops."" `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_2_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_2_FINAL.pdf</a>]`  
+    Also, regarding best practice adoption: ""Adopting Infrastructure and Projects Authority (IPA) best practice for a programme such as this, agile thinking... can better facilitate change..."" `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250611-Anonymised_RN_3_FINAL.pdf"" target=""_blank"">20250611-Anonymised_RN_3_FINAL.pdf</a>]`
+3.  **Confidence level:** [Confidence: 40%]
+    *   Reasoning: While there is evidence of stakeholder engagement (via the Business Change Manager and their team, including workshops) and mentions of program development processes involving agile methods which align conceptually with deriving SMART objectives through iteration, the text does not explicitly state that a dedicated ""case-for-change workshop"" was held to define these specific objectives. The connection between the workshops mentioned and the direct derivation of SMART/business need is indirect.
+
+**Source reference(s):**
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_2_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_2_FINAL.pdf</a>]
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250611-Anonymised_RN_3_FINAL.pdf"" target=""_blank"">20250611-Anonymised_RN_3_FINAL.pdf</a>]",40.0,"20250610-Anonymised_FBC_2_FINAL.pdf, 20250611-Anonymised_RN_3_FINAL.pdf, 20250610-Anonymised_FBC_2_FINAL.pdf, 20250611-Anonymised_RN_3_FINAL.pdf",3.0,Strategic,MoD - Military Capability Management,Requirement Engineering / Management,Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?,
+Is there evidence of the military capability or business capability need being include within FLC/TLB plans?,"Here is a summary of the provided context regarding evidence of military/business capability needs being included within FLC/TLB (Financial Level/Cost-Time-Effectiveness) plans:
+
+**Evidence Explanation:**
+
+*   The primary focus of the documents appears to be on delivering specific capabilities, including operational requirements and technology enhancement.
+*   There is mention of financial profiles and estimates covering various aspects of the project lifecycle, such as initial support, delivery confidence levels, and further development costs.
+
+**Evidence Text:**
+
+*   ""DELIVERABLE Support Main Gate Business Case... This value covers the Capital Spares and Initial Provisioning..."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_4_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_4_FINAL.pdf</a>]
+*   ""The requirement has been reviewed against the latest planning assumptions. ... These change the requirement..."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>] (This indicates that requirements, which are capability needs, have changed based on updated planning assumptions).
+*   ""34. Capability Enhancement and Sustainment. ... Both independent UK technology development and collaboration with the COUNTRY will provide the means to mitigate current and future Risks to the capability."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_6_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_6_FINAL.pdf</a>] (This discusses further R&D for capabilities beyond initial delivery, funded within the FLC/TLB context).
+
+**Confidence Level:** [Confidence: 75%]
+
+**Source Reference(s):**
+
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_4_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_4_FINAL.pdf</a>]
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>]
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_6_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_6_FINAL.pdf</a>]",75.0,"20250610-Anonymised_FBC_4_FINAL.pdf, 20250604-Anonymised_OBC_1_FINAL.pdf, 20250610-Anonymised_FBC_6_FINAL.pdf, 20250610-Anonymised_FBC_4_FINAL.pdf, 20250604-Anonymised_OBC_1_FINAL.pdf, 20250610-Anonymised_FBC_6_FINAL.pdf",4.0,Strategic,MoD - Military Capability Management,Requirement Engineering / Management,Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?,
+Is there evidence of the military capability or business capability need being given priority within FLC/TLB plans?,"Here's an analysis based on the provided context:
+
+**Evidence Explanation:**
+*   MOTS solutions are explicitly considered as a means to meet requirements efficiently. (Point 1)
+*   Planning incorporates flexibility for industry delivery, acknowledging potential unsuitability of elements for MOTS while ensuring appropriate solutions can be offered. (Point 2)
+*   A significant reduction in prescriptive requirements was achieved through value engineering, aiming to remove unnecessary expenditure and provide future bidder flexibility, while still driving the capability need. (Point 3)
+
+**Evidence Text:**
+*   `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>]` ""designed to allow Military Off The Shelf (MOTS) solutions to be considered , elements may not be suitable for MOTS and planning has allowed for sufficient time and flexibility for Industry to offer and deliver an appropriate solution.""
+*   `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>]` ""The operating model used to drive down requirements and deliver smaller, more available DELIVERABLES . The scenarios cannot be met with two DELIVERABLES and KURs are driven by a three DELIVERABLE model.""
+*   `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>]` ""Collectively, these change the requirement and allow consideration of a greater range of transfer options , with a result that the capability could be met by...""
+
+**Confidence Level:**
+[Confidence: 75%]
+
+**Source Reference(s):**
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250604-Anonymised_OBC_1_FINAL.pdf"" target=""_blank"">20250604-Anonymised_OBC_1_FINAL.pdf</a>]
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_OBC_4_FINAL.pdf"" target=""_blank"">20250610-Anonymised_OBC_4_FINAL.pdf</a>]",75.0,"20250604-Anonymised_OBC_1_FINAL.pdf, 20250604-Anonymised_OBC_1_FINAL.pdf, 20250604-Anonymised_OBC_1_FINAL.pdf, 20250604-Anonymised_OBC_1_FINAL.pdf, 20250610-Anonymised_OBC_4_FINAL.pdf",5.0,Strategic,MoD - Military Capability Management,Requirement Engineering / Management,Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?,
+Is there evidence that all relevant requirement stakeholders have been identified?,"Here is the response based on the provided context:
+
+- Evidence explanation: The documents mention multiple sources of input contributing to requirements, including supplier planning data (OBC 2), consultancy from COMPANY (FBC 6), and engagement with Defence officials via their Statement of Requirement (SoR) (Strategic Case point 5). However, they do not explicitly state that *all* relevant stakeholders have been definitively identified.
+- Evidence text: ""The tailoring package will ensure that the UK can fully meet this KUR."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]  
+        ""Support requirements, LFE and inputs from other programmes have also been incorporated..."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_6_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_6_FINAL.pdf</a>]
+- Confidence level: [Confidence: 70%]
+
+[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]  
+[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_6_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_6_FINAL.pdf</a>]",70.0,"20250609-Anonymised_OBC_2_FINAL.pdf, 20250610-Anonymised_FBC_6_FINAL.pdf, 20250609-Anonymised_OBC_2_FINAL.pdf, 20250610-Anonymised_FBC_6_FINAL.pdf",6.0,Strategic,MoD - Military Capability Management,Requirement Engineering / Management,Is the approach to managing the requirement set and solution acceptance suitably defined?,
+Is there evidence demonstrating that a systematic approach has been/will be taken to requirement set development and releted risk management?,"Here is evidence demonstrating a systematic approach:
+
+*   **Evidence explanation:** The existence of specific Management Plans designed for requirement delivery indicates a structured methodology.
+*   **Evidence text:** ""The PROGRAMME NAME Programme has a variety of Management Plans... captured in Annex M.""
+*   **Confidence level:** [Confidence: 85%]
+*   **Source reference(s):** [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_2_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_2_FINAL.pdf</a>]
+
+*   **Evidence explanation:** The governance structure specifies a dedicated delivery organization responsible for managing the project, suggesting systematic oversight.
+*   **Evidence text:** ""a. Project PROJECT NAME will be managed in -service by DELIVERY ORGANISATION.""
+*   **Confidence level:** [Confidence: 85%]
+*   **Source reference(s):** [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_2_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_2_FINAL.pdf</a>]
+
+*   **Evidence explanation:** The inclusion of a Project Management Plan (PMP) and the use of RAIDO Working Groups for risk management demonstrate systematic processes.
+*   **Evidence text:** ""c. A Project Management Plan... have been produced and are actively employed... d. Risks, Assumptions, Dependencies, Issues & Opportunities (RAIDO)... held regularly.""
+*   **Confidence level:** [Confidence: 85%]
+*   **Source reference(s):** [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_2_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_2_FINAL.pdf</a>]
+
+*   **Evidence explanation:** The completion of a Risk Complexity Assessment (RCA) shows systematic analysis and prioritization of risks.
+*   **Evidence text:** ""A Risk Complexity Assessment RCA has been completed... highlighting top risk s across the DLODs and Programme.""
+*   **Confidence level:** [Confidence: 85%]
+*   **Source reference(s):** [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_2_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_2_FINAL.pdf</a>]
+
+*   **Evidence explanation:** The review of the Integrated Master Plan (IMS) by an independent expert and collaboration with delivery teams indicate systematic validation.
+*   **Evidence text:** ""b. IMS... has been subject to review by an independent scheduling expert... A collaborative arrangement with the DELIVERY team...""
+*   **Confidence level:** [Confidence: 85%]
+*   **Source reference(s):** [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_2_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_2_FINAL.pdf</a>]
+
+The confidence level is high (85%) as multiple distinct systematic processes are documented across the text, including planning, governance assignment, risk analysis and assessment, and IMS review.",85.0,"20250610-Anonymised_FBC_2_FINAL.pdf, 20250610-Anonymised_FBC_2_FINAL.pdf, 20250610-Anonymised_FBC_2_FINAL.pdf, 20250610-Anonymised_FBC_2_FINAL.pdf, 20250610-Anonymised_FBC_2_FINAL.pdf",7.0,Strategic,MoD - Military Capability Management,Requirement Engineering / Management,Is the approach to managing the requirement set and solution acceptance suitably defined?,
+Is there evidence that the business case is following JSP 655 guidance?,"Here is the evidence that the business case follows JSP 655 guidance:
+
+**Evidence explanation:**
+*   The requirement for DG Finance and DCDS MilCap approval before releasing information indicates adherence to financial control protocols (similar to CECS principles).
+*   The focus on refining retirement profiles to meet specific savings targets (£ XXXX) demonstrates lifecycle cost management, a key aspect of defence financial planning under JSP 655.
+*   Explicit references to contingent liability allocation and Time Bounded Liability (TBL) caps directly align with JSP 655's guidance on Cost Estimating and Control Systems (CECS), specifically concerning Private Sector Support costs.
+
+**Evidence text:**
+*   `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250611-Anonymised_Outletter_2_FINAL.pdf"" target=""_blank"">20250611-Anonymised_Outletter_2_FINAL.pdf</a>]` ""j. No announcements or release of information into the public arena is to be made without DG Finance and DCDS MilCap approval..."" (Indicates financial control gatekeeping).
+*   `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250611-Anonymised_Outletter_2_FINAL.pdf"" target=""_blank"">20250611-Anonymised_Outletter_2_FINAL.pdf</a>]` ""b. SRO in conjunction with ROLE NAME and D Financial Planning and Scrutiny to address control total profiling."" (Mentions control totals, a CECS element).
+*   `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_6_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_6_FINAL.pdf</a>]` ""n. That a separate Con tingent Liability allocation is being identified by the DT and shall be approved by DELIVERY ORGANISATION Financial Accounting Treatments Manager."" (Direct reference to contingent liability).
+*   `[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_6_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_6_FINAL.pdf</a>]` ""o. TLB costs of £XXXX to enable recruitment of required resource (Private Sector Support (PSS)) identified within Annex E ."" (Direct reference to Time Bounded Liability).
+
+**Confidence level that the evidence is adequate and sufficient:**
+[Confidence: 95%]
+
+**Source reference(s):**
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250611-Anonymised_Outletter_2_FINAL.pdf"" target=""_blank"">20250611-Anonymised_Outletter_2_FINAL.pdf</a>]
+*   [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_6_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_6_FINAL.pdf</a>]",95.0,"20250611-Anonymised_Outletter_2_FINAL.pdf, 20250611-Anonymised_Outletter_2_FINAL.pdf, 20250610-Anonymised_FBC_6_FINAL.pdf, 20250610-Anonymised_FBC_6_FINAL.pdf, 20250611-Anonymised_Outletter_2_FINAL.pdf, 20250610-Anonymised_FBC_6_FINAL.pdf",,Management,Core - Finance,Endorsements and Approvals,Is there evidence for suitable Approvals management?,
+"If Standing Approval (standing financial delegation) is being used, is there evidence that the Standing Approval funding limit has been calculated correctly?","Here is the response based on the provided context:
+
+- **Evidence explanation:**... The OBC and FBC documents do not explicitly mention ""Standing Approval"" or its funding limit calculation. However, they discuss allocated funding against a Control Total (OBC 2 point 15) and confirm affordability across all financial years (FBC 5 point 5a). They also state there are no contingent liabilities associated with the approval.
+- **Evidence text:**... ""Utilising PROGRAMME NAME ABC allocated funding of £ XXXX..."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]  
+""...Affordability against the approved Control Total across all Financial Years has been confirmed by CUSTOMER."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_5_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_5_FINAL.pdf</a>]  
+""...No Contingent Liabilities associated with any Contract resulting from this approval..."" [Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250610-Anonymised_FBC_5_FINAL.pdf"" target=""_blank"">20250610-Anonymised_FBC_5_FINAL.pdf</a>]
+- **Confidence level that the evidence is adequate and sufficient:** [Confidence: 75%]
+
+[Source: <a href=""file:///C:/Users/sanc615/OneDrive%20-%20Lendlease/Documents/_DATA/2025_HACK/Vision/INPUT/20250609-Anonymised_OBC_2_FINAL.pdf"" target=""_blank"">20250609-Anonymised_OBC_2_FINAL.pdf</a>]",75.0,"20250609-Anonymised_OBC_2_FINAL.pdf, 20250610-Anonymised_FBC_5_FINAL.pdf, 20250610-Anonymised_FBC_5_FINAL.pdf, 20250609-Anonymised_OBC_2_FINAL.pdf",,Management,Core - Finance,Endorsements and Approvals,Is there evidence for suitable Approvals management?,
+"Is there evidence of a suitably mature communication requirement and plan for meeting these requirements? E.g. staff and trade union engagement, cross government co-ordination, ministerial announcements, etc.","Here is a breakdown based on the provided context:
+
+**Evidence explanation:**
+This analysis examines the provided documents for explicit evidence related to mature communication requirements and plans specifically addressing staff/trade union involvement or cross-government coordination. The context mentions capability studies (OBC_2, FBC_7) and collaborative development efforts (FBC_7), which could imply some level of requirement definition, but lacks concrete details on the maturity of these communications aspects.
+
+**Evidence text:**
+1.  [Source: OBC_2_FINAL.txt] ""a small number of additional studies will be conducted ahead of FBC."" ""...if these studies highlight an opportunity... then these will be highlighted to the SRO...""
+2.  [Source: FBC_7_FINAL.txt] ""With regard to the need to ensure that the UK capability remains relevant out to the envisaged OSD..."" (This refers to Operational Sustainability and Development, implying long-term planning). ""...priorities and ambitions for DELIVERABLE , particularly with regards to delivery timeframes."" ""...the scope of this approval assumes a 100% UK -funded position...""
+3.  [Source: OBC_1_FINAL.txt] ""Incorrect and/or changed baseline capability assumptions there is a risk that there is a delay in maturing..."" (This discusses the maturity process, but not specifically for communication requirements). ""...Early and detailed OA to support the requirement coherence with Defence Policy."" (OA likely refers to Official/Administration or Operational Analysis).
+
+**Confidence level:**
+[Confidence: 0%]
+
+**Source reference(s):**
+*   [Source: OBC_2_FINAL.txt]
+*   [Source: FBC_7_FINAL.txt]
+*   [Source: OBC_1_FINAL.txt]",0.0,,,Management,Core - Finance,Project  Management,Is there evidence for suitable Approvals management?,

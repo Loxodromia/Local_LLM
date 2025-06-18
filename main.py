@@ -19,6 +19,8 @@ from langchain_core.prompts import PromptTemplate
 from RAG import load_or_create_vector_store, rag_pipeline
 from structure_output import parse_llm_output_to_df, read_xlsm_file
 import pandas as pd
+import datetime
+import logging
 
 # ---------------------------------------------- #
 # ------------------- Inputs ------------------- #
@@ -36,7 +38,7 @@ regenerate_vector_store = False  # Set to True to regenerate the vector database
 query = '''Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?'''
 
 # Read queries from excel
-questions_file = r"INPUT/PEAT_reduced.xlsm"
+questions_file = r"INPUT/PEAT_tool_v3.0 -O.xlsm"
 sheet = r"2.1 LOEs, Artefacts & Assurance"
 startrow = 7  # Excel row number to start reading (1-indexed, so 11 means row 10 in 0-indexed Python)
 
@@ -109,15 +111,28 @@ else:
 # Read queries from excel
 # ----------------------------------- #
 
+# Set up logging to file and console
+log_file = f"{directory}/{text_directory}/rag_processing.log"
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler(log_file, mode='w', encoding='utf-8'),
+        logging.StreamHandler()
+    ]
+)
+
 # Retrieve prompts from the specified Excel file and sheet
+start_time = datetime.datetime.now()
+
 prompts_df = read_xlsm_file(questions_file, sheet)
 prompts_list = prompts_df["Prompt"]
 number_of_prompts = len(prompts_list)
-print(f"Number of prompts found: {number_of_prompts}. Iterating...")
+logging.info(f"Number of prompts found: {number_of_prompts}. Iterating...")
 all_dfs = []
 
 for idx, prompt in enumerate(prompts_list):
-    print(f"Processing Prompt {idx + 1} of {number_of_prompts}: {prompt}")
+    logging.info(f"Processing Prompt {idx + 1} of {number_of_prompts}: {prompt}")
     response = run_rag_pipeline(query=prompt, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
     
     # Parse the response into a DataFrame
@@ -140,3 +155,9 @@ if all_dfs:
     if "Prompt" in combined_df.columns:
         combined_df = combined_df.drop(columns=["Prompt"])
     combined_df.to_csv(f"{directory}/{text_directory}/rag_response_all.csv", index=False)
+
+end_time = datetime.datetime.now()
+run_time = end_time - start_time
+hours, remainder = divmod(run_time.total_seconds(), 3600)
+minutes, seconds = divmod(remainder, 60)
+logging.info(f"{number_of_prompts} prompts processed in {int(hours)} hours, {int(minutes)} minutes and {int(seconds)} seconds")

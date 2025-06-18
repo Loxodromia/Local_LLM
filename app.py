@@ -10,6 +10,9 @@ from pathlib import Path
 if "reset" not in st.session_state:
     st.session_state.reset = False
 
+# Query - to be linked to the same as main.py
+query = "Is the military capability gap and/or business capability gap to be addressed suitably defined?"
+
 # Header image
 try:
     header_image = Image.open("logo.png")  # Replace with your image path
@@ -23,7 +26,7 @@ st.markdown(
     """
     **Version**: v1, 2025-06-14  
     **Author**: Cristina Sanchez  
-    **Description**: This application processes documents in a specified folder, converts them to text, creates a vector store, and queries a local DeepSeek R1 8b model using a Retrieval-Augmented Generation (RAG) pipeline to provide relevant answers.
+    **Description**: This application processes documents in a specified folder, converts them to text, creates a vector store, and queries a DeepSeek R1 8b model using a Retrieval-Augmented Generation (RAG) pipeline to provide relevant answers - all with a **local** setup, no cloud.
     """,
     unsafe_allow_html=True
 )
@@ -32,7 +35,7 @@ st.markdown(
 if st.button("Reset"):
     st.session_state.directory = "INPUT/"
     st.session_state.ocr_mode = True
-    st.session_state.query = "Show evidence of lessons learned from rainscreen cladding."
+    st.session_state.query = query
     st.session_state.reset = True
     st.rerun()  # Refresh the app to reflect cleared inputs
 
@@ -89,7 +92,7 @@ if st.button("Process Files"):
 # Input for query
 query = st.text_area(
     "Enter your query:",
-    value=st.session_state.get("query", "Show evidence of lessons learned from rainscreen cladding.")
+    value=st.session_state.get("query", query)
 )
 
 # Button to submit query
