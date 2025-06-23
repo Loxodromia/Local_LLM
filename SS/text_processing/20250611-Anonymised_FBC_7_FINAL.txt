@@ -1,0 +1,846 @@
+DATE  
+File reference:  
+PROGRAMME  NAME FULL  BUSINESS CASE   
+Investing in PROGRAMME  strategic capability is essential to maintain relevance 
+and UK political choice as detailed in the Defence Command Plan ( DATE ). Without 
+an upgraded capability, REDACTED . This Business Case brings together two 
+inextricably linked and interdependent projects – each with funding provision – 
+into a single approval: REDACTED.    
+REDACTED  is vital to REDACTED . REDACTED  investment sustains a highly 
+specialised, world -leading UK industry base and ensures advanced technical skills 
+and expertise are available for the ( PROGRAMME NAME ) programme. Delivering 
+REDACTED  into service demonstrates REDACTED . Integrating  REDACTED  onto  
+PROGRAMME  ensures that it remains competitive for winning new export orders 
+and provides a lucrative revenue stream for UK industry from retrofitting the 
+DELIVERABLE  onto current PROGRAMME  REDACTED .   
+Issue  
+1. Demonstration and Manufacture (D&M) phase of the PROGRAMME  
+DELIVERABLE , including REDACTED , to deliver Full Operating Capability (FOC).  
+Timing  
+2. Approval is required by DATE  to continue  REDACTED . 
+ 
+Subject to approval, initial contract activity in DATE  will commit £ XXXX .   
+Recommendations  
+3. The Approving Authority is invited to approve:   
+a. Commitment to deliver the D&M scope for DELIVERABLE , inclusive of 
+REDACTED .  
+  
+b. An Approved Budgetary Level (ABL) of £XXXX at 50% confidence to complete 
+the delivery of the D&M phase and achieve FOC, taking the total ABL for the 
+overall REDACTED  and DELIVERABLE  programme from £ XXXX  to £XXXX  
+(outturn, inclusive of all non -recoverable VAT). This contains XXXX  calculated 
+using the DEM exchange rates and associated exchange rate uncertainty and 
+comprises:  
+  
+(1) £XXXX  capital expenditure (CDEL).  
+(2) £XXXX  total resource consumption (RDEL).  
+       
+  
+  
+  
+  c. A separate provision of £ XXXX  as Risk Outside Costing based on the delta 
+between the 70%CL and 50%CL (aggregate method) of the DEM exchange 
+rate uncertainty.  
+d. Schedule for delivery of DELIVERABLE  as:  
+(1) Initial Operating Capability (IOC) by DATE  (50% Confidence).  
+(2) FOC by DATE  (50% Confidence).  
+e. IOC and FOC definitions at Annex B.  
+f. Key User Requirements (KURs) at Annex C.  
+4. And to note :  
+a. To date, UK investment in DELIVERABLE  has matured the technology and 
+reduced technical risk on the programme. REDACTED . In DATE , subject to 
+approval, a X-year commitment to continue  REDACTED  development will be 
+made, including trials with the prototype DELIVERABLE  in DATE , hardware 
+and software development to deliver a production  DELIVERABLE  system 
+ready for integration.   
+b. Concurrent with  REDACTED  development, a REDACTED  will commence in 
+DATE  through a System Definition (SD) contract.  
+ 
+The SD phase will establish the design solution for a common system 
+interface REDACTED . SD will provide the detailed requirements needed by 
+REDACTED to enable a proposal to be delivered in DATE  for integrating the  
+REDACTED  DELIVERABLE  onto PROGRAMME  through a DELIVERABLE  
+Demonstration Contract. DELIVERABLE  is not limited to REDACTED , but 
+includes a broader range of capability upgrades that are required in the same 
+timeframe as the DELIVERABLE . For the UK the Minimum Viable Programme 
+(MVP) for DELIVERABLE  includes REDACTED . The MVP also includes the 
+introduction of REDACTED . Together this package of upgrades is sufficient to 
+meet the KURs. Whilst the DELIVERABLE  package and REDACTED  will be 
+embodied across the UK REDACTED, REDACTED  DELIVERABLE  will only 
+be embodied on REDACTED .  
+  
+c. The final content of the DELIVERABLE  package is subject to negotiations with 
+PNs and is dependent on agreeing a level of cost share and priority of each 
+nation’s requested candidates; therefore the final content is likely to be greater 
+than that required for the UK MVP (a list of UK addition al candidates not 
+included in the MVP is attached at Annex D). Securing a 100% UK -funded 
+position for the MVP package is central to the UK’s negotiation strategy to 
+protect the REDACTED  delivery timeline by removing reli ance on PN funding 
+and ensuring that essential  REDACTED  enabling content is included and 
+protected within the broader DELIVERABLE  package. Moreover, it is in the 
+UK’s national interest to maintain strategic con trol of DELIVERABLE  in the      
+  
+  
+  context of the competing PROGRAMME  DELIVERABLE  programmes, 
+specifically with COUNTRY , in a challenging multinational environment.   
+  
+d. Supply for REDACTED  (REDACTED ) remains a strategic risk for the 
+programme, with only one supplier capable of providing this essential product 
+for REDACTED . Continued sustainment funding is essential to secure a long -
+term commitment with the supplier to the end of DATE , therefore an additional 
+c£XXXX  has been included in this FBC.  
+e. DELIVERABLE  also demands changes to the PROGRAMME  Future Synthetic 
+Training ( PFST ), REDACTED  and deployable infrastructure to deliver IOC. 
+Scoping assessments have been conducted with costs included within the 
+ABL (Annex E).   
+  
+f. The FBC approval covers the totality of activity to deliver DELIVERABLE , 
+including delivery and integration of REDACTED . Subject to approval, 
+c£XXXX will be committed in DATE  to ensure seamless continuation of 
+REDACTED  development (critical path activity to IOC), secure REDACTED  
+(REDACTED ) supply from a UK List X company and strengthen UK 
+international control of the DELIVERABLE  strategy. Thereafter, the next major 
+commitment is late DATE  for the DELIVERABLE  Demonstration Contract with 
+an expected value to the UK of £XXXX . Ahead of that commitment a 
+Review Note (RN) will be submitted to confirm the agreed composition of 
+non-DELIVERABLE  capabilities within the DELIVERABLE  package post 
+negotiations with PNs and re -affirm deliverability within the overall ABL . 
+Thereafter, c £XXXX  is committed in DATE  REDACTED  manufacturing and 
+assembly; c £XXXX  in DATE  for embodiment and development of the 
+REDACTED  to achieve the FOC standard. Information Notes will also be 
+provided ahead of each of these major commitments. The li st above excludes 
+smaller discrete cross DLOD investments planned between DATES  and which 
+makes up the total ABL of £ XXXX.   
+  
+g. PROGRAMME NAME . Maximum re -use of REDACTED  technology has been 
+assumed by the SRO and  DELIVERABLE  Design Authority ( COMPANY ) 
+wherever appropriate in the design of the System for the PROGRAMME 
+NAME  programme. The programmatic impact of cancelling REDACTED  on 
+PROGRAMME NAME  has been assessed as X years delay and at least an 
+additional £ XXXX  of direct costs from the technology transfer. However, this 
+excludes the wider cost benefit to PROGRAMME NAME  derived from an 
+REDACTED  programme that develops and maintains the industrial and MOD 
+SQEP, manufacturi ng, trials and evaluation, mission data capability and 
+operational experience gained from delivering a new DELIVERABLE  into 
+service. The cost benefit for PROGRAMME NAME  and therefore cost risk 
+should REDACTED  be cancelled, is estimated as c £XXXX .   
+  
+h. Delays in the current REDACTED  project have impacted the forecast IOC by 
+DATE  since the last REDACTED  approval in DATE , primarily driven by late 
+approva l and supplier performance.       
+  
+  
+  
+  i. DELIVERABLE  (also known as DELIVERABLE ), underwent a contract 
+amendment in DATE  to prioritise REDACTED  for PROGRAMME  export1 and 
+which also removed REDACTED scope which will now be delivered as part of 
+DELIVERABLE . DELIVERABLE  dependencies have been reflected in the 
+DELIVERABLE  schedule and cost included in the overall ABL.  
+  
+j. In-Service costs (including spiral) for DELIVERABLE  to a DATE  Out of Service 
+(OSD) are estimated as £ XXXX  (50% Confidence); these costs are excluded 
+from the ABL but noted for completeness.  
+  
+k. A potential cost variation of £ XXXX  due to exchange rate volatility between the 
+DEM rate and the CPA rate. This is to be managed centrally by DefRes for 
+centrally approved cases.  
+  
+  
+Strategic Case  
+ REDACTED   
+5. The military capability requirement for a replacement DELIVERABLE  for 
+PROGRAMME  has been well -documented through successive defence reviews.  
+REDACTED  will sustain operational advantage for the UK military within the anticipated 
+threat/operating environment until PROGRAMME ’s OSD and will:  
+a. Recover shortfalls in existing capability, sustaining REDACTED ;  
+  
+b. Enable REDACTED ;  
+  
+c. REDACTED .  
+  
+6. The DELIVERABLE  offers a capability that will address three critical and linked 
+strategic justifications  for the UK.  
+a. REDACTED .  REDACTED  and an open architecture that allows rapid, low 
+cost adaptation.  
+  
+b. UK Prosperity . Substantial economic benefit and prosperity to the UK from 
+sustaining PROGRAMME’s  credibility and demonstrating viability in export 
+campaigns; the opportunity for retro -fit to the large, established 
+PROGRAMME s in-service with core and export nations and indirectly through 
+independent sustainment of UK, high -end facilities, knowledge and workforce 
+during the transition from  PROGRAMME  to PROGRAMME NAME . 
+DELIVERABLE  is vital for the maintenance of UK industrial advantage and 
+suitably qualified and experienced personnel within the SECTOR , especially 
+ 
+      
+  
+  
+  relative to COUNTRY  during the positioning and industrial consolidation 
+associated with the various PROGRAMME NAME  programmes .   
+  
+(1)  Export Opportunity . Once DELIVERABLE  is formalised as a 
+baseline product, existing  PROGRAMME  export customers can only maintain 
+a capability development path by buying into the product; export customers 
+will be compelled to join DELIVERABLE  in order to secure non -discretionary 
+R&M capabilities. The recent COUNTRY    precedent demonstrates the 
+potential of export participation to help reduce core nations costs with early 
+contractual and commercial engagement. With no engagement the worst -case 
+scenario w ould be an Industry to export nation sale of a delivered product with 
+the benefit limited to a proportion of the 10% CEL. This means a realistic 
+financial benefit of £ XXXX  to £XXXX in later years from existing export 
+customers depending on participation and securing CEL.  
+  
+c.   (PROGRAMME NAME ). DELIVERABLE  will de -risk technical development 
+and skills for the next generation of UK combat REDACTED   
+(PROGRAMME NAME / PROGRAMME NAME ). The REDACTED  will be a key 
+component of the PROGRAMME NAME  solution, with the ability to deliver 
+REDACTED  underpinning the UK’s credibility in playing a leading/major role in an 
+international PROGRAMME NAME  programme. Key linkages include the following:  
+  
+(1) PROGRAMME NAME  is critically dependent on REDACTED  to develop 
+SQEP and mature capability across a range of development, manufacturing 
+and test & evaluation areas that will only be tested by the introduction of an 
+operational system. Allowing the associated industrial and military skills to 
+atrophy will le ad to a significant schedule impact to PROGRAMME NAME , 
+with the potential for loss of capability that cannot be easily resurrected. 
+Evidence suggests a delay in PROGRAMME NAME  FOC capability of 
+between  X and X years if REDACTED  is not delivered into servic e on  
+PROGRAMME  and flown in an operational representative environment.  
+  
+(2) PROGRAMME NAME  is critically dependent on REDACTED that are being 
+developed for  REDACTED . The direct additional cost pressure to 
+PROGRAMME NAME  of developing these elements in the absence of 
+REDACTED  is at least c.£ XXXX  and excludes costs caused by a delay to the 
+PROGRAMME NAME  programme.   
+  
+(3) Although the direct hardware dependencies between REDACTED  and 
+REDACTED  are limited beyond assets already developed , PROGRAMME 
+NAME  benefits from reductions in cost due to the use of similar components to 
+REDACTED .  
+  
+(4)  REDACTED  is fundamental, with no viable alternative, for the sustainment 
+and maintenance of a supply chain (beyond the major stakeholders of 
+COMPANY , COMPANY  and COMPANY ) to be available and viable to support 
+the creation of an PROGRAMME NAME  product in the latter half of the 
+decade.       
+  
+  
+  
+    
+(5) No alternative approaches to sustain REDACTED , supplier base and 
+develop capability mitigate the likely performance, cost and schedule impacts 
+on a UK developed PROGRAMME NAME  if REDACTED  is not delivered into 
+service.  
+  
+7. Additionally, there is a cost benefit to PROGRAMME NAME  from the REDACTED  
+programme from maintaining the industrial and MOD SQEP as well as the 
+manufacturing, trials and evaluation, mission data capability and operational experience 
+from successfully integrating a new  DELIVERABLE . One option considered later in this 
+business case is delivering an IOC capability but then using that capability for the benefit 
+of PROGRAMME NAME  only. The cost of that option is estimated at c.£ XXXX  and 
+therefore represents a p otential additional cost pressure to PROGRAMME NAME  should 
+REDACTED  be cancelled.     
+8. Classified briefings are available to provide UK senior leadership a full 
+understanding of the innovative nature of this UK technical solution, its vital contribution 
+to UK Defence’s capability requirement and its strategic relevance and benefit to the UK.   
+DELIVERABLE   
+9. As part of the REDACTED  programme, the route to deliver significant 
+PROGRAMME  capability enhancements is through extensive and protracted 
+engagement, negotiation, and compromise. This is particularly relevant for the delivery of 
+DELIVERABLE  which will be the primary delivery vehicle for integrating  REDACTED .   
+REDACTED  cannot be embodied on PROGRAMME  outside a REDACTED  as this 
+provides the necessary changes to the system software and ensures the continued 
+participation of all Partner Companies.  
+10. DELIVERABLE  sits as a core block within the X+ year PROGRAMME  
+development planning horizon that has been agreed by REDACTED .  The plan includes 
+the contractually committed (in DATE ) REDACTED  as the baseline product for 
+DELIVERABLE  development and shows the REDACTED  programme following 
+DELIVERABLE  later this decade.  
+11. In addition to  REDACTED , the UK scope for DELIVERABLE  includes other time 
+critical upgrades for the PROGRAMME  REDACTED , as below.  Together, this package 
+constitutes the MVP for the UK and is sufficient to meet the KURs.  
+a. REDACTED  
+ 
+International Dynamic and Negotiations   
+12. Due to the critical nature of the DELIVERABLE  content to the UK for the success 
+of REDACTED , the intent from this FBC is to secure a 100% UK -funded position. This is 
+considered the most cost -effective negotiation strategy and increases the UK authority 
+and influence in managing the DELIVERABLE  programme. The major concern and risk      
+  
+  
+  is considered to be that despite apparent alignment in DATE , there remain divergent 
+priorities and ambitions for DELIVERABLE , particularly with regards to delivery 
+timeframes.  This has primarily been driven by the COUNTRY  DELIVERABLE  
+programme, which may not deliver a full capability until at least DATE .  This is being 
+managed as part of the UK negotiation strategy, with the UK priority to deliver 
+DELIVERABLE  on a baseline as soon as practical . 
+13. Negotiations to agree the product strategy for DELIVERABLE  are ongoing. This 
+case does not pre -empt the final negotiated outcome, nor assume the international 
+funding contributions and agreed down -selection of DELIVERABLE  additional capability 
+candidates. As such, the scope of this approval assumes a 100% UK -funded position to 
+deliver a minimum viable baseline, meeting regulatory and mandatory requirements, 
+across all  DELIVERABLE  variants embodied on the UK REDACTED  and  REDACTED  
+embodied on all REDACTED . This will additionally maintain a common baseline across 
+the UK REDACTED . The risk in not securing a 100% UK -funded budget is that we will 
+have a funding reliance on PNs, for whom the time imperative is less relevant, to proceed 
+through the contracting points,   
+14. As part of the negotiation with the PNs, the UK will make choices about balancing 
+increasing DELIVERABLE  scope with DELIVERABLE  funding contributions from the 
+PNs. These negotiations are unlikely to conclude until REDACTED can provide a fixed 
+price DELIVERABLE  Contract in DATE  to deliver an IOC capability. Prioritisation of 
+potential capability upgrades over and above the UK MVP is at Annex D.  
+       
+  
+  
+  
+  Economic Case  
+Benchmarking  REDACTED   
+15. Two benchmarks for REDACTED  are:  REDACTED  vs other PROGRAMME   
+DELIVERABLE  variants;  REDACTED  vs similar DELIVERABLE  capabilities delivered on 
+other REDACTED .   
+16. UK MOD has a detailed understanding of the capability, specification, and design 
+of the alternative PROGRAMME  variants due to the UK’s extensive test programme. The 
+DELIVERABLE  is obsolete, does not currently meet the KURs and is architecturally 
+incapable of doing so. DELIVERABLE  and DELIVERABLE  have a comparable 
+development and unit cost to REDACTED  but with significantly less capability and, 
+having inherited architecture and “back -end”, are incapable of meeting the KURs given 
+the hardware and architecture .  
+17. Whilst integrating a DELIVERABLE  from one REDACTED  type to another is not 
+technically sensible or cost effective, those DELIVERABLEs  do provide ideal 
+programmatic benchmarks for cost and performance. REDACTED.   
+Industrial   
+18. The UK’s share of the DELIVERABLE  and REDACTED market has reduced, such 
+that only COMPANY  and C OMPANY  remain internationally competitive for 
+DELIVERABLE  and DELIVERABLE  respectively. The volume of work without 
+REDACTED  is insufficient to sustain a viable national enterprise as well as UK SMEs 
+across academia, Research and Development, MOD, ORGANISATION  and 
+organisations such as COMPANY .   
+19. Discontinuing REDACTED  development would have several immediate and 
+longer term  impacts on PROGRAMME NAME  and represents a risk to the UK’s strategic 
+military and industrial position. Cancellation means the short -term ceding of influence 
+and revenue to other nations such as COUNTR IES and in the longer term represents a 
+threat to the credibility and viability of PROGRAMME NAME .    
+  
+  
+  
+ Export    
+20.  REDACTED  is seen as a minimum acceptable capability standard for export 
+opportunities.  REDACTED , as part of an international DELIVERABLE  baseline, forms a 
+key component of a credible and capable UK PROGRAMME  export to COUNTR IES. The 
+UK will benefit from export sales of PROGRAMME  through continuation of production 
+facilities and design work in COMPANY  and suppliers, improved productivity, economies 
+of scale in capability development and support, Commercial Exploitation Levy and 
+reduction in our costs to ma nage the end of manufacturing and assembly.  
+21. Proceeding with DELIVERABLE  and REDACTED  also opens up opportunities for 
+retrofitting the upgrades on PROGRAMME  REDACTED  currently in service with 
+COUNTRY and COUNTRY  and achieving a common  baseline across all DELIVERABLE  
+configurations ( DELIVERABLE , DELIVERABLE ).  
+Options   
+22. Due to the AGREEMENT  for PROGRAMME  capability delivery  there are no viable 
+industrial or commercial routes to deliver the upgrades outside of the current COMPANY 
+consortium. This enforces a common baseline and integration / clearance across all 
+subsystems. The following options have been considered for this case:  
+a. Option 1 - Do Nothing.  REDACTED . This option is not recommended.   
+  
+b. Option 2 – Do Minimum.  Proceed with a Minimum Viable Programme 
+(MVP) for DELIVERABLE .  REDACTED.  This option is recommended.   
+  
+c. Option 3 – Do Maximum.  Proceed with the full package of UK 
+capability upgrades in DELIVERABLE . As per Option 2 but this option would 
+deliver the full scope of the potential capability upgrades for DELIVERABLE  listed 
+at Annex D. The deterministic cost from Industry, excluding cost uncertainty and 
+risk, was estimated at c.£ XXXX . This option has not been taken forward for a 
+detailed cost benefit analysis as it would be an unaffordable position for the UK. 
+This option is not recommended.   
+  
+d. Option 4a – Do Different.  Complete REDACTED  development but do 
+not complete integration onto PROGRAMME . REDACTED . This option is not 
+recommended.   
+  
+e. Option 4b – Do Different. REDACTED . This option is not 
+recommended.   
+  
+Recommended Option   
+23. Option 2 is recommended as it delivers the minimum scope to meet the KURs and 
+achieves the strategic benefits of the DELIVERABLE  and REDACTED  programme. 
+Subject to approval, next steps include:       
+  
+  
+ a. In DATE , an immediate c£ XXXX  commitment to REDACTED  hardware and 
+software development, REDACTED  sustainment and DELIVERABLE  
+CONTRACT .   
+b. In late DATE , a c£ XXXX  commitment to the DELIVERABLE  Contract.   
+c. In DATE , a c£ XXXX  commitment to REDACTED  manufacturing and assembly.   
+d. In DATE , a £XXXX  commitment to REDACTED  embodiment and development 
+of the REDACTED  to achieve the FOC standard.   
+24. Information Notes will be provided ahead of each commitment. For the 
+DELIVERABLE  Demonstration Phase Contract in late DATE , an RN will confirm the 
+agreed composition of non -DELIVERABLE  capabilities in the final agreed 
+DELIVERABLE  package post negotiations with other PNs, and re -affirm 
+deliverability within the overall ABL. The list above excludes smaller discrete cross 
+DLOD investments planned between DATES .   
+Commercial Case  
+25. Contract activities will be principally delivered through AGREEMENT  within the 
+extant commercial framework2. In DATE , two initial parallel commitments are 
+required: REDACTED  hardware/software development and DELIVERABLE  
+development. The financial commitment to deliver these work packages is £ XXXX .   
+ 
+a.  REDACTED  hardware/software development.  A further development 
+contract for REDACTED  hardware / software development is required to ensure 
+continuity and maintain the critical path as the current work packages conclude in 
+DATE . The contract length will be c. Xyrs, delivering the production standard  
+REDACTED   DELIVERABLE  in readiness for integration, test, and trials. Scope 
+includes trials of the REDACTED  prototype in DATE  and completion of software 
+development by DATE  to help generate an IOC capability, bef ore integration with 
+the system through the DELIVERABLE  Contract. The proposal will be negotiated 
+directly between UK MoD and COMPANY  / COMPANY  UK, seeking to maximise 
+the benefit of long -term subsupplier contracts. This contract will include a long -term 
+commitment to production investment and REDACTED  sustainment with 
+COMPANY  to secure supply for the UK REDACTED  demand.  
+b. DELIVERABLE  Systems Development.  A CONTRACT  to deliver the 
+remaining assessment activities for DELIVERABLE  development. It includes early 
+demonstration phase activities to maintain the critical path to IOC and provides the 
+detailed systems requirements for Industry to generate proposals for the 
+DELIVERABLE  Demonstration Phase contract.  
+ 
+ 
+     
+  
+  
+ 26. A DELIVERABLE  Demonstration Contract will then be contracted following the 
+completion of the DELIVERABLE  package outlined above. This contract will cover 
+the test, trials, and evaluation activity to integrate REDACTED  and other 
+DELIVERABLE  capability upgrades onto PROGRAMME  to meet the IOC 
+requirements. The total UK commitment to the DELIVERABLE  Demonstration 
+Phase contract is expected to be c£ XXXX . Ahead of commitment to the 
+DELIVERABLE  Demonstration Contract in late DATE , a Review Note will be 
+submitted t o confirm the final agreed composition of non -DELIVERABLE  
+capabilities to be adopted in DELIVERABLE  and re -affirm deliverability within the 
+ABL without erosion of the programme management reserve.   
+27. The remaining development and manufacture to meet the FOC requirements and 
+embodiment across the full UK PROGRAMME  will be contracted via the 
+AGREEMENT  CONTRACT  frameworks as appropriate with commitments expected 
+between DATES .   
+28. The terms and conditions of AGREEMENT  Contracts allow for National Price 
+Investigation (NPI), whereby the MODs of UK  and COUNTR IES will investigate the 
+prices quoted . 
+Financial Case  
+29. The total cost estimates for this FBC combine the investment required to deliver 
+REDACTED  (£XXXX  plus £ XXXX  for REDACTED ) and costs associated with 
+DELIVERABLE  which integrates the DELIVERABLE  onto PROGRAMME , enables  
+REDACTED  KURs, and delivers a range of time critical capability upgrades and 
+REDACTED  DLOD investment to gain maximum benefit from the capability 
+upgrade .  The cost estimates have been developed collaboratively with UK industry 
+over several years, sourced from a mix of historic fixed pricing, near neighbour and 
+supplier estimates. The combination of cost uncertainty and risk has resulted in a 
+management reser ve of c.£ XXXX  within the ABL, the difference between the 
+Deterministic estimate and 50% modelled outcome. Al though PN funding is not 
+assumed in helping the UK deliver the MVP for DELIVERABLE , the potential net 
+cost saving arising from PN financial contribution to DELIVERABLE  has been 
+modelled as an opportunity.   
+30. The following table provides a cost breakdown (10/50/90% confidence), based on 
+Option 2, for this approval (D&M phase).   
+Project Phase   Confidence Levels (£M)  
+10%  50%  90%  
+Historic Sunk  XXXX  XXXX  XXXX  
+Demonstration  XXXX  XXXX  XXXX  
+Production Investment  XXXX  XXXX  XXXX  
+Manufacture, Assembly and Embodiment  XXXX  XXXX  XXXX      
+  
+  
+ DLODs, PSS & Synthetic Upgrades  XXXX  XXXX  XXXX  
+Total for D&M Phase  XXXX  XXXX  XXXX  
+Total ABL  XXXX  XXXX  XXXX  
+  
+31. Until the industry proposals are received, a definitive position regarding Contingent 
+Liability cannot be confirmed, however, based on previous tasks of this nature it is 
+anticipated that a Contingent Liability will not be required.   
+32. The Integrated Review settlement for REDACTED  provided funding of £ XXXX  for  
+ REDACTED . Additionally, the  PROGRAMME  Base Level Budget (BLB) includes 
+provision for DELIVERABLE  and other capability upgrades. The overall affordability 
+position against the combination of the  REDACTED  and DELIVERABLE  funding is 
+provided at Annex G. The forecast cost (at 50% confidence) to deliver the 
+DELIVERABLE  MVP is affordable in total but with unaffordability profile challenges in yrs 
+1-3 of £ XXX. However, when the funding provision is compared against a schedule risk 
+adjusted profile of costs, i.e. a 50% profile that reflects the delays expected in the 50% 
+confidence schedule, that affordability challenge is reduced to £ XXX in yr 2.      
+Management Case  
+Programme Management   
+33. There have been delays to the REDACTED  and DELIVERABLE  contracts (early 
+notification to approving authority in the DELIVERABLE  / DELIVERABLE  Information 
+Note), driven by later than planned approval of RN causing a linear X month delay  and 
+supplier performance due to technical complexity. The performance of the suppliers has 
+stabilised, and previous delays reflected in the schedule to achieve IOC/FOC.  
+34. Since DATE  a Joint Project Office between MOD, COMPANY  and COMPANY  UK 
+has been established at COMPANY  to improve Management Information and provide 
+greater MOD governance during the supplier decision making process. This has 
+improved transparency of technical issues across the three organisations and led to early 
+intervention. Lessons have also been learn t and applied from the DELIVERABLE  
+programme, including the adoption of sufficient trial and software fix cycles within the 
+planning for DELIVERABLE .  
+35. The programme (Annex F) can be broadly characterised as two dependent 
+development streams, the REDACTED  DELIVERABLE  and DELIVERABLE  REDACTED      
+system upgrade. The REDACTED  development will include prototype trials in DATE , and 
+a declaration of design performance for the production standard REDACTED  in early 
+DATE . This development is concurrent to the DELIVERABLE  REDACTED  system 
+development that will incorporate the interface and interoperability changes as well as 
+delivering a complementary package of upgrades that form the UK MVP.  
+36. A detailed schedule to IOC for REDACTED  has been maintained since DATE  and 
+further developed to incorporate the system development schedule. DELIVERY 
+ORGANISATION  and UK Industry have assessed the programme logic and 
+dependencies, including areas of uncertainty and risk (Annex F). The 10/50/90%     
+  
+  
+ confidence levels for IOC/FOC are detailed below. With a schedule deterministic date of 
+DATE  for IOC, the 50% modelled outcome includes X months of risk and uncertainty.   
+  Confidence Levels   
+10%  50%  90%  
+IOC  DATE  DATE  DATE  
+FOC  DATE  DATE  DATE  
+  
+Risk Management   
+37. Continuity of REDACTED  (REDACTED ) supply through COMPANY , a UK List X 
+supplier in  LOCATION , remains an existential threat to REDACTED  and a strategic 
+industrial risk to Defence. The assumption in the RN that FMC would manage 
+continued sustainment of COMPANY  from DATE  has not materialised. As such, the 
+sustainment costs have been captured within this FBC. COMPANY  UK has 
+engaged COMPANY  to establish the conditions for a long -term business agreement 
+to reduce the risk exposure. COMPANY  has indicated that a con tractual 
+commitment for REDACTED  for REDACTED  development and production 
+manufacturing would “guarantee” sufficient assets to meet the UK requirement for 
+FOC.   
+38. The performance and time parameters within this FBC represent the minimum 
+capability that would be achieved when fully funded by the UK. Despite this funding 
+position, agreement to proceed would be required by the PNs. Participation by the 
+COMPANY , most notably COMPANY  due to changes in REDACTED , is integral to 
+the     system development.  
+39. The programme risks are detailed at Annex H.  
+Governance   
+40. Overall PROGRAMME  programme execution is managed by AGREEMENT . The 
+UK, supplemented by the introduction of the REDACTED  JPO, has direct programme 
+management and oversight of REDACTED  development, within the boundaries of the 
+AGREEMENT  contractual framework. The system development, through the 
+DELIVERABLE  and DELIVERABLE  Demonstration Contracts, will remain primarily 
+governed by AGREEMENT , with the UK and PNs as Customers.  
+41.  REDACTED  has joined the REDACTED in DATE  and as such is in the process of 
+establishing the specific governance arrangements expected to manage the programme.  
+42. Subject to approval of this FBC, no further FBC submissions are planned to 
+complete the D&M phase and achieve FOC. However, a separate approval will follow in 
+DATE  for the additional in -service support costs required to sustain the upgraded 
+PROGRAMME  capability in service to the current OSD of DATE . An RN will also be 
+submitted in late  DATE , ahead of commitment to the DELIVERABLE  Demonstration 
+Contract, and further Information Notes provided on request.  
+Presentation and Handling      
+  
+  
+ 43.  REDACTED  will be reported as part of the REDACTED following the UK 
+Government commitment to the project, referenced through the Integrated Review DATE . 
+Failure to deliver REDACTED  will impact UK credibility to deliver the PROGRAMME 
+NAME  programme.   
+44. Along with the DELIVERABLE  DELIVERABLE  capabilities, this programme will 
+provide a step change in UK capability, addressing regulatory and mandatory 
+requirements and providing significant investment for Defence Industry. The continuation 
+of DELIVERABLE  development within the UK ensures REDACTED  and limits the 
+reliance upon international partners, most notably de -risking the transition to 
+PROGRAMME NAME .   
+45. DELIVERABLE  would increase the likelihood of success of PROGRAMME  in 
+ongoing and prospective export campaigns in COUNTR IES as well as reinforce the 
+MOD’s relationships with REDACTED  and UK Industry. Further investment in COMPANY  
+UK demonstrates political intent to “level up” the UK.  
+46. Presentational challenges are anticipated if Option 2 is approved, due to the 
+significant investment and slip against delivery forecasts (cost and schedule bridging at 
+Annex I). REDACTED.  However, if Option 1 was approved this would cause MoD 
+reputational damage, with an estimated Constructive Loss of £ XXXX . Lines to take will 
+be generated in line with IAC decision and direction.  
+NAME  
+ROLE            
+ 
+Annexes:  
+A – Expenditure to date  
+B – IOC and FOC Definitions  
+C – Key User Requirements  
+D – DELIVERABLE  Scope beyond REDACTED   
+E – DLOD Summary  
+F – DELIVERABLE  Schedule  
+G – Affordability Table   
+H – Risks  
+I – Schedule and Cost Bridge from      
+     
+Annex A to   
+DATE -DELIVERABLE  FBC-OS 
+dated DATE   
+  
+Expenditure to Date  
+  
+Project Phase   50%  
+Assessment Phase (AP)  
+Assessment Phase ( REDACTED ) IG Approval  £XXXX   
+DELIVERABLE 1+  Approval  £XXXX  
+DELIVERABLE 2  Approval  £XXXX  
+DELIVERABLE 3  Approval  £XXXX  
+MG 1  Approval  £XXXX  
+MG 1 RN  Approval  £XXXX  
+MG 1 RN  Approval  £XXXX  
+TOTAL  Approval  £XXXX  
+Estimate to 
+complete  £XXXX  
+    
+ Annex B to   
+DATE -DELIVERABLE  FBC-OS 
+dated  
+DATE  
+  
+IOC and FOC Definitions  
+  
+IOC: REDACTED  
+  
+FOC: REDACTED   
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ Annex C to   
+DATE -DELIVERABLE  FBC-OS dated  
+DATE  
+  
+Key User Requirements  
+  
+The user has defined the following operational capability list to meet mission tasks:  
+  
+REDACTED  
+  
+This will be delivered by meeting the following KURs  
+  
+ 
+User Requirement  WS URD UR  
+ref  SSRD KSR ref  Justification  Measure of Effectiveness  
+Threshold  Objective  
+The user requires…          
+The user requires…          
+The user requires … 
+         
+The user requires…  
+          
+     
+ Annex D to   
+DATE -DELIVERABLE  FBC-OS 
+dated  
+DATE  
+  
+DELIVERABLE  Scope beyond REDACTED   
+  
+ 
+REDACTED       
+ Annex E to   
+DATE -DELIVERABLE  FBC-OS 
+dated DATE   
+  
+DLOD Summary  
+  
+1.   REDACTED  DLOD costs were assessed previously as part of the RN in DATE . 
+Since   approval further work has been conducted to mature DLOD scope and cost, and 
+to expand to encompass non -DELIVERABLE  elements of DELIVERABLE . DLOD maturity 
+is assessed by DELIVERY ORGANISATION  as being as expected for the stage of the 
+programme.  
+a. Training . A REDACTED  Training Needs Analysis (TNA) was completed by 
+COMPANY  in DATE  covering maintenance, support, and pilot needs, but 
+excluding synthetics. A fully developed synthetic training capability is 
+essential due to limitations in the use of REDACTED . Workshops between 
+MoD and Industry have scoped requirements of the DELIVERABLE  
+synthetic solution based around the fidelity and capabilities of the 
+REDACTED  model that needs to be developed for  PROGRAMME . 
+REDACTED. Indicative costs have been provided by industry based on 
+scaled near neighbour comparators for DELIVERABLE  and non - 
+DELIVERABLE  DELIVERABLE  elements and included in the ABL. There is 
+a dependency on OTHER PROGRAMME  to provide REDACTED .  
+b. Equipment .  DELIVERABLE s and support equipment will be delivered as 
+part of the Demonstration Contract. In addition, a Hardware in the Loop 
+(HIL) facility is required at LOCATION  to allow independent service testing, 
+including assurance of Mission Data (MD) and REDACTED  software. 
+Completion of the mission support element has been delayed; in lieu the 
+ORGANISATION  (ORGANISATION ) have assessed HIL capabilities. 
+ORGANISATION  requirements have been tailored accordingly. Industry 
+have provided cost estimates for  the HIL equipment.   
+c. Personnel . Additional MoD and contractor personnel will be required to 
+support DELIVERABLE  test and evaluation through the Demonstration 
+Contract, with a continuing requirement once spiral development 
+commences following IOC. REDACTED.   
+d. Information . Several work -strands have been identified under the 
+information DLOD. REDACTED.    
+e. Doctrine . A REDACTED  ITEAP was issued in DATE  as an Annex to the 
+main  PROGRAMME  ITEAP and has been reviewed by REDACTED . A 
+DELIVERABLE  In-Service Concept of Assurance defining the level of 
+capability expected from the ORGANISATION to assure different 
+REDACTED  capabilities is in draft and under REDACTED  review. Existing 
+REDACTED  resource will be used to support doctrine DLOD development 
+to FOC, and no significant new costs are envisaged.  
+f. Organisation . No significant costs are envisaged.      
+ g. Infrastructure . Significant new REDACTED  and deployable infrastructure 
+will be required. REDACTED.   
+h. Logistics . Industry have provided an assessment of the costs associated 
+with DELIVERABLE  / DELIVERABLE  introduction into service and annual 
+support costs. Work is ongoing to determine REDACTED.    
+i. Security . The main effort of the Security DLOD has been to support 
+development of an accreditable equipment design, and to secure alignment 
+of UK security and classification needs with the expectations of 
+AGREEMENT  partners nations and Industry. DELIVERY ORGANISATION  
+Security SMEs have also supported development of the security aspects of 
+the Infra and Info DLODs.  
+j. Spiral . Spiral costs are outside of this FBC approval but noted for 
+completeness. Spiral development is essential to field the full 
+DELIVERABLE  capability set, and to maintain capability as the threat 
+environment changes, as well as maintaining national DELIVERABLE  
+SQEP. Understanding of the candidate capabilities for the early years of 
+spiral has matured but spiral resource assumptions and cost estimates per 
+year have remained unchange d.  REDACTED.  
+.   
+k. Government Furnished Assets (GFX) . A joint MoD / Industry assessment 
+of GFX has been conducted to list all expected demands for the 
+programme. These are predominantly common assets that have been used 
+in previous AGREEMENT  contracts and have been provisioned within 
+scope and ABL e.g. development REDACTED . Additional costed risks are 
+included in the Management Reserve to address emergent GFX demands. 
+Key items include REDACTED . 
+  
+    
+  
+DLOD COSTS TABLE (DETERMINISTIC)   
+REDACTED    
+   
+   
+    
+ Annex F to   
+DATE -DELIVERABLE  FBC-OS 
+dated  
+DATE  
+  
+DELIVERABLE  Schedule  
+ 
+This schedule demonstrates the concurrency across the PROGRAMME  portfolio, and future 
+choice for PNs on the PROGRAMME  and PROGRAMME  (outside approval scope).  
+  
+L0 schedule for DELIVERABLE    
+  
+ REDACTED  
+    
+Risk Adjusted Milestone Phasing   
+REDACTED   
+  
+The REDACTED  development has adopted an agile software development. This is evident 
+through the detailed schedule and consists of regular maturity reviews and iterative software 
+development that allows a flexible and iterative approach to delivery of software function s.      
+ Annex G to   
+DATE -DELIVERABLE  FBC-OS dated  
+DATE  
+Affordability Table  
+The following table represents the forecast D&M cost (50% confidence) against CUSTOMER  provision.   
+Ye ar  1  2  3  4  5  6  7  8  9  10  Yr1-10 Total  
+-  Future 
+Years  Total  F Y  YEAR   YEAR   YEAR   YEAR   YEAR   YEAR   YEAR   YEAR   YEAR   YEAR   
+   
+Forecast  
+Cost at  
+50%  
+Confidence  
+(at P50 
+value)  
+   
+   
+   
+   EPP 
+CDEL  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+EPP  
+Fiscal  
+CDEL  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+EPP  
+RDEL 
+(PSS)  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+ESP  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+CUSTOMER  
+BTE  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+Total  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+Provision  
+(ABC  
+Outcome)  
+   CDEL  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+RDEL  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+Total  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+Variance  
+(Negative 
+represents 
+excess  in  
+provision)  
+   CDEL  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+RDEL  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+Total  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX     
+ Annex H to   
+DATE -DELIVERABLE  FBC-OS dated  
+DATE  
+Risks  
+  
+ID  Risk Description  Mitigation  Post -Mitigation  
+Prob  T  C  P  
+ 
+  Due to limited commercial profitability for REDACTED  from the 
+COMPANY  foundry, there is a risk that the REDACTED  supplier 
+(COMPANY ) may choose to leave the market and no longer support 
+the DELIVERABLE  programme.  
+Resulting in delays to schedule and cost to establish capabilities of 
+an alternative FACILITY  (none of which presently exist) & time  
+to establish relationship.  REDACTED    H  H    
+ Due to individual National interests that include generating 
+intellectual property for PROGRAMME NAME , industrial strategy and 
+capability, there is a risk of continued misalignment in programme 
+priority between Nations.  
+Resulting in delayed decision making and/ or change in programme 
+direction  REDACTED     VH      
+ Due to early PDR/CDRs and the significant time between System 
+CDR and IOC (during which the MOD has liability for obsolescence), 
+there is a risk of obsolescence post -CDR for REDACTED . Resulting 
+in a need for Last Time Buy or Fit Form and Function replacement 
+(redesign considered high cost/ schedule impact but much lower 
+likelihood).  REDACTED       VH        
+  
+ID  Risk Description  Mitigation  Post -Mitigation  
+Prob  T  C  P  
+  Because of an inability to agree underpinning program principles , late 
+proposal from Industry and timely nations approval, there is a risk 
+that proposal expires/ price negotiation takes longer  
+Resulting in funding continuity between DELIVERABLE  and     
+CONTRACT  contracts not maintained with non -linear schedule 
+delays.  Continuous engagement 
+with 
+COMPANY /AGREEMENT  
+to support  
+scoping and timely 
+contracting.    M  L    
+ 
+      
+ Annex I to   
+DATE -DELIVERABLE  FBC-OS 
+dated DATE   
+  
+Schedule and Cost Bridge from    
+  
+The following waterfall diagram shows the drivers for deterministic schedule variance from those noted.  
+  
+REDACTED

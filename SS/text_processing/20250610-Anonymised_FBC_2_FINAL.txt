@@ -1,0 +1,1483 @@
+DATE XXXXX  
+20240326-PROGRAMME NAME _   _Mk1_Cat _A_FBC_ FINAL _AL1 -OSC  
+ 
+PROGRAMME NAME  : Category  X Full Business Case for a Revised 
+Acquisition and Sustainment  Approval  
+ 
+Executive Summary  
+ 
+Approval of the PROGRAMME NAME  Full Business Case (FBC)  will enable the delivery of  a 
+critical operational capability to fill a gap in defence of the UK and allies, a gap that has 
+been present since the retirement of REDACTED in DATE . The delivery of PROGRAMME 
+NAME  also enables  the UK to  deliver REDACTED , a commitment that  is critical to political  
+and operational relationships . Additionally, c ontinued support to REDACTED  places  the UK 
+in a strong diplomatic  position,  building valuable international relationships  as the UK leads 
+the way with the current DELIVERABLES  baseline . 
+ 
+The Outline Business Case (OBC)1 approved the acquisition of PROGRAMME NAME  
+DELIVERABLES  to be operated from LOCATION , with an Approved Budgetary Level (ABL) 
+totalling £ XXXX . Subsequently , the Integrated Review (IR) in DATE  reduced the acquisition 
+to three DELIVERABLES  and changed the operating location to CUSTOMER  OTHER 
+LOCATION , to take advantage of synergies with OTHER PROGRAMME , with a reduction in 
+cost of  £XXXX . The PROGRAMME NAME  FBC requests approval for an updated not to 
+exceed (NTE) ABL of £XXXX , comprised of £XXXX  (reduction  of £XXXX  against OBC ) for the 
+revised acquisition of DELIVERABLES  and an initial su stainment  support solution  uplift of 
+£XXXX  for X years , required  to be in place by DATE ; an In -Service Date (ISD) of  DATE (P70), 
+Initial Operating Capability  (IOC)  of DATE , a Full Operating Capability  (FOC)  of DATE  and an 
+Out of Service Date (OSD) no earlier than DATE . 
+ 
+ 
+1. Issue . The PROGRAMME NAME  requires approval for : an updated ABL for acquisition 
+following IR  decisions ; a Sustainment ABL for a  XX-year contract  to align with the next OTHER 
+PROGRAMME  contract break, enabling efficiencies to be exploited; and approval of programme 
+milestones.  
+ 
+2. Timing.  Urgent  to support the award of the PROGRAMME NAME  sustainment contract by 
+DATE  and enable  a contractor  mobili sation period ahead of ISD. 
+ 
+Recommendations  
+ 
+3. The Approving Authority  is invited to approve : 
+ 
+a. A combined Acquisition and X-year Sustainment NTE ABL (outturn, inclusive of all non -
+recoverable VAT at 50% confidence)  of £ (XXXX uplift of £ XXXX ), comprising : 
+ 
+(1) £XXXX  RDEL . 
+ 
+(2) £XXXX  CDEL . 
+ 
+ 
+b. Provision of £XX FOREX risk for future costs  that are outside  of the ABL , of which 
+£XXX  is the variation between the X Economics Monitor ( XEM) rates and the Corporate 
+Planning Assumption (CPA) . 
+ 
+ 
+   c. A revised In -Service Date (ISD) and return to operations date of DATE  (P70), driven by 
+the modification and acceptance of REDACTED  #1. Programme milestone definitions are at 
+Annex A. 
+ 
+d. An Initial Operating Capability (IOC)  date of DATE driven by the provision of 
+DELIVERABLES . 
+ 
+e. A Full Operating Capability  (FOC) date of DATE  driven by  REDACTED to deliver the 
+defined rate of effort  and delivery of  DELIVERABLES.  
+ 
+4. The Approving Authority  is invited to note : 
+ 
+a. Approval of this FBC is required no later than DATE , enabling a  XXXXX  contract for a  
+DATE mobilisation . Any approval delays will reduce the mobilisation period increas ing 
+delivery risk against achieving ISD  and operational output . 
+ 
+b. The reduction in cost associated with IR scope changes is £ XX. The details are 
+provided in Annex C.  
+ 
+c. The approved  Key User Requirement s (KURs)  are at Annex D. 
+ 
+d. The forecast Programme  benefits,  and associated Defence Strategic /Enabling 
+Objectives a re at Annex E. 
+ 
+e. The 10/50/90% confidence levels modelled for this ABL are outlined below. A 
+breakdown of the 50% cost is at Annex C . 
+ 
+Project Phase  Estimated Cost (£M)  
+10% 50% 90% 
+FBC PERIOD TO END DATE (INCLUSIVE 
+OF SUNK COSTS)  XXXX  XXXX  XXXX  
+WHOLE LIFE COST TO END DATE OSD 
+(INCLUSIVE OF FBC COSTS)  XXXX  XXXX  XXXX  
+OBC P50 WLC FOR COMPARISON  XXXX  
+ 
+Table 1. PROGRAMME NAME  Summary . 
+ 
+f. An overview of the Sustainment solution is at Annex F. 
+ 
+g. An update on the Acquisition Programme is detailed at Annex G. 
+ 
+h. Technical Infrastructure cost within the ABL is £XXXX, the profile  is at Annex C. 
+ 
+i. The sunk costs to date are £ XXXX. 
+ 
+j. The 10/50/ 90% confidence levels  from the DELIVERY   Schedule Risk Analysis  (SRA) 
+are outlined below . However, I believe that t here continues to be opt imism  bias on the 
+delivery schedule  by DELIVERABLE , based upon the  continuing challenges within the supply 
+chain and DELIVERABLE ’s increased certification  requirements . Therefore, I would request  
+that the programme ISD is approved to P 70 IMS date of DATE , which I believe represent s a 
+more realistic  delivery schedule .   
+ 
+ Deterministic  10% 50% 90% 
+#1 EDD  DATE  DATE  DATE  DATE  
+#2 EDD  DATE  DATE  DATE  DATE  
+#3 EDD  DATE  DATE  DATE  DATE  
+   Table 2. PROGRAMM E NAME  Equipment Delivery SRA Dates . 
+ 
+k. An Assessment Study to provide options and costs  for the resolution of  pan-DLOD 
+issues , amplified  by the decision to base PROGRAMME NAME  at   OTHER LOCATION , will 
+be conducted . The resulting actions  will be prioritised and allocated to owners  who will 
+submit  business case s outside of this approval . 
+ 
+l.   PROGRAMME  Delivery Team will be required to grow  by XX FTE to ensure 
+Programme delivery . 
+ 
+Five Case Narrative s 
+ 
+Strategic Case  
+ 
+5. Acquisition . The capability requirement  and urgent need  presented in the OBC and 
+previous  RN remains extant.  The IR-mandated reduc tion in  PROGRAMME  PROGRAMME  can 
+deliver the minimum capability required by the COUNTRY , including  the planned contribution to  ; 
+however,  the volume of tasking  that can be achieved  is significantly reduced . A DELIVERABLES  
+can deliver c.X% of the output when compared with the original approval for DELIVERABLE  
+detailed at OBC.    has completed an assessment against the KUR threshold and objective 
+measures  and have confirm ed that DELIVERABLES  can deliver the minimum capability required 
+by the COUNTRY . Additionally,  a move  to   DELIVERABLES  reduction in DELIVERABLES 
+numbers from nine to seven, and  a reduction in simulator devices , was required to achieve  the 
+mandated savings . The relocation to LOCATION  is expected to achieve efficiency through co -
+location with DELIVERABLES  (also a DELIVERABLES ). Colocation of PROGRAMME NAME  at   
+DELIVERABLES alongside DELIVERABLES , also enables  significant  operational training 
+opportunities  that will enhance the DELIVERABLES  effectiveness of both DELIVERABLES .  
+ 
+6. The single  source acquisition with COMPANY NAME  is fully committed through a contract to 
+deliver three DELIVERABLES  and REDACTED under a Firm Price contract . Initially,  training  will 
+be delivered through an innovative combination of system  and cognitive training systems .  
+ 
+7. Sustainment. The Sustainment solution ha s been developed since  DATE  utilising  
+experience and comparisons with other COUNTRY  fixed OTHER programmes , including 
+PROGRAMME NAME . The   have also engaged with SYSTEM NAME  System Programme Office  
+(SPO)  at OTHER LOCATION  to learn from their experience and develop areas for co -operation . 
+The OTHER Programme has benefited  significantly  from the DELIVARABLES experience , which 
+includes over XX years of operational output and capability sustainment.  Since the decision  to 
+relocate the DELIVERABLES to LOCATION , the s upport solution has been revised to be within the 
+same contract with NAME  as PROJECT NAME  to maximise efficiencies, opportunities,  and 
+coherence between the DELIVERABLES . Building on this initial co -operation and coherence, the 
+near-term intent for the follow -on Pricing Period is to mature  a combined DELIVERABLES  through -
+life support strategy , develop ing a joint support  system and align ing the support contract  elements , 
+which will bring operational, resource and fiscal efficiency . An overview of the Sustainment solution 
+is at Annex F.  
+ 
+8. Dependen cies. The key P rogramme  dependencies  include : 
+ 
+a. PROGRAMME NAME  Programme.  The UK PROGRAMME NAME  Pg is benefitting 
+significantly from the modifications that the DELIVERABLES  is funding under the upgrade 
+programme, including REDACTED  and DELIVERABLES improvements . There are no further 
+costs attributable to the UK for this dependency.  
+ 
+b. DELIVERABLE Training . The COUNTRY DELIVERABLES  personnel will provide the 
+foundational  SQEP  of the future force . The COUNTRY  will remain dependent on 
+REDACTED   for the ground training of the personnel allocated to the first CONTRY  
+PROGRAMME NAME  Operational Conversion Unit course  with access to training until the   UK training is  in place . There are no further costs attributable to the COUNTRY  for this 
+dependency.  
+ 
+c.   (XX). XX will provide the Communications  & Information System s (outside of the    
+provision ) and REDACTED to operate the DELIVERABLE . All costs to the PROGRAMME 
+NAME  Programme have been factored into the Cost Model associated with this FBC.  
+ 
+9. Future growth . Opportunities for future , spiral  development of the PROGRAMME NAME  
+capability are highlighted at Annex I, which  are national choices  outside the scope of this FBC.  
+MOD will continue to work closely with partners through the relationship with OTHER COUNTIRES 
+to monitor, develop and drive efficiency into future upgrade options . A separate approval will be 
+sought at an appropriate time should the COUNTRY  choose to join a collaborative modification 
+programme . Such opportunities include:  
+ 
+a. Follow -On PROGRAMME NAME Improvement Programme . The UK is monitoring 
+the development of REDACTED.  The UK has contributed XXXX to the concept phase of this 
+capability  and will continue to have access t o reports and progress through the Working 
+Groups. It is possible that the capability  will be fielded with the REDACTED in the DATE XX . 
+This will pre sent a significant  optional  opportunity for a UK PROGRAMME NAME  upgrade at 
+an appropriate time.   
+ 
+b. REDACTED . The REDACTED  to their DELIVERABLS . The addition of REDACTED  
+will enable REDACTED  and DELIVERABLE  document sharing. The REDACTED  will 
+continue to monitor development of the capability  and present a business case at an 
+appropriate time.  
+ 
+c. DELIVERABLES . Future alignment with DELIVERABLES , will bring efficienc y to both 
+programmes.  Aligning with the REDACTED , managed and delivered government to 
+government will likely bring financial efficiency , operational benefits around REDACTED  that 
+would not be normally possible. A business case for both elements will be submitted at an 
+appropriate time.  
+ 
+Economic Case  
+ 
+10. Acquisition Value for Money (VfM) . In the original assessment of value for money, based 
+on the procur ement of  DELIVERABLES , the ‘cost per DELIVERABLE ’ was £XXXX, which 
+compared well with higher costs incurred for other nations’ procurements (which ranged from 
+£XXXX-£XXXX per DELIVERABLES  Reducing to DELIVERABLES  and relocating to LOCATION  
+increases the acquisition cost per DELIVERABLES  to c.£XXXX. This still compares favourably 
+against other customers; COUNTRY  (£XXXX), COUNTRY  (£XXXX) and COUNTRY (£XXXX). The 
+most recent estimate for acquisition is XXXX for the modification of  PROGRAMME  equating to 
+XXXX per DELIVERABLES . 
+ 
+11. Sustainment Solution VfM. The PROGRAME NAME  Sustainment solution and the 
+development of the cost model  has been informed by  several  specific elements; these are listed 
+below : 
+ 
+a. PROGRAMME NAME  gov-gov engagement regarding the in -service experience and 
+costs.  
+ 
+b. The PROGRAMME  Sustainment proposal with extant supply chain for technical and 
+logistic support , exploiting their internal processes across the wide r supply chain , including 
+commercially available catalogue prices  and DELIVERABLES spares from COMPANY  for  
+specific DELIVERABLES S pares. 
+ 
+c. DELIVERABLE  has developed a  Make or Buy Plan that outline s which of the 
+sustainment services will be performed ‘in -house’ and which will be sub-contracted , including 
+its rationale for these choices . Where services are to be  sub-contracted, the Make or Buy   Plan outlin es which work packages will be sourced via competition and , where compe tition is  
+not viable, the rationale for direct supply is articulated  within the plan . 
+ 
+d. In line with  the Make or Buy Plan, DELIVERABLE  is undertaking sub -contract 
+competition for several elements of the sustainment  solution  spanning areas such as : 
+DELIVERABLE  spares procurement and repair ; and procurement and s upport for tools, test 
+equipm ent and ground equipment . These are in addition to areas previously competed and 
+embedded in the OTHER PROGRAMME  A&TSP contract , to which PROGRAMME NAME  is 
+being added .  
+ 
+12. VfM is also being incorporated through exploiting DELIVERABLE  common spares with as 
+well a  DELIVERABLE  as common support service  opportunities  with DELIVERABLES (e.g. 
+maintenance and logistic services) . Further VfM opportunities are being realised through utilising 
+wider commodity support solutions through the  DELIVERABLES . The intent  in the future is to 
+expand the co-operative support elements for the ORGAISATION  PROGRAMME NAMES  
+solutions to drive further opportunities and VfM. As discussions between the PROGRAME NAMES  
+mature, areas for potential sustain ment co -operation and coherence will also be investigated and 
+pursued. Considering these factors,  it is assessed that the current proposition represents good 
+VfM. 
+ 
+13. Price . As outlined  in para 19 ,  REDACTED  are undertaking an Allowable Cost Review (ACR) 
+of the PROGRAMME NAME  Sustainment proposal , and their analysis and output will inform the 
+DELIVERABLES  negotiating position prior to contract award. The scope of the ACR will include  
+Prime contractor costs , major COUNTRY  sub-contractors and elements of COUNTRY  costs. In 
+addition, the  DT has utilised the COUNTRY  Financial Information  Services  (FIS)  to audit 
+DELIVERABLE Defence COUNTRY  (XXX) costs and the DELIVERABLE  Management  Agency  
+(DCMA) will audit the DELIVERABLE  costs  on receipt of the final proposal . PROGRAMME NAME 
+(PWC) ha s also support ed the PROGRAMME in assessing efficiencies and opportunities , which 
+has inform ed the DT’s negotiation strategy . 
+ 
+14. The PROGRAMME NAME  programme FYXXXX  sustainment budget  has been provided gov -
+gov and indicate s a cost of ~£ XXXx for FY XXX, whereas to  COUNTRY  costs, estimated from  
+PROGRAMME s Drop 2 proposal , will be  £XXXX-£XXXX/yr at steady state . Both the COUNTRY  
+sustainment solution s have the same core elements, scope and are largely driven by fixed costs 
+(hence the COUNTRY  solution is not XX% of the COUNTRY cost) and scheduled maintenance . 
+The   sustainment  solution  is a X-year contract  and whilst it supports a DELIVERABLE , it was last 
+signed  within a different economic climate than today. This pr ovides an indication of cost and VfM 
+for the COUNTRY  sustainment cost, that will be further analysed and used to support DT contract 
+negotiat ions as outlined above. The intent is to finali se negotiations in Q4 XX with contract award 
+by DATE XXXX . 
+ 
+15. FOREX . The PROGRAMME NAME  Sustainment contract amendment will be priced and 
+paid in a combination of COUNTRIES . This approach is considered best value for money, 
+compared to the likely cost of industry holding the exchange rate risk in the current economic 
+climate.  
+ 
+ 
+ 
+ 
+Commercial Case  
+ 
+16. Sustainment Procurement and Commercial Strategy . The procurement strategy for 
+PROGRAMME NAME Sustainment is to place a single -source amendment to the extant 
+DELIVERABLES and Training Support Provider (A&TSP) contract  with PROGRAMME . This will  
+create a framework that will enable the progressive implementation of an integrated 
+PROGRAMMES  support solution. The initial priced period of performance for PROGRAMME 
+NAME  sustainment  services will be X years, comprising a X-month mobilisation period and X years 
+of execution of su stainmen t services , which will align with the next PROGRAMME  support contract   break point.  This period will be sufficient to inform the pricing of the next pricing period and will 
+ensure that future PROGRAMME NAMES  pricing periods are harmonised, thereby enhancing the 
+Department 's commercial leverage.  
+ 
+17. The procurement is excluded from the Defence and Security Public Contract Regulations 
+2011 (DSPCR) under Regulation 7(1)(a) due to the requirement for the provider to access 
+nationally sensitive information. This exclusion was authorised by the Directorate  of Security and 
+Resilience in DATE . The single source justification , which has been endorsed by MOD Legal 
+Advisors , is based on technical reasons and intellectual property rights (IPR) restrictions ; a 
+Voluntary Transparency Notice was published in DATE XX X without challenge . Contract 
+negotiations are ongoing and are expected to conclude in Q3 YR XXX , ahead of a contract award 
+in DATE XXX . A comprehensive  Commercial Strategy has been developed ; this is summarised at 
+Annex K. 
+ 
+18. Supply Chain . DELIVERABLE  will be the Prime contractor responsible for delivery of all 
+contracted elements of the PROGRAMME NAME . DELIVERABLE  is currently providing a similar 
+service scope for PROGRAMME  under the DELIVERABLE  contract  (noting that  PROGRAMME 
+has a larger FMS element than  PROGRAMME ), with no reported performance issues. 
+Approximately XX% of the contract (by value)  will be subcontracted by DELIVERABLE  either to 
+other DELIVERABLES  entities in the COUNTRIES , or to third-party suppliers .  
+ 
+19. Performance  and Incentivisation . PROGRAMME NAMES will have a standalone 
+performance management regime, with KPIs measuring the outputs of the key levers of availability: 
+scheduled maintenance output, unscheduled spares provision, training, technical services, and 
+system availability. All KPIs will be lin ked to performance deductions of up to XX% of the 
+contractor’s baseline profit , utilising combinations of temporary and permanent  deductions.  An 
+incentive adjustment of up to X% of the total allowable costs may be included, subject to 
+agreement of an appro priate, measurable performance enhancement . 
+ 
+20. Pricing Strategy . The contract will contain a pricing mechanism that demonstrably 
+represents best V fM. The price for Pricing Period 1 (PP1) remains an outstanding item for 
+negotiation . It is anticipated that the X-month mobilisation period will be firm priced  and t he price 
+for the service delivery phase will be informed by an analysis of uncertainty and risk that is 
+currently being undertaken with the support of   Cost Engineers , Defence Economics , and the 
+NAME  Contract Management Agency ( XCMA ). The A&TSP contract is a QDC and, therefore, 
+prices will be agreed in accordance with the Single Source Contracting Regulations (SSCR)  and 
+statutory  guidance on Allowable C osts.   
+ 
+21. Limitation of Contractor’s Liability . The contract will not  require COMPANY NAME  to 
+accept uncapped liability and will provide  caps  against the five Heads of Loss defined by MOD 
+policy . This approach is not expected to create any new contingent liabilities for the Department  
+(noting the XXXXX contract has two reported contingent liabilities relating to pre-approved 
+indemnities) . 
+ 
+22. Social Value . The sustainment contract will include measurable outcomes relating to the 
+delivery of social value against the themes in the Social Value Model identified as being most 
+relevant to the Programme : tackling economic inequality, fighting climate change and equal 
+opportunity.  The agreed metrics for PP1 will measur e DELIVERABLES s contributions in several  
+areas that are designed to create social value in and around the OTHER LOCATION  area. These 
+typically include outreach work in local education establishments (e.g., careers fairs, pre -
+employment workshops, etc.), providing work experience and apprenticeship placements and 
+working with local authorities to support environmental campai gns. 
+ 
+Financial Case  
+23. Against PCR 2 -DATE  the programme is unaffordable in total cost and profile. The total increase 
+is driven principally by the addition of Management Adjustment for Realism (£ XX), the procurement 
+of a spare DELIVERABLE , previously articulated as a Risk Outside Costing (£ XX), the addition of   DELIVERABLES  support (£ XX) and additional technical infrastructure regulatory compliance (£ XX). 
+Profile changes have been driven by a delay to DELIVERABLES delivery, which has impacted the 
+requirement for the initial provisioning of spares and ground support equipment which moves £ XX 
+from FY XXXX  into XXXX.  The P9 and S9 affordability  position against PCR 2-DATE  is outlined 
+below . Costings are based on Annual Budgetary Cycle (ABC) YRXX CPAs.  
+ 
+ 
+ 
+ 
+Table 3.  PROGRAMME NAME Cost Summary . 
+ 
+24. The affordability profile presented in Table 3 reflects a Not  to Exceed (NTE) basis of costing . 
+Options have been generated to reduc e PCR 2 -DATE cost growth , the detail s of which are at 
+Annex C Table 3 . Consequently, it is anticipated that  PCR 1 -DATE  will see an overall reduction in 
+cost. Due to the political imperative reflected in the Defence Plan , and a s a priority programme 
+within CUSTOMER have accepted the pressure and have agreed to provide the SRO with a CT to 
+cover the programme cost . 
+ 
+25. Since Contract award in  DATE XXX  to DATE XXXX , the main acquisition contract has sunk 
+costs of £ XXXXX , with a further £ XXXX sunk on technical infrastructure. Remaining costs to 
+deliver the remainder of the Acquisition Programme of Record are £ XXXX and £ XXXX for technical 
+infrastructure.  
+ 
+26. The ABL has been calculated using Defence Economics FOREX Monitor Rates f or DAT E. 
+Comparison with the costs presented for affordability which have been calculated using the  
+ABCXX   Corporate Planning Assumptions, identifies a USD exchange rate volatility of -£XXXX; 
+this will be mitigated centrally through budget rebalancing measures in accordance with current 
+finance instructions . 
+ 
+Management Case  
+27. Governance, Approvals & Assurance. The PROGRAMME NAME  Programme is classified 
+as a Category ‘ X’ investment and falls under D efence Major Projects Portfolio (DMPP)  and 
+Government Major Projects Portfolio (GMPP) . The Integrated Approvals and Assurance plan 
+(IAAP) and the Specific Evidence Table  (SET) has been endorsed by Strategic Finance Investment 
+Approvals (SFIA ) and Scrutiny respectively  and demonstrates that the programme  continues to  
+engage in all mandated Governance , Approvals and Assurance activities including  Programme 
+Boards,  Assessment Gates and Information notes . The PROGRAMME NAME  Programme 
+adheres to the  Project Management Control Framework (PMCF)  and a ll mandated  programme 
+artefacts  required  are referenced in the Programme  Definition Document  (PDD) .  
+28. Milestone Delivery Confidence . The key Capability Milestones  of ISD, IOC and FOC  are 
+driven by c onfirmation of DELIVERABLES  estimated delivery dates  (EDD) of P10, P50 & P90 as 
+deter mined  by the Schedule Risk Analysis (SRA) . The Integrated Master Schedule (IMS) has 
+incorporated the Pan-DLOD  delivery outputs  based on ‘most likely’ dates and P50 date for 
+DELIVERABLES  as agreed by Assurance and Scrutiny Communities.  A Schedule Narrative and 
+Plan on a Page (POAP)  level 0 & 1 Schedule displaying timelines of all DLODs  key deliverables  is 
+displayed  in Anne x B. DLoD Strategies and output  requirements for ISD, IOC and FOC are also 
+displayed  Annex L. However,  concerns remain over COMPANY ’s ability to  deliver  against the  
+schedule, based upon the continuing challenges within the supply chain and DELIVERABLE ’s 
+increased certification requirements  and hence the request for  acceptance of the  IMS P90 ISD of 
+DATE XXXX . 
+29. Management Plans . The PROGRAMME NAME  Programme has a variety of Management 
+Plans to ensure delivery of programme milestones , captured in Annex  M. 
+30. Risk Management . Programme and DLOD -level risks are managed via SYSTEMS  risk 
+register where all high -level risks are assigned a risk owner and appropriate risk mitigations. Risks,   Assumptions, Dependencies, Issues & Opportunities (RAIDO) Working Groups  with all DLODs  are 
+held regularly . All Programme Risks are discussed at Programme Boards.  A Risk Complexity 
+Assessment RCA has been completed  highlighting top risk s across the DLODs  and Programme . A 
+list of top p rogramme risks, issues  and mitigations are captured at Annex N. 
+Top-5 Programme Risks  
+a. Funding insufficient to support IOC & FOC sustainment req uirements  - Signifi cant 
+delays to the approval of this FBC or rejection will render the  PROGRAMME DELIVERABLE  
+unsupportable  requiring storage , care and maintenance  or disposal.  
+b. Security Accreditation - Failure to gain security assurance ( REF). The complexity of 
+security requirements across the Programme delays ISD  as the capability can’t be accredited 
+through traditional methods or  accepted under Secure by Design.  
+c. Impact on operational output due to insufficient Profession Workforce levels ( REF). 
+Insufficient recruitment across the professions  results in the inability to complete tasking or 
+the engineering support to the DELIVERABLE . 
+ 
+d. Unable to meet national and operational commitments due to late DELIVERABLE  
+delivery .  Unexpected emergence of risk delays the ISD of the PROGRAMME , extending the 
+gap in its contribution to REDACTED . 
+ 
+e. Insufficient trained personnel to achieve operational Programme milestones ( REF). 
+Delays within the equipment project s result in a delay to REDACTED  against IOC and FOC 
+requirements.  
+  
+31. Learning from experience  (LFE). The PROGRAMME NAME  Programme adheres to the 
+LFE Strateg y. Lessons learn ed on the Programme are pushed  to the wider portfolio via the LFE 
+register.  An PROGRAME NAME  Log captures Lessons Identified pulled from other sources and 
+that have  been utilised  on the Programme . The ongoing plan of promoting  LFE culture  across the 
+Programme  is detailed in the TLMP . The XXXX  Project Evaluation Plan also provides an 
+assessment plan to Identify Lessons.  The top -lessons Identified are detailed at Annex P. 
+32. Presentation and Handling . The PROGRAMME NAME Programme priority is to return to 
+delivering   operations under the extant Memorandum of Understanding , written for REDACTED . 
+The politic interest in withdrawing the UK’s contribution in kind, vice a financial contribution  to 
+funding, continues to intensify as the Programme delays. However, REDACTED , the UK has 
+experience and opportunities to offer.  
+33. Delays to  PROGRAMME NAME  ISD. The reasons for PROGRAMME NAME  Programme 
+delays and the impact to UK Defence has also gained significant interest, particularly during the 
+recent House of Commons Defence Committee review into REDACTED . Delays  are not 
+attributable to a single contributing factor but  a combination of  parts supply , availability of skilled   
+technician s due to the rejuvenation of the sector , and the increased certification activity  required 
+across the industry post -DELIVERABLE  Max incidents . The MOD is working closely with 
+DELIVERABLE  to find opportunities within the modification schedule, including DELIVERABLE ’s 
+incentivisation of the supply chain, bonus payments to retain the skilled workforce and parallel 
+activity through certification to drive efficiency.  The MOD’s Firm Price contract with COMPANY 
+NAME  will continue to hold leverage , as the costs associated with any delays will be absorbed by 
+COMPANY NAME  until completion.  
+34. For example , a result of the forecast late delivery of the first DELIVERABLES , there will be a 
+significant impact on COMPANY NAME ’s cashflow position as the MOD will defer payment of 
+XXXX  until associated programme milestones are achieved. COMPANY NAME  has also lost the 
+opportunity to earn an incentive payment of up to XXXX  that would have been payable if the first 
+DELIVERABLES  was delivered before the contracted delivery date.    35.   Agreement .  The Programme name  relationship with COUNTRY  and COUNTRY continues 
+to strengthen, with a Vision Statement for the nations signed in DATE . The intent of the Vision 
+Statement is to drive  capability development, operational efficiency, and global sustainment  of the 
+platform, working together as a single voice to DELIVERABLE  and peripheral suppliers. The UK 
+Programme remains in a strong position due to its modern PROGRAMME NAME baseline that the 
+COUNTRY will build upon . The strength within this relationship has the potential to provide 
+continued influence  over the development of the capability, access to COUNTRY  training and 
+testing ranges and  support from the nations in times of conflict . 
+36. UK Defence Industrial Resilience . The forecast DELIVERABLE  Industrial Resilience 
+benefits associated with the PROGRAMME NAME  Programme are at Annex J. The 
+PROGRAMME NAME l Programme is expected to create X new enduring, highly skilled jobs in the 
+UK, with around X of these already created under the acquisition and infrastructure projects. Of 
+these additional jobs, COMPANY NAME  expects an extra X jobs to be created in direct support to 
+UK PROGRAMME NAME . In the longer term, the aim is to grow the UK industrial base in support 
+of PROGRAMME NAME  and OTHER PROGRAMME  Programmes, including options for Depth 
+maintenance within the UK, potential support to the PROGRAMME  Programme and other global 
+customers as they co mmit to the capability in future years.  
+NAME  
+RANK  
+Senior Responsible Owner  
+ 
+ 
+Annexes : 
+ 
+A. Programme Capability  Milestones . 
+B. Integrated Master Schedule Summary.  
+C. ABL and Whole Life Cost Financial Breakdown at XX%. 
+D. Key User Requirements.  
+E. Programme Benefits . 
+F. Sustainment Solution  Overview . 
+G. Acquisition  Update . 
+H. Infrastructure Updat e. 
+I. PROGRAMME NAME  Capability Roadmap.  
+J. DELIVERABLE  UK Prosperity Graphic.  
+K. Commercial Strategy Overview.  
+L. DLoD Strategies.  
+M. Management Plans . 
+N. Top-5 Programme and Top -10 Sustainment Risks . 
+O. Learning from Experience - Less ons Identified .   Annex  A – Programme Capability Milestones  
+ 
+  
+Capability Milestones   
+ 
+ID  Title  Description   Date  
+1 In-Service Date 
+(ISD)  DELIVERABLES delivered to LOCATION  capable of being operated by suitably qualified UK personnel.  DATE  
+(P50) 
+ 
+DATE  
+(P70) 
+2 Initial Operating 
+Capability  
+(IOC)  The military capabilit y required to REDACTED .  DATE  
+3 Full Operating 
+Capability  
+(FOC)  The military capability required to REDACTED . DATE    Annex  B – Integrated Master Schedule Summary  
+ 
+1. Schedul ing Approach.  The PROGRAMME  PROGRAMME NAME  Programme  Level 0 
+Integrated Master Schedule (IMS)  has been created using  three inputs; a DELIVERABLE  provided 
+deterministic schedule that has not been subject to risk analysis , a DELIVERY Schedule Risk 
+Analysis  (SRA) output  (equipment and logistics only) and the wider DLoD deterministic deliverable  
+dates .  
+ 
+a. DELIVERABLE  Schedule . The DELIVERABLE  equipment delivery schedule has only 
+been subject to limited risk analysis and remains largely deterministic. Confidence has built 
+up to the submission of this FBC  through detailed hours monitoring  for the modification 
+activity, a transparent approach to risk  management  and through consistent schedule 
+stabilisation.  
+ 
+b. DELIVERY   SRA . The DELIVERY SRA provided the P10, P50 and P90 dates for the 
+equipment delivery programme and logistics elements of the IMS. The risk analysis of the 
+DELIVERABLE  Schedule has further provided assurance to the deterministic dates provided , 
+and a solid foundation on which to place the DLoD deliverable activities. The DELIVERY   
+SRA identified DELIVERABLE  modification and delivery, and certification activity as the 
+critical path items.  
+ 
+c. IMS. The IMS is a hybrid pan -DLoD schedule built upon the DELIVERY SRA and the 
+DLoD deterministic deliverable activities.  It identifies  three capability milestones : ISD, IOC  
+and FOC , incorporat ing the pan -DLoD Level  2/3 activities  and linked dependencies . Due to 
+the availability of  scheduling tools and resource within CUSTOMER , an SRA has only been 
+carried out on the DELIVERY   activities, all other DLOD activities are deterministic  based on 
+expert  knowledge and experience . Progra mme level risks have  also been  considered and  
+factored into the durations  to present a level of realism .  
+ 
+d. Critical Path. The critical path activities associated with the PROGRAMME  
+PROGRAMME NAME  are covered in para 3(d-f) in the PROGRAMME NAME  FBC.  
+ 
+2. Schedule Assurance . Assurance of the IMS has similarly been layered at each stage to 
+provide  confidence in the resultant IMS dates.  The approach has been  agreed with the Scrutiny 
+and Approvals teams.  
+ 
+a. DELIVERY SRA . The SRA has been subject to Monte Carlo assessment  to provide a 
+level of confid ence  to the application of risk based on probability  of occurrence  and impact to 
+the Programme.   
+ 
+b. IMS. The IMS has been subject to review by an independent scheduling expert within 
+the Air Capability Portfolio Office. They have reviewed the final schedule for modelling errors 
+and checked the output to provide assurance to the final dates.  A collaborative arrangement 
+with the DELIVERY   team has also provided a valuable cross -check to ensure errors in IMS 
+calculations are rectified prior to the submission of this FBC.  
+ 
+3. Nuances . The REDACTED activities have been included in the IMS but extend beyond  ISD. 
+The issue will be mitigated using  a DELIVERABLE  (Development) . 
+   PROGRAMME NAME  Programme ‘Plan on a Page’  Level 0 P50 Schedule  
+ 
+REDACTED    Annex  C – ABL and Whole Life Cost Financial Breakdown  at 50%  
+ 
+1. ORGANISATION  costs above are deterministic.  
+2. Forex ROC Risk of £XXXX  is outside the ABL request. FOREX risk in the cost model was 
+analysed using the CAAS FOREX Assessment tool.  
+3. The -£XXXX  FOREX variation shown above between the DEM rates and the Corporate 
+Planning Assumption (CPA) rate is included in the ABL. This is the potential cost variation 
+attributable to exchange rate volatility.  
+4. Sustainment  RDEL/CDEL split is based on a joint DT/ COMPANY NAME  assessment of 
+COMPANY NAME ’s Drop 3 proposal. This will be updated DATE  reprice  proposal is assessed 
+prior to contract award and may lead to changes in DELs. RMC has not been defined at this stage 
+and will be assessed and updated during Sustainment contract finali sation.  
+5. Write -Off due to Programme of Record Change . With the reduction in scope of the 
+PROGRAMME  capability in FY DATES  post the Defence Integrated Review  (IR), the deposits paid 
+for those two   £XXXX, along with £ XXXX of Infra costs for work done prior to the decision to move 
+the PROGRAMME  were written off.   Also, in F YXX/XX additional infra costs totalling £ XXXX were 
+also written off.   Once the acquisition contract is complete, a review of the final costs will be 
+undertaken to assess if there are any further write offs due to the Programme of Record changes.  
+6. Reduction in Cost Explanation . The Programme is predict ing reduction in costs of circa 
+£XXXX from the IR decision, which is broken down as follows:  
+m. Acquisition cost reductions of £ XXXX. This included the removal of 
+DELIVERABLE S from the programme , and a reduction in spares procurement costs 
+achieved through using assets already produced for the DELIVERABLE to offset planned 
+initial provisioning procurement.  
+n. Infrastructure savings of £ XXXX . This is made up of a saving of £ XXXX in 
+infrastructure build costs through the decision to co -locate the DELIVERABLE  with the   
+OTHER PROGRAMME  at  , which removed the need for REDACTED  and allowed co -share 
+of LOCATION . Secondly, DELIVERABLE  had agreed to contribute £ XXXX to the 
+construction of the  LOCATION  in return for being able to generate third -party revenue for 
+the company through the use of REDACTED  from other customers. While this will now be 
+needed for PROGRAMME  maintenance, MOD negotiated an agreement with DELIVERABLE  
+which recognised that the alignment of PROGRAMME  and maintenance contracts would 
+generate additional revenue for the company, and in return DELIVERABLE  agreed to honour 
+its original £ XX contribution.  
+o. Predicted Sustainment cost reductions of £ XX out to DATE XXX . These are 
+modelled costs as the sustainment element of the Programme had always intended to be 
+covered within this Full Business Case.  
+7. As of  DATE XX , the PXX% confidence of the DELIVEABLE  ISD has been identified a s DATE 
+XX. This is  when the sustainment contract needs to be ready to support an DELIVERABLE  and 
+provide critical associated services . The delays  due to the DELIVERABLE B uild programme has 
+realised £XX of further cost reductions  from the original  sustainment contract  period  out to  DATE 
+XXX. When  combined with costs of an additional £XX for an DELIVERABLE  engine , a cost of £ XX 
+for modelled cost inflation out to the end of the first sustainment period and modelled inflation cost 
+of £XX out to YR XXX  (to align with IR and years 1 to 9 of ABC XX), a total forecast cost reduction 
+of £XXX is achieved  against the programme.  
+ 
+ 
+   Table 1 . Revised sustainment contract  cost reductions after PPST YR XXX  published position.  
+ 
+ 
+8.  The Acquisition ABL  Journey . The OBC excluded sustainment and only approved the 
+acquisition of DELIVERABLE , with an Approved Budgetary Level (ABL) totalling £ XXXX. The IR 
+decision to reduce to DELIVERABLE  and co -locate the DELIVERABLES  at   with OTHER 
+PROGRAMME  realised significant cost reductions  along with DELIVERABLE  missing 
+incentivisation payments  for delays in DELIVERABLE modification. Increases in FOREX and 
+inflation over the period added significant cost into the programme that had to be absorbed. This 
+concluded with a YRXX  PPST position  of £XXXX. Since DATE XX , changes in scope ha ve 
+reduced  costs  by £XXXX, but regulatory compliance changes and FOREX incurred  £XXXX of 
+additional costs. This results in an updated acquisition ABL for DELIVERABLE  of £XXXX and the 
+requested sustainment ABL of £XXXX. Combined, the Total FBC  approval is requested at £ XXXX, 
+with sunk costs to DATE XX  stand ing at £XXXX. 
+ 
+ 
+Table 2 . Journey to a revised 3 DELIVERABLE  Acquisition ABL and a Sustainment  ABL to DATE .  
+ 
+9. Affordability . The  following tabl e provides  a summary of the  FBC  Cost Model requirements, 
+affordability options and the requested Control Total s that will be supported by   Command.  
+ Costs Financial Year  (£M)  
+Item or Option  YEARS  YEARS  YEARS  YEARS  Totals  
+FBC Model (RDEL) NTE  XXXX  XXXX  XXXX  XXXX  XXXX  
+Costs brought forward to FY  XXXX  XXXX  XXXX  XXXX  XXXX  
+VAT rebate  XXXX  XXXX  XXXX  XXXX  XXXX  
+Revised CT Request 
+(RDEL)  XXXX  XXXX  XXXX  XXXX  XXXX  
+FBC Model (CDEL) NTE  XXXX  XXXX  XXXX  XXXX  XXXX  
+Costs brought forward to FY  XXXX  XXXX  XXXX  XXXX  XXXX  
+VAT rebate  XXXX  XXXX  XXXX  XXXX  XXXX  
+Revised CT Request 
+(CDEL)  XXXX  XXXX  XXXX  XXXX  XXXX  
+ 
+Table 3. Affordability Options and  Control Total Request.  
+    Annex D  – Key User Requirements (KURS)  
+ 
+1. The table  below  illustrates the KURs,  and acceptance criteria  requirements associated with  
+the  Programme2. In DATE , the   Board Executive Committee , and subsequent Joint Requirements 
+Oversight Committee  (JROC ) endorsed  the KURs3, commenting that they  found the 
+“recapitalisation argument compelling ”. The DATE  JROC confir med there was no requirement for 
+further JROC endorsement prior to FBC submission4. 
+ 
+Key User Requirements  Acceptance Criteria  
+REDACTED  The User require s a capability that…  
+REDACTED  The User requires a capability that…  
+REDACTED  The User requires a capability that…  
+REDACTED  The User requires a capability that…  
+REDACTED  The User requires a capability that…  
+REDACTED  The User requires a capability that…  
+REDACTED  The User requires a capability that…  
+REDACTED  The User requires a capability that…  
+  
+ 
+2DATE -Redacted  KURs and URD_v2 DATE  -OS 
+3 DATE -JROC  CSP Outletter  
+4 DATE - Feb JROC Forward Planning    Annex  E – Programme  Benefits  
+ 
+1. The Programme Benefits  were first baselined in DATE  with t he majori ty non-monet ised. Since the base line was established,  the Benefits 
+Realisation Plan (BRP) has been subject to continued review in line with Programme Board process. Specifically,  regular  reviews  to ensure  that the sub-
+measures remained  SMART , the benefits realisation date  was tracked appropriately , and the associated evidence , risks, assumptions , and 
+depende ncies  was understood . 
+ 
+ID Priority  Benefit  Benefit Realisation  Date  SOs DSO/DEO  
+01 Primary  REDACTED  The Benefit will be realised…  DATE     
+02 Primary  REDACTED  The Benefit will be realised…  DATE  
+  
+03 Primary  REDACTED  The Benefit will be realised…  DATE    
+04 Primary  REDACTED  The Benefit will be realised…  DATE  
+   
+05 Secondary  REDACTED  The Benefit will be realised…  DATE  
+  
+06 Secondary  REDACTED  The Benefit will be realised…  DATE  
+    
+ Annex  F – Sustainment Solution Overview  
+ 
+1. Requirements Development . The PROGRAMME  Sustainment requirements were initially 
+developed in DATE  by exploiting a wide range of inputs and these have continued to be reviewed 
+and matured since that time. The initial PROGRAMME  baseline Statement of Requirement (SoR) 
+was produced using the   Support  SoR that was developed by the DT, and with COMPANY  
+consultancy support . Support requirements, LFE and inputs from other programmes have also 
+been incorporated, as well as LFE/experience from multiple discussions with the PROGRAMME  
+System Programme Offi ce (SPO) in COUNTRY . Additionally, numerous workshops took place 
+from DATES  between the PROGRAMME    DELIVERABLE , ROLE  , REDACTED  and COMPANY 
+NAME  to review and mature the SoR. In DATE  the PROGRAMME  DT released a Request for 
+Proposal that incorporated the PROGRAMME  SoR to COMPANY NAME  to develop REDACTED.    
+Support contract Periods of Performance (PoP) ( X + X-year periods). The PoP for the initial 
+contract has subsequently been agreed by DELIVERY   and COMPANY NAME , and endorsed by 
+the ROLE , to be XXX years as described in the FBC Commercial Case and Commercial and 
+Procurement Strategy.  Reducing the PoP to X reduces the risk and un certainty in the COMPANY 
+NAME  price  due to the global economic situation.  This PoP  facilitates a mobilisation period, 
+followed by in service operations to gather support , performance,  and output evidence to inform 
+follow -on Pricing Periods and VfM assessment . 
+ 
+2. DATE Integrated Review Impact on Solution . The outcome of the Defence Integrated 
+Review in DATE led to a Programme of Record (PoR) change for the PROGRAMME  
+DELIVERABLES  to be reduced from 5 to 3 DELIVERABLE  and relocated to  LOCATION  with the   
+DELIVERABLES . As part of the PROGRAMME  Senior Leadership Review (SLR) work to address 
+the PoR changes and savings required from the Programme, a 2* Heads of Agreement (HoA) was 
+signed by MOD and DELIVERABLE  that underpinned the revised acquisition, infrastructure and 
+sustainment programmes scope, strategy, assumptions/dependencies, and Estimated Maximum 
+Prices. The HoA UK Sustainment solution costing was derived by DELIVERABLE  from analysing 
+and reading -across actual costs from the  COMPANY /  PROGRAMME  programme when 
+considered against the scope/scale of a UK solution. Although the HoA is a non -legally and 
+commercially binding document, it provides the framework for the development of the 
+PROGRAMME  solution and contract. The PoR and HoA strategy and costing was also based on 
+the PROGRAMME  Sustainment solution being incorporated under the extant   ASP/TSP support  
+contract, with COMPANY NAME  as the single source Prime to the OSD. Having PROGRAMME  
+and REDACTED  under a single support  contract with the same Prime contractor enabled 
+significant opportunities and efficiencies to be developed and realised. The impact of the IR and 
+PoR changes were incorporated into the PROGRAMME  SoR and the Commercial and 
+Procurement Strategy.  
+ 
+3. Solution Development . When the PROGRAMME  Outline Business Case and initial 
+acquisition contract were being developed and staffed in DATE , the intent was to exploit the 
+knowledge and experience the SPO had with the PROGRAMME  capability and their in -service 
+support  solution. The COUNTRY  solution was Primed with DELIVEALB LE Defence COUNTRY  
+and the UK’s intent was to develop a similar Sustainment model for the UK, Primed by COMPANY 
+NAME . This would exploit the experience, develop commonalities to enable future co -operation 
+between the UK and COUNTRY  and also allow the programme to proceed at pace to meet the 
+operational requirement for the capability as outlined in the PROGRAMME  OBC. Since DATE  the 
+concepts and basis for the PROGRAMME  Sustainment solution have continued to be matured, 
+including after the release of the RfP in DATE  and prior to COMPANY NAME ’s submission of their 
+Drop 1 Sustainment Proposal in DATE . The solution development  has also assessed and 
+incorporated opportunities with   at   and with COMPANY NAME  as detailed below.  
+ 
+4. COMPANY NAME  Sustainment Proposals . Since the release of the PROGRAMME  DT’s 
+Sustainment RfP in DATE , well over 100 joint technical and commercial workshops have been 
+undertaken by the PROGRAMME  DT with COMPANY NAME  to mature the understanding of the 
+SoR, as well as to develop the solution and COMPANY NAME ’s Statement of Work. This work led 
+to an initial Drop 1 Proposal from COMPANY NAME  in DATE ; however, due to the impact of   
+ COVID and the global economic situation on materiel, resources and DEIVERABLE  and their sub -
+contractors, COMPANY NAME ’s proposal was non -contractable and contained large areas of 
+ROM estimates and assumptions on support  solution SoW/scope. To address this, further joint 
+work to mature the solution and review Drop 1 with the PROGRAMME  DT was undertaken , leading 
+to a revised Drop 2 Proposal on DATE , and a final contractable proposal delivered in DATE . 
+COMPANY NAME  is repricing the Drop 3 proposal between DATES  to reflect the latest 
+PROGRAMME  programme  assumptions and requirements , ahead of final contract negotiation in 
+Q3 DATE . The intent, as described in the Commercial Case and Commercial/Procurement 
+Strategy, is for contract award in DATE . 
+ 
+5. Sustainment Solution Scope & Opportunities with  . The PROGRAMME  solution  is for a 
+combined  REDACTED , with PROGRAMME  Sustainment services with COMPANY NAME  
+incorporated in the ASP/TSP contract for expanded support  at OTHER LOCATION  for 
+PROGRAMME , as well as reach -back into wider COMPANY NAME , DELIVERABLE  and sub -
+contractor support . The scope of the COMPANY NAME  Sustainment solution is broken into 
+REDACTED.  In addition, the solution also s upports  training , as well as the GSS, systems and 
+software s upport  and development. In the Sustainment contract the COMPANY NAME  SoW 
+describes the outputs of all the Service Lines and is supplemented by a Solution Description 
+Document that provides further detail on how each of the Service Line outputs is produced and 
+delivered. Each of the Service Lines is described below, along w ith how opportunities and 
+efficiencies with  are  being realised.  
+ 
+6. Base Maintenance .  COMPANY NAME  is already delivering a Base maintenance service at   
+LOCATION for  scheduled maintenance. This service will be expanded to incorporate 
+PROGRAMME  Base scheduled maintenance, which will allow COMPANY NAME  to exploit 
+REDACTED . The strategy for provision of PROGRAMME  and maintenance ( X and X yearly deep 
+maintenance for PROGRAMME ) is being developed as a joint project by both DTs, which  is 
+looking to leverage economies of scale of a joint PROGRAMME  solution. The funding requirement 
+for PROGRAMME  DELIVERABLE is included within this FBC and costing  covering the 
+requirements up to DATE  for this initial Po P. 
+7. Technical Services –  DELIVERABLE . COMPANY NAME  is the Co -ordinating Design 
+Authority for PROGRAMME .  The DELIVEARBLES Authority resides within the PROGRAMME  DT, 
+along with Crown Servant Engineering Authorities. Consequently, DELIVERABLE  will be 
+contracted and responsible as the CDO under the Sustainment contract to provide post design 
+services for DELIVERABLES worthiness, safety and engineering technical support  and advice to 
+the UK PROGRAMME  programme, including maintaining the design records, technical queries, 
+modifications, AD/SBs etc. The scope also encompasses reliability analysis, maintenance reviews, 
+fault investigations, health/usage monitoring and integrity mgt. COMPANY NAME  will act as the 
+lead for the provision and co -ordinati on of Technical Services, including DELIVERALBLES Field 
+Service Reps at LOCATION  and technical support  reach back  to the DELIVERABLE  COUNTRY  
+CDO and OEMs/sub -contractors such as COMPANY  and CFMI. As part of future evolution of the 
+service, with the agreement of the PROGRAMME  DT TAA as the strategy matures, COMPANY 
+NAME  is looking to take on Design responsibilities and privileges for the GSS and potentially areas 
+for the REDACTED  in future contract periods . 
+8. Technical Services – Continuing DELIVERABLES worthiness . Continuing 
+DELIVERABLES worthiness Mgt (CAM) of the in -service PROGRAMME  DELIVERABLES  is the 
+responsibility of the ROLE  CAM at LOCATION . The postholder has responsibility for both 
+PROGRAMME  and  DELIVERABLES . COMPANY NAME  provides CAM Support  Services 
+(CAMSS) to the Mil CAM thought the ASP contract as part of a joint CAM. The COMPANY NAME    
+CAMSS will be expanded to include PROGRAMME , providing the Mil CAM with COMPANY NAME  
+resources for both DELIVERABLES s within the joint CAM .  
+9. Supply Chain M anagemen t. There is a COMPANY NAME  logistic team at CUSTOMER  
+OTHER LOCATION  that provides spares and repairs services and s upport  to, alongside their 
+CUSTOMER  logistic counterparts in the  LOCATION  and other facilities at CUSTOMER  OTHER   
+ LOCATION . The COMPANY NAME  SCM team act as the focal point for reach -back into wider 
+DELIVERABLE  SCM spares procurement and repair services with other DELIVERABLE S, OEMs 
+and subcontractors. The logistic solution is continuing to evolve as a joint enterprise and will be 
+expanded to include PROGRAMME  through the single s uppor t contract. PROGRAMME   will 
+exploit cost reduction opportunities for a joint SCM service with COMPANY NAME , as well as for 
+common DELIVERABLE  spares, as well as in other items such as engines, gearboxes and APUs. 
+Analysis has already been undertaken to assess common DELIVERABLE  Green spares that has 
+informed the PROGRAMME  Initial Procurement spares orders during DATE  and for DATE . 
+COMPANY NAME  will provide logistic support  for PROGRAMME  DELIVERABLE  Green spares, 
+PROGRAMME  system spares, GSS devices, the OFT, and trainer. PROGRAMME  will utilize 
+standard MOD logistic IS IT tools such as REDACTED  for inventory m anagemen t and accounting.  
+ 
+10. Training .   classroom and synthetic device tr ainin g delivery for STAFF  are CUSTOMER -led 
+and supported by COMPANY NAME  resource through the Training Support Provider ( TSP) 
+element of the   suppor t contract. ROLE  and ROLE  have decided that PROGRAMME  training will 
+also deliver ed through this CUSTOMER -led approach initially to exploit coherence and ensure that 
+existing tr aining  delivery is not adversely affected. Consequently, for PROGRAMME , COMPANY 
+NAME  will provide instructors and t raining  support  resources to meet the CUSTOMER ’s 
+requirements and be part of a joint tr aining  resource at CUSTOMER  OTHER LOCATION  delivering 
+classroom and synthetic tr aining . During the initial PROGRAMME  contract PoP, further analysis 
+will be undertaken to consider whether a n alternative tr ainin g model with a DELIVERABLE  led 
+output -based training service for PROGRAMME  and   is VfM and effective in meeting the future 
+training  requirements of the CUSTOMER ; this industry -led training  service model is what is 
+currently in place for the with  COMPANY  in COUNTRY . Maintenance and s upport  of the UK’s 
+OFT and  trainer synthetic devices is covered by the Systems Service Line below.  
+ 
+11. Systems . The Systems Service Line for PROGRAMME  covers the maintenance and s upport  
+of the GSS, including the OFT and synthetic tr aining  devices. The GSS encompasses the 
+development and test labs for software for the PROGRAMME  system by COMPANY NAME , as 
+well as reach -back into OEM s such as COMPANY  and COMPANY  for hardware and software 
+support  for systems respectively through the COMPANY  SCM service. S upport also includes other 
+key equipment such as the Deployable S uppor t System.  
+ 
+12. Another vital component of the Systems Service Line is the development, testing and release 
+of system software In Service Builds (ISBs). Building on years of ISB experience within   
+COMPANY  and the  /SPO for the PROGRAMME A, COMPANY  is looking to exploit the experience 
+and processes used by  COMPANY  to read -across for the UK. The UK ISBs will follow a X-year 
+development cycle, leading to a rolling annual release with ISBs overlapping. When the 
+DELIVERABLE enters service the acquisition programme software buil ds for the DELIVERABLES  
+will still be ongoing though to delivery of the DELIVERABLES  in Q1 YR XXX . As a consequence, 
+COMPANY  is looking at the best approach to develop the initial UK ISBs pending procurement and 
+delivery of GSS labs/equipment to CUSTOMER  OTHER LOCATION .  The strategy is likely to 
+continue to exploit the DELIVERABLE  acquisition software build resources and facilities at  
+LOCATION  for ISBs #1 and #2. This ISB/GSS strategy is currently being developed and agreed 
+between the PROGRAMME  DT and COMPANY NAME . 
+ 
+13. REDACTED . PROGRAMME  is developing and introducing REDACTED  as the primary tool 
+for managing and recording maintenance, component life tracking and clearing the 
+DERLIVERABLES . REDACTED  is widely used for MOD DELIVERABLES  and it is managed via a 
+DELIVERY contract with COMPANY NAME . The development and introduction of REDACTED  for 
+PROGRAMME  is part of the Acquisition programme, with through life support  and maintenance of 
+the application covered under Sustainment. REDACTED  is essential to support  safe operation of 
+the and to maintain DELIVERABLES worthiness.  
+ 
+14. Other Support Opportunities  and Efficiencies . The PROGRAMME  Sustainment solution 
+incorporates common equipment suppor t arrangements for equipment with the APS DT, as well as 
+DELIVERABLES with the DELIVERABLES  Commodities DT. The range and scope of   
+ PROGRAMME  Sustainment s upport with the commodity DTs will continue to evolve and expand 
+as in -service experience is gained. The PROGRAMME  DT and COMPANY NAME  is also exploring 
+with ORGANISATION where ORGANISATION ’s capabilities and capacity could s upport  
+PROGRAMME  in-service requirements.  
+ 
+15. International PROGRAMME  Support. PROGRAMME  is currently operated by 
+COUNTR IES. In s uppor t of those customers, an international Sustainment WG with 
+DELIVERA BLE has been running for several years with the aim of identifying common s upport  
+issues that the  nations can co -operate on such as obsolescence, in -service 
+reliability/maintainability, and common issues. The UK has been an observer in that forum for the 
+past few years and will become a full member once the DELIVERABLE  Sustainment contract is 
+placed. The COUNTRY  also joined the Sus tainment  WG in DATE as an observer with the 
+announcement of the PROGRAMME  Programme.  
+ 
+16. In addition, the UK has been working closely with COUNTRY  since circa DATE  on the UK  
+programme  to develop areas for co -operation, gather LFE for the UK and to jointly develop further 
+co-operation for the future. Now that the COUNTRY  is also procuring an PROGRAMME  capability,   
+discussions have started with a view to develop and implement co -operation for the capability and 
+sustainment.  
+ 
+17. Sustainment Service Performance  and Outputs . The intent for PROGRAMME  
+Sustainment contract is to develop an output -based performance regime that will be focussed on 
+delivering and improving supportability and availability for the PROGRAMME  capability and 
+training  system. The Sustainment RfP proposed KPIs based on this approach for the  
+ 
+18.  System, Tech Services , Training , SCM and MRO Service Lines, with an Incentive 
+Adjustment offering up to 2% of allowable costs based on delivery of a measurable performance 
+enhancement above the contracted baseline. This performance approach for PROGRAMME  is an 
+enhancement on where   has started with their KPIs and negotiations with COMPANY NAME  are 
+ongoing to push them to move to such an approach for PROGRAMME , drawing on   COMPANY ’s 
+and  /SPO’s year’s PROGRAMME  experience.  
+ 
+19. For follow -on PoPs the aim is to continue to evolve the performance approach and KPIs for 
+both PROGRAMME  and   as part of a Support System and under the common contract. The near -
+term intent is to create an overarching combined  Through -Life Support Strategy and to develop a 
+joint Support System and align the associated COMPANY NAME  support  contract. The intent is 
+also for the two DTs to merge  common roles  and responsibilities in due course to drive forward co -
+operation, coherence and VfM. Analysis of support and cost data, as well as LFE from the   and 
+initial PROGRAMME  PoPs, will be utilized to inform and shape the scope, outputs , and cost of 
+future PoPs. The intent is to enhance the synergies and coherence between PROGRAMME  and  , 
+focussed on continuing to measure and improve the tr aining  and capability outputs. This approach 
+will then lead to updated IAC approvals via RNs for each Price Period and contract award post 
+negotiation subject to demonstration of VfM . 
+ 
+   
+ Annex G  – Acquisition Update  
+1. Programme Background . The PROGRAMME NAME Programme  was launched after 
+SDSR  DATE  in recognition of the pressing need to invest and improve the  DERLIVARABLES   
+Management capability to keep pace with existing threats and evolve to match future 
+developments.  
+ 
+2. Analysis of the options during the CSP Concept phase focussed on REDACTED . These 
+options were presented in th e CSP Operational Analysis Supporting Paper to the Joint 
+Requirements Oversig ht Committee (JROC) and MOD Scrutiny in DATE  and both found the case 
+for procurement of a new platform compelling when judged against the requirement and from a 
+cost effectiveness perspective.  
+ 
+3. In DATE , a Strategic Outline Case (SOC) was submitted to the Investment Approvals 
+Committee (IAC) in line with the MOD’s Approach to Investment Decisions (MAID) project. The 
+SOC detailed why the DELIVERABLE  PROGRAMME NAME  was considered the only solution 
+that c ould meet the UK’s required PROGRAMME NAME in a timeline and risk envelope 
+consistent with the urgent need. It was therefore requested that approval be granted to proceed 
+to the Outline Business Case (OBC) on the assumption of a sole source procuremen t of the 
+DELIVERABLE  PROGRAMME NAME  Mk1. To support the SOC, an Accounting Officer (AO) 
+assessment was produced to demonstrate that the programme me t the four standards expected 
+by Parliament and the public for use of public resources; regularity, propriety, Value for Money 
+(VfM) and feasibility.  
+ 
+4. In DATE XX , authority was granted by Chief Secretary Treasury (CST) and the IAC for CSP 
+to engage in single source discussions with DELIVERABLE5 and a Request for Proposal (RfP) 
+was issued to the company in DATE XX . This and subsequent negotiations enabled the 
+programme to develop the Outline Business Case (OBC)6 for submission in DATE XX/ . HMT 
+granted approval to proceed DATE XXXX as per the Outline Business Case. An initial contract for 
+the DELIVERABLES  Segment was signed DATE XX . 
+ 
+5. In early DATE the Secretary of State for Defence directed the PROGRAMME  team to 
+commence negotiations with DELIVERABLE  to descope the PROGRAMME  PROGRAMME 
+NAME  programme in order to deliver significant fiscal savings under the title of the 
+PROGRAMME  Senior Leadership Review (SLR). The outcome of these negotiations w ere 
+formalised through a non -binding, Heads of Agreement (HoA) between the parties that was 
+signed on DATE . This document set out the principal terms and conditions that would be agreed, 
+subject to Authority approvals, and provided detail regarding the amendment of e xisting contracts 
+and new contractual arrangements that would be entered into within the agreed PCT 
+(performance, cost, time) envelope.  
+ 
+6. This was formalised in DATE XX  with submission of a Review Note to the IAC on DATE XX  
+that recommended that a reduction of the DELIVERABLES  size and a number of other 
+efficiencies, including a change of basing location to CUSTOMER  OTHER LOCATION  that would 
+save over £ XXXX from the first XXXX yrs of the programme. The RN also noted that a further 
+reduction would make further savings. DELIVERABLE  had advised that a decision on the 
+reduction by the end of DATE XX  would maximise savings due to there being another customer 
+for the DELIVERABLE  that would have been converted into the PROGRAMME NAME . An 
+Outletter was issued by the IAC on DATE XX  that allowed the DT to issue a contractual change 
+notice to DELIVERABLE  that was subsequently formalised in DATE XX . The implementation of 
+the change in DELIVE RABLES was delayed  and negotiations were only concluded in  DATE XX 
+with the contract amendment implemented in DATE . 
+ 
+ 
+ 
+   
+ 7. Acquisition Contract . Since initial signature, there have been Thirteen  amendments to the 
+acquisition contract, as follows:  
+ 
+REDACTED  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Annex H – Infrastructure Update  
+References:  
+ 
+A. IAC Review Note, dated DATE , DATE -4-RN_PROGRAMME  PROGRAMME NAME -OSC.  
+B. RN Outletter, dated DATE.  
+C. OBC Outletter , dated DATE.  
+D. DATE -PROGRAME NAME  Technical Infrastructure Information Note, dated DATE . 
+ 
+PROGRAMME NAME  Programme Technical Infrastructure  
+ 
+1. REDACTED  
+ 
+Economic Case  
+ 
+2. The case made by Reference B remains valid with REDACTED.  
+ 
+Commercial Case  
+ 
+3. The PROGRAMME NAME  infrastructure commercial strategy draws from lessons learnt from 
+the original LOCATION  project. A two -stage plan was followed with COMPANY NAME ; a X-month 
+Enabling Works contract awarded on DATE XX  followed by a XX-month Main Construction 
+contract awarded on DATE XX . The Main contract is a Qualifying Defence Contract let under the 
+Single Source Contracting Regulations and was subject to sub -contract competition.  
+ 
+4. COMPANY NAME  have agreed a comprehensive Social Value clause which is flowed down 
+to COMPANY,  the main sub -contractor. Lessons learnt will be shared with Commercial Policy.  
+ 
+Financial Case  
+ 
+5. Reference C approved £ XXXX for PROGRAMME NAME  infrastructure; the endorsed 
+Review Note, at Reference A, noted an expected value of £XXXX for PROGRAMME NAME  
+Technical Infrastructure at CUSTOMER  OTHER LOCATION . Since Reference D, rising inflation 
+within the construction industry has increased costs significantly. The Main Construction contract 
+with COMPANY NAME  was Firm Priced ; additional costs  required for design changes  have been 
+implemented , most notably  for the increased security requirements for SAP accreditation . 
+DELIVERY   expects VAT to be ratified as 3.8% for all infrastructure costs  due to shared (with 
+COMPANY NAME ) occupancy of the facilities . It should be noted that PROGRAMME  Technical 
+Infrastructure  sustainment  (Hard and Soft Facilities Management)  is included within the 
+ORGANISATIONS contracts and associated approval s. 
+ 
+Management Case  
+ 
+6. Whilst the timescale to deliver the infra solution remains short, high confidence exists that the 
+schedule is achievable due to the robust contract in place. The contract identifies 8 sections with 
+50% of the commercial delay damages focused on REDACTED due to the importance to the 
+capability of this milestone. The Sectional Completion dates are as follows:  
+ 
+Section  Title Completion Date  
+1 REDACTED  DATE  
+2 REDACTED  DATE  
+3 REDACTED  DATE  
+4 REDACTED  DATE  
+5 REDACTED  DATE  
+6 REDACTED  DATE  
+7 REDACTED  DATE  
+8 REDACTED  DATE     
+ 
+7. A 12-month defects period follows Section 8 that covers all sections.  
+ 
+   Annex I – PROGRAMME NAME  Capability Roadmap  
+ 
+    Annex J – DLIEVERABLE  UK Prosperity Graphic  
+ 
+   Annex K – Commercial Strategy Overview  
+ 
+Introduction  
+ 
+1. The PROGRAMME NAME  Commercial Strategy provides a comprehensive plan of how the  
+PROGRAMME NAME Sustainment requirement will be procured and managed through -life. This 
+Executive Summary outlines the key aspects of the strategy. All of the issues discussed below are 
+covered in more depth within the main body of the Commercial Strategy.  
+ 
+Requirement  
+ 
+2. The proposed prime contract is for the provision of PROGRAMME NAME  Sustainment 
+services. Contracted support will be provided across the following seven service lines (SL):  
+ 
+• Training (SL2)  
+• Technical Services (SL3)  
+• Support (SL4)  
+• Maintenance, Repair and Overhaul (SL5)  
+• Supply Support (SL6)  
+• Programme Management (SL7)  
+• Security (SL8)  
+ 
+Procurement Strategy  
+ 
+3. The Procurement Strategy is a non -competitive procurement for both the support and training 
+solution, with COMPANY NAME  as the prime contractor. Other options were discounted based on  
+technical know -how and access to intellectual property that could not be sourced from a third party 
+without exposing the Department to an unacceptable level of risk.  
+ 
+4. Although the requirement would ordinarily fall within the scope of DSPCR DATE , it is excluded 
+on grounds of security of information under Regulation 7(1)(a). Advice from MOD Legal Advisors 
+(MOD LA) was obtained regarding this approach, and the application of the exclusion has been 
+endorsed by the Directorate of Security and Resilie nce (DSR). The procurement is subject to the 
+provisions of the Single Source Contract Regulations DATE (SSCR).  
+ 
+Commercial Model  
+ 
+5. The contractual vehicle for the delivery of the PROGRAMME NAME  sustainment requirements 
+will be the OTHER PROGRAMME  DELIVERABLES  and Training Support Provider (A&TSP) 
+contract, which was awarded in DATE . This pan -platform contracting strategy is expected to deliver 
+long term efficiencies through co -location at CUSTOMER  OTHER LOCATION , an aligned support 
+arrangement and a joint contract, which should give the Department greater commercial leverage.  
+ 
+6. The expiry date of the A&TSP framework is DATE , which aligns with the planned OSD of 
+OTHER PROGRAMME . The duration of the PROGRAMME NAME  sustainment contract line items 
+(CLINs) will run from DATE  to the planned PROGRAMME NAME  OSD of DATE . 
+ 
+7. PROGRAMME NAME  sustainment requirements will be added to the contract via a contract 
+amendment. This pan -platform contracting strategy is the optimal approach, as it provides 
+opportunities to deliver long term efficiencies through co -location at CUSTOMER  OTHER 
+LOCATION , an aligned support arrangement and a joint contract.  
+ 
+Route to Contract  
+ 
+8. An RFP was issued to COMPANY NAME  in DATE , with proposal submission deadline of 
+DATE . This deadline was subsequently extended to DATE . The COMPANY NAME  proposal 
+submission was received in DATE , however, because of  the immaturity of COMPANY NAME ’s   pricing, it was agreed that two further incremental updates (“Drops”) to the proposal were required. 
+These were submitted in DATES  respectively. As a result of delays to the REDACTED  delivery 
+schedule the target award date has moved to the right significantly, which has had the effect of 
+reducing the duration of the initial contract period (see below). Consequently, a final, updated 
+proposal submission is due no later than DATE . Contract award is anticipated, subject to approvals, 
+by DATE.  
+ 
+Market Analysis and Supplier Capability  
+ 
+9. COMPANY NAME  will be the prime contractor responsible for the delivery of an integrated 
+support service across the seven service lines outlined at paragraph 2, above. COMPANY NAME  is 
+currently providing similar services to OTHER PROGRAMME  under the A&TSP contract and 
+therefore have an established capability to fulfil the PROGRAMME NAME  requirement. Furthermore, 
+COMPANY NAME  can reach back into its COUNTRY  and COUNTRY  entities, who have been 
+providing sustainment services to other customers (most notably the INDUSTRY ) for over X years.  
+ 
+10. Although COMPANY NAME  are the prime contractor, and much of the work will be undertaken 
+within the UK (mostly at CUSTOMER  OTHER LOCATION ), a significant amount of work will be sub -
+contracted to COMPANY NAME  to third -party suppliers and other DELIVERABLE  entities in 
+COUNTRY  and COUNTRY . COMPANY NAME , with support from the DT, has developed a detailed 
+Make or Buy Plan, which articulates its sourcing strategy for each work package withing the 
+overarching work breakdown structure.  
+ 
+Contract Duration  
+ 
+11. The A&TSP contract will provide a framework that will enable the progressive implementation 
+of an integrated OTHER PROGRAMME /PROGRAMME NAME  support solution through discrete 
+pricing periods of approximately X years. Requirements for future pricing periods will be 
+progressively added to the A&TSP contract via future amendments, which shall be subject to 
+progressive allowable cost and value for money reviews.  
+ 
+12. The revised end date of PP1 will be set at DATE XX , as this is considered to be an adequate 
+length to enable learning and data gathering, which will be used to inform prices for the following 
+pricing period(s). This revised duration also provides the opportunity to align the pricing periods for 
+OTHER PROGRAMME  and PROGRAMME NAME  at the earliest opportunity to enable the 
+exploitation of cross -platform synergies and a potential transition to REDACTED . 
+ 
+13. Based on the current REDACTED  delivery schedule and Sustainment route to contract plan, 
+PP1 for PROGRAMME NAME  will have a duration of X years and X months, from DATE XX  until 
+DATE XX . The first X months of the initial period will comprise contractor mobilisation activities, with 
+commencement of service provision expected on acceptance of the first PROGRAMME NAME  
+DELIVERABLE  from DATE XX . 
+ 
+Contract Terms and Conditions  
+ 
+14. The A&TSP contract, providing DELIVERABLES and training support for OTHER 
+PROGRAMME , is comprised of three defined Parts (A -C). The OTHER PROGRAMME  
+DELIVERABLES and training line items of the contract are standalone, largely operating as separate 
+services under a single contract. The contract contains common terms applicable to both services 
+under Part A, along with specific service terms and Statements of Work in  Parts B and C. The 
+PROGRAMME NAME  sustainment amendment will establish a Part D, covering OTHE R 
+PROGRAMME -specific service terms and Statement of Work.  
+ 
+15. The A&TSP contract terms and conditions comprise a blend of DEFCONs and bespoke 
+narrative terms. The PROGRAMME NAME  sustainment amendment will require amendments to the 
+existing Part A terms to ensure these reflect a joint OTHER PROGRAMME /PROGRAMME NAME  
+support contract. These changes are not anticipated to materially alter the balance of risk between   MOD and industry. Service -specific terms for PROGRAMME NAME  sustainment will be included in 
+Part D and are currently subject to negotiation with COMPANY NAME . 
+ 
+Price and Payment  
+ 
+16. The price for PP1 remains an outstanding item for negotiation. It is anticipated that the X-month 
+mobilisation period will be firm priced. The price for the service delivery phase will be informed by 
+an analysis of uncertainty and risk that is currently being undertaken with the support of  REDACTED , 
+Defence Economics and DCMA.  
+ 
+17. The contract prices are currently subject to negotiation, with the final iteration of COMPANY 
+NAME ’s proposal due in DATE XX . The A&TSP contract is a QDC, therefore the amendment will be 
+priced in accordance with the SSCR. An Allowable Cost Review (ACR) has been undertaken by (  
+REDACTED ) on a progressive basis in line with the incremental submission of the COMPANY NAME  
+proposal. The allowable cost report was submitted in DATE , although some  REDACTED  support 
+will be required following the receipt of COMPANY  NAME ’s final proposal submission. In addition to 
+the  REDACTED  review, the DT has also tasked REDACTED  and COUNTRY  Financial Investigation 
+Services (FIS) to audit the COUNTRY  and COUNTRY  costs. The output of the three cost audits has 
+informed the DT’s negotiation strategy.  
+ 
+18. The agreed price will be based on REDACTED .  
+ 
+19. Prices will be in mixed currencies, comprising a mix of CURRENCY  elements. This approach 
+is considered the optimal VFM solution, as compared to paying a high premium for COMPANY 
+NAME  to hold the exchange rate risk in the current economic climate. Payments will be made 
+monthly in arrears via CP&F, with performance deductions and incentive payments applied on a 
+quarterly basis.  
+ 
+Performance and Incentivisation  
+ 
+20. The contract performance regime will provide a balance of financial remedies for poor 
+performance and incentive payments where COMPANY NAME  exceed the contract performance 
+thresholds.  
+ 
+21. The contract will include four (4) KPIs, measuring COMPANY NAME ’s outputs against the 
+main levers of availability:  
+ 
+a) Training . Measurement of the “availability” of each training asset (including COMPANY 
+NAME  instructors) through an assessment of the outcome of each training session. Training 
+Session outcomes are not an indicator of whether students passed/failed any training, rather 
+an indication of whether the device and/or person “performed”.  
+ 
+b) Unscheduled Spares Provision . Measurement of the timely provision of spares in 
+response to customer demands. Late delivery calculation is based on no. of days late, rather 
+than a binary pass/fail calculation – this should incentivise COMPANY NAME  to expedite late 
+deliveries to mitigate KPI impact. Weighting applied to high priority demands.  
+ 
+c) DELIVERABLES Maintenance . Measurement of adherence to agreed maintenance 
+output dates. Calculation based on no. of days late (as above).  
+ 
+d) Technical Services . Measurement of adherence to agreed turnaround times for 
+technical queries. Calculation based on no. of days late (as above) with a weighting applied to 
+high-priority queries.  
+ 
+   22. Remedies for KPI performance are profit deductions up to the baseline profit value (BPR is 
+currently XX% = c.£ XXXX). Actual deductions will be determined on a sliding scale and include a 
+mix of permanent and temporary deductions.  
+ 
+23. The contract will also provide an opportunity for COMPANY NAME  to earn an Incentive 
+Adjustment of (IA) up to 2% of the total allowable costs, during the service delivery phase. IA 
+payments will be based on additional performance metrics measuring consistently high KPI 
+performance (i.e., above the contract baseline) a nd PROGRAMME NAME  success.  
+ 
+Termination and Exit  
+ 
+24. Standard termination provisions, including DEFCON X are included within the A&TSP contract. 
+The contract also includes a bespoke narrative clause providing writes to terminate for Material 
+Breach and poor performance.  
+ 
+25. The exit strategy is limited, due to the reliance on DELIVERABLE  and COMPANY  intellectual 
+property and technical know -how to support the capability. Some service elements, such as training, 
+common commercial spares,  and engine support, could theoretically be sourced from elsewhere if 
+the need arose.  
+ 
+Limitation of Contractor’s Liability and Indemnities  
+ 
+26. The contract does not require industry to accept uncapped liability. The amendment to A&TSP 
+will align the contract with current LOCL policy (noting that the current policy came into force after 
+the contract was agreed), providing caps on the contractor’s liability against the five Heads of Loss 
+(HoL) defined in the policy. The risk assessment is complete, and caps have been proposed to 
+COMPANY NAME  against each HoL. The DT is awaiting COMPANY NAME  acceptance, however 
+this is not expected to create any new contingent liabilities for the Department.  
+ 
+27. The A&TSP contract has two existing, reported Contingent Liabilities relating to the use of 
+HMT -approved indemnities (DEFCONs X and X).  
+ 
+Intelle ctual Property Rights (IPR)  
+ 
+28. It is not considered that the contract will develop any significant new IP, however bespoke IPR 
+clauses are under negotiation with support from DIPR. Clauses will, where applicable, follow those 
+principles agreed for OTHER PROGRAMME  under A&TSP, and will provide sufficient rights for 
+international collaboration and provide security of supply in the event of early exit or termination.  
+ 
+Social Value  
+ 
+29. The contract will include measurable outcomes relating to the delivery of Social Value against 
+the themes in the Social Value Model identified as being most relevant to the programme – tackling 
+economic inequality, fighting climate change and equal opportu nity. 
+ 
+30. The agreed metrics for PP1 are input metrics measuring COMPANY NAME ’s contributions in 
+a number of  areas that are designed to create social value in and around the OTHER LOCATION  
+area. These typically include outreach work in local education establishments (e.g., careers fairs, 
+pre-employment workshops, etc.), providing work experience and apprenticeship placements and 
+working with local authorities to support environmental campai gns. 
+ 
+31. The DT will work with COMPANY NAME  to progressively mature the Social Value offering 
+throughout the contract term, with the aim of moving towards a more outcome -focussed range of 
+metrics from PP2.  
+ 
+ 
+   Contract Management  
+ 
+32. An amendment to the extant A&TSP Contract Management Plan (CMP) is currently being 
+developed by the team. The structure of the CMP will mirror the contract structure, providing specific 
+OTHER PROGRAMME  and PROGRAMME NAME  sections in addition to a common, overarching 
+section. The CMP will provide a framework to enable staff managing the contract – across all 
+functions – to understand the key underlying contract processes and responsibilities, as well as the 
+softer skills a nd techniques needed to successfully  manage the relationship with industry.  
+ 
+   Annex L – DLoD Strategies  
+ 
+1. Training &  . 
+ 
+a. Training. A through -life training solution for PROGRAMME NAME   Mk1 is assessed as 
+deliverable. The training delivery will include DELIVERABLE  contracted support, on a 
+workforce substitution model initially, with other options such as transition to a contractor 
+managed service or other arrangement to be assessed at contract renewal points in the 
+future. Workforce substitution brings alignment wi th the OTHER PROGRAMME  training 
+model currently in use at CUSTOMER  OTHER LOCATION  which will allow for the greatest  
+possible synergies and sharing of best practice. Following the decision to co -locate OTHER 
+PROGRAMME  and PROGRAMME NAME  at CUSTOMER  OTHER LOCATION , the 
+CUSTOMER  training unit will be combined under a single DELIVERABLE . 
+ 
+b.  The CUSTOMER ’s PROGRAMME NAME  Mk1 will be located at CUSTOMER  OTHER 
+LOCATION  and, REDACTED.  
+ 
+c. Integrated Master Schedule. The PROGRAMME NAME  IMS is aligned with the 
+Training & DLoD Strategy. The DLoD level risks have been considered to present a 
+deterministic schedule that the Training & Organization DLoD owner is confident in 
+achieving . 
+ 
+2. Equipment.  
+ 
+a. DELIVERABLES  Certification  & Safety. The approach to DELIVERABLES  
+management is described in the PROGRAMME NAME   Mk1 DELIVERABLES Strategy, 
+which has been approved by Director   Support. The approach makes maximum use of 
+evidence generated in support of previous PROGRAMME NAME  programmes for other 
+Nations, as well as the baseline DELIVERABLE  DELIVERABLES  but adapted as necessary 
+to reflect the UK PROGRAMME NAME  configuration and usage. UK -specific artefacts will be 
+produced where they are necessary to achieve compliance with UK pol icy, regulation and 
+legislation. The  Certification Strategy adheres to REDACTED.  The Certification Programme 
+has been derived through a structured Part A/B review process in line with REDACTED.  The      
+Certification Exposition will claim credit for previous DELIVERABLE  and PROGRAMME 
+NAME  certification activity performed by REDACTED.  The PROGRAMME NAME  Chief 
+Engineer is accountable for the implementation of an effective Safety Management System 
+and this is detailed in the PROGRAMME NAME  Mk1 Delivery Team Safety & Environmental 
+Management Plan, which has been endorsed by stakeholders at the PROGRAMME NAME  
+Safety & Environmental Panel.  
+ 
+b. Acceptance Strategy. An Integrated Test & Evaluation Plan (ITEAP) has been 
+developed for the Programme. This recognises that the UK PROGRAMME NAME  has been 
+procured as a predominantly off the shelf capability and many of the system requirements 
+are envisaged to have been previously verified for other programmes, supplier led T&E effort 
+pre-delivery will therefore focus on the integration of configur ation changes and regression 
+test of inherent capabilities. A period of follow -on T&E will be required after d elivery to refine 
+the performance of the PROGRAMME NAME , develop operational procedures and gather 
+evidence for satisfaction of capability requirements. This is expected to include a period 
+where each PROGRAMME NAME  will be deployed to the COUNTRY  and/or COUNTRY . 
+ 
+c. Technology Management. The following sub -paragraphs outline the process that the 
+UK intends to take with regard to the development of the PROGRAMME NAME  capability.  
+ 
+(1) Product Line Capability. The PROGRAMME NAME  capability as initially offered 
+to the UK consists predominantly mature and fielded technology taken from a 
+combination of REDACTED  to COUNTR IES. These will be complemented by several 
+updates that have been developed for the upgrade programme.      
+(2) UK Modifications / Capability Tailoring. The UK also specified specific 
+modifications and additions to the baseline to allow the KURs to be met.  
+ 
+(3) Collaborative Development. Since the OBC, the UK has REDACTED.   
+ 
+d. Comparison with PROGRAMME A PROGRAMME NAME . Since the UK commenced 
+its PROGRAMME NAME  acquisition, activity to develop new capabilities has continued in 
+parallel. Recently REDACTED.  
+ 
+3. Personnel.  
+ 
+a.   Command Personnel. Since the signing of the OBC, basing alterations, workforce 
+rationalisation and outcomes of the IR, in DATE , have required a re -baselining of the 
+workforce strategy due to the now obsolete Personnel Strategy. The workforce requirement 
+has been defined against the Key User Requirements and Key Capability Requirements to 
+achieve programme milestones.  The Personn el DLoD will  REDACTE D.  
+ 
+b. DELIVERY   Personnel. The PROGRAMME NAME  DT has a resource loaded 
+schedule for the PROGRAMME NAME  Programme that covers capability acquisition, 
+infrastructure and development of the sustainment solution and FBC. Utilising the internal 
+DELIVERY   Functional Managers, the DT has been growing since the OBC approval aligned 
+with the programme and the schedule. CUSTOMER  resources within the DT are defined in 
+the CASP agreement with the SRO. To address resource recruitment shortfalls and 
+specialist skills requirements, the DT utilizes the DELIVERY  Engineering, Project and 
+Commercial Delivery Partners (EDP, PDP, CDP) where practical and affordable to do so, as 
+well as DELIVERY   Internal Technical Services. For the in -service phase post Sustainment 
+contr act award, the PROGRAMME  DT is developing a new resource loaded schedule 
+aligned with the Sustainment FBC approval and sustainment requirements that will run in 
+parallel to the extant acquisition resource loaded schedule. Work also continues with the DT 
+to develop the future mode l and roles/responsibilities across the DTs, looking to exploit 
+synergies and opportunities as part of a support system across the capabilities.  
+ 
+c. Integrated Master Schedule. The PROGRAMME NAME  IMS is aligned with the 
+Personnel Strategy. The DLoD level risks have been considered to present a deterministic 
+schedule that the Personnel DLoD owner can provide  workforce li ability, aligned with Career 
+Management continuing to identify the associated workforce against current policy.   
+ 
+4. Infrastructure. The Infrastructure DLoD is split into Technical and Domestic provision.  
+ 
+a. As a result of the Integrated Review, a Review Note endorsed by an Outlet ter changed 
+the REDACTED.   
+ 
+b. Integrated Master Schedule. The PROGRAMME NAME  IMS is aligned with the 
+Infrastructure Strategy. The DLoD level risks have been considered to present a 
+deterministic schedule that the Infrastructure DLOD owner is confident in achieving.  
+ 
+5. Doctrine & Concepts. The current CONEMP (dated DATE ) provides the context for the 
+employment of DELIVERABLE .  This document pre -dates the selection of the PROGRAMME 
+NAME  Mk1 and as such will be updated prior to ISD. The CONEMP has been further explored and 
+expanded upon within the PROGRAMME NAM E Mk1 CONUSE V2.0 which provides a greater 
+level of detail on the PROGRAMME NAME  system and the supporting DLoDs. In the next X 
+months, the D&C DLoD will oversee the creation of PROGRAMME NAME  specific Group Staff 
+Orders (GASOs) and a Tactics Manual.  
+   a.      Integrated Master Schedule . The PROGRAMME NAME  IMS is aligned with the 
+Doctrine & Concepts Strategy. The DLoD level risks have been considered to present a 
+deterministic schedule that the Doctrine & Concepts DLoD owner is confident in achieving.  
+ 
+6. Information.  
+ 
+a. Digital Enablement.  The Information DLoD owner (   CUSTOMER  Digital) is 
+responsible for ensuring that the DLoD deliverers’ outputs for the Programme, meets time 
+and quality requirements, and that reporting is complete and accurate.   CUSTOMER  will 
+provide a level of assurance to the SRO that the information aspects of the capability are fit 
+for purpose. The Programme has REDACTED.   DELIVERY will be given the means, and 
+financial resources to enable fulfilment of the equipment and support related Information 
+requirements. A Lead Delivery Owner (LDO) has been assigned to deliver REDACTED , 
+working with the Programme Information Requirements Manager and the CUSTOMER  Team 
+as necessary.  
+ 
+b. Cyber Security.  The Information DLoD is responsible for ensuring that PROGRAMME 
+NAME  is cyber compliant. This includes providing assurance that the platform and supporting 
+systems are Secure by Design assured and JSP X compliant. REDACTED.  
+ 
+c. Integrated Master Schedule.  The PROGRAMME NAME  IMS is aligned with the 
+Information Strategy. The Information DLoD level risks have been considered to present a 
+deterministic schedule that the information DLOD owner is confident in achieving.  
+ 
+7. Logistics. The Logs DLoD plans to deliver an assured, sustainable support solution to meet 
+the requirements of the PROGRAMME NAME  Programme, with the main DELIVERABLE  
+sustainment contract developed and awarded through the PROGRAMME NAME  DT in DELIVERY  
+. REDACTED.  
+  
+a. Support Strategy . The intention for the UK PROGRAMME NAME  DELIVERABLES  is 
+to develop an output -based sustainment solution linking the industry support to the delivery 
+of operational outputs. The PROGRAMME NAME  support strategy, CUSTOMER ’s 
+requirements and DELIVERABLE  solution have matured significantly from the initial DATE  
+ROM proposal from DELIVERABLE , leading to an updated COMPANY NAME  proposal that 
+was delivered in DATE  that is currently being matured and negotiated with the 
+PROGRAMME NAME  DT for contract award in DATE . Additionally, REDACTED.  
+ 
+b. Integrated Master Schedule.  The PROGRAMME NAME  IMS is aligned with the 
+Logistics Strategy. The Logistic level risks have been considered to present a deterministic 
+schedule that the Logistic DLoD owner is confident in achieving.  
+ 
+8. Security. The Security Function is responsible for the provision of advice and support to 
+enhance coherence of security measures across all DLoDs, to ensure that capabilities are 
+protected against threats from terrorism, espionage, subversion, sabotage or organised crime, as 
+well as against loss or unauthorised disclosure of information. Security is assured for this platform 
+through REDACTED  who is responsible to the SRO for ensuring all elements of Security have 
+been considered and dealt with appropriately . REDACTED . 
+ 
+a. Integrated Master Schedule.  The PROGRAMME NAME  IMS is aligned with the 
+Security Strategy. The Security level risks have been considered to present a deterministic 
+schedule that the Security owner is confident in achieving . 
+   Annex  M – Management Plans  
+ 
+1. PROGRAMME  Delivery Team . The PROGRAMME  DT has a resource loaded schedule for 
+the OPEX for  acquisition, infra and long lead activities approv ed in the OBC.  This is the basis for 
+the Breakdown Structure and recruitment of DELIVERY   personnel against the programme . A new 
+separate  resource loaded schedule is being developed for the Sustainment approval and In -
+Service Phase that will run in parallel to the acquisition schedule and OPEX resourcing. The new 
+Sustainment schedule will be reviewed  against the DELIVERY  Project Controls scheduling process 
+and health checks during its development. It will be  endorsed and  live prior to the Sustainment 
+contract award planned for DATE . 
+ 
+2. External Resource  - Industry . As part of their HR recruitment and skills growth, COMPANY 
+NAME  has continued their engagement with  the marketplace  to proactively manage  their resource 
+growth to meet the support  requirements for the PROGRAMME  Sustainment programme. This is 
+building on the work they have already done for the PROGRAMME  acquisition  programme with the 
+LOCATION  DELIVERABLE modification work  and sub -contractors supporting PROGRAMME  
+acquisition. Additionally, the PROGRAMME  Sustainment solution will buil d on the current 
+COMPANY NAME  resource s in place for OTHER PROGRAMME  at LOCATION . COMPANY 
+NAME  has also continue to develop their engage ment with  local bodies in the CUSTOMER  
+OTHER LOCATION  area, includ ing technical colleges , as part of their resource growth strategy for 
+the area for the  OTHER PROGRAMME  and PROGRAMME NAME  programmes . 
+ 
+3. PROGRAMME  Programm e Team . Confirmation that resource requirements for 
+ORGANISA TION Personnel have been calculated effectively and that arrangements are in place to 
+utilise resources effectively. REDACTED.  
+ 
+4. Through Life Management Plan (TLMP). The TLMP  details  the approach undertaken for 
+the through life support of the PROGRAMME NAME  Mk1 platform from encompassing acquisition, 
+operation, in -service sustainment, capability , strategies &  plans  to its disposal.  
+ 
+5. Transition Planning.  The Transition Plan will be overseen and directed by FHQ with the 
+Business Change Manager at the centre of its progress. The original plan looked at a seamless 
+transition from  PREVIOUS DELIVERABLE  to PROGRAMME NAME , the new plan focuses on the 
+introduction of PROGRAMME NAME  at CUSTOMER  OTHER LOCATION  to meet operational and 
+other outputs.  The OTHER LOCATION  Transition Team are the focal point for Business Change at 
+CUSTOMER  OTHER LOCATION  and as such are already heavily engaged with stakeholder s and 
+in the provision of integration workshops.  
+ 
+6. Fallback Plans.  The fallback plan for the PROGRAMME NAME  Programme has in effect 
+already been implemented. REDACTED . 
+ 
+7. A mature Integrated Test Evaluation and Acceptance Plan (ITEAP)7. ITEAP  has been 
+developed for REDACTED.  
+ 
+8. Sustainability .  DELIVERY  is working closely with COMPANY NAME  to encourage 
+sustainable behaviours and ensure proactive environmental management practices are integrated 
+in procurement and support arrangements using  Project O riented Environmental Management 
+Systems (POEMS).  The environmental sustainability approach  is detailed  in COMPANY NAME  
+produced deliverables . 
+ 
+9. Command Acquisition Support Plan (CASP). The Command Acquisition and Support Plan 
+(CASP) documents the business agreement between REDACTED . A CASP is in place for the 
+PROGRAMME  acquisition and infra programmes , and it also includes milestones for the 
+Sustainment FBC and COMPANY NAME  contract . 
+ 
+ 
+7 20240311 -E7_ITEA_Plan_v1.0 -OS   10. Support Solution . As part of developing and then managing Sustainment solutions through 
+life DELIVERY utilizes the  Support Solution Development Tool (SSDT) to assess and guide DTs in 
+the scope and content of their support  solutions. The SSDT evidence is assured independently , 
+and a Support  Solutions Report (SSR)  produced  by a Support  Solution Officer  and a wide range of 
+assurance SMEs to inform the assurance and scrutiny for BC approvals, as well as to provide 
+feedback to the DT and DELIVERY   Seniors on the status of the solution against policy and 
+process , and which areas need further work. The SSDT was populated with evidence and artefacts 
+for assurance for the OBC approval  and has been updated  by the PROGRAMME  DT for this FBC . 
+An FBC  SSR has been produced as part of the assurance activity for the Endorsement Committee  
+review of the FBC . The SSDT will be updated and assessed again In Service for the LSD, IOC and 
+FOC milestones.    
+ Annex N – Top-5 Programme and Top -10 Sustainment Risks  
+ 
+Top-5 Programme  Risks 
+ 
+REDACTED  
+ 
+Top-10 Sustainment  Risks 
+ 
+REDACTED  
+   
+ Annex O – Learning from Experience  (LfE)  
+ 
+1. The table below provides a summary  of the top -LfE identified or incorporated into the 
+PROGRAMME NAME  Programme:  
+ 
+REDACTED

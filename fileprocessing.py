@@ -223,8 +223,17 @@ def extract_text_from_file(file_path, txt_processing_dir="txt_processing", ocr_m
         return f"Unsupported file type: {file_extension}"
     
     content = reader(file_path)
-    if "Error" in content:
+    print(f"Content type: {type(content)}, length: {len(content) if isinstance(content, str) else 'N/A'} for {file_path}")
+
+    # Check for error message specifically
+    if isinstance(content, str) and content.startswith("Error reading"):
+        print(f"Error in processing {file_path}: {content}")
         return content
+    elif isinstance(content, str) and "Error" in content:
+        print(f"Found 'Error' in content for {file_path}, proceeding to save")
+    elif not isinstance(content, str):
+        print(f"Content is not a string for {file_path}: {type(content)}")
+        content = str(content)  # Convert to string to attempt saving
 
     # Export content to txt_processing_dir, preserving only the filename (not subfolders)
     abs_txt_dir = os.path.abspath(txt_processing_dir)
@@ -233,11 +242,17 @@ def extract_text_from_file(file_path, txt_processing_dir="txt_processing", ocr_m
     export_folder = os.path.dirname(export_path)
 
     os.makedirs(export_folder, exist_ok=True)
+
+    print(f"Content type: {type(content)}, length: {len(content)}")
+    
     try:
-        with open(export_path, 'w', encoding='utf-8') as f:
-            f.write(content)
+        with open(export_path, 'w', encoding='utf-8', errors="ignore") as f:
+            f.write(str(content))
+            print(f"{filename} exported to txt")
     except Exception as e:
         print(f"Warning: Failed to save file {export_path}: {str(e)}")
+
+    print(f"Content type: {type(content)}, length: {len(content)}")
 
     return content
 
@@ -270,8 +285,11 @@ def extract_text_from_directory(directory, ocr_mode=False, txt_processing_dir="t
 
     print(f"Found {len(file_paths)} supported files: {file_paths}")
     for file_path in file_paths:
+        print(f"Processing file: {file_path}")
         content = extract_text_from_file(file_path, abs_txt_dir, ocr_mode)
         results[file_path] = content
+        # Show first 50 chars of content to ensure it's not empty
+        print(f"Content: {content[:50]!r}")
         # Map generated txt file to original file and extension
         txt_filename = os.path.splitext(os.path.basename(file_path))[0] + ".txt"
         file_mapping[txt_filename] = os.path.basename(file_path)

@@ -1,0 +1,994 @@
+DATE XXXX - PROGRAMME NAME  Outline Business Case V1.2 SRO Final -OSC  
+  
+XX XX DATE   
+  
+PROGRAMME NAME  PROGRAMME - OUTLINE BUSINESS CASE  
+  
+SUMMARY  
+  
+Min(DP)1 endorsed the PROGRAMME NAME Strategic Outline Case (SOC) in xx DATE , which 
+permitted discussions to begin with SUPPLIER  to develop a proposition regarding the single -
+source procurement of the DELIVERABLE  to meet the UK’s urgent need to modernize its 
+PROGRAMME NAME  capability.  A Request for Proposal (RfP) was released on xx xx DATE  
+and a response received on xx xx  DATE .  It has been confirmed that with minor modifications2 
+the DELIVERABLE  meets the MOD’s Key User Requirements (KURs).  Additionally, a strategy 
+to demonstrate value for money (VfM) has been agreed with  SUPPLIER .  It is the assessment 
+of the SRO, supported by NAME OF DEPARTMENT , that the best way to achieve VfM and 
+protect early capability delivery is to proceed now with acquisition of 5 DELIVERABLE3, while 
+other elements of the capability are matured ahead of the Full Business Case (FBC).  
+Accordingly, a fast track opportunity exists now4 to secure DELIVERABLE S that match our 
+requirements and will enable a  DATE  Initial Operating Capability (IOC).  This could be 
+achieved alongside securing production slots and prices on the remaining DELIVERABLE S, 
+which collectively forms the basic long -lead items.  This approach achieves better overall 
+value: there is a DELIVERABLE  cost reduction when compared to production -line slots and 
+the accelerated delivery enables an early withdrawal of the REDACTED  and its corresponding 
+increasing maintenance costs.  By proceeding with the whole acquisition for DELIVERABLE S, 
+rather t han incremental commitments with long -leads first, the MOD’s commercial position is 
+protected and the risk of later cost growth is reduced. The intent is to place the acquisition 
+contract for the DELIVERABLE  by end -XX DATE .  Additional long -lead activities (training, 
+support and infrastructure) will also be contracted to protect this accelerated delivery, with 
+the support solution to be matured ahead of a FBC in  XX DATE .  
+  
+RECOMMENDATIONS  
+  
+1. The Approving Authority is requested to approve :  
+  
+a. An Approved Budgetary Level (ABL) (outturn, inclusive of all non -recoverable VAT, at 
+50% confidence) totalling £ X comprising:  
+  
+(1) £XXXX total resource consumption (RDel).  
+  
+(2) £XXXX capital expenditure (CDel).  
+  
+b. A separate provision of £ XXXX  for Foreign Exchange (FOREX) risk, based on the latest 
+Defence Economics Foreign Exchange Monitor (DE FEM),5 between 70% and 50% 
+confidence levels, which is outside of the ABL.   
+c. A target IOC9 of DATE , subject to securing 2 DELIVERABLE s, the dependencies detailed 
+at para 6, and delivering an Equipment Delivery Date (EDD) earlier than the Not -to-
+Exceed (NTE) date at Sub -para 2j, allowing synchronisation with the other DLoDs.  An 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+  Information Note (IN) will be issued to update the IAC on the 50% confidence IOC plans 
+in XX DATE .  
+  
+d. The capability scope and KURs at Annex A, as endorsed by the JROC in XX DATE .6  
+  
+And to note :  
+  
+e. The Approval break down as follows:  
+  
+(1) £XXXX for the acquisition of DELIVERABLE  at a Firm Price, which is the key 
+outcome from this OBC along with long -lead items.  
+  
+(2) £XXXX for the minor modifications of the base DELIVERABLE  to meet specific UK 
+requirements.  Using a mature basis of estimate drawn from previous similar 
+modifications with other customers that will be Firm before contract award.  
+  
+(3) £XXXX for training and support long -lead elements derived from a mature basis of 
+estimate using the extant   training and support solution, supplied by  SUPPLIER  
+and matured through its X-years of operating experience, that will be Firm before 
+contract award.  
+  
+(4) £XXXX for initial COUNTRIES Project Arrangements funding joint -spiral 
+development of the capability at a final Firm Price to be agreed between all nations; 
+this Approval does not commit to the final product but maintains UK in the design 
+phase.  
+  
+(5) £XXXX  Equipment ( NAME OF DEPARTMENT ) risk provision.  
+  
+(6) £XXXX  (NTE) for infrastructure long -lead concept and requirement work, followed 
+by investment in a new facility and other FLC costs (risk inclusive7).  
+  
+f. A FOREX variation between the DE FEM rates and the Corporate Planning Assumption 
+(CPA) rate is £ XXXX  and is included in the ABL.  This is the potential cost variation 
+attributable to exchange rate volatility.  
+  
+g. The 10%, 50% and 90% -confidence levels for costs in this OBC are as follows:  
+  
+Approval8  Estimated Cost (£M)  
+10%  50%  90%  
+Outline Business Case  
+ (Acquisition, Support  & 
+Infrastructure NTE)   XXXX  XXXX  XXXX   
+  
+h. To secure an early IOC, the acquisition will comprise of DELIVERABLE  DELIVERABLE S 
+and DELIVERABLE S from the SUPPLIER  Commercial DELIVERABLE  production line.  
+Consideration was given to purchasing all DELIVERABLE s as undelivered, though 
+assurances could not be provided on suitable available DELIVERABLE  with appropriate 
+low hours and common configuration.  Moreover, additional storage and maintenance 
+costs, while awaiting modification, would erode savings.  
+ 
+ 
+ 
+8 .     
+ 
+  
+ i. The acquisition includes minor modifications4 of the DELIVERABLE  Product Line 
+DELIVERABLE  to meet UK KURs, as detailed in the Capability Roadmap at Annex B.  As 
+part of this plan, the UK will be fitted with REDACTED .  A study will be undertaken to 
+confirm whether this will substitute for REDACTED , which is currently out of scope for this 
+programme.  
+  
+j. A Not -to-Exceed EDD of xx DATE .  
+  
+k. An EDD definition of a single DELIVERABLE , modified to meet UK requirements, 
+available for use, with an appropriate Release to Service.  
+  
+l. The Programme Milestones at Annex C.  
+  
+m. Spiral -capability development will be pursued in cooperation with REDACTED .  The 
+Project Arrangement covers an initial X-year period for REDACTED  development.9  This 
+does not commit the MOD to the follow -on phases of these potential upgrades, which will 
+be subject to a separate approval.  
+  
+n. CUSTOMER ORGANISATION  is assessing the most effective infrastructure solution, with 
+the programme assumption for a new -build facility.  An IN will be raised ahead of the FBC 
+to update the IAC on CUSTOMER ORGANISATION ’s selected infrastructure strategy and 
+commitment.  
+  
+o. Planned submission of a FBC to the IAC in xx DATE  for the Initial Support Solution 
+approval and the required additional support Non -Recurring Expenditure.  
+  
+p. The principal risks at Annex D, with no identified contingent liabilities.  
+  
+q. Estimated costs of £ XXXX  (Outturn) to the DATE  out of service, at this capability 
+configuration.  This cost will be updated in the FBC.  
+  
+r. Sunk Concept Phase costs of £ XXXX  to end -FYDATES .  
+  
+s. Private Sector Support costs of £ XXXX  for the acquisition within the 50% approval.  
+  
+TIMING  
+  
+2. Priority.     CUSTOMER ORGANISATION  urgently requires a CAPABILITY  replacement, with a 
+target IOC of DATE .  This is due to the evolving threat and to best align with the introduction of 
+the capability.  The only way to meet such a demanding programme timeline and IOC/FOC will 
+be to fast track the procurement of DELIVERABLE  and SUPPLIER  production line slots as 
+soon as possible.  Moreover, any significant delay will have negative cost implications on the 
+price given that the 2 DELIVERABLE  approach represents a saving of c XXXX M compared to 
+the cost of new -build DELIVERABLE .  
+  
+STRATEGIC CASE  
+  
+3. Requirements.   Pan-DLoD assessment of the DELIVERABLE ’s capability against 
+PROGRAMME NAME  User Requirements has been driven by Operational Analysis (OA) and is 
+underpinned by a OA Supporting Paper (OASP) and a  CUSTOMER ORGANISATION  Analysis 
+Paper.10  This builds on the advice presented to the IAC alongside the SOC in xx DATE , and 
+ 
+ 
+    
+ 
+  has been re -evaluated for this submission based on updated information from  SUPPLIER .  
+The previous assessment, which considered that the DELIVERABLE  met all KURs at the 
+threshold level, is extant with the inclusion of the modest tailoring referred to at Sub -para 1i.  
+The current assessment is summarized at Annex A.   
+  
+4. Capability Roadmap & Future Growth Path.   Assessment of the capability of the  SUPPLIER   
+Product -Line variant of the DELIVERABLE  initially offered to the UK, which differs slightly to that 
+operated by REDACTED , highlighted a small number of areas where minor modifications to the 
+DELIVERABLE ’s systems will be needed to meet UK -threshold KURs.  Engagement with  SUPPLIER  
+has allowed the development of the Capability Roadmap at Annex B.  Several additional areas of 
+potential collaboration to delivering continued operational effectiveness for the UK PROGRAMME 
+NAME  capability have been identified; thi s OBC seeks approval for an initial investment in the 
+associated cooperative development programme as outlined at Sub -para 1e (4) above.  
+  
+5. Support & Infrastructure Long Leads.   The long -lead activities within this OBC are required 
+in parallel with development of the support solution ahead of FBC submission to meet the 
+Logistic Support Date in  xx DATE .  The scope of the long -lead activities are:  Training Needs 
+Analysis and early training development; non -recurring expenditure for synthetic training 
+devices and software lab development; and initial spares provision.    CUSTOMER 
+ORGANISATION  will confirm the infrastructure requirements and location during DATE  to 
+protect the DATE  Logistic Support Date.  
+  
+6. Dependencies.   Key programme dependencies include the following:   
+a. LOCATION  Development Plan.   As part of the ORGANISATION  Transformation 
+project, led by REDACTED , to provide the basing arrangements and infrastructure location.   
+b.   Training Pipeline.  To achieve the target IOC there is a dependency on REDACTED  
+to train STAFF  preceding the UK EDD.   
+c.      REDACTED  Programme.   The UK    programme is benefitting significantly from 
+the modifications that the   is funding under the REDACTED  upgrade programme, including 
+REDACTED  improvements, currently forecast for full embodiment by Q4 DATE .11    
+d. REDACTED  Sustainment Programme.   The PROGRAMME NAME  is dependent on 
+the provision of REDACTED    .  
+e. REDACTED  Programme.   There will be a dependency on the  REDACTED  
+Programme to provide GFx.   
+f. Training Programme.   PROGRAMME NAME  is reliant upon the programme to provide the 
+infrastructure necessary to enable distributed training.  
+ 
+ 
+ECONOMIC CASE  
+  
+7. Procurement Strategy.12  The justification for a single -source procurement and the VfM 
+arguments have been endorsed by the IAC and Ministers in the SOC13 and remain valid.  
+8. VfM.  Discussions with  SUPPLIER  have established that its proposal is a ‘Product Line 
+solution and Priced to Win’, evolved from previous DELIVERABLE  sales.  In the absence of detailed 
+ 
+ 
+ 
+   
+ 
+  
+ bottom -up costs, a VfM Strategy has been developed14 and reviewed by REDACTED , which sets out 
+how costs are broken down and demonstrates VfM using comparator benchmarks and a top -down 
+analysis of material and labour rates and sub -contractor elements that underpin  SUPPLIER ’s 
+proposal.   
+9. Price.   At unit -price level, Figure 1 (Annex E) illustrates the average price per DELIVERABLE  
+(total acquisition cost) for each previous customer, adjusted to DATE  economic conditions,15 and that 
+offered to the UK - this information is commercially sensitive.  Development activities are a significant 
+factor in the higher -level of costs incurred for REDACTED , thereafter learning in modification labour 
+hours, demonstration activities and other cost efficiencies have introduced further improvements in 
+price.  An initial proposal was received from  SUPPLIER  at a price of XXXX .  After negotiations, the 
+revised price is XXXX .  This will be challenged again once the VfM analysis has been completed.  
+Single Source Contract Regulations (SSCR) will apply to the Prime Contract with SUPPLIER , 
+resulting in a Qualifying Defence Contract (QDC).  SSCR -compliance in t he sub -contract tiers is 
+addressed in the Commercial section at Para 20 below.  
+10. Analysis.   More detailed analysis will be carried out between  xx DATE - xx DATE  to inform 
+contract negotiations.  The analysis will be supported by:  
+a. SUPPLIER .   SUPPLIER  has a representative embedded with OTHER SUPPLIER  in 
+LOCTION .   SUPPLIER  shall provide a report based on the pricing information released by  
+SUPPLIER , on the reasonableness of the pricing construct, including reference to any known 
+comparators.  
+  
+b. Cost Assurance.   CAAS has provided support to price investigation, focussing on UK 
+comparator information.    
+  
+11. Pricing Breakdown.   The largest acquisition cost sits with OTHER SUPPLIER , for which the 
+Company has shared details to Work Breakdown Structure Level -3, divided into Labour and 
+Materials costs.  
+  
+12. ANOTHER SUPPLIER .  The prime contract with SUPPLIER  is expected to be in CURRENCY  
+and procurement of items/services from the COUNTRY  are to be costed and paid in CURRENCY  to 
+avoid negotiation of exchange rates where possible.  
+  
+13. Open Architecture Principles.   The solution is a mature, fielded product and was not 
+designed against recognized open -system architecture principles; this is an area of standardization 
+that is still being developed by both the COUNTRY  and the UK.16  However, assurances have been 
+provided against the primary concerns, namely ease of future upgrade and exploitation of data 
+generated by the system.  The  software architecture is both modular and layered, allowing upgrades 
+to individual elements to be d eveloped independently prior to being tested at the system level.  
+Furthermore, it uses interfaces that are clearly defined through a set of Interface Control Documents 
+(ICDs) that previously have been used to integrate customer -defined requirements into t he system.   
+Future spiral -development, done in cooperation with the REDACTED  on an arrangement, will be 
+delivered in accordance with Open Architecture Principles to the greatest extent possible.   
+FINANCIAL CASE  
+14. Cost Model.   A cost model17 has been generated to support the ABL and the estimated 
+wholelife cost.  It is predominantly based upon the  SUPPLIER  Firm Price and  SUPPLIER  
+ROM costs for future support based on learned experience for the support model, with 
+extensive support from  SUPPLIER  Defence COUNTRY for estimating purposes.  A CAAS 
+ 
+ 
+ 
+ 
+    
+ 
+  Approvals Team Report has been submitted to the IAC in parallel with this OBC. The report 
+states that it is the CAT opinion that this OBC is fit for approval, provided the planned activities 
+are conducted successfully, and reported at appropriate milestone s via IN(s) to the Approving 
+Authority.  
+  
+15. Affordability .   The purchase of DELIVERABLE S including ORGANISATION  and infrastructure 
+costing is £ XXXX  over the ABC  DATE  period (FY DATE  to FYDATE ). Utilising PROGRAMME 
+NAME  ABC allocated funding of £ XXXX , plus a further £ XXXX  PROGRAMME NAME funding 
+held centrally by CUSTOMER , leaves a residual pressure of £ x.  CUSTOMER  have undertaken 
+programming action to mitigate this pressure including the following:  
+  
+a. £XXXX  - Action taken under FCR XX to reduce  DELIVERABLE S.  
+  
+b. £XXXX  - Implement further reduction of DELIVERABLE S by xx xx  DATE .  
+  
+c. £XXXX  - Bring forward OSD to FY DATES , 9 months prior to target IOC.9  
+  
+d. £XXXX  - Budget settlement bring forward measure to accelerate expenditure of 
+DELIVERABLE  and secure SUPPLIER  Commercial DELIVERABLE  production slots.   
+  
+16. The application of these measures leaves the programme affordable in volume terms over the 
+ABC DATE  period; however, there is a profiling issue, with a pressure of c. £ XXXX  in each of 
+the first four years, offset by headroom in the later years.  Further work is underway to reduce 
+this by exploring sales opportunities, including spares.  Annex E contains a summary of the 
+financial position with programming action .  
+  
+17. FOREX Risk.   All costs included as part of this approval have been calculated based on the 
+latest ( xx ) DDATE E FEM.18  The FOREX variation between this and the CPA rates is £ XXXX  
+and is included in the ABL.19 In accordance with JSP xxx, a separate provision of £ XXXX  for 
+foreign exchange risk, based on the latest DE FEM, between 70% and 50% confidence levels, 
+has been calculated and is excluded from the ABL.  A separate approval provision for this 
+additional risk has been requested as part of this OBC.  
+18. VAT.  VAT advice has been sought from the NAME OF DEPARTMENT  Taxation Team20 and 
+applied within the cost model at the relevant rates.  The REDACTED  will be a Qualifying 
+DELIVERABLE  for VAT purposes, and therefore all procurement costs will be zero -rated.  VAT 
+will apply to the infrastructure build and elements of the Support Segment . 
+ 
+ 
+ 
+ 
+ 
+ 
+COMMERCIAL CASE  
+  
+ 
+ 
+ 
+   
+ 
+  
+ 19. Commercial Strategy.   A Commercial Strategy21 has been developed and reviewed by ROLE  
+as part of ongoing scrutiny engagement prior to OBC submission.  Key elements are 
+summarized below.   
+20. Contracting Model.   The main requirement will be fulfilled by placing a QDC with SUPPLIER .   
+ SUPPLIER  will sub -contract the remaining acquisition elements through SUPPLIER , which will 
+be the Coordinating Design Organization using its experience of fulfilling this role for other    
+operators.  SUPPLIER  will sub -contract substantial elements to SUPPLIER , OTHER 
+SUPPLIER  for the REDACTED , and REDACTED  for DELIVERABLE  conversion work.  A 
+similar Contracting Model in which SUPPLIER  replaces SUPPLIER  as the Prime was 
+discounted as it offered no material benefits in either programme execution or VfM compa red to 
+the preferred model.  Plus, application of SSCR to a prime SUPPLIER  contract would be more 
+challenging due to SUPPLIER ’s inexperience of the Regulations. SUPPLIER ’s experience of 
+MOD business, working with SSCR and role as a MOD  SUPPLIER  interface means it is 
+considered best placed to be the Prime Contractor.  
+21.  SUPPLIER / SUPPLIER  Contractual Framework.    SUPPLIER  has a contractual framework in 
+place with OTHER SUPPLIER  that pre -dates the Defence Reform Act 2014, which means any 
+work placed between those parties and any sub -contracts placed by  SUPPLIER  are not subject 
+to the SSCR and therefore will not become QSC.  Central Legal Services (CLS) has provided 
+advice in support of this position.22  
+22. Contracting Timeline.  To secure long -lead items and maximize in -year accrual opportunities, 
+NAME OF DEPARTMENT  will seek contract agreement on price and terms for the 
+DELIVERABLE S acquisition, plus long -lead items for support and infrastructure by xx DATE .  
+23. Terms and Conditions (T&Cs).   T&Cs are being developed and negotiated.  ROLE  will 
+complete a due -diligence exercise on T&Cs prior to contract offer.  
+24. Pricing.   A Firm Price will be negotiated for both the Product Line solution, and separately for 
+UK modifications.  Pricing for lower -value work packages (c£ x) such as Training Needs 
+Analysis, and infrastructure design will be based on Ascertained Costs.  
+25. Profit Rate.   The Profit Rate will be calculated using the 6 -step process applicable under the 
+SSCR.  Incentivization might be applied up to X% of cost to improve schedule, subject to 
+appropriate risk transfer being agreed by SUPPLIER .  SUPPLIER  has confirmed that Profit will 
+only be charged on Cost Once for all SUPPLIER  elements of the price in line with SSCR.  
+26. Legal Advice.  CLS has been engaged throughout the Concept Phase and has provided 
+advice to support application of Article 346(1)(b), exempting the procurement from the Defence 
+& Security Public Contracts Regulations.  It has also, under legal privilege, provided advice  
+assessing the risk of a successful challenge to the MOD’s decision to pursue single -source 
+procurement with SUPPLIER .  
+MANAGEMENT CASE  
+  
+27. Through -Life Management (TLM).  The programme is governed by the tri -annual, cross -DLoD  
+Programme Working Group and 1* Programme Board ch aired by the SRO.  The Programme  
+Mandate details the required programme outcomes and the Programme Definition Document  
+(PDD) expands on the outcomes, delivery approach and management strategies. The PROGRAMME 
+NAME NAME OF DEPARTMENT  Project Management Plan (PMP) documents the plan, means, 
+methods and controls and will be maintained in accordance with NAME OF DEPARTMENT  Policy.  
+The contract with SUPPLIER  will include an obligation for Earned Value Management reporting and 
+ 
+ 
+    
+ 
+  performance governance arrangements, mirroring those implemented successfully on the 
+PREVIOUS  programme.   
+28. Schedule.  A high -level programme milestone plan is at Annex C with further detail to be 
+presented as part of the FBC.  The target IOC of DATE  has been built on cross -DLoD 
+deterministic plans; a full schedule risk analysis is subject to securing the DELIVERABLE , 
+maturing the tailoring aspects, test programme and Initial Support Solution arrangements prior 
+to Contract Award by xx DATE .  An IN will be issued at this point to update the IAC on the 50% 
+confidence IOC plans.  A resourced schedule23 at Annex F details the activities leading to the 
+FBC and which will be managed through the NAME OF DEPARTMENT  baseline control 
+process.  An Initial Baseline Review will be conducted upon approval of this OBC.  
+29. Assurance & Approvals.   An Integrated Assurance & Approvals Plan (IAAP)24 has been 
+produced and will be managed in accordance with HM Treasury Major Projects Guidance.  
+30. Benefits Strategy.   The PROGRAMME NAME follows the overarching Benefits Management 
+principles defined in the  ORGANISATION  Benefits Management Strategy.  A Benefits 
+Realisation Plan has been developed and the realization measures will be matured ahead of 
+the FBC.  
+31. Risk.  The highest programme risks are summarized at Annex D, with the risks held in the 
+Programme Level and NAME OF DEPARTMENT  ARM risk register.  The risks and 
+uncertainties have been incorporated into the cost model and management reserve.  The top 3 
+risks are:    
+a. Risk 1:   Transition from existing CAPABILITY  to new capability.   
+b. Risk 2:   Delay in decision making resulting in a loss of pre -delivery DELIVERABLE  
+and/or  SUPPLIER  Product Line manufacturing slots.   
+c. Risk 3:  Insufficient SQEP (Suitably Qualified & Experienced People) across key DLoDs 
+to both mature the FBC and to meet programme timeline.   
+CROSS DLoD  
+  
+32. Key points from DLoD strategies are summarized in Annex G with further information being 
+found in the individual DLoD strategies referenced in Annex G.  DLoD risks are included within 
+the risk register, with the highest detailed at Annex D.    
+UK WORK CONTENT   
+33.  SUPPLIER  has confirmed its plans for final assembly of the DELIVERABLE  to be undertaken 
+at  LOCATION  for around X manhours of work per DELIVERABLE  realizing around X direct 
+jobs.  Furthermore,  SUPPLIER  has confirmed its intent to use the same facility to meet any 
+future sales opportunities for other customers.25  The NAME OF DEPARTMENT  DT is 
+negotiating with SUPPLIER  on Commercial Exploitation Agreements applicable to UK elements 
+and start -up costs for the production line.  Through -life support and training will be undertaken 
+within the UK with an estimated X% of the value of the through -life support directly leading to 
+UK jobs.  In total, it is anticipated that over a third of the project value will lead directly to UK 
+jobs.  MOD is continuing discussions with SUPPLIER  to explore wider UK Prosperity 
+opportunities under the auspices of the HMG/  SUPPLIER  Proprie ty Agreement; an overview of 
+potential direct UK industrial opportunities is at Annex H.  
+  
+PRESENTATION & HANDLING  
+ 
+ 
+ 
+   
+ 
+  
+   
+34. The potential procurement of DELIVERABLE  and in particular the single -source approach with 
+SUPPLIER  has attracted significant Parliamentary and media interest.  It is expected that this 
+level of interest will continue during the approvals process and up to contract award.  Current 
+Lines to Take (LTT) remain extant and are regularly reviewed.  Close work ing with Directorate 
+of Defence Communications (DDC), NAME OF DEPARTMENT  Corporate Communications and 
+NAME OF DEPARTMENT  Policy Secretariat teams will be mai ntained and revised LTT will be 
+produced by a dedicated comms team.  
+SIGNATURE   
+NAME  
+PROGRAMME NAME Senior Responsible Owner   
+  
+Annexes:  
+  
+A. Candidate Key User Requirements.   
+B. UK Capability Roadmap.  
+C. Key Programme Milestones.  
+D. Programme Top Risks.  
+E. PROGRAMME NAME Affordability Tables  
+F. Resource Plan.  
+G. DLoD 1* OBC Acceptance & DLoD Strategies Summary.  
+H. SUPPLIER  Prosperity Map.    
+  
+ANNEX A TO  
+DATE XXXX - 
+PROGRAMME NAME  
+Outline Business Case  
+V1.2 SRO Final -OSC  
+DATED XX XX DATE   
+  
+PROGRAMME NAME – CANDIDATE KEY USER REQUIREMENTS (URD V2. DATE )  
+  
+KUR 
+No  Title  Description  UK    
+Assessment   Areas of Risk & Mitigation  
+1   The User requires a 
+capability that … Fully met  REDACTED   
+2   The User requires a 
+capability that…  Fully met  The tailoring package will ensure that the UK can fully 
+meet this KUR.  
+3   The User requires a 
+capability that…  Fully met  Assessment against this KUR has been revised 
+following receipt of updated planning data from  
+SUPPLIER .  This confirms that REDACTED  
+ 
+4   The User requires a 
+capability that…  Fully met  The tailoring package will ensure that the UK fully 
+meets this KUR through REDACTED.   
+                                             
+A - 1  
+ 
+  
+    
+  
+  
+  
+ANNEX B TO  
+DATE XXXX - PROGRAMME NAME  
+Outline Business Case V1.2  
+SRO Final -OSC  
+DATED XX XX DATE  
+UK    CAPABILITY ROADMAP  
+ 
+REDACTED  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B - 1  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+  ANNEX D TO  
+DATE XXXX - PROGRAMME NAME Outline  
+Business Case V1.2 SRO Final -OSC DATED DATE     PROGRAMME - TOP RISKS  
+  
+ID  Risk Description  Mitigations   Post Mitigation   
+      Prob  T  C  P  
+1  Cause:  
+There is a risk that REDACTED if REDACTED  is not properly managed.  
+Event:  
+Transition from existing CAPABILITY  to new capability.    
+Impact:  
+The risk will delay the Initial Operating Capability (IOC) or lead to a capability gap.  
+  1. REDACTED .   
+2. Transition WG has been established.   
+3. Transition plan to be developed between 
+OBC and FBC.   High  Med  Med  
+2  Cause:  
+Delay in decision making may result in loss of manufacturing slots with SUPPLIER .   
+Event:  
+There are a finite number of available production slots as  SUPPLIER  transitions to DELIVERABLE 
+production. SUPPLIER  will be seeking customers for these slots. If there is a delay in any decision 
+and these slots are sold to other customers, this could impact the Programme's ability to proceed.   
+Impact:   
+REDACTED  may be unavailable or only available at an inflated price, adding cost or delay to the  
+Programme.  The programme may seek alternative second -hand DELIVERABLE  but there is no 
+guarantee that there will be suitable DELIVERABLE  at low hours and of a common configuration.    1. Secure 2 x undelivered DELIVERABLE  
+DELIVERABLE  to accelerate the programme timeline.   
+2. Early commitment to secure th e 
+DELIVERABLE .   
+3. Engagement with  SUPPLIER  at Senior level 
+to secure the DELIVERABLE , price and timeline.  
+  Med  Med  -  
+3  Cause:  
+There are risks that the programme has neither sufficient SQEP, nor resources, to assess 
+programme requirements moving forward, and deliver the Programme's outcomes when required. 
+[This risk is an amalgam of Infra, Info, Logistics and Equipment DLoD top le vel resource risks].  
+Event:  
+Insufficient Suitably Qualified and Experienced Personnel and resourcing level to carry out 
+Assessment Phase requirements and delivery activities for DLoD lead delivery agencies to meet 
+Programme timeline.    
+Impact:  
+This could delay the delivery of the programme, as requirements will first need to be assessed 
+before delivery phase can progress. Similarly, if requirements are not correctly identified, this will 
+impact performance.  This could also delay the overall man agement of the programme, leading to 
+risks and issues not being identified in sufficient time to be mitigated without delay to IOC.  1. Appoint a Lead Delivery Organisation 
+manager, and an ICT Requirements Engineer to work 
+with NAME OF DEPARTMENT  to develop ICT 
+requirements.    
+2. Appoint and resource a lead delivery 
+organisation for the infrastructure solution.   
+3. To supplement NAME OF DEPARTMENT  
+DT recruitment, funding is being sought for additional 
+Engineering, Integrated Logistics and Project delivery 
+resource from the NAME OF DEPARTMENT  Delivery 
+partners .   Med  Low  Med      
+  
+  
+ 
+  
+ 4  Cause:  
+There is a risk that to meet all UK specific requirements unforeseen significant modifications are 
+required to the SUPPLIER  Product Line that cannot be delivered in time for IOC .  
+Event:   
+UK specific requirements exceed the current proposed time and cost basis of estimate baseline 
+configuration; detailed design work is still to be done.  1. Establish UK specific capability 
+requirements early and analyse against Product Line 
+baseline, using established requirements (e.g.  ) as 
+baseline wherever possible.  
+2. Developed Capability Roadmap and map 
+against the Product Line.  
+3. UK minor modifications to the Product Line 
+agreed   Med  Med  Med  
+ 
+ID  Risk Description  Mitigations  Post Mitigation  
+ Impact:  
+Leading to increased design effort and associated costs and potential capability trade -offs.  
+Potential delay to deliver of the capability due to the additional work required.  with  SUPPLIER  and CUSTOMER .       
+5  Cause:  
+REDACTED  at LOCATION  could inhibit the programme’s intentions to REDACTED .  
+ 
+Event:  
+The programme will be unable to REDACTED   
+Impact:  
+A lack of suitable REDACTED  will delay the IOC  1. Appoint infra Lead Delivery Agent for new    
+facility.  
+2.   CUSTOMER ORGANISATION  infra 
+strategy and site location decision to be pursued as a 
+priority.  
+3. Infra long lead activities to be included in 
+IAC approval to initiate early work.  
+4.    infra funding to include provision for the 
+required additional LOCATION services.  
+5.    infra delivery team to work closely with 
+LOCATION Development Team.   High  Low  Med  
+6  Cause:  
+There is a risk that additional work for DELIVERABLE  certification and/or REDACTED to meet 
+regulatory requirements, over and above that currently included within the programme of work.  
+Event:  
+Compliance with Certification Standards. 
+Impact:  
+This will present time and costs delays to the programme, as spending will be required to achieve 
+certification standards, and the additional work to do so could slow the delivery progress.   1. Authority to agree basis of type and ATM 
+certification.   
+2. Early engagement with  SUPPLIER  to define 
+and review the available certification evidence.   
+3. Develop a plan to deliver any additional 
+certification evidence.  
+   Med  Low  Med  
+7  Cause:  
+There is a risk that the DELIVERABLE  will be supported by a sub -optimal initial support solution.  
+Event:  
+Low level of resource available to mature the Support Strategy and Requirements due to 
+compressed timeline.  
+Immaturity of proposed initial support solution, combined with no UK   support experience and 
+data  
+Impact:  
+Increased support solution cost, increased GFX requirements and/or trade -offs in support 
+performance required.   1. UK support solution and framework 
+modelled on REDACTED   
+2. Joint support opportunities developed with  
+SUPPLIER  UK based on the RfP response.  
+3. Rapid DT support resource growth planned 
+in early DATE .  
+4. Assessment Phase work will seek to exploit 
+co-operation opportunities.  
+ 
+   -  High  Low  
+    
+  
+ 
+  .   
+Risk Scoring Scheme  
+  
+Probability & Frequency  Very Low  Low  Medium  High  Very High  
+Probability (%)  0 -> 10  
+<=10%  10 -> 25  
+<=25%  25 -> 50  
+<=50%  50 -> 75  
+<=75%  > 75 >75%  
+Impact Categories  Very Low  Low  Medium  High  Very High  
+Cost (£)  
+- Default  
+- Mandatory  0 -> X 
+<=£x X -> X 
+>£x<=x X -> X 
+>x- <=£x   X ->  
+X  
+>£x - £x > X 
+ >£x 
+Time (Days)  
+- Default  
+- Mandatory  0 -> 10  
+<= 2 weeks (10 days)  10 -> 20  
+> 2 week - <= 4 weeks 
+(>10 days - <=20 
+days)  20 -> 60  
+> 4 weeks - <= 3 
+months (>20 days -  
+<+60 days   60 -> 120 >3 months - 
+<= 6 months (>60 
+days - <=  
+120 days)   > 120  
+> 6 months (>120 
+days)  
+Performance  0 -> 1  
+very few shortfalls in  
+secondary 
+parameters, not 
+affecting any key 
+requirements  1 -> 2  
+A few shortfalls in 
+secondary 
+parameters, not 
+affecting any key 
+requirements  2 -> 3  
+Some shortfalls in  
+different areas of the 
+secondary 
+parameters, and a 
+minor effect on key 
+requirements  3 -> 4  
+Significant shortfalls in 
+performance affecting 
+key requirements  > 4  
+Major shortfalls in 
+performance 
+requirements; the 
+programme may not 
+be able to continue 
+and deliver capability.  
+  
+  
+  
+    
+  
+  
+ ANNEX E TO  
+DATE xxx- PROGRAMME NAME Outline  
+Business Case V1.2 SRO Final -OSC 
+DATED xx xx  DATE  
+ 
+  
+  
+TLB: CUSTOMER             
+Project for approval:  PROGRAMME NAME             
+ £'M DATE DATE DATE DATE DATE DATE DATE DATE DATE DATE Total 
+1.  Estimated ABC DATE uncommitted EPP provision at QRPC1 -DATE XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+2.  Fade assumed in uncommitted EPP  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+3.  Overprogramming in the uncommitted EPP  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+4.  Savings against uncommitted EPP assumed in x DATE baseline  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+5.  Content of uncommitted EPP otherwise unavailable for savings  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+6.  EPP savings assumed in DATES budget settlement  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+7.  Adjusted starting position  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+ XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+8.  Total approved Cat As to date  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+9.  Total approved Cat Bs and Cs to date  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+10.  Remaining uncommitted provision  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+11.  New financial commitment required by project  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+12.  Remaining uncommitted provision after project approval  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+13. PB&F Updated Uncommiited EPP - AP7/QRPC 2 -DATE less LII  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+14. PB&F Updated Uncommiited  EPP - AP7/QRPC 2 -DATE less LII adding back EPP Adj  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+    
+ ANNEX F TO  
+DATE xxxx- 
+PROGRAMME 
+NAME  
+Outline Business 
+Case  
+V1.2 SRO Final -
+OSC  
+DATED xx xx 
+DATE   
+RESOURCE PLAN  
+  
+DES Staff Resource - AP/D&M  
+Phase (delete as appropriate)  DATE DATE DATE DATE DATE DATE DATE DATE DATE DATE Total Requirement 
+beyond 10 year 
+profile 
+Total FTE              
+Total £ XXXX xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+External PSS Resource 
+requirement -AP/D&M 
+Phase (delete as 
+appropriate)   
+Total FTE              
+Total £ XXXX  xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+Other Programme Costs (1)   
+ORGANISATION  FTE             
+£XXXX xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+OVERALL TOTAL 
+REQUIREMENT   
+TOTAL FTE              
+TOTAL £ XXX xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+Current Vacancies   
+Total FTE   
+DES Staff Functional 
+Breakdown   
+F&A: FTE  
+£XXXX 0 0 0 0 0 0 0 0 0 0 0 0 
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+Commercial: FTE  
+£XXXX 7 7 7 7 7 7 7 7 7 9 72 100 
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+Project Controls: FTE  
+£XXXX 8 8 10 10 10 10 10 10 10 10 96 135 
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+PPM: FTE  
+£XXXX 5 5 5 5 5 5 5 4 4 2 45 26 
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+PERSONNEL : FTE 
+£XXXX 18 27 30 32 32 32 32 26 25 25 279 329 
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+I-Log: FTE  
+£XXXX 8 8 9 11 11 11 11 12 12 14 107 170 
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+Other functions: FTE  
+£x 2 2 2 2 2 2 2 2 2 2 20 27 
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx   
+ External PSS Breakdown (2)   
+Contingent Labour: FTE  
+£XXXX             
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx  
+Consultancy Assistance: FTE (3)  
+£XXXX             
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx  
+FATS: FTE (3)  
+£XXXX             
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx  
+Other PSS: FTE (3)  
+£XXXX             
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx 
+ 
+  
+F 1 
+ANNEX G TO  
+DATE xxxx- PROGRAMME NAME  
+Outline Business Case  
+V1.2 SRO Final -
+OSC DATED xx 
+xx DATE   
+  
+DLOD 1* OBC ACCEPTANCE & DLOD STRATEGIES SUMMARY  
+DLoD 1* OBC Acceptance:   
+  
+  
+IMAGE  
+  
+  
+  
+  
+DLoD Strategies Summary  
+  
+1. Training.  A through -life training solution is assessed as deliverable and the UK 
+training solution will draw on the experience and  SUPPLIER -delivered training system 
+in place for the  
+    A.  Prior to IOC, the intent is to utilise training provided through the  ; over time a UK -led 
+and LOCATION -based solution will be developed that will utilise a blended Service  
+provisioned and contractor solution.  This will be prioritised and resourced to provide an 
+optimum live/synthetic training balance using the phased approach detailed within the 
+PROGRAMME NAME Training Strategy26.  
+2. Equipment.  
+ 
+   
+ a. Certification and Safety.   Early engagement with  SUPPLIER  with support 
+from the NAME OF DEPARTMENT    Team has enabled the collaborative development 
+of an initial   Strategy that outlines the intended approach to the management 
+throughout the Service life of the platform.  The Strategy includes a summary of how 
+the Type   Authority intends to achieve Military Type Certification as well as the 
+intended approach to demonstrating compliance with the Design Safety Target .  It has 
+been reviewed at desk level by ( ACCREDITOR ) and has been approved by 
+REDACTED .  A separate Certification Strategy will be developed during XX DATE  and 
+submitted to the  ACCREDITOR  to formally initiate the certification process.   
+b. Acceptance Strategy.  An initial Integrated Test and Evaluation Plan (ITEAP) 
+has been developed which sets out a strategy for how it will be introduced into service.  
+This Plan will be refined as the strategy for introducing the UK -specific modifications 
+into the ‘Product Line’ is refined prior to contract award, and further developed prior to 
+FBC submission.  The procurement of a pred ominantly ‘off -the-shelf’ platform means 
+that the majority of traditional design test and evaluation has already been comple ted 
+and post -modification Design Organisation -led activity on the first UK DELIVERABLE  
+is likely to be minimal.  However, there will be opportunities for the  ORGANISATION  
+Operational Test and Evaluation (OT&E) community to cooperate in this activity, and 
+opportunities to benefit from T&E and operational experience will also need to be 
+exploited to minimise the period between EDD and IOC.  
+c. Technology Management.   The following sub -paragraphs outline the four -
+step process that the UK intends to take with regard to the development of the 
+capability:  
+(1) ‘Product Line’ (PL) Capability.   The capability as initially offered to the UK 
+consists predominantly mature and fielded technology taken from a combination 
+of the commercial PREVIOUS  programme and previous deliveries to 
+COUNTRIES.   These will be complemented by several updates that are being 
+developed as part of the ongoing programme, the design of the final release of 
+which is expected to be frozen in Q1 DATE . Additional activity will be required to 
+ensure that the UK configuration is aligned with the lat est commercial baseline 
+configuration (i.e. to address in -line obsolescence and production changes), but 
+this is expected to be low risk and will commence immediately after contract 
+award.  
+(2) Capability Tailoring.   When assessed against the KURs, the Product Line 
+version had a number of minor shortfalls, and SUPPLIER  have agreed to 
+develop a small number of modifications to introduce additional capabilities to 
+mitigate the gaps. These relate to high maturity technologies already fielded on 
+other military platforms with the immaturity of integration forming much of the  
+associated technical risk; this will be mitigated by parallel development of these 
+capabilities alongside Product Line configuration alignment.  
+(3) Capability Studies.   In addition to the list of modifications that have been 
+agreed as being necessary to tailor the Product Line capability to meet UK 
+requirements, a small number of additional studies will be conducted ahead of 
+FBC.  These are not expected to be fielded as  part of the UK configuration at 
+FOC; however, if these studies highlight an opportunity which is containable 
+within delivery cost and/or time bounds then these will be highlighted to the SRO 
+and considered as part of the FBC approval. T he value of such studies will be 
+reviewed as they progress with a view to ceasing their progress early if their 
+progress becomes incoherent.     
+ (4) UK Collaborative Development.   With regard to the need to ensure that the 
+UK capability remains relevant out to the envisaged OSD, this business case 
+seeks approval to participate in the collaborative development of a number of 
+concepts for REDACTED,  communications, and survivability.  This activity will 
+run in parallel to the main procurement programme under a collaborative project 
+arrangement with the NAME OF COUNTRY and NAME OF COUNTRY  and may 
+inform a future decision to pursue an upgrade project.  Follo w-on stages for 
+further development, embodiment and costing will be subject to separate 
+approvals.  
+d. Comparison with PREVIOUS PROGRAMME .  UK is expected to be very 
+similar to the DELIVERABLE  at the post -Phase 5A configuration.  In addition to a 
+number of component -level changes related to obsolescence that will not impact 
+on the overall platform performance, the platforms will have the following key 
+capability differences:  
+         REDACTED  
+3. Personnel.   
+a.   CUSTOMER ORGANISATION  Personnel.   The PROGRAMME NAME  
+Personnel Strategy states REDACTED.  The Workforce Strategy will inform the 
+deliverability of the Personnel DLoD against the KURs and Key Capability 
+Requirements (KCR) in order to achieve programme milestones. Prior to FBC, 
+Manpower Requirements staff will engage with PROGRAMME NAME ,  
+ORGANISATION  FHQ and all cross -DLoD parties to review platform workforce 
+requirements.  Extant workforce liability will be used to provision the workforce 
+requirements for PROGRAMME NAME .  
+b. NAME OF DEPARTMENT  Personnel.   The existing PROGRAMME NAME 
+team will need to increase in size rapidly as detailed in the Staff Resource Plan at 
+Annex E.  A resource -based schedule has been developed to define the time -based 
+requirements for different functional skills and this will be used to articulate the 
+demand  signal to NAME OF DEPARTMENT  Functional Managers.  In the short term, it 
+is anticipated that this demand will be met by procuring additional resource from the 
+NAME OF DEPARTMENT Engineering Delive ry Partner and Project Delivery Partner 
+(PDP).  
+4. Information.   The Information DLoD owner is responsible for assurance that DLoD 
+deliverers’ outputs for the programme meet time and quality requirements, and that 
+reporting is complete and accurate.  As described in the PROGRAMME NAME 
+Information Strategy, they will provide a level of assurance to the SRO that the 
+information aspects of the capability are fit for purpose. The Programme intends to 
+assign NAME OF DEPARTMENT  as the Lead Delivery Agent for delivery of ICT 
+Equipment and Services.  NAME OF DEPART MENT will be given the means, and 
+financial resources, to direct ORGANISATION  to enable fulfilment of Equipment and 
+Support related Information requirements, via an assigned ORGANISATION  Lead 
+Delivery Organisation (LDO) Manager and commodity equipment teams, as required.  
+The ORGANISATION LDO Manager will be Lead Delivery Agent for wider Information 
+requirements (e.g. IT for the Main Operating Base) working with the Information 
+Requirement Manager and  CUSTOMER ORGANISATION  as necessary.  
+5. Doctrine .  The PROGRAMME NAME CONEMP provides the context and detail for the 
+employment of the following capabilities : REDACTED.  The CONEMP has been 
+produced as the inaugural element of the Concept Phase of PROGRAMME NAME .  It 
+will be reviewed by programme stakeholders ahead of FBC and in response to the 
+proposed solution and the capabilities that brings.  Future reviews will be initiated by   
+ the SRO, and led by the Doctrine and Concepts DLoD lead, on behalf of the Lead 
+User.  
+6. Organisation .  For the purpose of the PROGRAMME NAME Organisation Strategy, it 
+is assumed that DELIVERABLE  will fit into the current organisational structure at 
+LOCATION .  In summary, this consists REDACTED .  The  ORGANISATION  
+Operational Conversion Unit (OCU) will provide the training for UK STAFF to fulfil 
+training requirements against a minimal manpower volume.  Tasking will be conducted 
+under existing  arrangements.   
+7. Infrastructure . Infrastructure work is at an early stage with user requirements, 
+delivery approach, and risk analysis still being developed.  Early PROGRAMME NAME 
+Infrastructure Strategy planning assumptions against the ABC DATE  option for upgrading  D 
+considered the refurbishment of the existing infrastructure at LOCATION .  However, an 
+alternative option to build a new strategic facility is now also being assessed, drawing on the 
+experience of a similar project at LOCATION .  UK will be introduced at a time of significant 
+capability change at LOCATION .  Whilst this complexity has the potential to introduce 
+programme risk, this is being mitigated through the establishment of a Development Plan as 
+part of the  ORGANISATION  Transformation project, led by REDACTED .  The 
+PROGRAMME NAME Infra DLoD will work closely with the team to  ensure coherence, 
+efficiency and value for money.  
+ 
+a. LOCATION  remaining as the REDACTED  has been a major planning 
+assumption since inception of the Capability Sustainment Programme.  
+(1) Synergies with the wider ORGANISATION  and Intelligence communities.  
+The proximity to ORGANISATION  and Intelligence community’s colocation 
+with other ORGANISATION  assets allows a cross fertilisation of experience 
+and sharing of specialist  ORGANISATION  resource.  
+(2) Operating range and ability to reach common operating areas.  LOCATION 
+is ideally located to allow REDACTED.   
+(3) Retention of Service and Civilian personnel.  There is an established core 
+of PROGRAMME NAME SQEP at LOCATION .    
+b. An infrastructure Delivery Agent has yet to be appointed; the most appropriate 
+Delivery Agent will be selected once key decision points are reached in the 
+infrastructure planning.  This may be the NAME OF DEPARTMENT 1 , another 
+government department, or the infrastructure may be delivered through the prime 
+contractor  SUPPLIER .  This decision will be reached on the basis of the best VfM 
+alongside an acceptable level of programmatic risk.  A NTE approval for the whole 
+build is being requested in this OBC to e nsure planning and construction can continue 
+at pace and reduce the risk of facilities not being available at In Service Date (ISD).  
+The FBC will confirm infrastructure decisions and associated costs.  
+  
+8.  Logistics .  In accordance with the PROGRAMME NAME Logistics Strategy, the 
+Logs DLoD plans to deliver an assured, sustainable, support solution that will be fit for 
+purpose to meet the demands of PROGRAMME NAME , through NAME OF DEPARTMENT  
+delivery of contracted Integrated Logistics Support (ILS) aligning to, and achieving 
+coherence with, the delivery of required GFX. PROGRAMME NAME  and the Logs DLoD will 
+engage with the NAME OF DEPARTMENT  and CUSTOMER Delivery teams to identify 
+synergies in logistics sup port.   
+ a.  Support Strategy.  The intention for the UK is to develop an output -based 
+service linking the industry support solution to the delivery of operational outputs.  The 
+initial support Logistic Support Date is assumed to be X months prior to the DATE  In-
+Service Date, with Forward support based at LOCATION , and industry Depth 
+maintenance offbase.   The construct for Forward is assumed to be CUSTOMER -led, 
+supported by industry.  During the initial support period UK operating and support 
+information will be gathered to enable the support service or elements within it to be 
+competed during the follow -on future support phase after circa X years when effective 
+and VfM to do so.  
+(1)  The support strategy outlined above will be matured ahead of FBC 
+and will build upon the DATE RfP response from SUPPLIER .  The SUPPLIER  
+UK support proposal is based around the extant SUPPLIER  support solution and 
+costings for DELIVERABLE  and its X years of operating experience and costs.  
+During DATE  SUPPLIER  Defence UK and the Delivery Team have developed 
+joint support opportunities to enhance the support solution and significantly 
+reduce the proposed support costs.  These opportunities will be mature d during 
+the Assessment Phase and embedded in the initial support contract.  
+Consequently, the proposed UK support solution has a solid  foundation upon 
+which to build and apply lessons learned.  
+(2)  Ahead of FBC, opportunities to co -operate with COUNTRY  will be 
+explored, especially for the Support Segment for the synthetic training devices, 
+and system software support.  In addition, the intent is also to exploit the wide 
+commercial support base available for the large DELIVERABLE  fleet, as well us 
+synergies with the MOD’s ( DELIVERABLE  based) support solution.

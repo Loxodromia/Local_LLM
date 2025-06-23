@@ -1,0 +1,611 @@
+To: DRes, ORGANISATION  From:  
+ 
+11 Mar 20  
+ 
+File reference: DATE -Project _PROJECT NAME _FBC -Cap_SP -Under_Review -1_0-SUKEO.doc  
+ 
+Project PROJECT NAME  – Full Business Case  
+ 
+Project (Project ) PROJECT NAME  will maintain the  REDACTED , address ing key 
+capability shortfalls to enhance mission effects and levels of UK  / COUNTRY 
+interoperability. Project  PROJECT NAME  will replace the REDACTED  capability. 
+Options Analysis at Initial Gate concluded that procurement of REDACTED via a 
+Foreign Military  Sales (FMS)  contract  would meet UK requirements at optimised 
+performance, cost and time, representing best Value for Money (VfM).  
+ 
+Issue  
+ 
+1. Approval is required to commence the Demonstration, Manufacture and In -Service 
+phases of Project  PROJECT NAME . 
+ 
+Timing  
+ 
+2. Routine . FBC a pproval is requ ested  by DATE  to enable signature of the LOA before 
+its expiration in DATE , ensuring UK access to the accelerated  Contracting Mechanism.  
+ 
+Recommendation  
+ 
+3. The Approving Authority is invited to approve:  
+ 
+a. Project  PROJECT NAME  to proceed to Demonstration, Manufacture and In -
+Service phases.  
+ 
+b. The procurement of DELIVERABLE  modified to meet UK specific Key User 
+Requirements (KURs)  complete with an optimum support package via  an FMS with 
+the ORGANISATION . 
+ 
+c. The candidate Key User Requirements (cKURs) at Annex A. 
+ 
+d. The Approved Budgetary Level (ABL ) outturn, inclusive of all non -recoverable 
+VAT at 50% confidence for the Demonstration and Manufacture phases and In -
+Servic e Support to DATE , of £ XXXX  consisting of £ XXXX  RDEL, £ XXXX  CDEL  and 
+£XXXX  RMC.  
+ 
+e. A separate FOREX Risk Approval of £ XXXX  
+ 
+f. In-Service Support after DATE  will be delivered by a future In -Service Support 
+contract and through follow -on FMS cases for support to equipment subject to 
+specific   controls. This will require a further approval.  
+ 
+g. The ABL is inclusive of a Raw Materials & Consumables spend of £ XXXX .  This 
+is included within Table 1. 
+ 
+h. Costs of £XXXX M for  Private Sector Support (PSS)  to deliver key Security 
+Assurance activities where DELIVERY ORGANISATION  do not hold appropriate 
+SQEP .    
+i. An Initial Operating Capability (IOC) date of  DATE  and a Full Operating 
+Capability (FOC) date of  DATE  at 50% confidence.  
+ 
+And to note:  
+ 
+j. The confidence levels for the cost of Project  phases (including RMC) below:  
+ 
+Project Phase  Estimated Cost (£M)  
+10% 50% 90% 
+Estimate for Manufacture1 XXXX  XXXX  XXXX  
+Estimate for In -Service & Disposal  XXXX  XXXX  XXXX  
+Total  XXXX  XXXX  XXXX  
+Table 1 - Three Point Estimate of Cost  
+k. The confidence levels for key project milestones below:  
+ 
+OBC / FBC Estimate (M/Y)  Confidence Levels  
+Deterministic  10% 50% 90% 
+Logistic Support Date (LSD)  DATE  DATE  DATE  DATE  
+EDD  DATE  DATE  DATE  DATE  
+EDD  DATE  DATE  DATE  DATE  
+EDD  DATE  DATE  DATE  DATE  
+IOC DATE  DATE  DATE  DATE  
+FOC  DATE  DATE  DATE  DATE  
+Table 2 - Three Point Estimate of Schedule  
+l. The principal risks to ca pability delivery at Annex B.  
+ 
+m. That appropriate Accounting Treatments  have been confirmed by  DELIVERY 
+ORGANISATION  Taxation Team s. 
+ 
+n. That a  separate Con tingent Liability allocation  is being identified by the DT and 
+shall be approved by DELIVERY ORGANISATION  Financial Accounting Treatments 
+Manager . 
+ 
+o. TLB costs  of £XXXX  to enable recruitment of required resource (Private Sector 
+Support (PSS)) identified within Annex E . 
+ 
+p. Following implementation of FCR  REFERENCE  this FBC is deemed affordable.  
+ 
+q. The potential exchange rate Volatility effect between the Defence Economics 
+Most Likely Rates and the Corporate Planning Assumptions is £ XXXX . 
+ 
+Presentation and Handling  
+ 
+4. Project  PROJECT NAME  will be operated by ORGANISATION ; there will be no 
+public acknowledgement of th is Project . References to Project  PROJECT NAME  shall be 
+made in line with its Security Aspects Letter.  
+ 
+Strategic Case  
+ 
+5. Background.  REDACTED  are continuing to evolve in order to REDACTED . 
+REDACTED  has specialist capabilities that provide and support the delivery of these 
+strategic and operational effects. REDACTED contributes to these outputs by delivering 
+ 
+1 This FBC does not seek approval for demonstration costs.    niche effects, enabling delivery of DELIVERABLES.  The capability provided support s 
+NSO s X and X and Defence Tasks.  
+ 
+6. Justification.  Operational Analysis has identified  the extant requirement fo r 
+REDACTED.  Project  PROJECT NAME  will address the se capability shortfalls , which have 
+been identified and captured within the SUR  and which  have shaped the Project ’s 
+demanding set of requirements.  
+7. Requirement.  REDACTED . 
+ 
+8. Candidate KURs.  The candidate  KURs are  at Annex A; the SRD is at Enclosure 2.  
+ 
+a. The Delivery Team (DT) have determined that the most effective means of 
+delivering against the requirements remains through implementation of the solution 
+proposed at Initial Gate.  
+ 
+b. Judgement Panel convened DATE  resulted in a Procurement Strategy decision 
+informed by the Project Team and  DELIVERY ORGANISATION , decided by the user 
+and endorsed by Head of Capability Special Projects (HoC SP). The IGBC  
+(Enclosure 6)  was approved against the assumption that delivery of capability via 
+FMS would ensure the  Threshold  cKURs would be fulfilled.  
+ 
+9. The DT, in conjunction with the user and in collaboration with ORGANISATION  
+stakeholders, has used the Assessment phase to identify and verify the most appropriate 
+FMS strategy to fulfil the requirement. The procurement strategy for all capability aspects 
+has been analysed and assessed within the Investment Appraisal (IA, Enclosure 3) and 
+further detailed within the Procurement Strategy (Enclosure 4). Additionally an engineering 
+assessment of the platform and sub -systems has been undertaken to demonstrate 
+fulfilment of the KURs (Annex A).  
+ 
+Economic  Case  
+ 
+10. During its Concept phase, Project  PROJECT NAME  was determined to best fulfil the 
+cKURs through a bespoke UK competition. With concept studies underway in DATE , 
+REDACTED identified a platform currently in -service  REDACTED that had the potential  to 
+fulfil the Project ’s requirements. Given the disparity between schedule, cost, risk and 
+capability across the potential different procurement m odels an MJP was convened . To 
+best inform this panel, DELIVERY ORGANISATION  worked alongside ANOTHER 
+DELIVERY ORGANISATION  to ensure that each p rocurement  strategy had been similarly 
+assessed for Project, Technical and Cost impact and that the p rimary risks of each 
+strategy were  highlighted . 
+ 
+11. The MJP’s selected procurement strategy was  the procurement of  DELIVERABLE  
+via Foreign Military  Sale (FMS).  This was endorsed  on the IGBC  Outletter  (Enclosure 7).  
+ 
+12. The DT have used the Assessment Phase to engage with a wide range of 
+ORGANISATION  stakeholders to gain assurance that the capability offered by 
+REDACTED fulfil the Project ’s Objectives. This has been achieved.  
+ 
+13. Following IGBC approval in DATE  the available Courses of Action (CoAs) were 
+further developed. They are briefly described below:  
+ 
+a. CoA 1 : Do Nothing . Use the existing post Mid Life Upgrade supported by the 
+current through -life support mechanism.  
+   b. CoA 2 : Do Minimum. Procure  DELIVERABLE with Capability and  Through Life 
+Support aligned to US Model.  
+ 
+c. CoA 3 :  REDACTED with COUNTRY  Modification  & Support . Procure 
+DELIVERABLE  complete with  modification of capability to meet UK Key User 
+Requirements and an optimum through -life support mechanism. Under th is Option 
+DELIVERY ORGANISATION  would REDACTED  with proven in -service capability in 
+a similar operating e nvelope via FMS with the ORGANISATION , complete with an 
+optimum through -life support mechanism.  This will enable the UK to meet the UK 
+specific KURS via the FMS contract. It will result in the delivery of a capability that 
+meets and exceeds threshold KURs, provides a clear route to delivery of objective 
+KURs and further enables interoperability and collaboration between UK and 
+COUNTRY . 
+ 
+d. CoA 4 : UK Bespoke Competition . Competitively design and manufacture a 
+fleet of  DELIVERABLES , aiming to maximise  performance towards Objective levels 
+as set in the KURs. Support  the DELIVERABLES  with an optimum through -life 
+support mechanism.  
+ 
+14. An analysis of each CoA is presented within the IA. This has been informed by 
+significant Concept p hase work by  DELIVERY ORGANISATION, the continuation and 
+expansion  of that work through the Assessment phase, engagement with 
+ORGANISATION  and SOCOM stakeholders and the Project  OTHER PROJECT  Mid Life 
+Update Programme.  
+ 
+15. The IA recommended Option 3 to be the most effective means of delivering the 
+requirement.  
+ 
+a. CoA 3 provides VfM through  utilisation of  an existing Manufacturing Contract 
+providing D&M risk reduction informed by historic NRE and  R&D invested into 
+REDACTED.  Alignment of configuration provides a mechanism for  further 
+interoperability & collaboration between the UK and COUNTRY , enabling UK 
+exploitation of COUNTRY  resource tailored to wards the evolution  and assurance of a 
+capability that can  continue to  deliver a battle winning edge through -life. Other CoAs 
+cannot provide the same level of access to the considerable resource available when 
+partnering closely with the COUNTRY .  
+ 
+b. Short to medium t erm goals to achieve KUR  objective performance levels are 
+outlined within the PROJECT NAME  Technology Management Roadmap. Th is 
+provides for development and integration of c apabilities that will not only enhance 
+Project  PROJECT NAME  but could also be implemented on  REDACTED . The 
+development of these capabilities is costed within the FBC and routes to delivery of 
+outcomes agreed through partnership with the ORGANISATION , UK and othe r 
+stakeholders.  
+ 
+Financial Case  
+ 
+16. Funding for this Project  was approved via Option X (Concept Assessmen t) and 
+Option X (Demonstration, Manufacture, In -service, Disposal) . These provided a 10 year 
+procurement budget of £ XXXX  to deliver Full Operation Capability for DATE a bespoke UK 
+Competition. The procurement timeline was accelerated by FCR  DATE (Enclosure 9) to 
+take advantage of an opportunity to deliver the Project  at better VfM whilst also bringing 
+forward IOC and FOC dates by X years.  
+   17. As per paragraph 3p implementation of FCR  DATE  ensures that the Project is 
+affordable, with the Approval Value requested within this FBC aligning with Control Total 
+(CT). The Procurement Strategy developed by the PT realised efficiencies of £ XXXX  
+through -life including £ XXXX  through Design & Manufacture Phases resulting from 
+minimal NRE Costs; FCR implementation has amended both the CAPEX profile and the 
+OPEX shortfall required to successfully deliver this Project and removed the efficiencies 
+from Project CT.  
+ 
+18. The FMS Case has informed a cost forecast based on firm ‘ceiling’ prices calculated 
+by the COUNTRY Procurement Authority. The DT has engaged routinely with them  to 
+ensure that COUNTRY  Cost Assumptions and the COUNTRY  built-in risk are well 
+understood. These costs have informed the (3 Point Estimate (3PE)) Best Case  and Most 
+Likely  Cost Data Assumptions within the Cost Model with additional uncertainty factored 
+into Worst Case estimates; UK specific Risk costings have been calculated and included 
+within the Cost Model output. This has resulted in a robust model, reviewed and assessed 
+by the PT, COUNTRY Procurement Authority  and the  Independent CAAS Approvals Team 
+(CAT) . 
+ 
+19. Project Risks are identified and their impacts costed through the  DELIVERY 
+ORGANISATION  Risk Management tool and Project  PROJECT NAME  Cost Model; this 
+process has identified a RIC. of £ XXXX  and ROC of £ XXXX . Although this RIC appears 
+low value it is in addition to  COUNTRY  Risk assumptions factored into the Project 3PE 
+within the Cost Model.  
+ 
+20. RIC and ROC have been identified using the Probabilistic (Monte Carlo) method; the 
+modelled risk between P10 and P50 identifies the total RIC and the modelled risk between 
+P50 and P90 identifies the total ROC.  
+21. OB and SRA are red as a result  of the narrow delivery dates. The D T consider this 
+acceptable as the DELIVERABLE  to be procur ed will be manufactured on an established 
+production line  producing DELIVERABLE  to the same specification as the 
+ORGANISATION , with minimal variation to fulfil limited UK specific requirements.  
+ 
+22. The Approving Authority is requested to note the e stimated cost forecast from IGBC 
+submission  at Table 3 below . 
+ 
+ 
+ 
+ 10% 50% 90% 
+Total Project  XXXX  XXXX  XXXX  
+Assessment  XXXX  XXXX  XXXX  
+Demonstration  XXXX  XXXX  XXXX  
+Manufacture  XXXX  XXXX  XXXX  
+In- Service  (to DATE ) XXXX  XXXX  XXXX  
+Table 3 – Project  PROJECT NAME  Estimated Cost Forecast from IGBC (£M)  
+23. Table 4 shows a breakdown of the ABL of £ XXXX ; consisting of £ XXXX  CDEL, 
+£XXXX  RDEL and £ XXXX  of RMC.  Any subsequent variance following receipt of the LOA 
+shall be rectified via PCR.  
+Commercial Case  
+ 
+24. Procurement strategy for this project is  to purchase  DELIVERABLE  through an FMS 
+contract with ORGANISATION . The awarded c ontract (via L oR / LoA) will include support 
+for 2 years  following delivery of the final DELIVERABLE .    
+25. Procurement via FMS is outside the scope of Procurement Regulations,  therefore 
+this Project was not  advertised in the Defence Contracts Online (DCO) .  The lack of 
+requirement for a competition and prototype assessment  has significantly reduce d delivery 
+timescales . 
+ 
+26. The DT have consulted Central Legal Services and received confirmation that there 
+are sufficient grounds for reliance on the Defence and Security Public Contracts 
+Regulations exclusion at Reg 7(1)(h) which provides an exemption for FMS.     
+ 
+ Year  0 1 2 3 4 5 6 7 Total   FY DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  
+Expected 
+Cost  
+ 
+[For this 
+approval]  RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RMC  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total RDEL 
++ CDEL  
++RMC  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total 
+Provision  
+ 
+[Within P9]  RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RMC  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total RDEL 
++ 
+CDEL +RM
+C XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Varianc e 
+ 
+[-ve represents  
+excess in 
+provision]  RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RMC  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total RDEL 
++ CDEL  
++RMC  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table 4 – Cost & Af fordability Table for Project  PROJECT NAME  
+(All CDEL & RDEL figures are cash; all figures rounded to nearest £1k ) 
+27. Industry to industry T ransfer of Undertakings Protection of Employment (TUPE) 
+Regulations  will not be a factor for this requirement . 
+ 
+Management Case  
+ 
+28. Governance . 
+a. Project  PROJECT NAME  will be managed in -service by  DELIVERY 
+ORGANISATION . 
+ 
+b. Project Deliverables are being managed via a resourced Project Schedule 
+which defines the activities and milestones and ensures the P T are accountable for 
+progress against the Baseline. Schedule Risk Analysis has been undertaken and has 
+been used to inform the FBC.  
+ 
+c. A Project Management Plan (PMP) and Stakeholder Management and 
+Governance Strategy  (Enclosure 11)  have been produced and are actively employed 
+to ensure all Stakeholders are identified and th at the  PT correctly understand and 
+employ a defined process towards delivery of the requirement.  
+ 
+d. The milestones and schedule for the Demonstration and Manufacture phase are 
+shown at Annex C.  
+ 
+29. Key personnel . 
+ 
+a. The Project Sponsor is ROLE . 
+ 
+b. The Senior Responsible Officer (SRO) will be ROLE.  
+   c. Project Executive Officer (PEO), exercising delegated responsibility of the SRO 
+will be ROLE.  
+ 
+30. In-Service Support Solution.  
+ 
+a. Collaborative engagement .  REDACED  and LFE from the current support 
+Contract has informed the Integrated Logistic Support Management Strategy 
+(ILSMP)2 forming the basis for US Contract negotiations.  
+ 
+b. The strategy determines the best model for support within the constraints of 
+FMS is to contract through the ORGANISATION  an enabling agreement between the 
+OEM  and a UK support contractor to deliver a support package for the commercially 
+available equipment, with direct ORGANISATION  support for the more sensitive, 
+controlled items. This model shall ensure that reachback to the OEM is available for 
+maintainers and DELIVERY ORGANISATION  for the critical first years (to DATE ) the 
+capability is in -service. Subsequently the support of commercial elements shall be 
+competed as part of a wider competition for support whilst Controlled Items identified 
+within the LOA shall be supported through subsequent FMS Cases. Should it be 
+assessed as more cost effective the opportunity remains to support the total 
+capability via FMS.  
+ 
+31. Project Team Staffing.  
+ 
+a. The PT is adequately resourced for management of this Project with FTE posts 
+being prioritised within the Team in the short to medium term whilst ongoing 
+recruitment is completed. Where specific technical expertise is required the PT are 
+successfully contracting via the EDP, primarily to deliver Security Assurance 
+Coordinator and Technical Through -Life Support resourcing. Although the PT is 
+utilising PSS resource whilst recruiting Crown Civil Servants costs  remain within the 
+PSS CT3 and implementation of FCR has ensured the required SQEP resource is 
+affordable through -life. 
+ 
+32. Capability Integration Plan (CIP).  Capability  integration across DLoDs is being 
+managed through a Capability Transition and Integration Working Group (CTIWG)  and will 
+be reviewed by bi-annual pan-stakeholder  Project Boards. This includes a Capability 
+Roadmap which details the pan -DLOD transition from Project  OTHER PROJECT  to 
+Project  PROJECT NAME . The CIP is at Enclosure 12.  Particular consideration is being 
+applied to personnel and infrastructure where studies have been conducted and planning 
+in place to achieve outputs by IOC.  
+a. Infrastructure.  A permanent Infra solution, under OTHER PROJECT , is 
+unfunded and currently unaffordable. ORGANISATION are working with  
+ORGANISATION and PT to develop a temporary and subsequently permanent infra 
+solution. This includes potential use of  REDACTED and smaller, cost effective 
+upgrades to  DELIVERABLE. A decision will be made prior to IAB of the preferred 
+Infra COA.  
+ 
+b. Personnel.  ORGANISATION c urrently does not have  sufficient REDACTED to 
+support this capability. As part of a wider review ORGANISATION have submitted 
+their requirements to feed into a ABC DATE  Option for manpower uplift. Work is also 
+being carried out to recognise the requirement. As contingency ORGANISATION is 
+ 
+ 
+   able to surge internal manpower to meet any operational requirements, although this 
+would add significant pressure to REDACTED . 
+ 
+c. Acceptance and Development. First of Class Trials (FoCT)  will take place for 
+DELIVERABLES  1 and 2  using Integrated Test, Evaluation and Acceptance Plan 
+(ITEAP) . This is being developed to ensure user confidence in the DELIVERABLE  
+ability to meet a range of mission objectives . The customer will prioritise which other 
+capability interfaces will be physically trialled during the C apability Development and 
+Integration Period (CDIP). At the end of FoCT , CDIP  and acceptance of 
+DELIVERABLES  IOC will be declared.  
+ 
+d. Safety. A project safety strateg y is being developed to detail  the process to be 
+adopted  to manage safety and environmental protection (S&EP), along with 
+legislative requirements and  to articulate  S&EP roles and responsibilities . A Platform 
+Safety  and Environmental Committee will be  established, and a Preliminary Safety 
+and Environmental Case Report developed prior to DELIVERABLE  acceptance for 
+CDIP. The final SECR will be signed when the capability is declared Operating Safely 
+once all DLoD considerations are satisfied.  
+ 
+33. Risks.  Project Risks are maintained in accordance with DELIVERY ORGANISATION  
+Policy on SOFTWARE NAME  and managed through a robust process for assessment, 
+analysis, mitigation and escalation. Key Project Risks have been identified at Annex B.  
+ 
+34. Capability Enhancement and Sustainment.  To ensure PROJECT NAME  continues 
+to perform at the front edge of technology and exploit a battle winning edge a Technology 
+Management Roadmap has been developed which identifies requirements for and 
+implementing the further R&D and T&E of capabilities additional to those immediately 
+delivered by the FMS case. Both independent UK technology development and 
+collaboration with the COUNTRY  will provide the means to mitigate current and future 
+Risks to the capability.  
+ 
+ 
+ 
+ 
+NAME  
+RANK  
+ORGANISATION  
+ 
+Annexes:  
+ 
+Annex A – Candidate Key User Requirements & Assessment  
+Annex B – Key Project Risks  
+Annex C – Project Schedule  
+Annex D – Abridged CONEMP  
+Annex E – Project Team Resource & Schedule  
+Annex F – Financial Profile Table  
+ 
+References : 
+ 
+A – REDACTED Study, DELIVERY ORGANISATION , dated DATE . 
+B - Summary of DELIVERY ORGANISATION , dated DATE . 
+C - PROJECT NAME  Stakeholder Management & Governance Strategy , ver. 1.1, 
+ dated DATE . 
+   Enclosures:  
+ 
+Enclosure 1 – SUR  dated DATE . 
+Enclosure 2 - PROJECT NAME  User Requirements Document, Issue 2, dated DATE . 
+Enclosure 3 - PROJECT NAME  Investment Appraisal Report, ver. 1.1, dated DATE . 
+Enclosure 4 - PROJECT NAME  Procurement & Commercial Strategy, ver. 1.1, dated 
+DATE  
+Enclosure 5 – REDACTED RoDs, dated DATE . 
+Enclosure 6 - PROJECT NAME  Initial Gate Business Case (IGBC), dated DATE . 
+Enclosure 7 - PROJECT NAME  Initial Gate Investment Appraisal Board Outletter, dated 
+DATE . 
+Enclosure 8 - PROJECT NAME  Operational Analysis Support Paper (OASP) for Full 
+Business Case, ver. 1, dated DATE . 
+Enclosure 9 - FCR PROJECT NAME , dated DATE . 
+Enclosure 10 - PROJECT NAME  Technology Management Roadmap  
+Enclosure 11 - Capability Integration Plan Summary – Project  PROJECT NAME , dated 
+DATE  
+   Annex A to  
+PROJECT NAME  
+FBC 
+Dated DATE  
+ 
+Candidate Key User Requirements & Assessment  
+ 
+Assessment criteria:  
+ 
+a. Green . No reason identified why objective will not be met.  
+b. Yellow . Minor risk to fully meeting requirement.  
+c. Amber . Un-quantified risk to fully meeting requirement.  
+d. Red. Significant risk identified to achieving requirement.  
+ 
+ 
+ 
+ 
+ 
+[REDACTED ] 
+   Annex B  to  
+PROJECT 
+NAME  FBC 
+Dated DATE  
+ 
+Key Project Risks  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[REDACTED ] 
+ 
+   Annex C  to  
+PROJECT NAME  
+FBC 
+Dated DATE  
+ 
+Project Schedule  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[REDACTED ] 
+ 
+ 
+ 
+ 
+ 
+ 
+   Annex D to  
+PROJECT NAME  
+FBC 
+Dated DATE  
+ 
+Abridged CONEMP  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[REDACTED ] 
+ 
+ 
+   Annex E t o  
+PROJECT NAME  FBC 
+Dated DATE  
+ 
+Project Team Resource Structure  
+ 
+ 
+REDACTED  Annex F t o  
+PROJECT NAME  FBC 
+Dated DATE  
+ 
+FINANCIAL PROFILE TABLE  
+ 
+1. FBC Approval - Design, Manufacture & In -Service Phases . The FBC approval levels  at 50% Confidence (P50 Value)  are shown in Table F -1 
+below.  
+ 
+FY PROJECT 
+NAME  
+Through -Life  
+Cost  FBC Approval 
+Total  
+(to DATE)  DATE  DATE  DATE  DATE  DATE  DATE  DATE  
+Expected Fiscal CDEL Cost  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Expected RDEL Cost  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+SOIP  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total Expected Cost  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table F -1 – FBC Approval Levels  
+ 
+2. Through -life Support Costings – In-Service & Disposal Phase.  The forecast provision required for the In -Service and Disposal phases 
+beyond DATE  is shown in Table F -2 below.  This is not included within this approval and will be covered by a subsequent FCR and business case 
+(paragraph 3.e refers).  
+ 
+FY DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  
+Expected Fiscal CDEL 
+Cost XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Expected RDEL Cost  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total Expected Cost  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table F -2 – In-Service & Disposal Phase Support Costs  
+ 
+ 
+   Annex F t o  
+PROJECT NAME  FBC 
+Dated DATE  
+ 
+ 
+Table F -3 –Affordability Table  
+ Affordability  
+Year  1 2 3 4 5 6 7 8 9 10 
+Total  
+FY  DATE  DATE   DATE  DATE   DATE  DATE   DATE  DATE   DATE  DATE  
+Forecast Cost at 50% Confidence  
+(at P50 value)  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Provision  
+(Formally agreed  ABC  Outcome)  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Variance  
+(Negative represents  excess  in 
+provision)  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX

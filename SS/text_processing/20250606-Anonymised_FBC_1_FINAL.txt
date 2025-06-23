@@ -1,0 +1,916 @@
+To: IAC Members      From : SRO (NAME OF PROJECT)  
+(NAME OF PROJECT) /IAC/  
+DATE  
+ (NAME OF PROJECT)  FULL BUSINESS CASE IAC DATE  
+Executive Summary  
+The (NAME OF PROJECT)  programme will provide PROGRAMME PURPOSE . 
+Learning lessons from the  PREVIOUS PROGRAMME  procurement, the 
+manufacture competition allowed international firms to partner with UK 
+companies.  It also allowed bidding consortia to cost/capability trade within a 
+defined envelope. This process has allowed the procurement to maximise 
+competitive leverage and deliver a compliant result at pace.  The competition 
+outcome is to appoint a  Preferred Bidder to finalise a bespoke negotiated 
+contract for the three DELIVERABLE S; delivering the first DELIVERABLE  in 
+DATE  and all three DELIVERALBE DELIVERABLES  by DATE . The Preferred 
+Bidder ’s proposal maximises the benefits of adaptability for future role s. It also 
+delivers both reduced cost of ownership and carbon intensity through life. 
+DELIVERABLES will be in service post trials by DATE . 
+The outcome aligns to the National INDUSTRY  Strategy ( INDUSTRY )Strategy 
+refresh and the Defence Security and Industrial Strategy  through significant 
+capital investment in UK LOCATIONS  to increase industrial productivity and the 
+development of the UK supply chain and workforce skills whilst also meeting 
+testing environmental objectives. In sum mary , it delivers the capability agreed 
+by the COMMAND  ORGANISATION  and the JROC within the pre -determined 
+budget whilst also meeting wider Government policy objectives; particularly 
+with respect to investment in new INDUSTRY  jobs, skills and facilities.  
+ 
+Issue  
+1.   Approval to commit to the Demonstration & Manufacture (D&M) Phase for th e 
+(NAME OF PROJECT)  capability within the described Performance, Cost, Time, and 
+Risk parameters.  
+Recommendations  
+2. The IAC is invited to approve : 
+a. an Approved Budgetary Level (ABL) of £XXXX  (at outturn, inclusive  of 
+all non -recoverable VAT) at 50% confidence , for the Demonstration and 
+Manufacture  Phase consisting of ; 
+ i. £XXXX  total resource consumption (RDEL)  
+ 
+  ii. £XXXX  capital expenditure (CDEL)  
+   
+ 
+  
+b. placement of the Manufacture Contract with the Preferred Bidder , for 3 
+DELIVERABLES , with a  forecast  contract  value of £ XXXX1 CDEL , including an 
+Integrated Logistic Support (ILS) package of initial training and spares, and a 
+programme of UK LOCATION  Recapitalisation and Social Value ; 
+c. the In-Service Date (ISD) of DELIVERABLE  1, DATE  at 70% c onfidence ; 
+d. the Key User Requirements (KURs) at Annex A.   
+3. And to note: 
+a. the intent  to appoint the Preferred Bidder by end of DATE  to allow them 
+to mobilise and secure essential infrastructure funding.  The P referred Bidder’s  
+proposal is predic ated on a significant UK LOCATION  recap italisation  
+programme of which  a large proportion is to be privately funded , with the 
+catalyst for  securing this funding being  their appointment as Preferred Bidde r. 
+Unsuccessful Bidder s will be notified in parallel ;  
+b. the 10%, 50%, 90% confidence levels for the cost of the  programme  
+phase s: 
+Programme  Phase  EPP Estimated Cost 
+(£M) 
+ 10% 50% 90% 
+OBC estimate to end of Assessment Phase  XXX
+X XXXX  XXXX  
+Current estimate to end of Assessment Phase  XXXX 
+Estimate for Demonstration and Manufacture 
+Phase  XXX
+X XXXX  XXXX  
+Estimate to deliver programme  into service  XXX
+X XXXX  XXXX  
+ 
+c. the D&M Phase total programme cost and requested ABL includes;  
+ 
+i. provision of £ XXXX  for Government Furnished Assets  (GFA); 
+ii. provision of £ XXXX  for other MoD Programme costs including 
+trials and training ; 
+iv. a MoD Risk and Uncertainty Provision of £ XXXX , including a 
+provision specifically for inflation variance  above the forecast Consumer 
+Price Index (CPI) for the fixed price Manufacture Contract ; 
+v.  £XXXX  for EPP Private Sector Support (PSS) encompassing 
+independent safety, legal support and third -party DELIVERABLE  build 
+oversight ; 
+ 
+ 
+1 This forecast figure uses the latest CPI at time of FBC submission. £  x used  for competition affordability criteria used an 
+assumed forecast rate of 2.3% set at the outset of the competition . See Commercial Case for detail .   
+ 
+  
+d.  the anticipated sunk costs by Manufacture  contract award will total 
+£XXXX , comprised of £ XXXX  for C oncept and Initial Assessment Phase  (pre-
+DATE  OBC) and £ XXXX for the Competitive Procurement Phase ( CPP); 
+ 
+e. the key milestones in the capability delivery schedule , DELIVERABLE  2 
+ISD x DATE  and DELIVERABLE  3 ISD x DATE  both at 50% confidence ; 
+ 
+f. that the In-Service  Support solution will be assessed and delivered 
+through the TLB Support Integrated Global Network programme , alongside the 
+rest of the DELIVERABLE S, with the ESP costs (totalling £XXXX  at 50% 
+confidence across the capability expected duration ) being provisioned within 
+the (NAME OF PROJECT)  S9 line ; and 
+ 
+g. the principal risks for the Manufacture Phase at Annex G. 
+ 
+Timing  
+ 
+4. Priority. Manufacture contract award is required as soon as practicable on  the 
+complet ion of  the Preferred Bidder phase and approvals but no later than the 
+expiration of the bid validity period on xx xx DATE , after which the Preferred Bidder is 
+not obliged to hold its prices. Manufacture contract award is required as soon as 
+practicable on  the complet ion of  the Preferred Bidder phase and approvals but no later 
+than the expiration of the bid validity period on xx xx   DATE , after which the Preferred 
+Bidder is not obliged to hold its prices. The Preferred Bidder’s proposal is very mature 
+and has been  scrutinised in detail, moving at pace is low risk and enables early 
+investment in facilities, s kills etc. Delay would risk escalation due to inflation and 
+exposure to rapidly changing foreign exchange movements.   
+ 
+Strategic Case  
+ 
+5. (NAME OF PROJECT)  is a TLB Strategic Programme required to deliver the 
+Command Plan objective OBJECTIVES . It is a key logistics enabler, for REDACTED . 
+ 
+6. Legacy DELIVERABLES  are beyond their design life and unable to provide the 
+capability at the required performance levels particularly for capacity and storage 
+efficiency, and in an assured manner to meet policy. PREVIOUS DELIVERABLES  
+were already X years old and have a DATED CAPABILITES . Their immediate 
+retirement was confirmed as part of Integrated Review XXX. This has left  the 
+FORMER DELIVERABLE , as the only DELIVERABLE  until the entry into service of 
+(NAME OF PROJECT) . Not only does this result in a single point of failure, vested in 
+DATED CAPABILITIES  but there will clearly be periods of planned unavailability when 
+undertaking maintenance. REMOVED INFORMATION ABOUT PREVIOUS 
+DELIVERABLES . 
+ 
+7. A capability cliff edge is approaching with PREVIOUS DELIVERABLE  due to 
+leave service in DATE . (NAME OF PROJECT)  ISDs are expected DATES , with more 
+detailed work required to refine and expedite the OTHER PROGRAMME  now that a 
+delivery schedule is confirmed . An Option (xxxx) has been raised  to PREVIOUS 
+DELIVERABLE  to the end of her current survey cycle in XX DATE  to align with the 
+(NAME OF PROJECT)  delivery schedule and further mitigate the transition period , at   
+ 
+  
+a cost of c .£XXXX. The provision for t his mitigation was directed  by the IAC at OBC , 
+with the expectation that TLB will implement during ABC DATE . Further run-on would 
+incur significant (>£ XXXX) nugatory cost which is to be avoided with all efforts 
+focussed on achieving contract award no later than XX DATE , maintaining the (NAME 
+OF PROJECT)  delivery schedule  whilst on contract  and making the OTHER 
+PROGRAMME  as efficient as p ossible . 
+ 
+8. Requirements/Solution  - The KURs are at Annex A  for which  JROC  
+endorsement has been sought , as at least the  threshold requirements set at OBC have 
+been met. The Competitive Procurement Phase ( CPP) has included an extensive 
+examination of the winning design against the KURs. This process has been verified 
+by Scrutiny and validates the assessment that the proposed design will meet the 
+necessary capability requirement . These are underpinned by the REDACTED  
+requirements. In addition, this process has also included an examination of the 
+DELIVERABLES  adaptability. XX through their FEATURES  are used for a variety of 
+tasks out -with their core capability role, and the features of the winning (NAME OF 
+PROJECT)  design echo this intent. The assessment demonstrates that the winning 
+design can be effectively adapted to remain capable through its envisaged X-year life 
+span. A summary  of the design is at Annex B.  
+ 
+9. CSG DATE  reinforced the importance of CAPABILITY  when operating at reach. 
+Many of the le ssons had already been incorporated within the  (NAME OF PROJECT)  
+requirement by IMPROVED CAPABILTY  in the objective space . The prominent lesson 
+was the need to take sufficient DELIVERABLES . REDACTED  was heavily relied on to 
+supplement the PREDECESSOR.  This validates the concept of deploying 
+DELIVERABLES  in sufficient numbers (min. 2 XXX and 2 (NAME OF PROJECT) ) to 
+give the operational flexibility, capacity and the (NAME OF PROJECT)  consolidation 
+model would take the DATED CAPABILTY  from the PREDECESSOR  which are n ot 
+designed for this REDACTED . 
+ 
+10. Summary of Benefits  - (NAME OF PROJECT)  delivers c rucial  strategic 
+defence and national benefit. It is the final capability piece to sustain NAME OF 
+GROUP  Groups and exploit REDACTED  investment, it is the enabler for long term 
+transformation of INDUSTRY  to deliver the future DELIVERABLE  pipeline . It also 
+delivers a platform which could be adapted to potentially achieve very low -carbon 
+emissions. (NAME OF PROJECT)  benefits were agreed through a series of 
+workshops with key stakeholders , including customers in TLB and INDUSTRY  Support 
+organisations, utilising the themes of Operational Capability, Supportability, 
+Sustainability and Social Value.   The Benefits Dependency Network provides the 
+mapping from the specific project outputs to the programme outcomes and through to 
+the final expected strategic end benefits, demonstrating how project led changes will 
+contribute to strategic objectives. Benefits Profiles with a reporting process have been 
+produced to allow the Customer at contractor Project Delivery Boards  and the MOD 
+Programme Board to track the delivery of benefits through manufacture and into 
+service.  
+ 
+ 
+ 
+ 
+Economic Case    
+ 
+  
+ 
+11. VFM  - The competition has ensured the best possible outcome for Defence by 
+driving out unnecessary cost whilst maximising capability for a price that was fixed 
+through competitive tension. The competition received three final bids. The winning 
+bid meets all t he required benefits and KURs, including future adaptability and open 
+system architecture.  
+ 
+12. As described in the Procurement Strategy , a period of Market Engagement was 
+conducted with a wide range of industry participants . The aim of this was to test what 
+the market could deliver against the high -level requirements, price point  as well as  
+receive feedback to reduce bespoke requirements and cost drivers to a minimum. This 
+was followed by a funded C PP which allowed those Bidders who had successfully pre -
+qualified at PQQ stage to develop their solutions whilst simultaneously negotiating a 
+bespoke Manufacture Contract. The Procurement Strategy covering the CPP and the 
+evaluation matrix was endorsed by IAC at OBC in DATE .  
+ 
+13.  Social Value - Social Value evaluation criteria were included as an important 
+part of the competition ’s evaluation  model and were weighted such that the minimum 
+threshold of 10%  which applied at the time of the procurement ’s launch  was exceeded  
+(12% applied) . Specific Social Value engagements were held with Bidders during the 
+competition . Note, that the launch of the (NAME OF PROJECT)  procurement pre -
+dated the strategy r efresh commitment for a 20% Social Value weighting in all future 
+MOD INDUSTRY  procurements.  
+ 
+14. The criteria  reflected existing  Departmental themes  in line with the Cabinet 
+Office Social Value model , and where appropriate , specifically tailored  to address 
+important Ministerial priorities , the strategy  and to reflect pan-Government policies . 
+This included criteria to incentivise Bidders to make capital investments in physical 
+infrastructure upgrades  and the use of the UK supply chain to ensure UK content  is 
+maximised . Classification of the project  as exempt from  procurement  regulations 
+afforded flexibility which the project team maximised in constructing the criteria.  The 
+criteria developed  was bespoke and project specific, recognising the nature of the UK 
+industry and supply market  and the project’s constraints , particularly  around 
+affordability.  
+ 
+15. Annex C  (LIMDIS)  summarises  the Preferred Bidder’s solution to deliver UK 
+Social Value under the contract in response to the competition’s criteria. This will 
+deliver:  
+• A new capability through a £ XXXX recapitalisation investment  in the UK, of 
+which £ XXXX is funded  from Private Venture (PV ) sources . 
+• Technology and skills transfer to the UK based on international best practice 
+and a proven approach , including productivity initiatives  and a Train the Trainer  
+methodology .  
+• Over 60% of contract spend in the UK, including in the UK supply chain . 
+• A significant level of new employment . 
+• A British design  and ILS package . 
+This significant investment is required  to deliver (NAME OF PROJECT)  to time and 
+cost and will help to grow the UK INDUSTRY  capability and capacity and supports the   
+ 
+  
+programme aim of enabling  choice for the procurement of follow -on non-complex 
+DELIVERABLES  in the INDUSTRY  pipeline . 
+ 
+Commercial  Case  
+ 
+16. The Commercial Strategy for (NAME OF PROJECT)  broadly follow ed the 
+successful approach adopted for PREVIOUS PROGRAMME , namely,  to allow the 
+Bidders the flexibility to negotiate a bespoke set of terms and conditions . This was 
+deemed especially relevant given the previous (NAME OF PROJECT)  competition did 
+not allow Bidders to propose amendments and tailor a  bespoke contract . The (NAME 
+OF PROJECT)  procurement also  allow ed additional time at the front end of the 
+competition  for Bidders to engage and build relationships with LOCATION  given the 
+(NAME OF PROJECT)  requirement that all three DELIVERABLES  must be integrated 
+in the UK. A non -exclusivity requirement  for UK industry  formed a condition of entry 
+into the competition to ensure viable bidders  were not bound to only one potential 
+Prime Contractor.  This supported  the objective of creating a  level playing field for all 
+Bidders to engage  with UK industry with recourse available to the Authority  to 
+investigate where it had reason to believe the non -exclusivity rule s were not being 
+adhered to .  
+ 
+17. The Preferred  Bidder has adhered to the non -exclusivity rules throughout the 
+competition and has  utilised  engagement opportunities with the Authority to mature its  
+relationship and progress its Build Strategy . The contracting arrangement as proposed 
+by the Preferred Bidder as Prime Contract or is sound and agreed with the Authority 
+during contract negotiation , the latter being a Key Subcontractor. Accordingly , the 
+Authority will have visibility of the head of terms between the Preferred Bidder and its 
+chosen INDUSTRY  during Preferred Bidder stage . 
+ 
+18. Following engagement with Bidder s throughout the competition  and 
+development of their Pricing Schedules , it became apparent during Phase 2 of the 
+CPP that none of the Bidders were in a position to offer a compliant bid with respect 
+to the  initial £XXXX outturn budget . This was  predominantly due  to the change in 
+global economic conditions since the start of the competition in DATE  specifically the 
+rise in inflation and  resultant  impact on supply chain. As this was a challenge faced by 
+all Bidders, it was deemed necessary to increase the budget accordingly  (by £XXXX 
+in DATE  Economic Condition s) to £XXXX. As well as being informed by feedback from 
+Bidders, the  increase was also supported by internal cost analysis . The Manufacture 
+ITN process is clear in that the Authority has  the right to change any part of 
+Procurement at any time.  Legal advice was also sought to ensure any risks pertinent 
+to changing our Price requirement were captured and understood in terms of the ir 
+likelihood and impact.  Any identified legal risks, namely challenge from participants to 
+(NAME OF PROJECT)  Market Engagement  prior to the competition commencing , 
+were deemed  very lo w likelihood. Ministerial approval was g iven to allow the 
+competition to proceed  with the increase in budget in line with the flexibility allowed in 
+the current Manufacture ITN  and Procurement Strategy.  
+19. The vast majority of the Preferred Bidder’s Tendered Manufacture Contract 
+accepts the positions included in the Draft Manufacture Contract without any 
+amendments. Of the amendments made,  the majority either constitute a very minor or   
+ 
+  
+minor transfer in risk to the Authority  only. On this basis, there is a high level of 
+confidence  that any updates required during Preferred Bidder stage would be few and 
+non-substantive  in terms of finalising the Manufacture Contract  and are cosmetic in 
+nature . Such updates would not constitute re -negotiation of the Preferred Bidder’s  
+Manufacture Bid  which , notwithstanding the requirement to complete additional 
+Preferred Bidder tasking, constitutes an offer capable of acceptance . It should be 
+noted that the Preferred Bidder’s commitment to hold its price remains valid until XX 
+XX DATE . After this point the Authority would be obliged to renegotiate  with the 
+Preferred Bidder  in an uncompetitive environment to reach what would very likely be 
+a far worse deal for Defence and the UK taxpayer.  
+ 
+20. Remedies and Contractual Incentives  - In addition to the Preferred Bidder’s 
+Social Value response,  summarised above at  para 15,  the T endered Manufacture 
+Contract allows  the Authority to  withhold 150% of the v alue of Recapitalisation 
+Milestones (the value of the relevant milestone plus an additional 50% which is 
+withheld from any other milestone due for payment)  if they are not implemented by the 
+Contractor . Additionally , a contractual termination right exists for the Authority where 
+the recapitalisation programme is not delivered by a specified longstop date. This 
+recognises the importance of the Contractor committing to investment in UK industry  
+and provides incen tive to fulfilment of its Social Value obligations on contract  as a 
+critical enabler to delivering to cost and schedule . 
+ 
+21. Wider Incentives  – The Preferred Bidder’ s proposal for the UK industry  scope 
+is predicated on the recapitalisation programme and therefore execution  of this capit al 
+investment is essential to enable the contract to be executed successfully. Further , 
+there will be significant reputational incentive  for the companies to complete the capital 
+investment following public announcements being made.  
+ 
+22. The Authority has also secured terms with respect to Liquidated Damages  
+(LDs)  within the Tendered Manufacture Contract  broadly in line with the baseline 
+position. Whilst it deviates slightly  in allowing a two-month  grace period (as opposed 
+to one) for LDs post contract ed VAD, the Preferred Bidder has retained the  Authority 
+proposed  run rate for LDs across the three DELIVERABLES  with a cap  of £ XXXX in 
+aggregate. This represents a position whereby the Preferred Bidder would have to 
+max out LDs for all of DELIVERABLE  1 and substantially so for DELIVERABLE  2 
+before the cap was reached. On this basis, we are confident this provides adequate 
+incentive to deliver on time , with respect to the Defence criticality of delivering  
+DELIVERABLE  1 on time given the implications for LOCATION  run on costs. Similarly, 
+there are Performance Liquidate d Damages  within the Manufacture Contract for 
+deficiencies  against key performance commitments contained in  the Preferred 
+Bidder’s Build Specification.  
+ 
+23. Contingent Liabilities  - The Limit of Liability for both the Authority and 
+Contractor under the Manufacture Contract is the Contract Price, except for the 
+Authority’s liability in respect of Intellectual Property Rights ( IPR) and confidentiality 
+breaches.  These carve outs from the Authority’s limit of liability are provided for within 
+policy guidance and are low risk. DEFCON XXX was included within the baseline Draft 
+Manufacture Contract to provide  a reciprocal indemnity against infringement of third -  
+ 
+  
+party IPR in their pre -approved and unamended form. The Preferred Bidder has 
+included provision to make clear the Authority’s  intent that it will be indemnified for use 
+of Authority Software and Background IPR. There is a low likelihood of a potential 
+Contingent Liability relating to changes in UK Law.  
+Financial Case  
+ 
+24. Costs  - The Manufacture contract price is forecast to be £  X at outturn utilising 
+CPI to determine  fixed priced milestones. This consists of;  
+  
+Manufacture Contract value make -up  Cost Element (£M)  
+Average Production Cost (UPC) including 
+design and all Non -Recurring Expenditure not 
+broken out below  £ XXXX per DELIVERABLE   
+Integrated Logistical Support (ILS) package, 
+including Initial Training and Initial 
+Provisioning of Spares  £XXXX  
+Recapitalisation and Social Value programme 
+of Industrial Productivity, Workforce 
+Development and Environmental 
+Sustainability initiatives  £XXXX  
+(£XXXX additional Private Venture 
+funding needs to be secured)  
+Fixed Price Forecast Inflation (applying 
+relevant indices)  £ XXXX 
+Total outturn Manufacture Contract Price  £ XXXX 
+  
+25. The wider programme cost to deliver the platforms to Full Operating Capability 
+(FOC) is £  XXXX outturn , including GFA and MOD risk provision. Detailed costs have 
+been developed and assured through an iterative approach throughout the CPP by 
+the Cost Assurance Group (CAG) as the Bidders’ cost analyses developed and 
+validated through Independent Cost Estimat es (ICE) conducted at the midpoint of 
+CPP.  
+ 
+26. Inflation Risk  - The project has been costed inclusive of inflation using the 
+latest Indigo forecast indices to uplift each relevant cost line. It is predicted that the 
+greatest economic risk to the case is that inflation continues to remain high, 
+significantly increasi ng beyond the Indigo forecasts. Such increases will impact 
+milestone payments from Contract Award onwards (the project Manufacture Contract 
+tendered being fixed price to CPI). It should be noted (at the time of writing) the Indigo 
+forecasts indicates an op timistic sharp drop of inflation during the early contract period 
+down to X% p.a. making it highly likely the forecast will be exceeded and contingency 
+is required. Within Acquisition, CAG have created an independent forecast index 
+utilising the Bank of England Monetary Policy Report (dated XX DATE  - providing a 
+potential spread of worse case CPI forecasts) to reflect CPI increasing beyond the 
+current Indigo CPI forecast up to a potential P90. Within the project it has been utilised 
+to calculate a spread of  uncertainty against inflation risk. The calculation does not 
+utilise the CAG indices as a ‘Maximum’ as the distinct inflation risk relates to only the 
+Manufacture Contract. It is considered, for the distinct inflation risk, the Manufacture   
+ 
+  
+Contract could see a maximum X% increase beyond current CPI forecast in inflation 
+due to global events. The CAG indices inform the Most Likely and the Minimum (the 
+midpoint from the Indigo forecast to the CAG Indices). Whilst cost provision is set using 
+Monte -Carlo techniques, approxim ately £ XXXX can be attributed to inflation provision.  
+27. Affordability  - Financial detail is at Annex D.  The table below demonstrates 
+the challenge within the budgetary ABC DATE  Control Total provision against the 
+profile. Affordability of the Programme, ORGANISATION  and Defence context 
+continues to be managed via the Cost Management Working Group (CMWG). An FCR 
+has been submitted reflecting the adjustments needed to achieve the profile and 
+subsequently to achieve implementation prior to contract award.  
+ 
+Year  IY  1  2 3 4 5 6 7 8 9 10 Total  
+FY  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  (£M)  
+EPP P50 CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXX
+X XXXX  
+  
+EPP P50 RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXX
+X XXXX  
+  
+EPP Total 
+(p50)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXX
+X XXXX  
+  
+ABC 22 CT  
+(CDEL)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXX
+X XXXX  
+  
+Delta  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXX
+X XXXX  
+  
+ 
+Management Case  
+ 
+28. Schedule Deliverability  - The Preferred Bidder  has committed contractually to 
+deliver all three  DELIVERABLES  by the end of DATE , through a distributed block build 
+and integration strategy, with a contractual  date for DELIVERABLE  1 VAD of XX 
+DATE . They have embraced the light governance and design management 
+arrangements with a sharper focus on acceptance arrangements  which are aligned to 
+an as built product as opposed to a design , limiting Authority risk for design change. 
+The Preferred Bidder has  committed to the  investment in facilities, technology, and 
+skills necessary to deliver the contract. They are committing to near deterministic 
+contractual dates , with a narrow 3 -Point Estimate  spread,  based on their extensive 
+delivery experience of projects of similar scale and complexity . This has resulted in 
+float from previous project outturn  experience included in their baseline schedule. 
+Using their own P50 VAD (which is later than  the committed contract VAD date ), the 
+Authority holds extended schedule contingency of 14 months between DELIVERABLE  
+1 VAD and P 50 ISD  and 18 months against the P70 ISD, for which  approval is being 
+sought.  During Preferred Bidder stage the Authority will be seeking clarification as to 
+this contingency to determine  any outstanding issues requiring management action 
+and understand opportunities to improve.  
+ 
+29. Deliverability has been a crucial element of C PP to mature  and build confidence 
+in Bidders ’ delivery plans to underpin (NAME OF PROJECT) ’s contribution to 
+transforming and sustaining UK industry . The C PP analysed Bidders’ draft  plans to 
+deliver the full scope of the Manufacture  contract, including the Build Strategy, a fully 
+resourced Integrated Performance Management Baseline (IPMB) with cost   
+ 
+  
+assurance, and coherent and effective management arrangements including those to 
+deliver final design, acceptance, and ILS of the platforms.  
+ 
+30. The BC, therefore , seeks approval of DELIVERABLE  1 ISD at X% confidence. 
+This reflects the greater risk inherent in delivery of the first of class and the learning 
+from assessment  of the Preferred B idder ’s intended schedule  (para 28 ). There are 
+further schedule efficiencies  possible  through  tailoring the MOD programme between  
+VAD and ISD to share trials across the DELIVERABLE  through  more detailed 
+planning . The programme and project schedules will drive toward the P50 schedule 
+as the baseline, to achieve ISD of DELIVERABLE  1 as early as possible to minimise 
+the solid support availability shortfall during  transition . Milestones are at Annex E. 
+ 
+31. Project resources  - A resource loaded Integrated Programme Management 
+Baseline (IPMB) has been developed with  an organisational design to deliver the 
+design, build and VAD to ISD phases. The project will be delivered by  the Production 
+team  developed to deliver the project following contract award and principally matched 
+to the contract management, assurance and acceptance activities and delivery of the 
+wider MOD Programme. Continuity will be obtained through sustaining experienced 
+resource from the Assessment Phase and augmenti ng with those with build phase 
+experience, including Delivery Group ( PREVIOUS PROGRAMME ), private sector 
+expertise, including  in commercial build oversight, and continued  SQEP in the  team . 
+The project is expected to peak at about X staff FTE to manage the parallel build and 
+VAD to ISD  programmes . 
+ 
+32. GFA - Building on lessons from the PREVIOUS PROGRAMME  procurement, 
+the (NAME OF PROJECT)  GFA strategy has been to follow the blended approach 
+which seeks to : 
+ 
+ a. maximise the volume of equipment to be procured directly  the Prime 
+Contractor as part of the Manufacture Contract , fully integrated and hence 
+reduce contract risk and increase  competitive scope. Market Engagement 
+findings were enacted where  traditional GF systems are within the ability  of 
+industry to supply ; 
+ b. only supply  certain sensitive and protected systems where the contractor 
+does not have permission to acquire into the contract, this has only be en 
+undertaken on a strict case -by-case basis where risk can be demonstrated to 
+be low ; 
+ c. ensure remaining  MOD systems and equipment install ed and integrat ed in  
+a separate CIP which will occur immediately following VAD. Where t his require s 
+additional critical path time to ISD, it must demonstrate  that this is lower impact 
+than the implications of fit ting GFA in build ; and 
+ d. ensure th at the  Prime Contractor provides under the scope of the 
+Manufacture C ontract the Fit -To-Receive  (FTR) or Space Weight Power and 
+Services  (SWAPS) . This is the approach where the equipment solutions are 
+unknown or very immature .  FTR is a common approach where equipment 
+availability is prioritised on an operational basis, and SWAPS allows an element 
+of future proofing for capability choice to be managed through life. 
+   
+ 
+  
+33. Environmental  - The (NAME OF PROJECT)  design incorporates several  
+environmental features to enable (NAME OF PROJECT)  as the Environmental 
+Sustainability pathfinder to pioneer the way for greener MOD procurements. At the 
+start of life, (NAME OF PROJECT)  DELIVERABLES  will be equipped with energy 
+efficiency technologies to reduce power demand and will have the capability to reduce 
+their carbon intensity by REDACTED . The DELIVERABLE  have been designed so that 
+mid-life power and propulsion modification and upgrades can be achieved  without 
+significant work in way . Compartment space  and design  including margins for energy 
+saving devices , with associated removal routes , will enable change  as carbon free 
+CAPABILITY  evolves . Wider contributions to Net Zero are promoted through  the 
+manufacturing facilities and industry  commitment  to improv e sustainability and climate 
+change culture within their workforce, driving sustainable procurement into the supply 
+chain, minimising waste , and discharge, and committing to update their facilities to 
+support the UK Governments ’ Net Zero over the next X years.  
+34. Equipment  - In addition to the Manufacture Contract , provision has been made 
+for the development of , and transition  to, steady state  training . This includes software 
+upgrade s, and an upgrade to the training facility if identified by the Training Needs 
+Analyses.  The u se of simulation and synthetic training has and will be encouraged . 
+ 
+35. Personnel  - The winning solution has met the SofS challenge and has 
+demonstrated  through operability testing that a core crew could safely operate in their 
+core role.  The challenge now will be to grow the additional strength required to operate 
+3 DELIVERABLES , vice 1 , and at  a higher level of availability.  To achieve this, the 
+(NAME OF PROJECT)  personnel requirements are already funded within the long -
+term personnel forecast and growth plan.  The DELIBERABLES  will play a key role in 
+maintaining that growth . 
+ 
+36. Infra structure  - The (NAME OF PROJECT)  Programmes have always sought 
+to avoid significant infrastructure investment by setting the physical constraints of 
+platform size . The winning solution has met these constraints,  so no infrastructure 
+changes are envisaged .  
+ 
+37. Support  - The Through Life including Equipment Support ( ESP) costs are  at 
+Annex F. ESP costs have been included in ABC costings since ABC  DATE . This 
+reflects the most up to date survey and maintenance cycle now in use and preferred , 
+which maximises availability . It also allows for additional time in hand and material , 
+environmental compliance,  and obsolescence updates at the X and X-year points but  
+does not include the cost of capability or equipment upgrades  (Customer choice and 
+funding required ). The cost of preparing for disposal at end of life  is included .  
+ 
+38. This FBC does not seek approval to commit to the In -Service Support (ISS) 
+solution , and the support strategy  and products give freedom of choice  in ISS 
+approach . The favoured route  is via assess ment  and deliver y through the 
+(PROGRAMME NAME ) programme; which recognises (NAME OF PROJECT)  as a 
+customer as is heads towards SOC by end of DATE . The initial support solution (circa 
+X years if PROGRAMME NAME  is insufficient mature for immediate (NAME OF 
+PROJECT)  transition and determined by the Delivery Team in conjunction with the in -
+service  team via competition) and documentation generated by the (NAME OF   
+ 
+  
+PROJECT)  project will allow the synchronisation with and transition to the 
+PROGRAMME NAME  solution (due progressively around the same timeline as 
+(NAME OF PROJECT)  ISD). This replicates how CAPABILITY  transitioned into the 
+current ISS arrangement.   
+ 
+39. Risks  - The top risks pertinent to the next phase from contract award and out 
+to Transition into Service are reflective of the challenges in delivering to cost, 
+performance / quality, and time. Clearly the volatility of current economic conditions is 
+reflected in the inflation risk with its associated cost escalation impact which is at 
+present seen as the biggest or closest threat. Three of the top risks are related to or 
+have potential impact on schedule and maintaining capability during the transition into 
+servic e period. And two relate to supplier performance and/or quality. Early and 
+successful mobilisation of the resource during Preferred Bidder stage are a major 
+mitigation to ensure th e required UK capability and skills can be developed to 
+successfully  execute the programme.   
+ 
+Presentation and Handling  
+ 
+40. (NAME OF PROJECT)  continues to be a high -profile project with considerable 
+interest from MPs, Unions, industry and the media . The MinSub  to support the 
+approval of the Preferred Bidder in xx DATE  will also contain a handling plan. It  will 
+cover how the Preferred Bidder appointment should be made, and the pros  and cons  
+of making an announcement then, or in late xx DATE , at contract award . A cross 
+Departmental comms group has been stood up to ensure any announcement is 
+effectively coordinated across Whitehall.  Information requests will be co -ordinated 
+through Secretariat and NAME OF DEPARTMENT  Policy and Secretariat and 
+agreed with Media and DDC Press Offices ahead of any announcement s. The SRO 
+approved (NAME OF PROJECT)  lines to take (LTT)  continue to be updated  on a 
+regular basis.  
+SIGNATURE  
+NAME OF SRO FOR PROJECT  
+SRO (NAME OF PROJECT)  
+ 
+Annexes  
+A. Key User Requirements  
+B. Capability Assessment of winning solution  
+C. Social Value  (LIMDIS)  – Held by DPAS  
+D. Affordability  
+E. Key Milestones  
+F. Through Life / ESP Cost  Estimates  
+G. Risks  
+H. Sunk Costs    
+ 
+  
+Annex A to  
+(NAME OF PROJECT)  FBC IAC DATE  
+dated XX XX XX     
+KEY USER REQUIREMENTS  
+ID User Requirement  Threshold MOE  Objective MOE  
+UR 1  The (NAME OF PROJECT)  
+capability shall …   
+UR 2  The (NAME OF PROJECT)  
+capability shall…   As Threshold but:  
+ 
+ 
+UR 3  The (NAME OF PROJECT)  
+capability shall…   
+ As Threshold plus:  
+ 
+ 
+UR 4  The (NAME OF PROJECT)  
+capability shall…    
+UR 6 The (NAME OF PROJECT)  
+capability shall …  As Threshold but:  
+ 
+ 
+   
+  
+Annex B to 
+(NAME OF PROJECT)  FBC IAC DATE  
+dated xx xx xx    
+ 
+(NAME OF PROJECT)  PREFERRED BIDDER (DELIVERABLE ) DESIGN  
+The evaluation has shown that the winning design will in many cases exceed the core 
+capability set as the minimum requirement and offers capability adaptability pathways for 
+future roles and carbon reduction adaptability pathways for exploitation through l ife.  
+Preferred Bidder Capability Overview   
+  
+Highlights of the Preferred Bidder’s design against the KURs are summarised below.  
+ 
+1. In meeting  KUR1  and KUR  2 the design  exceeds  the threshold  requirements,  with 
+capacity  for XX. This represents  approximately  90% of the objective  capacity  requirement.  An 
+individual  (NAME OF PROJECT)  can support  REDACTED  
+ 
+2. KUR  3 – (NAME OF PROJECT)  will have  XX. This will enable  XX. In addition  this 
+will allow  XX.  
+ 
+3. KUR  4 The winning  design  meets  the threshold  level of capability . Any capability  
+above  threshold  was highly  valued by the Customer , reduces  pressure  elsewhere  and offers  
+flexibility .  
+ 
+4. KUR  5 This satisfies  the consolidation  model  concept  which  is reliant  on the timely  
+arrival  of DELIVERABLE  2. The flexibility  afforded  by this model  maximises  operational  
+freedom,  reduces  risk of single  point  failures  and reduces  the burden  on the supply  chain.   
+ 
+5. KUR  6 The design  ensures  XX. 
+ 
+6. As well as the operational  adaptabilities  there  are also adaptable  pathways  for Carbon  
+Reduction  through  life.  
+7. The winning  design  has demonstrated , through  operability  scenario  testing,  to be able 
+to meet  the SofS  challenge .  
+ 
+ 
+   
+ 
+  
+Annex D to  
+(NAME OF PROJECT)  FBC (CAT A) IAC xxxx  
+dated xx xx DATE     
+Affordability  
+ Year   IY  1  2 3 4 5 6 7 8 9 10 
+10 yr  
+Total  Later 
+Years  Total  
+FY    
+DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  (£M)  
+Manufacture 
+Contract (for 
+deliverables , ILS, 
+recapitalisation 
+and Social Value)  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Major Insurance 
+Spares  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Post VAD CIP, 
+Trials & Initial 
+Support  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Transition to 
+Steady State 
+Training  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+GFA  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+EPP OPEX inc. 
+PSS RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Risk Contingency 
+Provision  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total CDEL  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total RDEL  RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Forecast Total 
+(p50)  -  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+ABC DATE  
+(CDEL)  -  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Delta  -  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX    
+  
+Annex E to 
+(NAME OF PROJECT)  FBC IAC DATE  
+dated xx xx xx    
+ 
+Key Milestones  and Capability Gate Definitions  
+ 
+Milestone  P10 P50 P70 P90 
+Preliminary Design Review  xx DATE  xx DATE  xx DATE  xx DATE  
+Critical Design Review  xx DATE  xx DATE  xx DATE  xx DATE  
+DELIVERABLE  1     
+VAD xx DATE  xx DATE  xx DATE  xx DATE  
+EDD  xx DATE  xx DATE  xx DATE  xx DATE  
+ISD (and Class IOC 
+Capability Gate 1)  xx DATE  xx DATE  xx DATE  xx DATE  
+DELIVERABLE 2     
+VAD xx DATE  xx DATE  xx DATE  xx DATE  
+EDD  xx DATE  xx DATE  xx DATE  xx DATE  
+ISD xx DATE  xx DATE  xx DATE  xx DATE  
+DELIVERABLE 3     
+VAD xx DATE  xx DATE  xx DATE  xx DATE  
+EDD  xx DATE  xx DATE  xx DATE  xx DATE  
+ISD xx DATE  xx DATE  xx DATE  xx DATE  
+     
+FOC Capability Gate 6 xx DATE  xx DATE  xx DATE  xx DATE  
+ 
+ 
+IMAGE  – (PROJECT NAME) Programme Capability  Gates  
+ 
+ 
+ 
+   
+ 
+  
+ 
+Annex F to 
+(NAME OF PROJECT)  FBC IAC DATE  
+dated XX XX  XX    
+ 
+Through Life and  ESP Costs  
+ 
+ 
+ 
+The Table above provides the combined forecast for both future Equipment Support 
+Programme (ESP) commitment and Through Life Costs (TLC).  
+ESP cost estimates have been produced using a number of data sets which include 
+tendered costs from the current In -Service Support (ISS) contracts, actual historical 
+maintenance outturn costs escalated to appropriate rates, current Support ( NAME OF 
+DEPARTMENT ) ABC DATE b udget, and costs submitted by the bidder, appropriately 
+adjusted for realism. These costs include maintenance, post -design services, spares 
+provision, equipment obsolescence and software updates.  
+The ESP cost estimate has been complimented with through life cost forecasts for staffing, 
+victualling, travel and subsistence, fuels, lubricants and training to derive the total 10%, 50% 
+and 90% costs detailed in the Table above.  
+All costs have been profiled against the (NAME OF PROJECT)  Operating and Support 
+Philosophy that requires a combination of routine maintenance (e.g. daily, weekly, monthly 
+etc), Assisted/Self Maintenance Periods, Annual Certification Periods (ACPs)  and Contractor 
+Support Periods (CSP) at a 5 -Annual frequency.  
+ 
+ 
+ 
+ 
+ 
+   Estimated Cost (£M)  
+10% 50% 90% 
+Total TLC Cost from (NAME 
+OF PROJECT)  TLC Model  XXXX XXXX XXXX 
+(Of which) ESP Support Costs 
+only XXXX  XXXX  XXXX  
+(Of which) Disposal Cost from 
+(NAME OF PROJECT)  
+TLC Model  XXXX XXXX XXXX   
+ 
+  
+ 
+Annex G to 
+(NAME OF PROJECT)  FBC (CAT A) IAC XXXX  
+dated XX XX DATE     
+RISKS  
+ 
+Note - These risks are in post -mitigation priority order and can be viewed through differing lenses of impact on cost, performance/quality, 
+time/schedule. They are a mix of Programme and Project Risks which are in turn managed through different risk management syst ems with 
+differing scoring matrices.  
+Pre-mitigated (Current) Position  Post Mitigated (Target) Position  
+ID  Risk Name/Description  Likelihood  Impact (£K)  Impact 
+Schedule   
+Mitigation Actions  Likelihood  Impact (£K)  Impact 
+Schedule  
+1 INFLATION  
+Fixed price milestone 
+payments exposed to 
+increased inflation exceed 
+the budget  
+ 50% X 0 1. Monitor forecasts ( PRIVATE COMPANIES ) for early warning of 
+increase.  
+2. Engage continuously Cost working group / Defence Economics / 
+REDACTED  CAG and share intelligence.  
+3. Manage within build Portfolio (common approach and actions to 
+absorb).  50% X 0 
+2 PRODUCTIVITY  
+Failure to deliver UK 
+investment for (NAME 
+OF PROJECT)  
+impacts productivity  
+ 60% X 240 1. Enhanced recapitalisation governance including recap and social value 
+steering group, and appointment of social value project manager at L4.  
+2. Enhanced contractual deliverables and enact specific recapitalisation 
+payment plan and hold back amount included in the contract.  
+3. Obtain specialist external expertise to oversee recapitalisation plan.  50% X 240 
+3 INDUSTRY  INSOLVENCY  
+Insolvency of UK industry ) 
+ 30% X 480 1. Obtain Bidder’s risk mitigation plan for financial instability  
+2. Enhanced governance of build delivery through PR and PDB  
+3. Monitoring of relevant market intelligence reports including KSM reports  
+4. Monitor financial health of industry  within build strategy  
+5. Make use of contract terms to ensure Bidders provide adequate support 
+to industry.  20% X 480 
+4 INTEGRATION & SKILLS 
+GROWTH  
+Failure to manage integration 
+due to build management 
+and UK SQEP.  
+ 60% X 120 1. Preferred Bidder Phase, undertake detailed review and clarification of 
+proposals and plans for development or recruitment of UK SQEP.  
+2. Re -development of internal MOD SQEP, including early engagement 
+with PREVIOUS PROGRAMME  early in design phase.  50% X 120   
+ 
+  
+3. Establish strong Authority on site team including com mercial  expertise 
+and CAG to monitor progress.  
+4. Establish Joint Integration WGs between MOD, Prime and key subcons.  
+ 5 
+  DELIVERY 
+PERFORMANCE  
+INDUSTRY  experiences 
+technical issues and / or 
+build quality issues that 
+cause delays to the VAD.  
+ 87.5%  x   
+360  
+ 1. Implement governance (in at PDB) with LFE from PREVIOUS 
+PROGRAMME  
+2. Contract flexibility for (with approval) for the bidder to adjust their 
+strategy to reflect emerging conditions without impacting social value.  
+3. Bidders working to their own build spec and acceptance activities  
+4. Engage CAG group to review plans and resource acceptance.  
+5. Enhanced contractual deliverables and enact specific recapitalisation 
+payment plan and hold back amount included in the contract.  
+6. Establish strong Authority on site team including com mercial expertise 
+and CAG to monitor progress.  37.5%  x 120 
+6 SCHEDULE AND 
+CAPABILITY TRANSITION  
+(NAME OF 
+PROJECT)  does not 
+deliver a replacement for 
+PREVIOUS DELIVERABLE  
+before Out of Service Date 
+(OSD).  
+ 
+ 70% x 0 1. Fund PREVIOUS DELIVERABLE  extension of 1 year to  xx DATE  to 
+better align with (NAME OF PROJECT)  DELIVERABLE  1 
+delivery  
+2. Seek innovation and parallel working to compress VAD -ISD for 
+(NAME OF PROJECT) . 
+3. Hold PREVIOUS DELIVERABLE  at reduced readiness beyond xx DATE  
+4. Additional refit to run PREVIOUS DELIVERABLE  beyond DATE  (longer 
+extension).  55% x 0 
+7 CREWING  
+Insufficient SQEP staffing . 
+ 40% x 60 1. Prioritisation of (NAME OF PROJECT)  within staffing priority 
+list. 
+2. Retain and recycle SQEP through (NAME OF PROJECT)  
+during build and trials.  
+Note – related project risk xxxx Availability of Personnel for training.  20% x 20 
+ 8   
+ 
+IN SERVICE SUPPORT  
+Enduring support solution 
+is not in place for 
+(NAME OF 
+PROJECT)   
+  37.5%  x  NIL 1. Continuous Engagement with project to include (NAME OF 
+PROJECT)  in scope .  
+2. Run a competition for (NAME OF PROJECT)  in service 
+platform and equipment support  for VAD to ISD period with options to 
+extend .  
+3. Negotiate Option to e xtend manufacture contract to provide a period of 
+support whilst an enduring contract is procured .  
+4. Deliver ILS outputs which enable wide range of support solutions    
+5%    
+x    
+NIL    
+  
+Annex H to  
+(NAME OF PROJECT)  FBC (CAT A) IAC xxxx  
+dated xx xx  DATE     
+ 
+SUNK COSTS  
+ 
+Period/Phase  Cost (RDEL inc VAT)  
+Pre-Initial Gate (pre -DATE ) 
+(As part of Programme & ORGANISATION  
+Concept Studies DATES ) £XXXX  
+Assessment Phase 1 (AP1)  
+Apr xx xx  DATE   
+Crown Servants - Estimated  £xxxx 
+ 
+£xxxx 
+Assessment Phase 1a (AP1a) (1 -year 
+extension to OBC) Apr xx xx  DATE  
+Crown Servants - Estimated  £xxxx 
+ 
+£xxxx 
+Assessment Phase 2 (AP2) CPP to 
+xDATE – actuals  
+Crown servants - Estimated  £xxxx 
+ 
+£xxxx 
+Assessment Phase 2 (AP2) CPP (inc. bid 
+costs and anticipated spend to Manufacture 
+Contract / end of FY xx DATE )  
+Crown Servants / Op costs    
+@ AP05  £xxxx (Actual ) 
+£xxxx (Forecast ) 
+£xxxx (Actual ) 
+£xxxx (Forecast ) 
+Sunk Cost Total  £xxxx

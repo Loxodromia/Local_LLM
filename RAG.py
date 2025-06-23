@@ -28,24 +28,25 @@ LLM_MODEL_NAME = "deepseek-r1:8b"  # DeepSeek R1 model for response generation
 CHUNK_SIZE = 1000  # Characters per chunk
 CHUNK_OVERLAP = 200  # Character overlap for context continuity
 
-# Saving a local copy of the embedding (RAG) model
-model = SentenceTransformer(MODEL_NAME)
+# Saving a local copy of the embedding (RAG) model. The lines commented out are those needed for the first save.
+# model = SentenceTransformer(MODEL_NAME)
 model_path = r".venv/model/all-MiniLM-L6-v2"
-model.save(model_path)  # Specify a local path
+# model.save(model_path)  # Specify a local path
+
+model = SentenceTransformer(model_path)
 
 # RAG Parameters
-top_k = 5  # Number of top relevant chunks to retrieve for each LLM call
+top_k = 4  # Number of top relevant chunks to retrieve for each LLM call
 depth = 1  # Number of retrieval iterations: 1 to 3. The higher, the more search extent, but processing time multiplies. E.g. if top_k = 5 and depth = 2, the LLM will retrieve the top 5 chunks from the vector store in a prompt, then the next 5, and use them to generate a response.
 max_context_length = 3000  # Maximum length of context to pass to the LLM for each prompt, from collating the top chunks
 
 # Prompt parameters
 temperature = 0.3  # Temperature for response generation (creativity)
-prompt_text = '''Provide a clear and concise response, quoting the exact text from the context as evidence, with the following structure for each prompt (3 bullet points starting with "-"):
-- Evidence explanation:... (summarise key points, can be multiple)
-- Evidence text:... (citing exactly from the source - can be multiple)
+prompt_text = '''Provide a clear and concise response to document evidence, quoting the most relevant exact text fragment from the context, with the following structure for each prompt (3 bullet points starting with "-") and only producing the below:
+- Evidence explanation:... (summarise)
 - Confidence level that the evidence is adequate and sufficient, in the format "[Confidence: XX%]" (0-100).
-- Source reference(s) with the exact format [Source: filename].'''
-max_tokens = 500  # Maximum tokens for the response generation (output length)
+- *Exact* quote from the source text, in the format "Quote: 'exact text from the source'". If no evidence is found, state "No evidence found" and provide a confidence level of 0%.'''
+max_tokens = 700  # Maximum tokens for the response generation (output length)
 
 # Prepare text in chunks
 def read_text_file(file_path):
@@ -96,9 +97,11 @@ def load_or_create_vector_store(directory, txt_folder, vector_store_subfolder="v
     all_chunks = []
     for file_path in txt_folder.glob("*.txt"):
         text = read_text_file(file_path)
+        print(f"Processing file: {file_path.name}")
         if text:
             chunks = split_text(text, source_file=file_path.name)
             all_chunks.extend(chunks)
+            print(f"Extracted {len(chunks)} chunks from {file_path.name}")
     
     if not all_chunks:
         print(f"No valid text files found in {txt_folder}.")

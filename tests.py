@@ -2,6 +2,7 @@ import ollama
 from fileprocessing import read_csv, read_pdf, read_image, read_doc, read_docx, read_odt, read_ppt, read_pptx, read_txt, read_xls, read_excel
 from fileprocessing import extract_text_from_file, extract_text_from_directory
 from RAG import load_or_create_vector_store, embed_query, retrieve_chunks, assemble_context, generate_response, rag_pipeline, process_citations
+from structure_output import read_xlsx_file, process_ksb_df
 import os
 import pytesseract
 
@@ -19,9 +20,9 @@ vector_directory = f"{text_directory}/vector_store"  # Directory for vector stor
 #----------------------------------
 
 # Embeddings model loading
-# from sentence_transformers import SentenceTransformer
-# model = SentenceTransformer("all-MiniLM-L6-v2")
-# print("Model loaded successfully!")
+from sentence_transformers import SentenceTransformer
+model = SentenceTransformer(r".venv/model/all-MiniLM-L6-v2") # Local load for ringfenced application
+print("Model loaded successfully!")
 
 # # Single file samples by extension
 # print(read_pptx(f'{directory}guidance.pptx'))
@@ -62,6 +63,7 @@ def main():
 # Test usage of the ollama library to generate a response using the DeepSeek-R1 model.
 def test_ollama_generate():
     """Test Ollama generate function with DeepSeek-R1 model."""
+    print("Testing LLM generation")
     try:
         response = ollama.generate(
             model="deepseek-r1:8b",
@@ -172,7 +174,14 @@ def test_process_citations():
     citation = process_citations(response, directory, text_directory)
     print(citation)
 
-test_process_citations()
+# test_process_citations()
+
+def test_excel():
+    df = read_xlsx_file(f'{directory}ADF-L6-KSBs.xlsx', sheet_name='Sheet1')
+    df = process_ksb_df(df)
+    print(df.info())
+
+# test_excel()
 
 #-------------------------#
 # APP TESTS

@@ -1,0 +1,65 @@
+2025-06-18 11:07:12,993 [INFO] Number of prompts found: 10. Iterating...
+2025-06-18 11:07:12,993 [INFO] Processing Prompt 1 of 10: Is the analysis of the military capability gap and/or business capability gap suitably evidenced to inform the need/case for change?
+2025-06-18 11:07:12,996 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:12,996 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:07:13,163 [INFO] Loading faiss with AVX2 support.
+2025-06-18 11:07:13,190 [INFO] Successfully loaded faiss with AVX2 support.
+2025-06-18 11:07:13,197 [INFO] Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-06-18 11:07:13,206 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:13,206 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:07:26,070 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:07:26,083 [INFO] Processing Prompt 2 of 10: Is the military capability gap and/or business capability gap to be addressed suitably defined?
+2025-06-18 11:07:26,086 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:26,086 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:07:26,232 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:26,232 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:07:44,903 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:07:44,909 [INFO] Processing Prompt 3 of 10: Is there evidence that SMART objectives and business need have been derived from a case-for-change workshop with relevant stakeholders
+2025-06-18 11:07:44,914 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:44,915 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:07:45,061 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:45,061 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:07:59,168 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:07:59,172 [INFO] Processing Prompt 4 of 10: Is there evidence of the military capability or business capability need being include within FLC/TLB plans?
+2025-06-18 11:07:59,175 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:59,176 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:07:59,346 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:07:59,346 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:08:23,182 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:08:23,188 [INFO] Processing Prompt 5 of 10: Is there evidence of the military capability or business capability need being given priority within FLC/TLB plans?
+2025-06-18 11:08:23,190 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:08:23,191 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:08:23,370 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:08:23,370 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:08:44,252 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:08:44,257 [INFO] Processing Prompt 6 of 10: Is there evidence that all relevant requirement stakeholders have been identified?
+2025-06-18 11:08:44,260 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:08:44,260 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:08:44,446 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:08:44,447 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:08:59,081 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:08:59,086 [INFO] Processing Prompt 7 of 10: Is there evidence demonstrating that a systematic approach has been/will be taken to requirement set development and releted risk management?
+2025-06-18 11:08:59,091 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:08:59,091 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:08:59,239 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:08:59,239 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:09:14,531 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:09:14,535 [INFO] Processing Prompt 8 of 10: Is there evidence that the business case is following JSP 655 guidance?
+2025-06-18 11:09:14,538 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:09:14,539 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:09:14,682 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:09:14,683 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:09:28,380 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:09:28,385 [INFO] Processing Prompt 9 of 10: If Standing Approval (standing financial delegation) is being used, is there evidence that the Standing Approval funding limit has been calculated correctly?
+2025-06-18 11:09:28,388 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:09:28,389 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:09:28,718 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:09:28,718 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:09:40,241 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:09:40,248 [INFO] Processing Prompt 10 of 10: Is there evidence of a suitably mature communication requirement and plan for meeting these requirements? E.g. staff and trade union engagement, cross government co-ordination, ministerial announcements, etc.
+2025-06-18 11:09:40,251 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:09:40,251 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:09:40,396 [INFO] Use pytorch device_name: cuda:0
+2025-06-18 11:09:40,397 [INFO] Load pretrained SentenceTransformer: .venv/model/all-MiniLM-L6-v2
+2025-06-18 11:09:59,161 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-18 11:09:59,173 [INFO] 10 prompts processed in 0 hours, 2 minutes and 46 seconds

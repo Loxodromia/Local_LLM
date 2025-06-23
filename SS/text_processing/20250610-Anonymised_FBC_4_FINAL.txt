@@ -1,0 +1,528 @@
+DATE  
+Ref: NAME OF PROJECT  FBC  
+NAME OF PROJECT  – FULL BUSINESS CASE (CATEGORY C ) 
+Executive Summary  
+1. This Business Case seeks approval to enter the Demonstration and Manufacture phases of 
+the NAME OF PROJECT  project  with the preferred tenderer, selected as a result of a competition 
+held to the Competitive Negotiated procedure within  Defence and Security Public Contract 
+Negotiation  (DSPCR ) following Initial Gate Business Case (IGBC) approval  in DATE1. 
+2. The project will  replace REDACTED with DELIVERABLES . These will  fully meet the User 
+Requirements and th erefore  enable CUSTOMER  to continue to provide REDACTED around  
+LOCATIONS  thus delivering D efence  Task s. The replacement will consist of NUMBER OF  
+replacement DELIVERABLES  in UK LOCATIONS  (including NUMBER  as a funded contractual 
+option) and NUMBER  replacement DELIVERABLES  for LOCATION .  
+3. The Project Cost of £ XXXX is considered to offer Value for Money, demonstrated by 
+the successful conclusion of the competition resulting in the selection of a Preferred 
+Tenderer in accordance with the Most Economically Advantageous  Tender (MEAT) criteria.  
+4. The procurement strategy does not include  Resource Delivery ( RDEL ) in-service support; 
+instead support will be provided via the extant DELIVERABLES  In-Service Support (ISS) contract 
+and follow -on contracts.  
+5. DELIVERABLE  1 is due to be accepted off contract  by DATE,  contributing to the 
+declaration of an Initial Operational Capability (IOC) by  DATE . DELIVERABLE  NUMBER is due 
+to be accepted off contract by DATE , with Full Operational Capability (FOC) being achieved by  
+DATE . 
+Issue  
+6. This Full Business Case seeks a pproval  from the ORGANISATION  Approvals Committee to 
+award a contract to the Preferred Tenderer in order to commence the  Demonstration and 
+Manufacture phase of the Police Patrol DELIVERABLE  project . 
+Timing  
+7. Routine. FBC Approval is requested by DATE to allow Contract Award by DATE , which is 
+in-line with Tenderer's expectations and hence minimises the risk of delay to DELIVERABLE  
+delivery which could  be caused by a delay to Contract Award.  
+Recommendation  
+8. The Approving Authority  is invited to approve : 
+a.     The NAME OF PROJECT  project proceeding to the Demonstration and Manufacture 
+phases with COMPANY ; 
+b.     The Key User Requirements (KURs) at Annex A;  
+ 
+  c.     The Approved Budgetary Level (outturn, inclusive  of all non -recoverable VAT) at  50% 
+confidence for the Demonstration  and Manufacture  phases  of £XXXX  consisting  of: 
+Contract 
+Total  (£)  CDEL  RDEL  RMC   Total   
+CDEL   XXXX  XXXX  XXXX  XXXX  
+Total   XXXX  XXXX  XXXX  XXXX  
+Table 1- Total Cost    
+d.     An Equipment Delivery  Date (EDD ) of DATE  for DELIVERABLE  #1; declaration of 
+IOC in DATE and FOC in DATE at 50%  confidence3;  
+e.    Spend Management System (SMS).  Approval of the SMS is requested within the 
+NCAC Outletter.  
+9. And to note:  
+a.     The 10%, 50% and 90% confidence levels for the cost of the project  phases are as 
+follows:   
+Project Phase   Direct Resource Cost 
+(£M)  Capital Cost (£M)   
+10%  50%  90%  10%  50%  90%  
+Demonstration & 
+Manufacture    IG Estimate          XXXX  
+  
+FBC 
+Estimate         XXXX  XXXX  XXXX  
+In-Service   
+  IG Estimate              
+FBC 
+Estimate      XXXX   XXXX  XXXX  
+Total Cost   Total 
+D, M & ISS          XXXX    
+Table 2 – 3 Point Estimation  of Costs    
+b.     Affordability against the approved Control Total across all Financial Years has been 
+confirmed by NAME OF FLC Command.  
+c.     NAME OF PROJECT  IGBC approved a Nil Cost Assessment phase of no more than 
+NUMBER OF  DELIVERABLE . Due to a change in scope, the Intercept and Escort 
+DELIVERABLE  (IEC) project  was removed and is going through a separate 
+procurement and approval.  
+d.     £XXXX CDEL, which is required for Capital Spares and Initial Provisioning, has been 
+costed within Acquisition Support, further detail on affordability at  Annex C, Table C - 2. 
+e.     In-Service Support (ESP RDEL) budget has been approved within the Future 
+DELIVERABLE  Support Main Gate Business Case, valued at approximately £ XXXX . 
+This value covers the support for NAME OF PROJECT  up until the expiry of the 
+DELIVERABLES  In-Service Support ( ISS) contract s on DATE . Support after this point 
+will be included in follow -on support contract approvals.  In additi on to this, £ XXXX  (ESP 
+CDEL)  has been included within the FBC est imate. This value covers the Capital 
+Spares and Initial Provisioning of the NAME OF PROJECT  DELIVERABLE . 
+f.     Delivery of  Full Operating Capability  (FOC)  in DATE at 50% confidence,  and the 
+10%, 50% and 90%  DELIVERABLE  1 Acceptance Off Contract (AOC)  confidence 
+levels of:    
+ 
+AOC   Confidence Levels   
+10%  50%  90%  
+FBC Estimate   DATE  DATE  DATE  
+Table 3 - 3PE of AOC  
+e.     The procurement and commercial strategies,  summarised  in Paragraphs  36 to 40 
+below.   
+f.     The principal risks to capability delivery  at Annex  B;  
+g.     The VAT treatment has been confirmed by the FBP team as being zero rated/F0 @ 
+0% for the build programme.  
+h.     No Private Sector Support (PSS) is required to support this approval.    
+i.     It has been confirmed by DELIVERABLES  PT Commercial that there are no 
+Contingent Liabilities  associated with any Contract resulting from this approval2.  
+Presentation and Handling  
+10. The DELIVERABLES  PT are working with the NAME OF OTHER DEPARTMENT  
+Corporate Communications Team to develop a Press and Publicity Strategy which will be in place 
+by Contract Award. There is not expected to be significant interest in the contract announcement 
+outside specialist press and local media in LOCATION . 
+11. The preferred Tenderer is a small to medium enterprise (SME) based in LOCATION , and 
+has sub -contract relationships with other UK -based suppliers including COMPANIES . Therefore 
+the majority of the work to be conducted via this contract award will be retained within the UK.  
+Case Narrative - Strategic Case  
+12. The NAME OF PROJECT  Project seeks to continue the enduring requirement for NAME 
+OF DEPARTMENT  to deliver ongoing CAPABILITY  at the NUMBER  UK LOCATIONS  
+(LOCATION , LOCATION 1  and LOCATION 2 ), LOCATION  and NAME OF COUNTRY Sovereign 
+Base Area ( SBA).3 This requirement directly derives from  the Defence Task to REDACTED.   
+13. In addition, NAME OF DEPARTMENT  have an enduring requirement to provide 
+REDACTED . 
+14. Finally, NAME OF DEPARTMENT  are also responsible to REDACTED.  
+15. In order to deliver these requirements, NAME OF DEPARTMENT  require for the provision 
+of REDACTED .  
+16. The requirement  is currently delivered by REDACTED , of which NUMBER  were originally 
+built between YEAR – YEAR  and NUMBER  between  YEAR  – YEAR . Therefore t hese NUMBER  
+DELIVERABLES  are all , despite successful mid -life upgrades, either  at or beyond the end of their 
+useful service life.  
+ 
+ 
+  17. In order to ensure unbroken delivery of the capability requirement , the NAME OF 
+PROJECT  project will deliver:  
+a.     NUMBER replacement DELIVERABLES  for NAME OF DEPARTMENT  in UK 
+LOCATIONS  (including  NUMBER  as a funded contractual option);  
+b.     NUMBER  replacement DELIVERABLES  for LOCATION  (funded contractual option);  
+18. The contractual option for NUMBER  DELIVERABLES  exists because those 
+DELIVERABLES  were not funded at the time the competition was started. As funding for those 
+DELIVERABLES  has now been secured  (through re -profiling of the entire DELIVERABLES  
+Acquisition portfolio) , uptake of the option is expected soon after commencement of the contract.  
+19. There remains an additional contract option for NUMBER  replacement DELIVERABLES  for 
+COUNTRY . These DELIVERABLES  are currently unfunded and as such do not form part of this 
+approval. However, previous discussions have suggested that NAME OF OTHER 
+DEPARTMENT 2  have aspirations to upgrade CAPABILITY  of COUNTRY  in a similar manner to 
+LOCATION ; these contractual options allow those aspirations to be realised without undertaking 
+additional procurement action should appropriate direction and funding be forthcoming. Further 
+approval will be sought via a Review Note to this approval should consideration be given to taking 
+up this option in future.  
+Case Narrative - Economic Case  
+20. The IGBC concluded that the option which would be most likely to provide Value for Money 
+was to "replace with new DELIVERABLE ". This decision was taken as it:  
+"allows for new DELIVERABLE  to be purchased, allowing the current aged and already extended 
+DELIVERABLE  to be removed from service. It will meet the user’s tasking and  will provide the 
+more efficient through life maintenance by reducing variants."  
+21. The Procurement  and Commercial Strateg y recommended that this be achieved through 
+engagement in open competition with industry to select a preferred bidder. This competition has 
+henceforth been completed using the Competitive Negotiated procedure under the DSPCR 
+YEAR regulations, resulting in the receipt of 2 tenders.  
+22. In order to ensure the selection of the tender which offered the greatest Value for Money, 
+the Most Economically Advantageous (MEAT) evaluation methodology was followed with the 
+following weightings assigned:  
+a. Technical (55.5%);  
+b. Cost (40%);  
+c. Supportability (4.5%).  
+The NAME OF TEAM Team, following  consultation with CAAS, consider that the MEAT approach 
+used to assess returned tenders is largely analogous  to establishing Value for Money.   
+23. It should be noted that in -service support  funding is not included within the scope of this 
+procurement  (except the £ XXXX , referred to in Para 9d, which is forms part of this approval) ; 
+instead support will be provided via the extant ISS contract s and follow -on contracts.  This 
+decision was made as learning from experience  across  the DELIVERABLES  Acquisition and In -
+Service Support Programme shows that V alue for Money  is obtained for non -complex 
+DELIVERABLES  to a commercial design by purchasing without ISS.  This allows specialist in -
+service support providers to provide a more focussed support solution, including avoiding the 
+duplication of on -site support provision for 1st and 2nd level maintenance  which will be conducted 
+by the support contractor on behalf of NAME OF DEPARTMENT  for all their DELIVERABLES . It  also allows a more competitive procurement process as it gives the opportunity for commercial 
+DELIVERABLE  builders (who have no intrinsic support capability) to tender.  
+24. In addition, a VfM opportunity has been taken prior to FBC endorsement. The project was 
+initially seeking to combine multiple DELIVERABLE  variants in to one; through Requirements 
+reviews and industry engagement, doubt was expressed that this strategy would deliver  VfM. By 
+splitting the project into two variants  a lower average unit cost was achieved . As a result, a 
+portion of the initial project funding was reallocated to the DELIVERABLE  project , and further 
+efficiencies were reallocated across the DELIVERA BLES  Acquisition programme.  
+Case Narrative - Financial Case  
+25. The Approved Budgetary Level (ABL) being sought within this approval (outturn, inclusive 
+of all non -recoverable VAT at 50% confidence) for  Manufacture  consist s of: 
+a.     £XXXX  total resource consumption (RDEL)  
+b.     £XXXX  capital expenditure (CDEL)  
+26. This is in addition to the in-service support provision approved as part of the ISS MGBC  
+ORGANISATION  Allocation (£XXXX  RDEL; £ XXXX  CDE L and £ XXXX  RMC ). Of this approval, 
+approximately £ XXXX  was allocated to NAME OF PROJECT  within the Cost Models.  
+27. The ISS MGBC approved in -service support provision until DATE . Approval for NAME OF 
+PROJECT  in-service support beyond this date will be incorporated into the approval for ISS 
+follow -on arrangements.  
+28. Affordability of the project is demonstrated in the table below , overall affordability within the 
+wider DELIVERABLES  programme can be found at Annex C:  
+Affordability  
+All Values in £ XXXX  
+Year  0 1 2 3 4 5 6 
+Total  FY YEARS
+   YEAR
+S YEARS  YEARS  YEARS
+  YEARS  YEARS  
+ 
+Forecast 
+Cost at 50% 
+Confidence 
+(at P50 
+value)  
+CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX   Provision  
+(ABC 
+Outcome)  
+CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Variance  
+(Negative 
+represents 
+excess  in 
+provision)  
+CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table 4 - Cost and Affordability Table  
+29. The project is affordable in Near Cash terms. There are minor discrepancies  in DEL 
+provision during FY  YEARS  and YEARS , primarily  caused by the preferred tenderer front -loading 
+design and tooling costs onto the UPC of DELIVERABLE  1. Despite the existence of a net -
+present value calculation in the tender, the outcome of the competition was not affected by this 
+position. FY YEARS shows a variance , prior to the RDEL transfer,  of £XXXX  and FY  YEARS 
+shows a variance , prior to the RDEL transfer  of £XXXX . This affordability  issued will be 
+addressed through a RDEL  to CDEL transfer, which will be actioned within PCR  DATE  costing.   
+ 
+30.  All RDEL cost s for ISS  are out -of-scope of  this approval, as NAME OF PROJECT  Support 
+Costs are affordable within the current scope of the I SS contract  and approval as demonstrated 
+by the t able below . In-service support provision beyond FY  YEARS (italicised and marked with an 
+asterisk in the table) will be included within the approval for follow -on support contracts.  
+Affordability   
+All Values in £ XXXX   
+Year  0 1 2 3 4 5 6 Total  
+(Years 
+0-5 
+only)  FY YEARS  YEARS  YEARS  YEARS  YEARS  YEARS  YEARS  
+NAME OF 
+PROJECT 
+Support 
+Affordability  
+ RDEL Provision 
+(ISS)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Cost Model Output  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Variance  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table 5 - Cost and Affordability of NAME OF PROJECT  Support Contract   31. All costs incurred during  this project will be charged to NAME OF DEPARTMENT  in Pounds 
+Sterling.  
+32. The correct VAT and accounting treatment applications have been  applied and  have been  
+assured by REDACTED . 
+33. NAME OF OTHER DEAPARTMENT  have confirmed that there are no contingent liabilities . 
+34. There is no Private Sector Support (PSS) expenditure associated with this approval.  
+35. Raw Materials and Consumables (RMC) expendi ture will be apportioned from the value 
+approved in the ISS MGBC, as these DELIVERABLES  will be directly replacing platforms for 
+which RMC expenditure was included for the full duration of that approval. It is not anticipated 
+that there will be either notable savings or uplift to the planned RMC expenditure compared to the 
+assumptions made under that approval.  
+Case Narrative - Commercial Case  
+36. This procurement fell within the scope of the Defence & Security Public Contracts 
+Regulations YEAR  (DSPCR YEAR ).  To allow for face to face discussions and clarifications of 
+each tenderer’s proposal, the Competitive Negotiated procedure (under DSPCR YEAR ) was 
+utilised.   
+37. In order to best achieve the required capability within funding constraints, the contract 
+contained a well -defined firm requirement for  NUMBER  NAME OF PROJECT  plus a further 
+NUMBER option DELIVERABLES . It is the DELIVERABLES  Team's intention to take up the 
+option for the first NUMBER additional DELIVERABLE  soon after commencement of the 
+contract.   The contract will be awarded on a Firm Price basis for all requirements due for delivery 
+in Years YEAR  - YEAR  of the contract (FY  YEARS until FY  YEARS ), with requirements in 
+subsequent years subject to a Fixed Price with a Variation of Price (VOP) clause linked to the 
+K8ZU price index, as agreed with Defence Economics.  
+38. Payment will be made via Contracting, Purchasing & Finance (CP&F) upon delivery of 
+individual DELIVERABLES , spares packages and other contractual 
+deliverables.  Milestone  payments will also be defined within the contract and will be made to 
+cover work completed to the satisfaction of the MOD during the design and manufacture phases.  
+39. Suitable Intellectual Property (IP) DEFCONs have been included in the contract to enable 
+any contractor nominated by the Authority to carry out future support.   
+40.  The contract is DEFCON based with narrative conditions.   
+41. The Contractor is not classified as Strategic Supplier; therefore the Cabinet Office 
+Commercial spend process is not required to be followed.  
+Case Narrative - Management Case  
+42. The following key milestones are to be a chieved by this project : 
+FBC Estimate  Confidence Levels  
+10% 50% 90% 
+Delivery of First DELIVERABLE  DATE DATE DATE 
+IOC DATE DATE DATE 
+Delivery of First NUMBER 
+DELIVERABLES  
+(Delivery to LOCATION 1 complete)  DATE DATE DATE  Delivery of First NUMBER 
+DELIVERABLES   
+(Delivery to LOCATION 2 complete)  DATE DATE DATE 
+Delivery of First NUMBER  
+DELIVERABLES  
+(Firm order DELIVERABLES  
+complete; delivery to LOCATION  3 
+complete)  DATE DATE DATE 
+Delivery of all NUMBER  
+DELIVERABLES  DATE DATE DATE 
+FOC  DATE DATE DATE 
+Table 6 – 3 Point Estimation  of NAME OF PROJECT  Milestones  
+43. IOC and FOC are defined at Annex D.  
+44. The NAME OF PROJECT  programme is currently fully resourced as it remains one of the 
+higher -priority projects within the DELIVERABLES  Acquisition Programme. Meanwhile, other 
+projects (notably those where procurement action has not yet started,  and which are deemed 
+lower priority by the Customer) are not progressing because the team’s resource is focussed on 
+these higher -priority projects.  
+45. The principal risks to delivery are outlined below , with further detail at Annex  B: 
+a.     There is a risk that design changes post -Contract Award (due to either a 
+misinterpretation of the requirement, or a change in the User Requirement)  will result in 
+cost increases and/or time delays as the contractual requirement is amend ed. As 
+always, these changes have the least impact early in the design phase but are still likely 
+to have some financial implications. The risk will be mitigated b y regular engagement 
+with CUSTOMER  stakeholders  including Design Workshops post -Contract Award , 
+ensuring ‘buy -in’ of stakeholders . 
+b.     There is a risk that it is not possible to agree a price with the support contractor. 
+When negotiating with the support contractor the principles of NAPNOC (No Acceptable 
+Price, No Contract) will apply in order to ensure VfM is obtained and that the proposal is 
+commercially acceptable.  In addition to this, we will seek a price for the support of 
+NAME OF PROJECT  from both the ISS Lot 3  (CUSTOMER ) and Lot 1  (Overseas)  
+contractors, COMPANY and COMPANY  respectively, which will allow comparative price 
+analysis to be completed and further support negotiations.  If it is not possible to reach 
+agreement on the pricing of the support contract,  then fallback arrangements will be 
+enacted. This could involve either the placing of in -service support with another of the 
+ISS contractors or  holding a further competition specifically for the in -service support of 
+these DELIVERABLES . The risk will be mitigated by ensuring that sufficient time is 
+allowed in the negotiat ion schedule to allow t fallback plans to be enacted should the 
+need arise . 
+ 
+ 
+NAME  
+NAME OF OTHER DEPARTMENT  
+NAME OF TEAM Team Leader  
+ADDRESS  
+ 
+Endorsed on behalf of NAME OF OTHER 
+DEPARTMENT  by:   NAME   
+NAME OF TEAM Team Leader  
+Date:  DATE   
+ 
+Approved for Submission by:   
+SIGNATURE  NAME  
+NAME   
+Date:  DATE  
+   
+   
+Annexes:  
+ 
+A. Key User Requirements  
+B. Project Risks  
+C. Affordability Data  
+D. IOC and FOC Definition  
+ 
+Enclosures:  
+ 
+                                                                                                                                   ANNEX A  to 
+                                                                                                               NAME OF PROJECT FBC 
+                                                                                                                                Dated DATE  
+Key User Requirements  
+ID User Requirement  UR 
+KUR1  The user shall be able to …  
+KUR2  The user shall be able to …   
+KUR3  The user shall be able to …   
+KUR4  The user shall be able to …   
+KUR5  The user shall be able to …   
+KUR6  The user shall be able to …   
+                                                                                                                                   ANNEX B  to 
+                                                                                                                NAME OF PROJECT  FBC 
+                                                                                                                                Dated DATE  
+Project Risks  
+ID Risk Title  Current  Target  
+ 
+ [NAME OF PROJECT ] - Design 
+changes post Contract Award  Very High (24)  Medium (20)  
+ [NAME OF PROJECT ] -Unable to 
+agree price with Support Contractor 
+- TOLERATE  Medium (18)  Medium (18)  
+ [NAME OF PROJECT ] - Ambiguities 
+in Requirements Post Contract 
+Award  Medium (14)  Low (11)  
+ [NAME OF PROJECT ] - In-service - 
+Extended Supply Chain delays - 
+TOLERATE  Low (8)  Low (8)  
+ [NAME OF PROJECT ] - Evidence 
+provided for previous approvals 
+process is no longer extant or 
+relevant.  Low (7)  Very Low (4)  
+ [NAME OF PROJECT ] Misalignment 
+of Delivery Schedule  Low (5) Very Low (3)  
+                                                                                                                                   ANNEX C  to 
+                                                                                                                NAME OF PROJECT  FBC 
+                                                                                                                                Dated DATE  
+Affordability Data  
+Table C1 shows the overall affordability of NAME OF PROJECT  against the P9 line,  within the 
+wider DELIVERABLES  programme, data  from DELIVERABLES  Funding Breakdown PC R DATE  
+V1. 
+NAME OF PROJECT  P9 Affordability  
+(All costs in £ XXXX ) 
+ FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  Total 
+Cost  
+P9 Line CT  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+NAME OF 
+PROJECT 
+Planned 
+Expenditure  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Other 
+Acquisition 
+Projects  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Variance  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table C1 - Overarching NAME OF PROJECT  Affordability within DELIVERABLES  Programme  
+Table C2 shows the overall affordability of the  S9 line, within the wider DELIVERABLES  
+programme .  
+NAME OF PROJECT  S9 Affordability  
+(All costs in £M)  
+ FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  FY 
+YEARS  Total Cost  
+S9 Line CT  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+DELIVERABLES  
+In - Service 
+Support 
+(Includes NAME 
+OF PROJECT)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+DELIVERABLES  
+Engine Support  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Acquisition 
+Support 
+(includes NAME 
+OF PROJECT 
+ESP CDEL*)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+In Service 
+Support 
+(Outside ISS)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Efficiency  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Uncommitted 
+Spend Review  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table C2 - Overarching NAME OF PROJECT  Affordability within DELIVERABLES  Programme                                                                                                                                 ANNEX D to 
+                                                                                                                 NAME OF PROJECT  FBC 
+                                                                                                                                Dated DATE  
+ 
+IOC and FOC Definition  
+ 
+NAME OF PROJECT  IOC is defined to be the stage at which delivery has been received of the following 
+components that allow for the safe operation of the capability in role:  
+DLOD   Maturity  
+Training  
+ - A training solution has been identified and a repeatable, cost effective, safe 
+plan has been identified issue to all personnel involved in the operation of the 
+DELIVERABLE .  
+- CUSTOMER  has all available documentation.  
+- CUSTOMER  instructors to have received a train the trainer course from the 
+manufacture.  
+- NUMBER OF  DELIVERABLES  have been delivered to one unit to allow for 
+the first deployment of an operational DELIVERABLE  whilst retaining a 
+training DELIVERABLE  capacity.  
+Equipment  - The NUMBER OF DELIVERABLES  have been delivered with initial spares 
+package and has been operational for a minimum of X months at one of the 
+CUSTOMER  locations.  
+- Early design issues have been rectified.  
+- DELIVERABLE  has been tested and accepted against the operational 
+capability (initial ITEAP for one DELIVERABLE ) 
+- List of parts  
+Personnel  
+ - Within current resources and operational profiles personnel and HR will not 
+impact on either the IOC or FOC.  
+Information  
+ - The safety Case and BR will be complete and baselined.  
+- The DELIVERABLE  shall have in date safety certificate from an approving 
+body such as REDACTED .   
+Doctrine  
+ - The Standard Operation Procedure (SOP) will be complete   
+- Local Instructions created in relation to specific operational requirements  
+Organisation  
+ - The DELIVERABLES  In Service Support  (ISS) contractor has taken on the 
+new DELIVERABLE  
+- Successful delivery of 1st and 2nd line maintenance throughout the first 
+NUMBER OF  months of the first DELIVERABLE s operation at any unit.   
+Infrastructure  - the DELIVERABLE  was successfully REDACTED   
+ 
+Logistics  
+ - Logistic Support Date (LSD)* has been achieved - LSD shall be the date 
+when all support functions are available in range but not necessarily scale.  
+ 
+   NAME OF PROJECT  FOC  is defined to be the stage at which delivery has been received of the following 
+components that allow for the safe operation of the full capability in role against the KUR’s:  
+ 
+DLOD   Maturity  
+Training  
+ - A repeatable training solution is in operation and all existing personnel 
+involved in the operation and training of the DELIVERABLE  have received 
+the CUSTOMER  approved training plan.  
+- A refresher training programme is in place.  
+Equipment  
+ - The last DELIVERABLE  has been delivered with initial spares package and 
+has been operational for a minimum of NUMBER OF  months and has been 
+accepted.  
+- ITEAP fully signed off  
+Personnel  - Within current resources and operational profiles personnel and HR will not 
+impact on either the IOC or FOC.  
+Information  
+ - The safety Case and BR are complete and baselined, with set reviews 
+managed by the DELIVERABLES  Safety team.  
+- All DELIVERABLE  have  a valid safety certificate from an approving body 
+such as REDACTED    
+Doctrine  - Periodic reviews undertaken.  
+Organisation  
+ - Established working relationship between CUSTOMER , ORGANISATION 
+CSS-DELIVERABLES  in-service manager and the maintenance contractor. 
+(Tasking and KPI’s are being tracked and managed)  
+Infrastructure  - The DELIVERABLE  can be REDACTED   
+-  
+Logistics  
+ - The DELIVERABLE  are fully supportable in range and scale, including;  
+1. Realistic and suitable Service Support Strategies and contracts have been 
+agreed with Contractors and accepted by the PT as affordable.  
+2. The Support Solution Development Tool (SSDT) is complete  and all Guiding 
+Policies have been agreed by accountable desk officers.  
+3. All training and technical documentation has been produced to a mature 
+standard acceptable to both the PT and the User community.  
+4. Successful Logistics Demonstrations have been held by the Contractors.  
+5. An agreed level of spares has been established and procured  
+*LSD is defined as:  
+1. Support solution in place with an appropriate range and scale to support the initial delivery of 
+NAME OF PROJECT  Capability, and a plan in place to meet the roll out of Capability.  
+2. Demonstration of Support Maturity Level (SML) NUMBER  as described by Defence Logistics 
+Framework, Integrated Logistic Support Guidance v1.0  
+And will be evidenced by the following documents;  
+1. 1 Support Solution Development Tool (SSDT)  
+2. 2 ILS Management Plan and supporting documentation  
+3. 3 In Service Support Solution Maturity Assessment

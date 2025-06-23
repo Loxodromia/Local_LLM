@@ -1,0 +1,676 @@
+To: IAC Members         From: XXX SRO   
+ 
+Reference: PMO/ PROGRAMME NAME /IAC/0 2/DATE  
+ 
+XXXXXXX DATE  
+ 
+XXXXXXXXXXXXXXX  (XXX) OUTLINE BUSINESS CASE  
+ 
+Reference s: 
+ 
+A. XXXXXXXXXXXXXXXXXXX  (XXXX ) XXXXXXXXXX  (XXX) (Programe /project 
+name) Project Initial Gate Business Case dated DATE . 
+B. PROGRAMME NAME  Assessment Phase Extension Review Note (5320) 
+Outletter dated DATE . 
+ 
+Executive Summary  
+ 
+This submission seeks approval to start a new procurement to minimise 
+capability shortfall and schedule delay  against the endorsed requirement . The 
+revised procurement strategy exploits  lessons from the previous XXX 
+competition by following a Competitive Design Phase (CDP) approach. 
+Reworked  requirements, procurement strategy and schedule assumptions 
+have been tested with Industry in early market engagement  and have been well 
+received . Optimising  the requirement, both technically  and commercially has 
+made a marked difference, widening  the aperture of market interest.  However, 
+decisions by  SofS , following the project team’s Market Engagement Report 
+(ME Report) recommendations , have resulted  in a level of flexibility to generate 
+a viable competition , these additional constraints have the potential to impact 
+the effective ness of the competition  to maximise the value for money 
+objective . Further to this , additional risks remain ; namely  the capacity and 
+capability of the UK market and the overall level of affordability to deliver 
+within these constraints whilst delivering the desired outcomes of the 
+programme; capability, social value and Net Carbon Zero . This necessitates 
+the involvement of international firms  to partner with those in the UK to ensure 
+the Procurement Strategy  (including the improvement of UK (INDUSTRY)  
+productivity)  remains  deliverable . This  includes  REDACTED . A flexible  
+PROGRAMME NAME  CDP has been designed to maximise value -for-money 
+through a competitive process and increase  the probability of a successful 
+outcome  given  these constraints.  
+ 
+Issue  
+ 
+1. Approval of the XXX Outline Business Case to cover the Assessment Phase  
+(AP) and procurement activities  towards the submission of a Full Business Case  
+(FBC)  in DATE .   
+ 
+ 
+ 
+ 
+   
+ 
+ Recommendation(s)  
+ 
+2. The Investment Approvals Committee (IAC) is invited to approve:  
+ 
+a. the revised Procurement Strategy  (Enclosure 1 ); 
+ 
+b. the extension of the  XXX AP to a target contract award in DATE  at 50% 
+confid ence ; and  
+ 
+c. an Approved Budgetary Level of £XXXX  (outturn, inclusive of VAT where 
+applicable) at XX% confidence for PROGRAMME NAME  AP to XXX DATE 
+including Private  Sector Support (PSS) costs.  
+ 
+and to note:  
+ 
+d. the candidate KURs (Annex A); 
+ 
+e. the estimated impact on the delivery schedule and revised Planning    
+Assumption for Service Entry (PASE) in DATE  at 50% confidence ; 
+f. the latest  Design and Manufacture (D&M) Phase 3-point cost estimates and 
+affordability of the Assessment Phase against the Initial Gate Business Case 
+(IGBC ) budget (Annex C); and 
+ 
+g. the next submission , a Full Business Case (IAC XXXX ) in DATE . 
+ 
+Timing  
+ 
+3. Routine . Approval is required by  DATE  to achieve target contract award and 
+PASE dates as set out in this submission.  
+ 
+Presentation and Handling   
+ 
+4. The programme continues to attract significant Parliamentary and public 
+interest , particularly in relation to the build location choice and how the programme  
+fits within the Government’s INDUSTY  agenda . On DATE  the Secretary of State for 
+Defence agreed that the original PROGRAMME NAME  competition should be 
+cancelled because it had become clear that a value for money solution could not be 
+reached due to lack of effective competition. Subsequently the SofS has decided  on 
+a UK focused build, whilst allowing international participation for the new 
+PROGRAMME NAME  competition . Lines to take and media handling packs were 
+agreed with the Secretariats .  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Strategic  Case  
+ 
+5. PROGRAMME NAME  is a Strategic Programme required to deliver the 
+Command Plan objective XXX.  It is a key logistics enabler  for OTHER 
+PROGRAMME NAME . 
+ 
+6. Current DELIVERABLES  are beyond their design life and unable to provide 
+the capability at the required performance levels  particularly for capacity and storage 
+efficiency,  and in an assured manner to meet policy.  
+ 
+7. A capability cliff edge is approaching w ith DELIVERABLE  due to leave service 
+in DATE . DELIVERABLES  were planned to enter service between DATES . The 
+latest deterministic and risk adjusted  estimates result in a class  In Service Date ( ISD) 
+range of DATES , with DELIVERABLES  at 50% confidence . Options to delay 
+PROGRAMME NAME  Out of Service Date ( OSD ) have been costed at £ XXXX.  
+Once the delivery schedule is more certain  following the conclusion of the 
+competition the need for this mitigation will be evaluated and the costs will be 
+included in the FBC if required.  
+ 
+Requirements  
+ 
+8. The cancelation of the previous competition has allowed a wholesale review 
+of the requirement with particular focus on those elements that drove the 
+DELIVERABLE  dimensions , presented  technical challenge and risk. A significant 
+‘value engineering’ exercise was conducted to move from large numbers of 
+prescriptive requirements to a smaller number of output -based requirements in order 
+to remove unnecessary expenditure and provide flexibility to future bidders.  Although 
+designed to allow Military Off The  Shelf (MOTS) solutions to be  considered , 
+elements may not be suitable  for MOTS and planning has allowed for sufficient time 
+and flexibility for Industry to offer and deliver an appropriate solution .  
+ 
+9. The requirement has been reviewed against the latest planning assumptions.  
+The operating model used to drive down requirements and deliver smaller, more 
+available DELIVERABLES . The  scenarios cannot be met with two DELIVERABLES  
+and KURs are driven by a three DELIVERABLE  model.  More widely there would also 
+be a significant loss of incentive to  industry to bid, or invest in UK capability,  if the 
+volume was reduced.   There have been significant changes in key assumptions as 
+other programmes have entered service and Defence Planning Assumptions ( DPAs ) 
+have matured.  Collectively, these change the requirement and allow consideration 
+of a greater range of transfer options , with a result that the capability could be met by 
+a TYPE OF  solution vice ANOTHER TYPE OF solution . The TYPE OF  solution  is a 
+proven technology with an existing safety case and reduced integration demand that 
+can meet the revised  requirement.   
+ 
+10. These changes, alongside the introduction of threshold and objective measures 
+of effectiveness, seek to offer the market flexibility in developing  overall proposals .  
+ 
+ 
+ 
+   
+ 
+ Economic  Case  
+ 
+11. Following a review of the programme requirements and lessons from the 
+previous procurement, the Project Team designed and executed a phase of Market 
+Engagement. A comprehensive market position paper was drafted and released to 
+Industry (covering commercial, programmatic, through life and technical aspects). 
+Industrial Participants  provided thorough responses  under cover of a Non -Disclosure 
+Agreement  which formed the basis for engagement discussions in DATE . The 
+results of the Market Engagement exercise were  requested by Ministers to be 
+summarised in a paper which  was submitted to SofS from the SRO on DATE.   These 
+results  have been essential for cementing the recommended  procurement strategy.  
+12. Market Engagement analysis (Appendix to the Procurement Strategy ), which 
+included independent industrial capacity assessments and costings, has identified 
+two key points.  First, that a credible competition is possible if the market is given 
+enough flexibility.  Second, that without competition, the requirement is unli kely to be 
+deliverable for the budget.  Consequently, whilst the procurement strategy seeks to 
+provide maximum flexibility to maintain competitive pressure and Departmental 
+choice, serious consideration should be given to significant risk provision  (up to 
+£XXXX ) to maintain the procurement schedule and capability objectives.  Mitigating 
+this risk as far as practicable to ensure a deliverable and affordable programme will 
+be a primary objective of the next phase of the programme.  
+13. Reviewing how the capability can be deliver ed and moving away from a 
+taught technical specification to an output -based  set of requirements , received a 
+positive reception from industry during the Market Engagement  exercis e. The 
+exercise  suggest ed that  delivery remai ns possible within the indicated budget  of 
+£XXXX  for the design and build  contract should sufficient flexibility  be provided to 
+deliver  with the optimum build strategy . The SofS’s  decisions  on UK content do not 
+align  to the level of flexibility recommended within the ME Report , and provid es a 
+challenge , which  maintaining  competition can help to overcome. This places 
+significant risk on the viability of the competition which will need careful consideration 
+before the commercial documentation is finalised and issued.  
+14. Treatment of costs outside the budget (£ XXXX  for design and build, £ XXXX  
+for the delivery into service ), due to moves  away from the optimum  build strategy , 
+would  need to be considered against the wider benefits this may bring. For example , 
+investing in capability and capacity in the UK that opens a pathway for the  expansion 
+of our strate gic base . These  costs  are outside the control of the Programme, and 
+until they are better understood through the next phase of development,  they will 
+need to be either held as risk outside Programme or subsumed into a larger 
+Programme risk provision.  
+15. Market Engagement has shown that there is a vibrant international market to 
+deliver the requirement and that the refinements made to technical and commercial 
+requirements  in the last year are welcomed by Industry  and will improve programme 
+deliverability . However, market conditions have changed since the cancellation of the 
+previous procurement . This will make a new procurement a challenge to deliver  and   
+ 
+ as such, Industry’s willingness to invest will be contingent on the level of flexibility 
+afforded by the Authority in respect of key programme parameters such as build 
+strategy (location) and the level of UK social value to be delivered  as a direct benefit 
+of the programme .  
+16. In parallel to Market Engagement a UK analysis has been commissioned by 
+the Project Team to be conducted by independent experts to understand the 
+feasibility and capability of building in the UK. This has also included an analysis of 
+the level of investment required in infrastructure and skills to improve and sustain 
+productivity to inform the final Procurement Strategy. The combination of this 
+analysis and direct engagement with the market has shown that there is pressure on 
+UK capacity in respect of infra structure and skills. Thus, a credible competition will 
+be reliant on some level of overseas involvement .  
+ 
+17. In addition, significant Government to Government engagement on the 
+procurement process for and capability of existing and future auxiliaries has been 
+conducted with a number of partner Navies and Governments .  A specific costing 
+study into potential cost differences in building in the UK compared to overseas 
+labour rates and productivity has also been carried out by the Project Team. This will 
+inform more robust costing of internal indicative designs developed t o ascertain the 
+likely range of costs to deli ver the new requirement set.  
+ 
+ 
+ 
+Value for Money considerations  
+ 
+18. As set out in para. 4 above, SofS has now decided  that assembly and outfit of 
+sensitive systems should take place in the UK. This approach will clearly test the 
+cost and time parameters of the programme  and may dissuade international 
+companies from participating due to the additional costs associated with higher 
+levels of UK manufactur ing.  
+19. To meet the SofS intent  whilst maintaining a credible procurement, the project 
+commercial team’s advice to mitigate (but not retire) this risk, is to allow Bidders a 
+degree of flexibility in respect of build location, design work and skills transfer. In 
+parallel, a similar appro ach to the assessment of prosperity (social value) in 
+PREVIOUS PROGRAMME  may be undertaken to generate wider programme 
+benefits (especially skills development and infrastructure investment) and 
+opportunities for the development of the UK supply chain.  
+Financial  Case  
+ 
+20. The original DATE  Initial Gate Approved Budgetary Level (ABL) of £ XXXX 
+was sufficient  for the AP and the additional year  to DATE . To complete the AP will 
+require approval to spend a further £ XXXX  out to  a manufacture contract award in 
+DATE . Most of  this cost will be used to fund Competitive Design Phase  contracts , 
+which will provide significant benefits in maturing Bidders’ designs and delivery 
+proposals, including build  strategies , and reduce  commensurate manufacture  phase 
+risk.   
+   
+ 
+ 21. This is not additional cost and is containable within the existing budget 
+allocation. It will provide greater incentive for Bidders to remain in the competition, 
+allow Departmental analysis of all deliverables and de -risk subsequent detailed 
+design with the winning Bidder. It is affordable within budget, and the transfer to 
+DELIVERY PARTNER NAME  will be enacted . 
+ 
+22. Revised budget estimates have been updated based on latest schedule, 
+procurement approach and requirements. Due to  the elongation of the programme 
+and range of uncertainty in Unit Procurement Costs (UPC s) that have yet to be 
+formally taken to market, there is a challenge to affordab ility against the budget set 
+at Initial Gate and held by ORGANISATION  (Annex C). These estimates reflect a  UK 
+focused  build , with block build partly completed overseas  and integration in the UK 
+and international participation in design and supply chain, vice the Full International 
+Competition pr ocurement assumption at Initial Gate. They are also c osted at a most 
+likely capability point that reflects a requirement marginally greater than threshold 
+(cargo 50% to objective) to provide trade space to achieve best V alue for Mon ey. 
+ 
+23. The D&M phase costings  volume and profile will be matured , and uncertainty 
+reduced,  the competition  progresses  with transfer to the  P9 line , alongside FBC , with 
+a competition designed to drive affordability and  subsequent contract award.  This will 
+include determining the funding profile required to deliver best VfM and avoid 
+additional financing costs, the existing profile is indicative and requires significant 
+maturing with industry.  
+ 
+24. At initial gate in DATE , in-service support costs were estimated at £XXXX 
+across the planned capability life span. These estimates will be updated and 
+confirmed as part of the F BC once the capability solution is known. The Equipment 
+Support Programme ( ESP) line (based on IG estimates) was included in the ABC 
+DATE  submission as it had then entered the 10 -year planning horizon.  It is intended 
+that in-service support will be subsumed within the wider RFA support contract 
+(successor to FISS due in DATE ), so a separate support business case  is not 
+envisaged.  
+ 
+25. The project team recognise that the decision to purchase the product are 
+influenced by the defined three levels of costs that make up the Through Life Costs 
+(TLC). These are ;  
+  
+a. Life Cycle Costs (LCC) which con sist of all the direct costs associated with the 
+procurement, operations, support and disposal of the ‘product’. These costs 
+include the costs described in paras 11 -14 above and resource s;  
+b. Total Ownership Costs (TOC) which c onsist of all the elements that are part of 
+the LCC plus the indirect, fixed and linked costs.  The latter includes, common 
+support equipment, common facilities, personnel required, administration, 
+supervision, operations planning, munitions. TOC represent s all costs 
+associated with ownership of a ‘system’ ; and  
+c. Whole Life Costs (WLCs) which c onsists of the elements that are part of TOC 
+plus indirect, fixed, non -linked costs. These can include housing, medical 
+services, ceremonial units, basic training, HQ and staff, academies and 
+recruiters.  
+    
+ 
+ 26. The costs as described in the LCC and TOC will be captured in a Project 
+Through Life Cost (TLC) model .  
+ 
+Commercial  Case  
+ 
+27. A Procurement Strategy (Annex G) has been established which sets out that 
+requirement should be competed because  there is a well -established market in 
+existence of both UK and overseas designers  and integrators.  Competition  is both 
+viable and deliverable and can be conducted at pace by conducting the design 
+phase in parallel with elements of the manufacture phase contract negotiations  (as 
+with PREVIOUS PROGRAMME ). However, it should be noted that Bidders  are more 
+likely to offer bespoke designs into this procurement to meet the requirements as 
+opposed to modified M OTS Designs offered in PREVIOUS PROGRAMME . This will 
+result in a longer competition  timeline,  but this is appropriate given the bespoke 
+nature of the requirement. Nevertheless , it can still be delivered quicker and to better 
+value than a single source approach  which would also carry the r isk of challenge 
+from Bidders who participated in the previous procurement.  
+ 
+28. The previous procurement was conducted under the EU Defence and 
+Security Public Contract Regulations DATE . There is an enduring risk (captured in 
+the project risk register) that a departure from a  regulated  international competitive 
+procurement strategy carries legal and commercial risk. MOD Legal have provided 
+advice directly to the SofS on this subject.  
+ 
+29. As set out in para. 14 above t here is a further risk that the UK market alone 
+has insufficient capacity to deliver the programme within its current cost and time 
+parameters which in the commercial team’s view will necessitate the involvement of 
+international partners to some degree to mitigate this risk . Further, a llowing flexibility 
+for prime contractors to build some elements overseas will widen the pool of credible 
+prime contractors to  between three and five based on interest received at market 
+engagement . The Authority’s l everage to negotiate a robust commercial deal will  
+also substantially increase.  
+ 
+30. Endorsement is being sought to pursue a similar Procurement Strategy to that 
+of PREVIOUS PROGRAMME , with focus on a funded competitive design phase 
+where Bidders are contracted to produce design, project and ILS deliverables for 
+assessment. It is essential to fund Bidders’ efforts via simple design phase contract 
+in order to reduce the risk of legal ch allenge arising from the previous cancelled 
+procurement as well as maximise competition. This will partially run in parallel with 
+manufacture phase negotiatio ns but learning from PREVIOUS PROGRAMME , more 
+time will be afforded for Bidders to focus on design aspects upfront ahead of formal 
+negotiations beginning.   
+ 
+31. The departure from PREVIOUS PROGRAMME  will be in the evaluation 
+criteria (which must focus on different technical aspects and an increased focus on 
+social welfare  and sustainability ) as well as an earlier focus on design and through 
+life deliverables, leaving build strategy development and (LOCATIO N) selection to 
+latter phases of the competition. The evaluation approach will be to award the Most 
+Economically Advantageous Tender  in line with published  criteria to be developed 
+over the coming months.      
+ 
+  
+32. An effective competition will require international contractors to access and 
+partner with UK companies and so procurement rules preventing exclusivity 
+arrangements are being developed by the Project Team as a criteria of competition 
+entry in line with UK competition law.  Steps will also be taken to ensure that an onus 
+is placed on Bidders to demonstrate why the benefit of entering into joint ventures or 
+teaming arrangements outweighs the benefits the Authority may enjoy through a 
+broader competitive field.   
+ 
+ 
+Management  Case  
+ 
+33. At this stage it is not possible to confirm a revised set of  PASE  dates until the 
+market has been engaged  through a procurement process and against published 
+evaluation criteria which allow Bidders  to make cost, time and capability trades. 
+Given that FBC is less than X months away the re -baseline of the programme 
+schedule would be more sensible at that point benefiting from the optimum delivery 
+schedule that will be derived from the competition . On current estimates, i t is likely 
+that there will be a delay to the previous PASE dates ( Annex D) of X months . Based 
+on comparable build schedules and by incentivising Bidder s limiting the delay to X 
+months is a realistic target .  
+ 
+34. An outline schedule, covering the procurement  out to contract award , is 
+provided at Annex E. 
+ 
+35. The project resources to conduct the procurement  have been developed 
+utilising DELIVERY ORGANISATION  Transformation tools  and reflect the intensive 
+nature of the competitive process with industry to deliver to timescales . The 
+Organisation Design is derived from work scope developed in the Work Breakdown 
+Structure (WBS) to determine the staffing plan to deliver the full scope of work 
+through to the forecast Contract Award in DATE . The Pro ject Team will grow in size 
+to a total of X FTE from DATE . This will include DELIVERY ORGANISATION  staff 
+and specially selected  staff to fill niche skills gaps . Where necessary PROGRAMME 
+NAME  will be complimented with bespoke tasking activity. Further, efficiencies in 
+staff assignments and output will be attained through the development of a matrix 
+management system . The Programme Team is fully resourced with  no current 
+gapping.  
+ 
+36. It is recognised that the project will need to manage the additional constraints 
+present in a COVID environment set to continue into FY  DATE , requiring sufficient 
+infrastructure, resources, skills and digital working to manage intensive dialogue with 
+multiple bidders that is best conducted, at least in part, face to face. As a result,  the 
+project requires sufficient funding for specialist accommodation , large enough to 
+enable safely mix ing Authority and Industry participa nts. Learning from PREVIOUS 
+PROGRAMME  showed the criticality of being  flexibly supported by a Strategic Client 
+Friend , with commercial shipping expertise,  able to respond effectively to risks and 
+issues developed by industry  and surge support to workload peaks . 
+ 
+37. It is important to recognise the difficulties an annual cycle of funding places on 
+progressing the Programme particularly as it impact s future key dates and delivery    
+ 
+ milestones. Without PROGRAMME NAME  the ORGANISATION  is unable to 
+implement its FOC to deliver  the OTHER PROGRAMME NAME  policy . Without  that 
+long-term certainty of programme in p lace, it increases the likelihood of needing to 
+extend the life of t he only current available  DELIVERABLE which is due ot go out of 
+service in DATE.  Additionally, work to  establish  the X-year DELIVERABLE  strategy 
+relies on PROGRAMME NAME  being delivered to generate  UK strategic  capability 
+and capacity  in order to establish a pipeline . 
+ 
+38. The principal  risks, relevant to this  phase  of the procurement , are identified at 
+Annex F.  The programme and project risk register s for the subsequent delivery 
+phase will continue to be matured to support the FBC.  
+ 
+39. On current planning, t he intent is that a FBC will be provided to the IAC in 
+DATE  to enable the subsequent contract award.  
+ 
+ 
+ 
+NAME  
+Senior Responisble Owner  PROGRAMME NAME  
+     
+Annexes:  
+A. Candidate Key User Requirements ( KURs ). 
+B. Assessment Phase Affordability Table . 
+C. PROGRAMME NAME  Phase estimate s affordability vs budget.  
+D. AOC /PASE  dates estimates  
+E. Assessment Phase  Schedule .  
+F. Risks . 
+G.  Summary of  Procurement Strategy (p50 dates)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ Annex A 
+XXX OBC  
+DATE  
+ 
+Annex A – Candidate Key User Requirements  (as at DATE ) 
+ 
+REDACTED    
+ 
+ Annex B to 
+XX OBC  
+DATE  
+ 
+ 
+Annex  B – Assessment Phase ( CDP ) Costs/ Budget  
+ 
+ 
+Assessment Phase to 
+Contract Award  21/22  
+(£X) 22/23  
+(£X) Total  
+(£X) 
+CDP Bidder Payment  XXXX XXXX XXXX 
+ORGANISATION  XXXX  XXXX  XXXX  
+Total EPP RDEL  XXXX  XXXX  XXXX  
+Total EPP CDEL  XXXX  XXXX  XXXX  
+Project Team  OPEX  XXXX  XXXX  XXXX  
+Project Team  PSS XXXX  XXXX  XXXX  
+Total TLB RDEL  XXXX  XXXX  XXXX  
+Total TLB CDEL  XXXX  XXXX  XXXX  
+TOTAL  XXXX  XXXX  XXXX  
+    
+ 
+ 
+ 
+ 
+   
+ 
+ Annex C to 
+XX OBC  
+DATE  
+Annex  C – Programme Cost Estimates vs IG Budget Allocation  
+ 
+ 
+1. Latest D&M EPP estimates  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note . p90 reflects pre -Market Engagement estimate based on competitive outcome still being achievable. Should this not be 
+achievable the Market Engagement report has indicated a potential c.£ XXXX  increase in programme costs  should the programme 
+revert to single source procurement . The EPP estimate does not include Project Team OPEX/PSS required to support programme 
+delivery.    Estimated Cost (£ X) 
+10% 50% 90% 
+D&M Cost from PROGRAMME 
+NAME  TLC MODEL  XXXX  XXXX  XXXX    
+ 
+ 2. Total Assessment Phase (CDP) versus ABC20 Budget  
+ 
+ 
+  Year 1  Year 2  Year 3  Year 4  Year 5  Year 6  Year 7  Year 8  Year 9  Year 10  
+Total  
+ RDEL/  
+CDEL  21/22  22/23  23/24  24/25  25/26  26/27  27/28  28/29  29/30  30/31  
+Forecast at 
+50% 
+Confidence 
+(P50) £ X RDEL  £ XXXX £ XXXX £ - £ - £ - £ - £ - £ - £ - £ - £ XXXX 
+CDEL  £ - £ - £ - £ - £ - £ - £ - £ - £ - £ - £ - 
+Total  £ XXXX £ XXXX £ - £ - £ - £ - £ - £ - £ - £ - £ XXXX 
+Provision  
+(ABC20 
+Outcome)  RDEL  £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ - £ - £ XXXX 
+CDEL  £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ - £ - £ XXXX 
+Total  £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ XXXX £ - £ - £ XXXX 
+Variance  RDEL  £ XXXX £ XXXX -£ XXXX -£XXXX -£ XXXX -£ XXXX -£ XXXX -£XXXX £ - £ - -£ XXXX 
+CDEL  -£ XXXX -£XXXX -£ XXXX -£ XXXX -£ XXXX -£ XXXX -£ XXXX -£ XXXX £- £ - -£ XXXX 
+Total  -£XXXX -£ XXXX -£XXXX -£ XXXX -£ XXXX -£ XXXX -£ XXXX -£ XXXX £- £ - -£ XXXX 
+ 
+Notes.  The CDP phase is full affordable in the  existing  ABC DATE  provision. This does not include the profile of the indicative D&M 
+phase funding. As described in Para 21, the current D& M estimate is driven by high uncertainty on Unit Procurement Costs (UPC) , 
+to be narrowed down during the CDP. The D&M Phase EPP and ESP estimates continue to be refined and updated following 
+limited feedback from market engagement. This has been fed into the Cost Management Working Group (CMWG)  workstream  
+which are managing the Acq uisition  portfolio affordability and will feed into the ABC DATE  submission.  The D&M Phase  costs will 
+be further matured through the competitive procurement and will likely need to be profiled out to Year  XXX (DATE ) to cover the full  
+approval as part of FBC . 
+ 
+ 
+    
+ 
+ 3. D&M EPP estimates shown as a chart (£ XXXX ) 
+ 
+Notes.  Costs are shown at Most Likely  Values (Input) and Uncertainty, Escalation and Risk are shown separately.  Escalation relate s 
+to the provision for inflation in the cost model. The risks have been split out  to illustrate indicative provision for UK risk as a 
+separate estimate to  non-build specific delivery risk . 
+ Annex D to 
+XXX OBC  
+dated DATE  
+ 
+Annex  D – Programme Delivery Milestone Estimates  
+ 
+Milestone  P10 P50 P90 
+Class   
+ Start Production (Cut Steel)  DATE  DATE  DATE  
+DELIVERABLE  1   
+ Acceptance Date (AD)  DATE  DATE  DATE  
+ Equipment Delivery Date (EDD)  DATE  DATE  DATE  
+ In-Service Date (ISD)  DATE  DATE  DATE  
+DELIVERABLE  2  
+ Acceptance Date (AD)  DATE  DATE  DATE  
+ Equipment Delivery Date (EDD)  DATE  DATE  DATE  
+ In-Service Date (ISD)  DATE  DATE  DATE  
+DELIVERABLE  3  
+ Acceptance Date (AD)  DATE  DATE  DATE  
+ Equipment Delivery Date (EDD)  DATE  DATE  DATE  
+ In-Service Date (ISD)  DATE  DATE  DATE    
+ Annex E to 
+XXX OBC  
+dated DATE  
+Annex  E – Assessment  Phase Schedule  (p50)  
+ 
+ 
+REDACTED  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ Annex F to 
+XXXX  OBC  
+dated DATE  
+Annex F – AP Top 5 Programme / Project Risks  
+ 
+Risk 
+No Title/Description  Mitigations  % Cost  
+(£X) Time  
+(Days)  Perf 
+1 Schedule  
+As a result of constant external influences, there is a risk that 
+the programme will be delayed. This will result in a drop / 
+delay in strategic capability (RFA)  
+ 1) Stakeholder engagement with MOD Main, XXXX team 
+and XXX to ensure robustness of advice to MinDP and 
+SofS.  
+2) Communications with industry via appropriate 
+commercial vehicles for market engagement and 
+competition. Incorporate feedback from XXXX . 
+3) Programme mandate to include wider government 
+benefits such as environmental sustainability and social 
+value (prosperity).  
+ XX XXX XXX X 
+ 
+As a result of REDACTED  there is a risk that collaborative 
+working environment required for the procurement, including 
+delivering a competitive process due to H&S demands and 
+uncertainty, cannot be achieved.  
+ 1) Specialist accommodation to conduct CDP 
+engagement with industry (monetary provision made in 
+OBC).  
+2) Exploit digital and virtual working and lessons from 
+Market Engagement.  XX X XX XX 
+2 Affordability  
+As a result of the fragility of the financial position/external 
+influencers, there is a risk that assessment phase funding is 
+delayed/modified/changed to balance the portfolio thus 
+impacting on delivery of the capability.  
+ 1) Engagement with Resources and Plans (RP).  
+2) Monitor savings measures and report to 
+PROGRAMME NAME . XX XX XX XXX   
+ 3) Negotiate with Resources and Plans  
+There is a risk that the requirement cannot be shown to be 
+affordable as a result of threshold requirements may not 
+being affordable in the context of a UK  build strategy , in 
+particular if it leads to a single source contract . 
+(included as a consequence of the learning from Market 
+Engagement ) 1) Sufficient increase in the programme budget and 
+delivery timescales.  
+2) Ability to change build strategy on -contract to overseas 
+in the event that UK build jeopardises delivery  
+3) Design contracts awarded to industry must be 
+sufficiently high in value to encourage participation.  XX XX XX XX 
+3 Performance  
+As a result of Incorrect and/or changed baseline capability 
+assumptions there is a risk that there is a delay in maturing 
+and costing solutions which will affect the conduct and 
+completion of the competition.  
+ 1) Early and detailed OA to support the requirement 
+coherence with Defence Policy.  
+2) Pro -active engagement requirement setting and 
+monitoring with DLODs.  
+3) Proactive engagement with XXXX  and XXX through 
+membership of the Prog Bd.  XX XX XX XX 
+4 Credibility of the Market  
+The potential for  a lack of market appetite resulting 
+from high  UK content requirements means t here is a 
+risk that a viable competition cannot be generated and 
+sustained.  1) Reopen Market Engagement as soon as possible.  
+2) Include provision to pay Industry for CDP deliverables 
+as part of OBC costings  
+3) Develop procurement strategy to remove barriers to 
+entry.  
+ XX XX XX XX 
+5 Legal Risk  
+As a result of grievances from Industry around procurement 
+regulations there is a risk that a bidder mounts a legal 
+challenge.  1) Comprehensive review and refresh of all technical 
+requirements following previous competition.  
+2) Hold Market Engagement with Industry.  XX XX XX XX 
+ 
+    
+ Annex G to  
+XXX OBC  
+dated DATE  
+Annex G – Summary of PROGRAMME NAME  Procurement Strategy  (p50 dates)  
+ 
+ 
+REDACTED

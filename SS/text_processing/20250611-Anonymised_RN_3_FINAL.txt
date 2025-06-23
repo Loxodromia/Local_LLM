@@ -1,0 +1,473 @@
+DATE  
+File reference: DATE -PROGRAMME -RN5_v4.0 -IAC-BC-OS  
+References:  
+   
+A.   PROGRAMME , Category X, Information Note, dated DATE   
+B.   PROGRAMME  Review Note 4 ( CAT X ) (IAC 5805) dated DATE   
+C.  PROGRAMME  Programme  Mandate Version 2.0 – DATE   
+D. DATE -PROGRAMME _RN5_Scope -Investment Appraisal -OS.  
+  
+ PROGRAMME  PROGRAMME REVIEW NOTE 5 (CAT X) Executive Summary  
+The  PROGRAMME  programme is exploiting REDACTED. The disruptive technology will 
+increase performance and reduce risk to personnel. PROGRAMME  is currently delivering   
+systems, whilst also completing the Assessment Phase. Delays to the   programme means 
+that a robust   Full Business Case (FBC) will not be presented until DATE . This Review Note 
+seeks approval to extend the AP, start critical pat h activity and streamline delivery by 
+rationalisation of  PROGRAMME  approvals. It intensifies the agile, spiral development 
+approach to delivery without locking down the   solution, protecting choice for the future in a 
+rapidly developing capability area.  
+Issue  
+Review Note 5 (RN5) is seeking approval to extend the  PROGRAMME  AP into FY  DATE & 
+FY DATE , commence early   critical path activity prior to FBC and consolidate extant   
+PROGRAMME  approvals into a single Approved Budgetary Limit (ABL).  
+Timing  
+1. Routine . The curren t PROGRAMME  Assessment Phase time approval was for years 6 -
+10 which ends in DATE . Continuity of funding is required from this point into DATES  in order 
+to complete the AP scope and inform the planned    
+FBC, which will seek approval by DATE , as indicated in the PREVIOUS  PROGRAMME  
+Information Note (Ref A).  
+Recommendations  
+2. The Investment Approvals Committee (IAC) is invited to approve :  
+a. Uplift PROGRAMME  approval by £ XXXX  (£XXXX  CDEL, £ XXXX  RDEL, £ XXXX  
+RMC, £ XXXX    PSS and £ XXXX  LOCATION  PSS) (all inclusive of non -
+recoverable VAT)), for the commencement of critical path activity, as Tranche 1, 
+in years DATES , to protect the capability plan.   
+  
+b. Extension of the  PROGRAMME  AP (due to delays with the programme), 
+reprofiled in to DATES , so that the AP scope can be concluded and   learning 
+from experience (LFE) can better inform the   FBC investment 
+recommendations.  
+    
+   
+ c. Consolidation of the requested uplift and extant PROGRAMM E into a single 
+PROGRAMME  ABL, marking the transition to a single standardised solution .  
+ 
+2. This will give a total revised  ABL (outturn, inclusive of all non -recoverable VAT) of 
+£XXXX .   
+  
+3. The IAC is invited to note:   
+  
+a.   will remain within current AP cost ABL, as reprofiled in PCR  YEAR to align with 
+delay s, and continue to deliver existing AP scope including solution definition, 
+autonomy development and other trials and de -risking activity.  
+  
+b.   - Tranche 1 (this initial critical path scope) will utilise the requested ABL uplift to 
+begin Mission System integration at a ‘System of Systems’ level, establish 
+enduring training facilities, provide critical infrastructure to host  PROGRAMME  
+systems and maintain other critical -path acquisition activity.  
+  
+c.   - Tranche 1 will also include solution development, including competition as 
+appropriate, to obtain contract quality costs to inform FBC and meet the DATE  
+delivery requirement.  
+  
+d. The PROGRAMME  candidate Key User Requirements (cKURs) are presented 
+at Annex A.   
+  
+e. The PROGRAMME  strategic programme is summarised at Annex B.  
+  
+f. The transformational change that this programme is pursuing in the face of 
+rapidly evolving technology and threats demands an agile, spiral development 
+approach rather than a traditional waterfall approach.  
+  
+g. The combined PROGRAMME  sunk costs (out -turn) at AP12 DATE  are £ XXXX  
+(£XXXX  AP and £ XXXX   )1. A PROGRAMME  approvals summary is at Annex C.  
+h. An estimated  DELIVERY ORGANISATION  OPEX cost of £1 XXXX  and 
+ORGANISATION  OPEX Cost of £ XXXX  to DATES  for all   scope. The OPEX 
+provision will come out of the associated IR  DATE /ABC DATE  settlement  
+i. The total equipment acquisition ROM cost estimate for the PROGRAMME    
+programme is c£ XXXX  with a whole life cost over X years of c £XXXX .   is 
+excluded as it is currently unfunded.  
+  
+Strategic Case  
+4. Strategic Context.  REDACTED    
+  
+ 
+1 The current In -Year position will be made available within the progressive supporting evidence pack.    
+   
+ 5. Requirement . Critical capability is currently provided by REDACTED.    
+PROGRAMME  cKURs were presented at Initial Gate Business Case (IGBC) and remain 
+stable. They have been subject to refinement through regular cKUR and User Requirement 
+Document (URD) reviews, underpinned by Operational Analysis (OA), AP studies, peer 
+review and colla boration with COUNTRY . Joint Requirements Oversight Committee (JROC) 
+have been consulted and full committee presentation will be made prior to FBC submission.  
+ORGANISATION  have  produced a supporting paper, which details the OA conducted to 
+date and an overview of the OA intended to be undertaken to support FBC.  
+6. Strategy . The overarching  PROGRAMME  strategy remains unchanged since 
+previous approvals (Ref B) and a refreshed Programme Mandate (Ref C) has been 
+endorsed by the NEC in DATE . PROGRAMME  will maintain a continued focus on the 
+deployment and integration of REDACTED .  
+7. The capability will be delivered using REDACTED.   The   Context Picture is at Annex 
+D.   
+8. Delivery Approach.  The PROGRAMME  programme will be delivered through a 
+phased approach which will include three distinct procurement blocks, each building on 
+previous deliverables:   
+a. Delivering REDACTED  to provide an Initial Operating Capability (IOC);   
+b. Subject to FBC approval, deliver ing the enduring solution by REDACTED ; and   
+c. Provid ing a Full Operating Capability (FOC) but is currently unfunded and will be 
+considered at IR  DATE .  
+9.   PROGRAMME  is being managed as a programme, delivering capability 
+incrementally through tranches of projects and the constituent projects within the 
+programme are at different stages of the CADMID cycle. The PROGRAMME  has many 
+VUCA (Volatile, Uncertain, Complex and Ambiguous) characteristics.  It needs to deliver 
+and sustain a viable capability as REDACTED .  Adopting Infrastructure and Projects 
+Authority (IPA) best practice for a programme such as this, agile thinking and spiral 
+development can better faci litate change from rapidly evolving threats and advancing 
+technologies, leading to a more flexible and responsive development approach. LFE from 
+the Assessment Phase and   is informing what the Minimum Viable Products will need to 
+be.  
+Economic Case  
+10. The Economic Case presented in the  PROGRAMME  IGBC and   OBC remains 
+extant.   PROGRAMME  capability will provide REDACTED .  
+11. Ref A explained that DATE  was unlikely to be the optimal timing for FBC and that it 
+was the intention to present a RN in DATE  for approval by  DATE . Although delays were 
+partly mitigated, the first  DELIVERABLE  is not expected to be delivered until DATE , with 
+final deliveries in Q4 DATE . LFE from   is already being captured and used to optimise the   
+proposition.  
+12. It is necessary to extend the timing of the AP, by X years, to ensure a robust   FBC, 
+informed by   LFE. The AP schedule has been adjusted accordingly.    
+   
+ 13. In parallel, it is necessary to initiate Tranche 1 now for planned critical -path activity, to 
+protect the IR  DATE  capability plan and mitigate schedule risk. Further detail is contained 
+within the RN5 Investment Appraisal (Ref D). The Tranche 1 deliverables are adaptable and 
+flexible and do not tie the programme into a specific solution. They include:  
+REDACTED  
+ 
+Commercial Case  
+14. For the RN5 scope, there are three distinct categories of commercial activity:   
+a. Continuation of current Assessment Phase activities including research, trials 
+and testing, procurement of a range of other enabling services and activities;  
+  
+b. Continuation of Operational Evaluation and any necessary enhancements & 
+improvements to the existing capability based on LFE; and  
+  
+c. New   - Tranche 1 will be a mixture of procurement and preparatory 
+commercial work undertaken by DELIVERY ORGANISATION , 
+ORGANISATION  1 and ORGANISATION 2 .   
+  
+15. For all requirements where no extant contracts exist, competition will be the default 
+route to contract.  However, given that much of the RN5 scope is a continuation of 
+existing capability delivery, the route to contract is highly likely to be determined b y the 
+contractual arrangements entered following previous approvals. A number of contracts 
+remain extant and have Contractual Options (both funded and unfunded) to facilitate 
+extension in terms of both time (for Service provision) and volume (for equipment  
+provision).  All contractual arrangements will continue to fully comply (unless 
+appropriate exemptions are granted) with the requirements for transparency, 
+advertising and associated regulations (principally DSPCR).  
+16. Where extending an existing contract, but no valid Contractual Options exist, Legal 
+Advice will be sought to determine whether the existing contract can be extended by 
+formal contract amendment (supported by a Voluntary Transparency Notice if 
+necessary) or  whether new contract action should be pursued.  
+17. Similarly, whilst Firm Pricing will be the expected norm, the full range of compliant 
+pricing mechanisms will be used and deployed as appropriate, reflecting both the 
+maturity of the required capability and the prevailing market dynamics.  The 
+Department’s  current policy on adopting VoP for contracts over 2 years duration – or 
+shorter where significant pricing fluctuations and instability precludes the agreement of 
+acceptable Firm Prices – will be adhered to.   
+18. Part of the  -Tranche 1 funding will enable maturation and refinement of candidate 
+solutions, with a market engagement leading to contract quality costs to support the 
+FBC submission.    
+   
+ 19. Notwithstanding the fact that many aspects of work detailed above are still being 
+formulated, the Commercial Strategy details the proposed routes to contract for the 
+aspects of work within the stated ‘categories of commercial activity’.   
+20. Procurement and commercial strategies have been produced for the RN5 scop e, 
+however, the full   strategy will be addressed by the FBC, where it will also detail the 
+application of Category Management and the wider interface and coherence with the 
+REDACTED  Centre of Expertise – although both activities have already commenced 
+and will develop during the timeframe covered by this RN.   
+Financial Case  
+21. The requested ABL of £ XXXX  uplift is predominantly made up of   -Tranche 1 
+(£XXXX ) however, it also includes a small amount of PSS for REDACTED  (£XXXX ).  
+22. The   – Tranche 1 uplift costs are based upon the  PROGRAMME  Should Cost Model’ 
+which has undergone appropriate Validation & Verification. The estimated costs, including 
+risk and uncertainty, are in Table 1 and a breakdown of the P50 for each of the 
+subelements, is shown in Annex E:  
+   Estimated Cost (£M)   
+10%  50%  90%  
+  - Tranche 1   £XXXX  £XXXX  £XXXX  
+Table 1 –   – Tranche 1   
+23. Inflation has been applied to the   cost model utilising the standard Defence 
+Economics indices. Version 4.7 of the model was used to generate PROGRAMME ’s PCR2 -
+DATE  inputs, which informed ABC  DATE . As this was from data frozen in DATE , the model 
+has been refreshed, to reflect DATE inflation rates and risk profile, as v4.8.1. This has 
+resulted in some variances between the P50 estimated costs and the provision profile in 
+years 1 and 2.   
+24. Affordability of   – Tranche 1 against the PCR2 -DATE  and is shown in Table 2. Noting 
+that the provision includes all scope. Therefore, in FY  DATE  onwards there is an excess, 
+which reflects the forecast cost for the remaining   elements not covered by RN5, which will 
+be subject to FBC:   
+    PROGRAMME    - Review Note 5 - Affordability (£M)    
+FY   YEAR  YEAR  YEAR  YEAR  YEAR  YEAR  Total  
+Forecast  
+Cost at  
+50%  CDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RMC  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+ 
+Confidence 
+(P50 value)  Total  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Provision  
+(PCR2 -
+DATE )  CDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RMC  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Total  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Variance  CDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX     
+   
+ (-ve 
+represents 
+excess in 
+provision)  RMC  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+  
+Table 2 –   PROGRAMME    – Tranche 1 - Affordability Table  
+  
+25. The AP reprofile and requested uplift is affordable within the provision in terms of 
+volume across the ten -year period. However, there remains a low level of profiling 
+issues in Year 1 and 2 in CDEL, RDEL and minor RMC. The SRO has worked with the 
+Finance  
+Business Partner (FBP) to identify an affordability strategy for FY DATES . The RDEL can 
+be treated via the wider PROGRAMME  programme  where profiling has decreased in these 
+years due to changes in the payment milestones proposed by EXTERNAL 
+ORGANISATION . The CDEL can be reprioritised as a result of the latest affordability 
+assessment set out in the SOC, which shows available CDEL headroom in FY DATES . The 
+actual RMC consumption is difficult to forecast, but will be carefully managed within control 
+total.  
+26. LOCATION  PSS.   The scope and supporting cases for REDACTED  remain extant and 
+this RN confirms that the PSS is within PCR2 -DATE  and detailed at Annex E.  
+27. VAT. Treatment has been confirmed and will be applied at 20% for all the   Equipment . 
+28. International Financial Reporting Standard.  IFRS16 has been considered as part of 
+the initial procurement that this RN seeks to approve. Given the nature of the planned 
+procurement, which seeks to purchase equipment and deliver to MOD sites, it is 
+unlikely that IFRS16 will apply to any individual c ontact award implications arising for 
+the RN5 scope.   
+29. ABL Consolidation.  Combining the PROGRAMME  ABLs will mark the transition to a 
+single standardised solution for   and provide a clearer overview of cost of providing   
+PROGRAMME  capability. The combined  PROGRAMME  ABL, including extant 
+approvals and uplift is shown in Table 3, with a more detailed summary at Annex C:   
+ Assessment Phase     
+Current Approved ABL  £XXXX   XXXX   
+Total uplift requested by this RN  XXXX   
+TOTAL ABL  £XXXX   
+Sunk Costs to FY YEAR  £XXXX  £XXXX  
+TOTAL SUNK COSTS  £XXXX  
+  
+Table 3 –   PROGRAMME  ABL Consolidation  
+  
+30. Accounting Policy Change.    PROGRAMME  forecasts have remained within Total 
+DEL (TDEL), however an accounting policy change in FY  DATE  resulted in COMPANY  
+Research & Development costs being scored to CDEL (from RDEL). This has resulted in an 
+increase in the CDEL forecast of £ XXXX , offset by a decrease in RDEL of £ XXXX . The delta 
+of £XXXX  is the current approval headroom against Programme forecasts as at AP0 FY  
+DATE .    
+   
+ 31. Strategic Reserve.  £XXXX  approved under the   PROGRAMME  OBC was approved 
+as CDEL. An initial drawdown of £ XXXX  CDEL was utilised to cover the VAT element of 
+the procurement, following a change in HMT implementation of VAT rules . The other 
+emerging pressures from the Programme were predominately relating to support and 
+required RDEL and inflation. Therefore, the balance of strategic reserve after CDEL 
+drawdown was all converted from CDEL to RDEL funding as approved by the Senior 
+Responsible Owner (SRO).  
+Management Case  
+32. Governance.  ORGANISATION  (NC) Top Level Budget (TLB) holder retains authority, 
+but delegates responsibility to enable the   PROGRAMME  SRO NAME  to deliver this 
+Programme in accordance with the ORGANISATION  Portfolio guidance, their SRO 
+Appointment letter and the Defence Policy & Approvals Secretariat (DP&AS) Direction and 
+Guidance for SROs13. Within  DELIVERY ORGANISATION , the programme is within the 
+Director Ships Acquisition, Innovation and Future Capability Portfolio. Joint  
+ORGANISATION / DELIVERY ORGANISATION  Pan-DLOD PROGRAMME  Programme and 
+Delivery Boards have been established, along with other lower -level Working Groups.  
+33.   PROGRAMME  Progress. Progress is summarised below, with additional context for 
+the delays.   
+a. Assessment Phase . The previous phase  demonstrated the significant 
+potential offered by REDACTED . The current phase  is continuing to de -risk 
+REDACTED  and completing a cost -effectiveness solution analysis. REDACTED.  
+ 
+b.   (Initial Operating Capability (IOC)) .   is currently delivering REDACTED.  
+Although expected to deliver within its Outline Business Case approval, delays to 
+the UK/ COUNTRY  programme mean that   MS are now expected to commence 
+delivery DATE  and complete by Q4 DATE  and hence why the AP now needs to be 
+extended.  
+ 
+c.  Delays.  The initial delay was primarily due to COMPANY ’s underestimation of 
+the time required to resolve engineering challenges in transitioning the technology 
+operationally to meet military requirements and addressing known shortfalls from the 
+demonstrator contract. There have also been additional delays due t o REDACTED.  
+There is no intention to rebaseline the contract again and liquidated damages are 
+expected to be recovered by EXTERNAL ORGANISATION .  
+34. Gateway Review.  In DATE , the Infrastructure & Projects Authority assessed delivery 
+confidence as AMBER. They noted that there has been significant progress in moving 
+towards an autonomous  PROGRAMME  and numerous recommendations were included in 
+the report.   
+35. Risk . These are managed within  DELIVERY ORGANISATION  SOFTWARE and 
+subject to regular joint reviews. The principal  PROGRAMME  delivery & programme risks 
+are at Annex F, with the RN5 scope providing much of the mitigation. The key risks are:  
+a. Delivery - Development. There is a risk that (TIART) REDACTED.      
+   
+ b. Delivery - Acquisition . TIART due to the criticality of the system architecture 
+and complexity the R EDACTED  may encounter manufacture, supplier or integration 
+issues, leading to additional resource needed.  
+c. Programme -   FBC. TIART due to difficult balance of investment decisions or 
+insufficient SQEP, the FBC may be approved later than the target DATE , leading to 
+delays to capability and misalignment of the funding profile.   
+36. Management of Integration.  The   programme has prioritised early milestones 
+relating to development of the core and is drawing on specialist support from REDACTED.   
+Separate contracting of a product agnostic ‘Integrating Authority’ as part of   mission system 
+delivery remains an option, as does reversion to the use of one or more prime contractors.  
+The FBC will explore these options, informed by our experience of early integration work, 
+will make recommendations on the proposed solution.  
+  
+37. Schedule. The schedule summary for the RN5 scope is at Annex G. Key milestones 
+include:   
+Milestone  P10  P50  P90  
+Design Costs and Design   DATE  DATE  DATE  
+REDACTED Delivered  DATE  DATE  DATE  
+Table 4 – Milestones  
+  
+38. Resources.  DELIVERY ORGANISATION  and ORGANISATION  have appropriate 
+Suitably Qualified & Experienced personal and resources to deliver this scope of work, subject 
+to the Demand Signal continuing to be met. The current Demand Signal for the DELIVERY 
+ORGANISATION    PROGRAMME  Delivery Team is for X full time equivalent (FTE) 
+employees. Through the   FCR and Options Work Force Planning for ABC DATE , this demand 
+signal raises to X from FY  DATE . The ORGANISATION  Programme Team has recently been 
+expanded to include X x FTE Infrastructure posts to mitigate DLOD ri sks.    
+  
+39. Dependencies . Dependencies are captured within the Third Order Assumptions 
+(3OA’s)/ REDACTED  Data Assumptions List and subject to regular pan -DLOD review at the 
+Programme Board. In summary, the following responsibilities are captured in Table 5:  
+Organisation  Delivery Responsibility  
+ORGANISATION   Procurement of PROGRAMME  Infrastructure at REDACTED .   
+ORGANISATION  will be responsible for Training infrastructure 
+requirements.  
+ DELIVERY ORGANISATION   Procurement of REDACTED  
+ DELIVERY ORGANISATION   Procurement of REDACTED and Training Solution  
+ORGANISATION  Provision of SQEP for REDACTED  
+ DELIVERY ORGANISATION   
+  Provision of REDACTED  
+ DELIVERY ORGANISATION   Procurement of REDACTED .  
+Table 5 – External Enabling Stakeholders  
+  
+Presentation and Handling  
+40. ORGANISATION  and DELIVERY ORGANISATION  have agreed an external 
+communications strategy for the  PROGRAMME  Programme and jointly maintain a media   
+   
+ pack, including lines to take. The Directorate of Defence Communications are regularly 
+updated on the programme. The ORGANISATION  Office have been consulted and the   
+PROGRAMME  programme aligns with current strategy.   
+  
+Signature Block  
+NAME  
+ROLE  
+PROGRAMME  Senior Responsible Owner  
+DATE  
+  
+List of Annexes  
+A. Candidate Key User Requirements (cKURs)   
+B. Strategic Programme Summary  
+C.   PROGRAMME  Approvals Summary  
+D. Context Picture  
+E. Finance Summary  
+F. Risk Summary  
+G. Schedule Summary    
+ –  
+ 
+ Annex A  Candidate Key User Requirements (Note: These are for information only and are not presented for endorsement in this Review Note.)    
+  
+KUR No and Title  Description  Threshold MOE  Objective MOE  
+ The PROGRAMME  is required t o…   As Threshold  
+ The PROGRAMME is required to…    
+ The User requires that…    As Threshold  
+  The User shall be able to …   As Threshold  
+ The User shall be able to…  .  As Threshold  
+ The User shall be able to…    As Threshold  
+ The User shall be able to…    
+  
+Annex B   PROGRAMME  Programme Summary  
+REDACTED  
+ 
+ 
+  
+      
+ –  
+ 
+ Annex C   PROGRAMME  Approvals Summary    Phase  Approval  Type  Sub Date  Note   Out letter Reference  
+ Concept Phase  
+XXXX Approval Note  
+DATE   Stage 1 (design)  
+  
+   XXXX IGBC  DATE  
+Initial Assessment Phase    
+REDACTED  XXXX Review Note 1  DATE  
+Stages 2 -4    
+   
+  
+  XXXX Review Note 2  DATE  
+Year 1    
+XXXX Review Note 3  DATE  
+Year 2     
+XXXX Review Note 4  DATE  
+Uplift (Years 3 -5)    
+ 
+Sub Total £M  XXXX         
+  
+Phase  Approval  Approval  Sub 
+Date  Note   Out letter Reference   
+    
+  
+ XXXX   OBC  DATE  Procurement  for REDACTED   
+XXXX    DATE  Additional cost of REDACTED     
+XXXX IN  DATE  Status update on the PROGRAMME   
+Sub Total £M   XXXX    Out letter Reference   
+  
+Phase  Approval/ Uplift 
+Sought  Approval  Sub 
+Date  Note     
+  /   
+  XXXX Review  Note 5  
+DATE This RN  n/a  
+   REDACTED  XXXX Review Note 5  
+DATE This RN  n/a  
+Sub Total £M  XXXX     
+  
+TOTAL ABL  £XXXX   XXXX    
+    
+ –  
+ 
+ Annex D    Context Picture  
+REDACTED    
+ 
+ Annex E – Finance Summary  
+ a.    – Tranche 1 Uplift  
+ 
+REDACTED  
+ 
+  PROGRAMME    - Review Note 5 - Affordability (£M)        
+FY  YEAR  YEAR  YEAR  YEAR  YEAR  YEAR  Total  
+Forecast Cost at 50% 
+Confidence (P50 value)  CDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX      
+RMC  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Total  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Provision  
+(PCR2 -23 & ABC23 CT  
+Outcome)  CDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RMC  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Total  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Variance  
+(-ve represents excess in 
+provision)  CDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RDEL  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+RMC  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+Total  XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX   
+ 
+REDACTED       
+ 
+   
+  
+Annex F – Risk Summary  
+REDACTED  
+ 
+Annex G – RN5 Scope Schedule Summary  
+REDACTED

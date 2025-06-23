@@ -17,7 +17,7 @@ from pathlib import Path
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import PromptTemplate
 from RAG import load_or_create_vector_store, rag_pipeline
-from structure_output import parse_llm_output_to_df, read_xlsm_file
+from structure_output import parse_llm_output_to_df, read_xlsx_file, process_ksb_df
 import pandas as pd
 import datetime
 import logging
@@ -36,12 +36,11 @@ regenerate_vector_store = False  # Set to True to regenerate the vector database
 
 # Note: additional prompt and RAG parameters in RAG.py
 
-query = '''Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?'''
+# query = '''Is the military capability need and/or business capability need (inc. Transformation) suitably evidenced and prioritised within departmental planning?'''
 
 # Read queries from excel
-questions_file = r"INPUT/PEAT_reduced.xlsm"
-sheet = r"2.1 LOEs, Artefacts & Assurance"
-startrow = 7  # Excel row number to start reading (1-indexed, so 11 means row 10 in 0-indexed Python)
+questions_file = r"ADF-L6-KSBs.xlsx"
+sheet = r"Sheet1"  # Name of the sheet in the Excel file containing the questions
 
 
 # ---------------------------------------------- #
@@ -126,11 +125,16 @@ logging.basicConfig(
 # Retrieve prompts from the specified Excel file and sheet
 start_time = datetime.datetime.now()
 
-prompts_df = read_xlsm_file(questions_file, sheet)
-prompts_list = prompts_df["Prompt"]
+prompts_df = process_ksb_df(read_xlsx_file(questions_file, sheet))
+prompts_list = prompts_df["Criteria"]
 number_of_prompts = len(prompts_list)
 logging.info(f"Number of prompts found: {number_of_prompts}. Iterating...")
 all_dfs = []
+
+output_csv = f"{output}/rag_test.csv"
+
+# Check if output file exists to determine if we need to write the header
+file_exists = os.path.isfile(output_csv)
 
 for idx, prompt in enumerate(prompts_list):
     logging.info(f"Processing Prompt {idx + 1} of {number_of_prompts}: {prompt}")
@@ -147,15 +151,13 @@ for idx, prompt in enumerate(prompts_list):
     for col in prompts_df.columns:
         df[col] = prompts_df.iloc[idx][col]
     
-    all_dfs.append(df)
+    # Append the row to CSV immediately
+    # Write header only if file does not exist
+    df.to_csv(output_csv, mode='a', header=not file_exists, index=False)
+    file_exists = True  # After first write, always append without header
 
-# Concatenate all DataFrames and export as a single CSV
-if all_dfs:
-    combined_df = pd.concat(all_dfs, ignore_index=True)
-    # Drop repeated "Prompt" column if it exists
-    if "Prompt" in combined_df.columns:
-        combined_df = combined_df.drop(columns=["Prompt"])
-    combined_df.to_csv(f"{output}/rag_response_part.csv", index=False)
+    all_dfs.append(df)
+    print(f"Prompt {idx + 1} processed")
 
 end_time = datetime.datetime.now()
 run_time = end_time - start_time

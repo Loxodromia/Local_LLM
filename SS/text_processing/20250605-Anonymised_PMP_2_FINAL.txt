@@ -1,0 +1,2536 @@
+Programme Name
+
+Project Management Plan
+
+Doc. Nos: AS-xxxx Effective Date: DATE
+
+Revision:
+Contents
+
+Contents... cccssscsscsseeseseeeesoessceveeseecesoeseecesonseecevoeseeeevonseesevonsessevonseseevonseneesensanes 1
+List of Tables and Figures 20.0.0... cccccccsssscceeeeeeeceeseseceeseeaceeaeeaeeeeesaeeeeeaaeeeeaeeaeeeeseaee 2
+Project Management Plan - Record of ReviSion..........:..:ccsccessseecseeeeeceeeeeeeeeeeaeeeeeeaee 4
+
+Project Management Plan - Approval.
+INTRODUCTION
+
+Purpose of the Project Management Plan..
+
+Project SUMMALY.........ccccecceccssececeeseeeeeeseeseeseeeaesaeeaassceeaeeaeeeaeeaaeeeseaasseeeaeeaeeeaeeaeeeeseaee 7
+Project Context... eee cecccccsseseceeseeeecesesseseceesesceeaaesceeaesaeeeassaasaseaeseeeaaeeeeeaeeaeeeeseaee 7
+Requirements
+
+APPROVED SCOPE.
+
+Approvals Envelope ..
+
+Deliverables and Acceptance Criteria
+Project Exclusions
+
+Assumptions and Dependencies
+PROJECT EXECUTION .
+Objectives
+
+Strategy
+
+Implementation
+
+Governance and Organisation .0........ cc cceececceseeecceeeeeececeeseeeceeaeeeeeaeeaeeeceeaeeeeseaees
+
+EVALUATION AND CLOSURE
+Annexes
+
+References
+List of Tables and Figures
+
+Table 1: Record of Revision.
+
+Table 2: Project Summary.
+
+Table 3: Key User Requirements.
+
+Table 4: MOD’s Financial Management Policy and Procedures.
+Table 5: Confidence levels for Acquisition and Sustainment costs.
+Table 6: Capability Milestones.
+
+Table 7: Support Milestones.
+
+Table 8: Key Assumptions.
+
+Table 9: Key Dependencies.
+
+Table 10: Strategic Objectives.
+
+Table 11: Contract Line Items.
+
+Table 12: Manage the Project Control Account.
+
+Table 13: Acquisition Control Account.
+
+Table 14: Infrastructure Control Account.
+
+Table 15: Capability Control Account.
+
+Table 16: Sustainment Control Account.
+
+Table 17: PROGRAMME Regular Programme Meetings.
+Table 18: Roles and Responsibilities.
+
+Table 19: PROGRAMME Programme Stakeholders
+
+Table 20: Benefits delivered in the PROGRAMME Programme
+Table 21: Key Suppliers.
+
+Table 22: Contract Management Responsibilities.
+
+Table 23: Contract Amendments.
+
+Figure 1: Project Position in Relation to CADMID.
+
+Figure 2: PROGRAMME NAME Safety and Environmental Governance Structure.
+Figure 3: PROGRAMME NAME Document Hierarchy.
+
+Figure 4: PROGRAMME NAME Programme lifecycle.
+
+Figure 5: PROGRAMME NAME Governance Structure.
+
+Figure 6: PROGRAMME NAME LfE Process.
+
+Figure 7: PROGRAMME NAME ITEA Process.
+Revision
+Reference
+
+Draft 0.1
+1.0
+
+14
+
+1.2
+
+3.1
+
+4.0
+
+41
+
+4.2
+4.2
+
+6.1
+
+Project Management Plan - Record of Revision
+
+Revision
+Date
+
+DATE
+DATE
+
+DATE
+
+DATE
+
+DATE
+
+DATE
+
+DATE
+
+DATE
+
+DATE
+
+DATE
+DATE
+DATE
+
+DATE
+
+DATE
+
+Revision
+Description
+
+Initial draft
+Baseline Review for Toolkit 1
+
+Minor amendments following MSP
+engagement
+
+Major review following approval.
+
+Prog Ld review of V1.2
+amendments and further document
+updates.
+
+Major Review following approval
+
+Detailing change of Core Planning
+Assumption post FCR and
+subsequent change of Project
+Name
+
+Interim review prior to Outline
+Case submission.
+
+Review following Tranche 1
+contract award, inclusion of
+Infrastructure element and other
+updates
+
+Review and Update PMP to reflect
+(Other Programme) Demonstration
+and Manufacture Phase
+
+Further Review & Update
+Uploaded Draft to the QMS
+Further Review & Update
+
+Review & Update to new SYSTEM
+template
+
+Creation of standalone Risk
+section in line with GRMA
+
+Table 1: Record of Revision.
+
+Change Control
+
+Draft 0.1
+
+Version 1.0
+Version 1.1
+
+Version 1.2
+
+Version 2
+
+Version 3
+
+Version 3.1
+
+Version 4
+
+Version 4.1
+
+Version 4.2
+DCR-1009
+Version 5
+
+Version 6
+
+Version 6.1
+Project Management Plan - Approval
+
+Prepared by:
+NAME — PROGRAMME NAME PM1a Date: DATE
+
+Concurred by:
+
+NAME — PROGRAMME NAME Equip PM Date: DATE
+
+Approved by:
+NAME — PROGRAMME NAME TL Date: DATE
+INTRODUCTION
+
+1. Purpose of the Project Management Plan
+
+1.1. This project management plan (PMP) describes the project definition,
+management structure and methodology for the PROGRAMME NAME
+acquisition project. It is prepared by the project manager (PM), in
+collaboration with the delivery team (DT), and approved by the person to
+whom the PM is accountable for project delivery.
+
+1.2. |t seeks to ensure that consistency, adequate communication, co-ordination
+and controls are in place. It enables all parties involved in the project to know
+how their contribution fits into the overall plan.
+
+1.3. Revision 6 of the plan describes the management of all project elements up
+until the In-Service phase but will evolve through the project lifecycle. The
+current phase (Manufacture) includes:
+
+1.3.1. Acquisition of three (3) PROGRAMME NAME DELIVERABLE, to meet
+the (Capability Description) capability. This is part of the scope.
+
+1.3.2. Further acquisition of the (Objective) scope (UK modifications of the
+DELIVERABLE and incorporation of (Capability) into the
+DELIVERABLE).
+
+1.3.3. Acquisition of the DELIVERABLE, also in support of the platform
+(namely Training and Support elements).
+
+1.3.4. Delivery of Infrastructure to support the platform at its LOCATION,
+DEPARTMENT NAME LOCATION.
+
+1.4. The PMP is a working document, maintained under configuration control by
+the Delivery Team (DT) and only approved versions should be used. It will be
+reviewed and revised as appropriate by the Project Management Team.
+2. Project Summary
+
+Project Summary
+Approval Reference: XXXXX
+Start and End Date: Start date: DATE End date: DATE (FOC)
+Category: xX
+Current CADMID Phase: Manufacture
+Customer/s: ORGANISATION
+Key Suppliers: (primary COMPANY)
+Approved OBI Scope: Delivery of the (PROGRAMME) acquisition phase
+Requirements and Objectives: PROGRAMME NAME PROGRAMME DEFINITION DOCUMENT V2.2
+
+Table 2: Project Summary.
+3. Project Context
+
+3.1 Overview
+
+3.1.1. REDACTED
+
+3.1.2 The Outline Business Case (OBC) approved the acquisition of
+DELIVERABLE under a single-source, direct commercial sale from
+COMPANY with an OSD no earlier than DATE. The OBC provided an
+Approved Budgetary Level (ABL) totaling £ XXXX M. Due to financial
+challenges within the MOD, the Integrated Review (IR) directed a
+reduction in scope from SOME to LESS DELIVERABLES, alongside
+an earlier decision to move the DELIVERABLE to DEPARTMENT
+NAME LOCATION. The Full Business Case (FBC) will request an
+updated Approved Budgetary Level (ABL) for the acquisition of
+
+DELIVERABLE, request approval for a Sustainment contract
+
+alongside OTHER PROGRAMME DELIVERABLE at DEPARTMENT
+
+NAME LOCATION and request approval for major programme
+
+milestones.
+
+3.2DEPARTMENT NAME 1 Role
+
+3.2.1 The DEPARTMENT NAME 1 role in the programme is to manage the
+MOD Equipment DLOD for all phases of the CADMID cycle, prior to
+equipment being introduced into service; time, cost and performance
+approvals will be received. In addition, DEPARTMENT NAME 1 will
+provide certain programme support services including maintenance of
+the through life pan-DLOD cost model. DEPARTMENT NAME 1 will act
+as the point of contact for all associated commercial activity and will
+manage delivery against the Main Acquisition Contract for
+DELIVERABLE.
+
+3.2.2. DEPARTMENT NAME 1 will lead delivery on aspects of the Logistics
+DLOD in order to ensure that the platform can be sustained at home
+and when deployed, the detail of which will be defined through the
+development and agreement of an SoR for the sustainment contract;
+the Logistics Support Date (LSD) will be the milestone by which time
+this support is in place. DEPARTMENT NAME 1 will ensure that
+service support contracts are in place prior to delivery of the equipment
+to the Customer dependent upon the programme securing timely
+approvals for sustainment in coordination with DEPARTMENT NAME
+1.
+
+3.2.3. In accordance with direction received post the SofS directed review
+and DATE Integrated Review, DEPARTMENT NAME 1 are to act as
+the Lead Delivery Agent to oversee delivery of PROGRAMME NAME
+infrastructure at DEPARTMENT NAME LOCATION in accordance with
+the schedules and budgetary allocations as agreed between
+DEPARTMENT NAME 1 and TLB. The Infrastructure DLOD is owned
+by TLB and DEPARTMENT NAME 1 are not responsible for the
+management of DLOD activity, but for managing contracted
+deliverables, in the capacity as Lead Delivery Agent.
+
+3.2.4 DEPARTMENT NAME 1 will act as the Lead Delivery Agent for those
+aspects of the Information DLOD delivered by Defence Digital (DD),
+however they will not be responsible for management of the
+Information DLOD.
+
+3.2.5 Figure 1 shows the current position of the UK PROGRAMME NAME
+programme in CADMID:
+
+IMAGE
+
+Figure 1: Programme in relation to CADMID.
+
+4. Requirements
+4.1Key User Requirements
+
+4.1.1. The User Requirements Document (URD) is the mechanism by which
+the SRO translates the capability required to meet the UK’s Defence
+objectives into clearly defined requirements. It is a dynamic document
+which has been developed primarily during the Concept Phase, from
+the identification of a capability need up to Initial Gate approval. It will
+then be maintained through the life of the system to reflect changing
+user needs. REDACTED. At the time of issue, the following Single
+Statement of User Need was agreed:
+
+User Requirement Statement:
+
+“The User requires a REDACTED DELIVERABLE capability to provide
+REDACTED”
+
+4.1.2 The Key User Requirements (KURs), endorsed by the Joint
+Requirements Oversight Committee (JROC), are laid out in Table 3:
+
+Id Key User Requirement
+1.1 The User requires a capability that REDACTED.
+
+1.2 The User requires a capability that can REDACTED.
+
+1.5 The User requires a capability that is REDACTED.
+2.1 The User requires a capability to REDACTED.
+
+2.4 The User requires a capability that can incorporate Capability
+enhancements and undertake new or additional roles.
+
+3.1 The User requires a capability to REDACTED.
+
+3.5 The User requires a capability that REDACTED in LOCATIONS.
+
+41 The User requires a capability that can direct or support all TLB
+roles within the LOCATION.
+
+Table 3: Key User Requirements.
+
+4.1.3. The Concept of Employment (CONEMP) provides a baseline from
+which the User and subsequent System Requirement Documents
+(URD and SRD) can consider different or novel solutions to providing
+the (CAPABILITY), whilst allowing the development of current solutions
+through technical insertion. This document has been developed by the
+Requirements Manager.
+
+4.1.4 The System Requirements Document (SRD) is the structured and live
+definition of the optimal system requirements (including constraints},
+bounding contracting and verification activities. Whilst an SRD was
+drafted for the PROGRAMME and used as a comparison document to
+assess the configuration of the ‘product line’ REDACTED that
+DELIVERY AGENT initially offered to the UK, it was not finalised and
+was not updated following this assessment. Instead, a Product
+Specification Document (PSD) was produced and included as a
+Schedule within the acquisition contract as the document that defines
+the specification of the contracted product. Segment, System and
+Subsystem specifications that sit beneath the PSD are managed by
+DELIVERY AGENT and have been provided to the MOD on request.
+APPROVED SCOPE
+5 Approvals Envelope
+
+5.1 Performance
+
+5.1.1 The Project is an Investment Category ‘A’ Project, as defined by Joint
+Service Publication (JSP) x. All new Cat A and B programmes are
+required to present a Strategic Outline Case (SOC) to the Approving
+Authority (AA). Programmes that have already undertaken a SOC will
+be expected to follow the process through Outline Business Case
+{OBC) to Full Business Case (FBC) where necessary utilising Review
+Notes (RN) or Information Notes (IN) to engage the AA.
+
+5.1.2 Project performance will be monitored throughout to ensure that KURs
+are being satisfied and evidence is being gathered to support
+acceptance of the programme capabilities into Service, in accordance
+with COMPLIANCE Monitoring and Control Strategy.
+
+5.1.3. The PROGRAMME NAME employs various methods of delivery,
+performance and compliance monitoring using the weekly, monthly and
+triannual reviews and the monthly report as detailed at Section 8 of the
+Contract Management Plan (CMP). Routine monthly reports include:
+
+5.1.3.1 Financial Management Report.
+
+5.1.3.2 Engineering Review Board (ERB) Report.
+
+5.1.3.3. Accrual Progress Report.
+
+5.1.3.4 — Incurred Cost Report.
+
+5.1.3.5 Programme Management Meeting (PMM) Slide Deck.
+
+5.1.4 Earned Value Management (EVM) is appropriately tailored for this
+contract. The COMPANY, COMPANY, supplies the DT with monthly
+performance reports against the agreed interim milestones to monitor
+progress and forecast schedule performance. These monthly reports
+
+detail as a minimum:
+
+5.1.4.1 Narrative of recent progress, look ahead, risks & issues and
+help needed.
+5.1.4.2 Tier Ill schedule overview detailing status and upcoming
+activities.
+
+5.1.4.3 Schedule progress against payment milestones including any
+which have been completed and updated forecast dates for those
+yet to complete.
+
+5.1.4.4 Performance/delivery of COMPANY deliverables.
+
+5.1.4.5 Any other information reasonable requested by the Authority.
+
+5.2Cost
+
+5.2.1 Cost Control activity will be undertaken in accordance with MOD’s
+
+Financial Management policy and procedures, as laid down in the
+JSPs listed below in Table 4:
+
+Uv
+
+Title
+
+Financial Management & Charging Policy Manual
+
+Financial Accounting and Reporting Manual
+
+Investment Appraisal and Evaluation
+
+Corporate Governance
+
+Defence Investment Approvals
+
+Imprest Accounting, Banking and Control Accounts Manual
+
+><| ><] ><] ><] ><[><] ><]?
+
+MOD Tax and Duty Manual
+
+Table 4: MOD’s Financial Management Policy and Procedures.
+5.2.2
+
+5.2.3
+
+5.2.4
+
+5.2.5
+
+5.2.6
+
+Project funding will be provided by TLB, established through the
+Annual Budget Cycle (ABC) process and reviewed biannually through
+the Project Cost Review (PCR) process.
+
+P3M is the primary tool used for in-year forecast and project actual
+expenditure. Performance against Control Totals (CT) is monitored
+through monthly cost reviews, reported to stakeholders utilising
+Planning Budgeting and Forecasting (PB&F) and the In-Year
+Management (IYM) commentary pack.
+
+Management Reserve (MR). The project's MR is determined utilising
+the risk data held in Active Risk Manager (ARM) as provided by the DT
+Risk Manager profiled by cost control.
+
+The Acquisition Approved Budget Level (outturn, inclusive of all non-
+recoverable VAT at 50 % confidence) is EXXXX.
+
+The not-to-exceed Approved Budget Level for sustainment is £ XXXX
+and is aligned with OTHER PROGRAMME NAME over a period of 4.3
+years.
+
+5.2.7 The 10/50/90% confidence levels for modelled future Acquisition and
+Sustainment costs are shown in Table 5:
+Project Phase Estimated Cost (£M)}
+
+10% 50% 90%
+P9 estimate to complete acquisition phase
+
+XXXX XXXX XXXX
+(FY DATES to completion)
+$9 estimate to complete initial in-service phase
+
+XXXX XXXX XXXX
+(FYs DATES - DATES)
+$9 estimate requested to deliver the
+Programme beyond requested ABL period {FY XXXX XXXX XXXX
+DATES onwards) to DATE
+
+Table 5: Confidence levels for Acquisition and Sustainment costs.
+5.3Time
+
+5.3.1 The delivery timeframe of the DELIVERABLE is defined by the
+following key Strategic and Support milestones:
+
+\Capability Milestones
+
+ID {Title Description Date
+DELIVERABLE delivered to DEPARTMENT NAME
+1 |In-Service Date (ISD) |LOCATION, capable of being operated by suitably qualified UK| DATE
+personnel.
+[The defined military capability standard, which is considered by
+tthe Sponsor, in consultation with the User, to be at the
+minimum level to provide operational effect in support of DEO
+9 Initial Operating IX, DSO X, DSO X, DSO X, DSO X, DSO X. The ability to DATE
+Capability (IOC) IREDACTED for a period of up to X days from DEPARTMENT
+NAME LOCATION or deployed location. A regeneration period
+lof approx. X weeks will be required upon return to
+DEPARTMENT NAME LOCATION.
+[The defined military capability standard, which is considered by
+ithe Sponsor, in consultation with the User, to be the minimum
+necessary to conduct REDACTED for a period of up to X days
+Full Operating from DEPARTMENT NAME LOCATION or deployed location
+3 Capability (FOC) lor sustain REDACTED on an enduring basis from DATE
+DEPARTMENT NAME LOCATION or a deployed location. A
+regeneration period of approx. X weeks will be required upon
+return to DEPARTMENT NAME LOCATION.
+Table 6: Capability Milestones.
+Support Milestones.
+ID Title Description Date
+Delivery of technical Completion of the DELIVERABLE technical
+1 infrastructure infrastructure, including refit of the existing space within DATE
+DEPARTMENT NAME {the LOCATION, construction of the associated annex and
+LOCATION. completion of the combined line engineering building.
+Delivery of domestic
+infrastructure to Completion of XXX DELIVERABLES associated with
+2 |DEPARTMENT NAME |DELIVERABLE growth.
+LOCATION DATES
+Delivery of
+DELIVERABLE Training
+Devices.
+
+DELIVERABLE.
+
+DELIVERABLE
+
+DATES
+
+Table 7: Support Milestones.
+5.4Constraints
+
+5.4.1. The Programme will operate and deliver within the following
+constraints:
+
+5.4.1.1 Changes to the Project funding levels or profiles outside the
+delegated authority can only be made with the agreement of the
+SRO.
+
+5.4.1.2 The onus rests with TLB to review the options for how financial
+efficiencies or under-spends might be reinvested to deliver early or
+additional capability or reallocated across the TLB Portfolio.
+
+5.4.1.3. Legal statutory compliance (including commercial).
+5.4.1.4 Regulatory compliances: TLB Related Agencies).
+5.4.1.5 Interoperability with allies.
+
+6 Deliverables and Acceptance Criteria
+
+6.1 Project deliverables.
+
+6.1.1 Project Deliverables are agreed as part of the Programme Command
+Acquisition and Support Plan (CASP)'. This document is the primary
+means to govern the ENABLING ORGANISATION/Customer
+relationship; it records the scope of DEPARTMENT NAME 1 outputs
+within the programme, and it defines measures of output performance.
+The CASP includes the following delivery work areas:
+
+6.1.1.1. TLB Mission Segment. The MISSION SEGMENT comprises
+the TLB RELATED DELIVERABLE -— based on the DELIVERABLE,
+and the Mission Systems incorporated into the TLB System. The
+current requirement includes the procurement of DELIVERABLES.
+
+6.1.1.2 UK Modifications. Six specific modifications are included
+which are designed to align the platform with current UK
+requirements, as follows:
+
+6.1.1.2.1, REDACTED via a REDACTED capability, integrated into the
+mission system.
+
+6.1.1.2.2 REDACTED capability integrated into the mission system.
+6.1.1.2.3 Software changes that incorporate the LATEST
+TECHNOLOGY
+
+6.1.1.2.4 COMMUNICATION CAPABILITIES
+6.1.1.2.5 CAPABILITIES, integrated into the mission system.
+6.1.1.2.6 SAFETY DELIVERABLE
+
+6.1.1.3. DEPENDENCY The DEPENDENCY consists of Training
+Devices, Mission Support elements (e.g., a mission planning
+facility) and the REDACTED Support Facility. Details on these
+outputs can be found in the PROGRAMME Engineering
+Management Plan (EMP).
+
+6.1.1.4 — Infrastructure. Technical infrastructure at DEPARTMENT
+NAME LOCATION that allows PROGRAMME to operate alongside
+OTHER PROGRAMME.
+
+6.1.1.5 Sustainment. Sustainment will be defined in the Final Business
+Case (FBC) and subject to its own Service Delivery Plan (SDP).
+
+6.2 Acceptance Strategy.
+
+6.2.1 An Integrated Test & Evaluation Acceptance Strategy (ITEA) has been
+developed for the Programme. This recognises that the UK
+DELIVERABLE has been procured as a predominantly off-the-shelf
+capability and many of the system requirements are envisaged to have
+been previously verified for other programmes, supplier led Testing and
+Evaluation (T&E) effort pre-delivery will therefore focus on the
+integration of configuration changes and regression test of inherent
+capabilities. A period of follow-on T&E will be required after delivery to
+refine the performance of the DELIVERABLES CAPABILITY, develop
+operational procedures and gather evidence for satisfaction of
+capability requirements. This is expected to include a period where
+each DELIVEABLE will be deployed to the LOCATION.
+7
+
+Project Exclusions
+
+7.1 The following activities are excluded from DEPARTMENT NAME 1 project
+scope:
+
+7.1.1. Programme management activities including programme support
+office duties and coordination of other DLODs, unless specifically
+identified deliverables.
+
+7.1.2 User requirements management, including the URD.
+
+7.1.3 Capability Planning and Joint Requirements Oversight Committee
+(JROC) briefing.
+
+7.1.4. PROGRAMME Through Life Management Plan (TLMP).
+7.1.6 Benefits Management.
+
+7.1.6 TLBMDAL Management.
+
+8 Assumptions and Dependencies
+8.1 The delivery of the Programme is framed by the strategic assumptions listed
+in Table 8, if they do not materialise the viability of the initiative may be in
+jeopardy or have significant delivery, performance cost and schedule
+implications.
+ID | Key Assumption and Reason Held by Expiry
+Date
+1 Title: Out-of-Service Date (OSD) no earlier than DATE. SRO DATE
+Reason: An OSD of at least DATE will align with key allies and the
+REDACTED.
+Impact if incorrect: A service life of c.X years is realistic and will provide
+value-for-money (VfM). Failure to achieve this date will likely leave a gap in
+capability.
+2 | Title: Infrastructure requirements will be partially satisfied through synergies Dir DATE
+
+with OTHER PROGRAMME.
+
+Reason: To achieve VfM for Defence, new build infrastructure should be
+minimised. Infrastructure savings through synergies with OTHER
+PROGRAMME are required to meet the IR saving target.
+
+Impact if incorrect: Increased cost to Defence.
+3. | Title: The DELIVERABLE TRAINING MATERIAL will connect to the SYSTEM SRO DATE
+NAME.
+Reason: The connection to SYSTEM NAME will enable large-scale,
+distributed collective trg across the UK and international partners.
+Impact if incorrect: Failure to take advantage of the connection to SYSTEM
+NAME will limit DELIVERABLE USERS trg to local made delivery only. As a
+result, the quality and intensity of trg will be at risk.
+Table 8: Key Assumptions.
+8.2 Programme dependencies are captured within the Master Data and
+Assumptions List (MDAL) and the CASP. TLB will store the Master versions of
+the Programme MDAL on their SharePoint site and maintain configuration
+control of the document with DLoDs remaining responsible for ensuring their
+entries are updated. Programme assumptions are managed on SYSTEM.
+Key Dependency & Reason Point of Contact Due
+LOCATION Development Programme (LDP) OTHER DATE
+PROGRAMME
+The LDP will be delivering support infrastructure at DEPARTMENT NAME Prog Dir
+LOCATION for the Programme
+DEPARTMENT NAME SEEDCORN REDACTED DATE
+Table 9: Key Dependencies.
+The DEPARTMENT Nawin nas KHURU LY peruiie: ciiucuue™ at
+LOCATION. The DEPARTMENT NAME is dependent on the COMMAND for
+access to ground training facilities and simulator trg devices required for the
+early OCUs.
+Programme EO DepHd DATE
+The DELIVERABLE Programme is benefitting significantly from the
+modifications that the COMMAND is funding under the REDACTED upgrade
+programme, including OTHER PROGRAMMES.
+OTHER PROGRAMME - Defence Operational Training Capability (TLB} TLB DATE
+Programme
+The Training DLoD is dependent upon Programme NAME to provide the
+CS&S in support of distributed training for PROGRAMME PERSONEL.
+Defence Digital (DD) EO DATE
+BD will provide REDACTED and support services.
+PROJECT EXECUTION
+
+9 Objectives
+
+9.1 The Programme will contribute to the DEPARTMENT NAME’s Strategic
+Objectives as follows:
+
+Strategic Title Contribution
+Objective
+
+The PROGRAMME NAME DELIVERABLE will provide a
+CAPABILITY, REDACTED. The PROGRAMME NAME
+DELIVERABLE will be capable against current and future
+threats, whilst complying with environmental and
+
+4 REDACTED regulatory changes. It will deliver a capability that can
+meet REDACTED. The complex modification activity
+associated with DELIVERABLE will be completed in the
+UK, REDACTED, promoting UK prosperity, and building
+industrial resilience.
+
+The PROGRAMME NAME DELIVERABLE capability will
+continue to evolve to meet the threat into the future. The
+DIGITAL solution with a significant growth path. The
+DELIVERABLE will grow to continue to support the
+operator, the Electronic Support Measures solution will be
+REDACTED. The combination of these systems, including
+a modern defensive aids suite and CAPABILTY, will
+ensure the global reach and can operate effectively
+against the future threat.
+
+The UK PROGRAMME NAME is part of a group of nations
+2 REDACTED. alongside OTHER. The nations have formally committed
+to the following Joint Vision Statement:
+
+REDACTED Our operational output will be enhanced
+through mutual support, shared resources, and
+commonality. Our capability enhancements will be
+coordinated, tested, and shared to counter current and
+future threats. The sustainment of our capability will
+leverage the collective power of our nations, bringing
+greater operational reliability through efficiencies of scale
+and collaboration.”
+10 Strategy
+10.1 Project Strategy
+
+10.1.1 The intent of the Programme is to recapitalise the PREVIOUS
+DELIVERABLE with a DELIVERABLE. The PROGRAMME NAME will
+provide a CAPABILITY that meets environmental and regulatory
+changes and achieves REDACTED.
+
+10.1.2 The capability will remain interoperable with allies, provide the UK's
+contribution to the ALLIED Force, and remain capable against current
+and future threats. The DEPARTMENT NAME is engaged on the
+PROGRAMME NAME Capability with COUNTRIES. The nations will continue
+to share their capability roadmaps, building on opportunities for
+collaborative capability development, operation, and sustainment.
+
+10.2 Procurement Strategy
+
+10.2.1 The Investments Approval Committee (IAC) endorsed a single-source
+procurement route for the DELIVERABLE. The acquisition will
+comprise of DELIVERABLES.
+
+10.2.2 The justification for single source for the DELIVERABLE Sustainment
+solution is outlined in the Commercial and Procurement Strategy,
+which was approved in DATE.
+
+10.3 Commercial Strategy
+
+10.3.1 The main acquisition of the TLB including the PROVIDER
+DELIVERABLE, and all but one of the subsequent contract
+amendments are Firm Priced. The UK specific modifications are priced
+using a Target Cost Incentive Fee (TCIF) arrangement.
+
+10.3.2 As this contract uses only firm and TCIF pricing, there is no impact
+upon the contracted price from increases, using inflation as an
+example. An inflation factor will have been included for transparency,
+within the original PROVIDER proposal cost models to form the overall
+price offers accepted by the Authority. Therefore, there is no
+requirement for a Variation of Price clause within this contract.
+
+10.3.3 The Statement of Requirement (SoR) for the contract is split into 7
+different line items which are priced individually. The 7-line items cover
+the following:
+
+Contract xxx Statement of Requirement
+
+1 | REDACTED
+Delivery OF DELIVERABLE and provision of Surplus assets
+Modification of the DELIVERABLES.
+
+Provision of the prime COMPANY role for the AMS.
+
+Provision of Over and Above Services
+
+Provision of REDACTED Tranche 1
+
+Provision of Training Needs Analysis
+Provision of CAPABILITY
+
+Provision of CAPABILITY Tranche 2 Increment 1 and CAPABILITY TRAINING
+
+Provision of Tranche 2 Increment 1, and CAPABILITY TRAINING in accordance with Schedule
+2 Statement of Work Part 5
+
+Changes to OFT design, supplementary to the Sub-Item 5a price, resulting from maturation of
+AMS design. (Refer to Clause 116)
+
+Integration of a GFA, medium resolution LOCATION, provision and integration of a medium-
+resolution LOCATION and upgrade of the GFA medium-resolution LOCATION to high resolution
+(Refer to Clause 117).
+
+REDACTED Tranche 2 Increment 2
+
+Provision of Tranche 2 Increment 2 — Phase 1, in accordance with Part 6 of Schedule 2
+(Statement of Work)
+
+Provision of Tranche 2 Increment 2 — Phase 1, Bid Costs, Early Works and Trade Study costs.
+Provision of Tranche 2 Increment 2 — Phase 1, Actual Costs for Tranche 2 Increment 1
+
+Initial Provisioning (IP) Spares
+
+Provision of IP Spares — Labour inclusive of Management of OEM Suppliers and travel and
+subsistence
+
+Provision of IP Spares as detailed in Table 1 of Schedule 12 to the Contract Cost
+
+Provision of IP Spares as detailed in Table 2 of Schedule 12 to the Contract Cost Plus Spares
+Provision of IP Green Spares (In Year) — Labour inclusive of Management of procurement
+Provision of IP Green Spares (In Year) as detailed in Table 3 of Schedule 12 to the Contract
+Table 11: PROGRAMME contract line items.
+
+11 Implementation
+
+11.1 Work Breakdown Structure
+
+11.1.1 The PROGRAMME schedule will be contained in SCHEDULE
+SOFTWARE. The OBC Work Breakdown Structure (WBS) will be
+contained as a control account under the Shell xxx. All outputs to
+deliver the project requirements will be listed in the PROGRAMME
+Dictionary and appropriate activities will be included in the schedule
+WBS activities.
+
+11.1.2 The WBS captures the scape of the project as described in the ‘Scope’
+section of this Plan. The WBS provides a hierarchical structure of the
+project activity with the work package being the lowest level of the
+WBS. Each work package has an associated dictionary describing the
+detailed scope, deliverables, exclusions, interfaces and assumptions.
+
+11.1.3 The WBS Dictionary is held on Project Controls SharePoint. The
+Programme WBS Breakdown Structure is recorded in Annex B of the
+PMP.
+
+11.2 Control Accounts
+
+11.2.1 Manage the Project
+
+CA.1 Manage the Project
+
+Control Account Manager (CAM): NAME
+Work/Planning Package Owner
+LoE activities NAME
+International collaborative agreements. NAME 1
+Manage the project — non-DT resource NAME
+Post-DATE activity NAME
+Purpose:
+
+The purpose of this Control Account and Level of Effort Work Package is to capture the internal
+DEPARTMENT NAME 1 Effort and Governance activity that cannot be easily attributable to the other
+Control Accounts.
+
+Table 7: Control Accounts.
+Description:
+
+Regular or routine DEPARTMENT NAME 1 Drumbeat meetings, working groups, performance
+reporting, forecasting, artefact maintenance and strategic stakeholder management activities.
+
+Performance Reporting. The Delivery Team will undertake a variety of DEPARTMENT NAME 1 and
+wider MOD reporting which enables delivery of the PROGRAMME NAME output. Routine reporting and
+annual updates of the CASP, ISPs, IBAs, and other internal dependencies that cut across Control
+Accounts.
+
+Governance. Including scheduling, risk, cost control, earned value management.
+
+Artefact Maintenance. Including Assumptions, Risk, Schedule (and Supporting Docs), REDACTED
+Strategy, Technology Management Plan, PMP, EMP, SDP, TLMP, SSDT, PAT, Project History, etc
+across all Functions.
+
+Resourcing. The Programme Delivery Team will produce a staffing plan and will engage with Function
+Leads to fulfil recruitment or other activity to appropriately resource against this plan.
+
+Information Management. Management of PROGRAMME NAME SharePoint site and other records
+management. Maintaining appropriate security of project information.
+
+Management of strategic relationships with project stakeholders, comms, secretariat, press, FOI, MC,
+PQ, etc
+
+Financial Management. In-Year financial management, coordination of financial planning, reporting of
+annual report of accounts.
+
+Quality Management — assurance (internal and external, inc REDACTED) of DT activities
+
+Boundaries:
+
+Annual activities related to normal delivery team management (e.g., audits) should be included within
+the resource estimates for Level of Effort activities within this Control Account - unless they fall inside the
+DEPARTMENT NAME 1 definition for IndirectOverhead Work e.g., Mandatory training.
+
+Deliverables:
+
+Project Management Plan
+
+REDACTED Strategy
+
+Engineering Management Plan
+
+Technology Management Plan
+
+Quality Audit Reports (assuming QMP is REDACTED)
+
+Command Acquisition Support Plan agreed with TLB Cap
+
+QRPC And Other Reporting
+
+Staffing Plan for Activities Not in Scope of Concept Or Assessment WBS Elements. — Staffing Plan for
+all activities
+
+Acquire DELIVERABLE and Capability
+
+Table 12: Manage the Project Control Account.
+11.2.2 Acquisition Program
+
+CA.9 Acquisition Programme
+
+Control Account Manager (CAM): NAME
+Work/Planning Package Owner
+AMS programme management NAME 2
+REDACTED programme management NAME 3.
+TAF OPEX NAME 3
+AMS work post-DATE NAME 3.
+AMS expenditure NAME 6
+REDACTED Tr2 inc.1 NAME 3
+REDACTED Tr2 inc.2 NAME 4
+REDACTED Tr2 inc.3 NAME 5
+FMS expenditure NAME 6
+GOLD ESP NAME 7
+ORGANISATION support (SUP) NAME 3
+Long lead spares NAME 8
+TAF CAPEX NAME 3
+Purpose:
+
+To deliver the PROGRAMME and DELIVERABLE
+
+Description:
+AMS Delivery
+Delivery of the PROGRAMME NAME DELIVERABLE through the main acquisition contract, XXXX,
+including REDACTED +« Management of strategic relationships with project stakeholders, comms,
+
+secretariat, press, FOI, MC, PQ, etc
+
+Financial Management. In-Year financial management, coordination of financial planning, reporting of
+annual report of accounts.
+
+Quality Management — assurance (internal and external, inc REDACTED) of DT activities
+REDACTED Delivery
+
+Delivery of REDACTED.
+Boundaries:
+
+This project is for the design and manufacture of the PROGRAMME NAME DELIVERABLE to provide an
+REDACTED capability.
+
+Deliverables:
+
+Qty 3 - PROGRAMME NAME DELIVERABLE with fully functioning REDACTED.
+Qty 4 - REDACTED
+
+Qty 1 - training capability
+
+Qty 1 - REDACTED
+
+Table 13: Acquisition Control Account.
+
+11.2.3 Infrastructure
+
+CA.10 Infrastructure
+
+Control Account Manager (CAM): NAME 9
+Work/Planning Package Owner
+Infrastructure OPEX NAME 9
+Infrastructure CAPEX
+
+Purpose:
+
+To deliver Strategic Technical Infrastructure at DEPARTMENT NAME LOCATION in support of the
+PROGRAMME NAME DELIVERABLE, aligning with OTHER PROGRAMME DELIVERABLE where
+possible.
+
+Description:
+To deliver the Infrastructure to approved and accepted RIBA Stage 4 Designs in two phases.
+The Project will carry out all the Enabling Works required in preparation for the Main Construction.
+
+The Project will carry out the Main Construction Phase of the Project delivering Staged Completion of
+the following:
+
+- Annex Building for the PROGRAMME Synthetic Training Facilities and A/S Block B
+
+- Joint DELIVERABLES Line Facility
+
+- LOCATION
+
+- LOCATION
+
+Boundaries:
+
+This Project is solely for the design and construction of the Technical Infrastructure in support of all the
+PROGRAMME NAME DLOD's to provide a fit for purpose environment to Operate the PROGRAMME NAME
+in conjunction with the OTHER PROGRAMME DELIVERABLE.
+
+Deliverables:
+
+Fully Compliant Infrastructure that meets agreed MoD URD and SUPPLIER FRD requirements:
+
+Phase 4a -
+Completion of REDACTED.
+
+Phase 4b -
+~ Internal alterations to REDACTED
+- Construction of REDACTED.
+
+~ Internal Alterations of REDACTED for DEPARTMENT NAME 1 and SUPPLIER use.
+- Construction of REDACTED to house Training Simulators.
+
+Table 14: Infrastructure Control Account.
+
+11.2.4 Capability
+
+CA.12 Capability
+
+Control Account Manager (CAM): NAME 10
+Work/Planning Package Owner
+International Collaborative Agreements (Incl. NAME 11
+Tri-Lat)
+
+NAME 12
+
+FORIP PA Work with REDACTED.
+
+Purpose:
+
+To deliver all international activities relating to PROGRAMME conducted on a collaborative basis with
+COUNRTIES relating to current and future PROGRAMME capabilities
+
+Description:
+
+WP 12.X: Activity relating to International Agreements (OPEX) for tri-lateral activity with ALLIES
+including associated WGs and meetings.
+
+WP12.Y: Delivery of UK contributions to the Follow-on Improvement Programme (FOIP) Advanced
+Capabilities Studies (ACS) activity under a REDACTED contract executed by REDACTED CAPEX)
+
+WP12.Z: DT support to activity covered by the REDACTED including the contract with REDACTED.
+
+Boundaries:
+
+Should specific collaboration activities be identified by WP 12.X then further WPs may need to be
+defined to take these forwards.
+Deliverables:
+Insert the key deliverables from the Product Breakdown Structure. Scope without deliverables is
+
+acceptable, but this should not be the norm and further scrutiny should be applied to ensure that the
+work is justified.
+
+Table 15: Future Capability Control Account.
+
+11.2.5 Support Arrangements
+
+CA.13 Establish Support Arrangements
+
+Control Account Manager (CAM): NAME 7
+Work/Planning Package Owner
+
+NAME 7
+Establish internal support
+
+NAME 13
+Full Business Case
+
+NAME 14
+Establish in-service
+
+NAME 7
+Depot maintenance
+
+NAME 7
+Post contract award planning package
+
+NAME 7
+
+External support
+
+Purpose:
+
+This Control Account contains all the DEPARTMENT NAME 1 activities required to scope and set up an
+Initial Sustainment solution, DT in-service policies/procedures and associated support contracts for UK
+PROGRAMME AMS and REDACTED, including associated IAC approvals, BCs and
+negotiating/awarding contracts.
+
+Description:
+
+This Control Account includes negotiating and placing all contracts required for DEPARTMENT NAME 1
+
+to provide support for the PROGRAMME and also all the DEPARTMENT NAME 1 activities to support
+TLB to develop the support requirements/assumptions, and for the SRO to seek |AC/Central approvals.
+
+Ensuring support equipment is appropriately specified and delivered with necessary safety information
+
+Establish initial UK PROGRAMME support to meet the required programme Logs Spt Date
+(maintenance and repair, tech support & CAMO, SCM, trg, GFX)
+
+Seek initial support approval (Full Business Case)
+Establish in-Service Framework by developing systems and processes necessary to support
+
+PROGRAMME when in service including type and continuing REDACTED management; integrity
+management; and key support arrangements to enable PROGRAMME operations.
+° Establish the Engineering Authority framework (Eng Auth policies, strategies, procedures,
+organisation and governance)
+
+o Quality Assurance and Quality Management (In Service)
+° Establish required iLog/ILS policies and procedures, including inventory mgt and reporting.
+Boundaries:
+
+Does not include acquisition.
+
+Deliverables:
+
+Sustainment IAC FBC/RN
+
+Sustainment contract awarded
+
+DT policies and procedures e.g., Integrity mgt, ERO and leaflets, security policy, support/logistic policies,
+maintenance policy
+
+Sustainment CASP entries agreed and delivered
+
+DEPARTMENT NAME 1 IBAs/SLAs with commodity DTs
+
+Table 16: Sustainment Control Account.
+11.3 Project Management
+
+11.3.1 The DEPARTMENT NAME 1 Project Management (PM) Team
+manage the acquisition of the AMS, MSS and REDACTED for the
+PROGRAMME Programme. The PM Team liaise with other PM
+stakeholders across the PROGRAMME Programme to track project
+schedule and cost to ensure efficient delivery. Responsibilities include
+the delivery of PROGRAMME Training Devices, delivery of the
+acquisition contract and authority management of FMS cases.
+
+11.3.2 The PM team are responsible for reporting project progress to the
+Authority and to the Programme Management Team. The PM Team
+manage and maintain Project Management artefacts, including the
+Project History, Project Maturity Matrix and Project Management Plan.
+
+11.4 Occupational Health, Safety and Environmental Management
+
+11.4.1 The PROGRAMME Safety and Release to Service (RTS) Team is
+
+responsible for managing and overseeing all safety, environmental,
+
+RTS, Configuration Management and Quality Assurance activities in
+
+support of the PROGRAMME NAME platform. They will lead development
+and implementation of strategies and plans for establishing and
+sustaining a Safety Management System (SMS), Environmental
+Management System (EMS), Configuration Management System
+(CMS), Quality Management System (QMS) and for producing the RTS
+recommendation. Within the team there are the following
+appointments:
+
+11.4.1.1 Safety Manager. Maintain and implement the Safety and
+Environmental Management Plan; manage development of the
+required Safety Assessments and Environmental Case.
+
+11.4.1.2 RTS Manager. Manage development of the REDACTED
+supporting evidence required for T&E activity; manage development
+of the RTS recommendation document and supporting evidence
+pack.
+
+11.4.1.3. Quality Assurance Manager. Develop and manage the
+implementation of the Quality Assurance Plan.
+
+11.4.1.4 Configuration and REDACTED. Manage and oversee
+Configuration Management activities for the PROGRAMME
+DELIVERABLE.
+11.4.2 The PROGRAMME DT will meet its responsibilities for Occupational
+Health, Safety and Environmental (OHS&E) management by complying
+with the relevant safety plans and procedures. Occupational health,
+safety and environmental (OHS&E) management for the project is in
+accordance with DEPARTMENT NAME 1 policy. The Safety and
+Environmental Governance structure for PROGRAMME is shown in the
+figure below:
+
+IMAGE
+
+Figure 2: PROGRAMME Safety and Environmental
+11.4.3 Technical Safety is covered within the PROGRAMME NAME Engineering
+Management Plan.
+
+11.5 Engineering and Safety Management
+
+11.5.1 The Engineering function for PROGRAMME NAME is led by the Chief
+Engineer (CE) / REDACTED The CE/ REDACTED is responsible for
+the PROGRAMME System throughout its life from development to
+disposal, as defined in XXX and expanded upon throughout the
+REDACTED Regulatory Publications (RP). The responsibilities of the
+CE/ REDACTED are detailed in the RP, and the programme specific
+responsibilities of the PROGRAMME NAME CE/ REDACTED are detailed in
+the PROGRAMME NAME Engineering Management Plan (EMP).
+
+11.5.2 The EMP is the focal point document for all safety and engineering
+activity associated with the project and is a living document that will
+evolve during Acquisition, Operation through to Disposal of the
+capability. This EMP predominately draws on the management of
+safety and engineering activities identified in the Guide to Engineering
+Activities and Reviews (GEAR) framework. The GEAR Review Record
+supports the assessment of maturity of the GEAR products required,
+as inputs and outputs dependent upon the level of maturity of the
+engineering activity in each phase of the GEAR Cycle. This plan
+reflects activity to take forward a single source procurement of a
+PROGRAMME capability to FBC and beyond.
+
+11.5.3 Whilst there is currently no specific policy regarding GEAR as applied
+to the three-stage model of MAID, conclusions can be drawn from the
+MAID documentation showing the relationship to the CADMID cycle,
+which is common to both process models. The Strategic Outline Case
+(SOC) aligns with the Pre-Concept phase, the Outline Business Case
+(OBC) aligns with the end of the Concept Phase and Full Business
+Case (FBC) aligns with the end of Assessment Phase. The mapping of
+GEAR reviews to MAID and SUPPLIER’s process are outlined in Fig 3
+- GEAR Approvals process aligned with MAID process and
+SUPPLIER’s Approval process.
+
+11.5.4 As the PROGRAMME NAME platform will be acquired predominantly ‘off-
+the-shelf, there will be elements of the GEAR process that the project
+will need/not need to undergo to reach the Manufacture Readiness
+Review (MRR) Stage. The DT intends to have completed the MRR
+stage for REDACTED and REDACTED by DATE and will require to
+take the following steps in order to be able to reach this stage. The
+MRR will incorporate threads from REDACTED Configuration Review
+and tailoring for the REDACTED will be identified for each artefact.
+11.5.5 The PROGRAMME DT is also following the TLB-Engineering
+Standardisation Process Improvement Roll-Out Enforcement
+{ACRONYM) processes to improve the efficiency and effectiveness of
+the delivery of safety and CAPABILITY and ta enhance accountabilities
+to the Duty Holder (DH) chain. ACRONYM recognises the DH owns all
+threats with potential to cause harm 1st, 2nd, and 3rd parties and to
+cause damage to the REDACTED. It is the CE/ REDACTED’s
+responsibility to identify and correct equipment deficiencies to
+overcome threats identified and to report residual risk to the DH.
+ACRONYM provides the protocols and practices to implement and
+facilitate an effective Safety Management System to conform to
+regulations, instructions and policy. In some areas the required
+artefacts identified by ACRONYM overlap with those identified within
+GEAR, in the event of such occurrences the PROGRAMME NAME MK1 will
+ordinarily apply precedence to ACRONYM. For example, GEAR
+identifies of this requirement for a Software Acquisition Management
+Plan (SwAMP} the DATs interpretation of this requirement for the TLB
+is represented by the practise outlined in ACRONYM rather than those
+outlined in GEAR.
+
+11.5.6 GEAR will be applied where appropriate to the REDACTED
+(REDACTED) elements although the incremental nature of the
+contracts make for a challenge in setting boundaries for the GEAR
+reviews. Each REDACTED element will undergo PDR and CDR and
+sequencing and alignment of REDACTED elements and any
+association with related REDACTED elements will also be an
+engineering challenge. The REDACTED development was addressed
+as a parallel issue to be covered under Tranche 2 amendment to the
+contract (although some longer lead items and Training need analysis
+were contracted under Tranche 1). A preliminary configuration review
+was held in X DATE covering REDACTED as these are longer lead
+items requiring sub-contract to industry outside SUPPLIER; the OFT
+review also included details of a potential Part Task Trainer (PTT). A
+second configuration review was held X DATE to cover any update to
+OFT & VMT and for the remaining REDACTED elements (Distributed
+Mission Trainer (DMT) and Operational Mission Simulator (OMS). A
+final configuration review (FCR) was held in x DATE which equates to
+an SRR.
+11.5.7 Following review of the proposal for REDACTED Tranche 2 it was
+decided that the VMT and PTT were rejected as options and that the
+current proposal for the DMT and OMS would not be compliant with
+JSP x. An alternative approach was mooted during the FCR that
+discarded the DMT and entailed development of the OMS into a single
+device (Distributed OMS (D-OMS)) that was JSP x compliant and could
+
+be connected to DOTC(A).
+
+11.5.8 The D-OMS solution provided by COMPANY presented too greater risk
+in terms of performance and cost and was subsequently cancelled. The
+REDACTED will be modified with PROGRAMME operator workstations
+as a mitigating device for training PROGRAMME mission crews.
+
+11.5.9 The PROGRAMME NAME DELIVERABLE project completed an SRR for
+REDACTED, which was conducted in line with SUPPLIER standard
+processes. The SRR set the formal high-level baseline configuration for
+he DELIVERABLE. Prior to Final Configuration Reviews, the
+PROGRAMME NAME DELIVERABLE completed a Tender Assessment
+Review (TAR) for REDACTED, and a Technical Quality Audit (TQA) for
+REDACTED.
+
+11.5.10 It is the REDACTED’s intent for the type certification of the
+PROGRAMME NAME DELIVERABLE to demonstrate compliance to the
+Type Certification Basis in accordance with the Military System
+Certification Process (MACP), whilst using existing certification
+evidence from the original PROGRAMME NAME DELIVERABLE certification
+with the desired outcome being the issue, by the REDACTED, of a
+Military Type Certificate (MTC). The mission capability suite will also
+include the capability to perform REDACTED roles. Due to the added
+TLB Safety Risks associated with ATM the system also requires the
+ATM equipment Release into Service Process (RiSP) and a tailored
+approach to the RAx series and Def Stan 00-XXX are to be followed.
+
+11.5.11 All of the key tasks and deliverables are detailed in the EMP. All
+these activities will be led or supported by the engineering function,
+largely using engineering function resource allocated to the DT.
+However, for a few tasks, assurance resource will be required from
+within the Support Operating Centre (OC) and OTHER PROGRAMME.
+There is also a requirement for some external (non-MOD) support,
+which will be captured on an external resource tab within the EMP
+Workbook. Post FBC, there will be an increasing requirement for out-
+sourced Independent Technical Evaluation (ITE). Note: There are
+subordinate plans to the EMP but that they are detailed in the EMP.
+The Document Hierarchy linking the PMP and EMP is shown below:
+11.6
+
+IMAGE
+
+Security
+
+11.6.1 The PROGRAMME NAME Security Management Plan (SMP) is a living
+
+document that will be updated throughout the lifecycle of the Project.
+This body of evidence will incorporate the plan and strategy that will be
+adopted to manage all the security activities. During the Development
+and Manufacturing Phase most security activities are planning and
+preparation for the latter phases of the project. This includes resource
+planning, identification of stakeholders and early engagement with
+them. The Project has set up a Security Working Group (SWG) and
+holds regular meetings. This group will contribute to security decision
+making and act as advisors. Security activities will be managed in
+accordance with DEPARTMENT NAME 1 and wider MOD security
+policies in JSP x for managing security aspects and JSP x. Initially,
+resources will be provided by the PROGRAMME NAME Delivery team,
+Engineering and the ORGANISATION ROLE who is the security lead.
+
+11.6.2 The capability has been procured on the “of-the-shelf’ principles
+
+whereby the majority of the systems and equipment are of an extant
+baseline design previously sold to other nations, the baseline line
+design has therefore not been designed or assured to UK security
+standards or requirements. In order to achieve assurance a risk-based
+approach must be adopted whereby agreed baseline assurance issues
+are identified and presented to the customer for ownership/action.
+
+11.6.3 The above approach will mitigate and manage risks associated with
+
+baseline elements where enough understanding of the as built baseline
+products can be identified and assessed especially in the REDACTED
+(REDACTED).
+
+11.6.4 The AMS security documentation is being developed under the new
+
+11.7
+
+principles of Secure by Design (SbD) as laid out in JSP x. SbD will be
+delivered for the PROGRAMME programme through an Engineering
+Delivery Partner (EDP) project.
+
+Support Solution Development
+
+11.7.1 The Sustainment solution has been developed since DATE using
+
+experience and examples from other UK fixed wing programmes
+including OTHER PROGRAMME DELIVERABLE. The DEPARTMENT
+NAME and PROGRAMME DT have been engaged with the
+ORGANISATION and PROGRAMMEA System Programme Office at
+LOCATION over several years to learn from their experience and
+develop areas for co-operation. The UK Programme has benefited from
+the ORGANISATION experience, which includes over X years of
+operational output and capability sustainment.
+
+11.7.2 Since the decision to relocate the DELIVERABLE fleet to
+
+DEPARTMENT NAME LOCATION alongside OTHER PROGRAMME
+DELIVERABLE, the support solution has been revised to be within the
+same contract with COMPANY as OTHER PROGRAMME
+DELIVERABLE to maximise efficiencies, opportunities, and coherence
+between the fleets. The near-term intent is to create an overarching
+combined OTHER PROGRAMME DELIVERABLE-DELIVERABLE
+Through-Life Support Strategy, to develop a joint support system and
+to align the associated COMPANY support contract.
+
+11.7.3 The procurement strategy for DELIVERABLE Sustainment is to place a
+
+11.8
+
+single-source amendment to the extant OTHER PROGRAMME
+DELIVERABLE and Training Support Provider contract with
+COMPANY. Details of the sustainment contract can be found in the
+Full Business Case.
+
+Transition to Service
+
+11.8.1 The Service Transition Plan will be overseen and directed by
+
+11.9
+
+ORGANISATION FHQ with the Business Change Manager at the
+centre of its progress. The original plan looked at a seamless transition
+from REDACTED to DELIVERABLE, the new plan will focus on the
+introduction of DELIVERABLE at DEPARTMENT NAME LOCATION
+and REDACTED to meet operational and other outputs. The
+LOCATION Transition Team are the focal point for Business Change
+at DEPARTMENT NAME LOCATION and as such are already heavily
+engaged with stakeholders and in the provision of integration
+workshops.
+
+Specific Considerations
+
+11.9.1 Legal Considerations. The PROGRAMME procurement is excluded
+
+from the Defence and Security Public Contract Regulations 2011
+(DSPCR) under Regulation 7° due to the requirement for the provider
+to access nationally sensitive information. This exclusion was
+authorised by the Directorate of Security and Resilience in x DATE.
+The single-source procurement strategy is justified for technical
+reasons and intellectual property rights (IPR) restrictions. A Voluntary
+Transparency Notice, endorsed by MOD Legal Advisors, was
+published in x DATE without challenge. The A&TSP contract was
+subject to external legal review prior to award in DATE and the external
+legal advisors are providing support to negotiations for the
+DELIVERABLE sustainment amendment.
+
+11.9.2 Government Funded Assets (GFA). GFA are items that the Authority
+need to provide to a COMPANY for use on a Government contract.
+The Obligations Matrix provides information on the GFA requirements
+that the MoD are required to supply to SUPPLIER. Failure to meet the
+GFA dependencies detailed in the contract and detailed in the
+obligation’s matrix may give rise to a Delay Event, allowing for Time
+and/or Money (depending on the circumstance) against their above-
+mentioned obligations.
+
+11.9.3 Technical Assistance Agreement (REDACTED). Provision of certain
+technical data, hardware and other services are restricted by the
+REDACTED (REDACTED). Authorisation for SUPPLIER to export
+REDACTED controlled items under this contract, are governed by
+REDACTED. Any items received which are restricted under
+REDACTED must only be disclosed as allowed under the
+REDACTED.
+
+12 Governance and Organisation
+12.1 Programme Lifecycle
+
+12.1.1 The PROGRAMME Programme is currently in the Manufacture Phase
+of the CADMID cycle:
+
+IMAGE
+
+Figure 4: PROGRAMME Programme Lifecycle.
+12.1.2 A summary of the PROGRAMME manufacture phase delivery
+schedule is detailed in Annex C.
+
+12.2 Delivery Assurance
+
+12.2.1 The Integrated Approvals and Assurance plan (IAAP) and the Specific
+Evidence Table (SET) has been endorsed by Defence Portfolio and
+Approvals Secretariat (DPAS) and Scrutiny respectively and
+demonstrates that the programme continues to engage in all mandated
+Governance, Approvals and Assurance activities including Programme
+Boards, Assessment Gates and Information notes. The PROGRAMME
+NAME Programme adheres to the Project Management Control
+Framework (PMCF). All mandated programme artefacts required are
+referenced in the Programme Definition Document (PDD).
+
+12.3 Governance Boards and Key Meetings
+
+12.3.1 The PROGRAMME NAME Programme is governed by a Programme Board
+cycle that runs 3 times per year, facilitated by the ORGANISATION
+PMO and aligned with the other TLB Programmes cycle. Prior to each
+Programme Board cycle the PROGRAMME NAME Programme shall run a
+Programme Working Group (WG) meeting at which the Programme
+Mgr will report Programme delivery confidence to the Programme Dir,
+including any risks or issues affecting performance, cost or time. At the
+Programme Board, the Programme Dir will report delivery confidence
+to the SRO. The TLB Cap Delivery REDACTED Programmes
+Management Strategy sets out the detail of the programme board
+cycle, including responsibilities and attendance at each event.
+
+12.3.2 Regular governance meetings are held between the Primary
+COMPANY and the Programme Board. These include the Monthly
+Programme Review (MPR) and the quarterly Executive Programme
+Management Review (EPMR)}.
+
+12.3.3 Meetings, where required, will produce minutes to record decisions
+taken and actions agreed. These are distributed to attendees and
+relevant governance forums and placed in the project history/action log
+for ongoing reference and audit purposes. Regular PROGRAMME
+programme meetings include:
+
+PROGRAMME Programme Key Meetings
+CAPABILITY Working Group
+
+ORGANISATION Document Set Working Group
+Commercial Working Group
+
+Security Working Group.
+
+Training Steering Group
+
+Integration Test, Evaluation and Assessment {ITEA) Working Group
+DELIVERABLE Safety & Environmental Panel (WSEP)
+
+System Safety Working Group (SSWG)
+
+Establishing TLB System Integrity Management Working Group
+
+Weekly commercial engagement and updates
+
+Risk review meetings
+
+Technical Interface Meetings for Engineering elements of AMS/ REDACTED
+
+Programme Working Groups and Programme Boards
+
+DEPARTMENT NAME 1 2* AS Performance Board
+
+DEPARTMENT NAME 1 3* Performance Committee
+
+Table 17: PROGRAMME Regular Authority Programme
+
+12.3.4 The Figure 5 shows the governance structure that will wrap around the
+
+project:
+
+IMAGE
+
+Figure 5: PROGRAMME Governance Structure.
+
+12.4 Roles and Responsibilities
+12.4.1 The organisational structure chart for the Programme is located in
+Annex A. Table 16 details key programme roles and their
+accountabilities and responsibilities:
+
+Activity Responsible Accountable
+
+Team Leader Owner NAME 15 DT
+Delivery of Programme NAME 15 DT
+
+Through Life Maintenance of the TLMP NAME 16 TLB-Cap
+
+Management Planning
+
+REDACTED REDACTED for the NAME 17 DT
+DELIVERABLE
+
+Engineering Authority EA for the DELIVERABLE NAME 17 DT
+
+(EA)
+
+Mission Systems & Governance of Mission NAME 18 DT
+
+Security Systems and Project Security
+Management
+
+Training Delivery of Training Devices NAME 19 DT
+
+Project Management Delivery of the acquisition NAME 19 DT
+contract (AMS and
+REDACTED elements)
+
+Project Controls Predict and oversee the time NAME DT
+and cost of projects
+
+Infrastructure Delivery of the Infrastructure NAME 20 DT
+Project
+
+Operations Management | Governance of all Ops TBC DT
+Management activity
+Activity Responsible Accountable
+
+Supply Chain Governance of all SCM activity | NAME 21 DT
+
+Management
+
+Technical Through Life Governance of all TTLS NAME 21 DT
+
+Support (TTLS) activity
+
+Release to Service (RTS) | Production and management NAME 22 DT
+of the RTS for PROGRAMME
+
+REDACTED REDACTED NAME 23 DT
+
+Safety Delivery of all safety elements | NAME 24 DT
+for PROGRAMME
+
+Commercial Commercial lead within the DT | NAME 25 DT
+
+Finance Finance lead for NAME 26 DT
+PROGRAMME
+
+Business Management Governance of all Business NAME 27 DT
+Management activity
+
+CASP Delivery of CASP outputs NAME 28 DT
+
+FMS Case Management Delivery of FMS Case Outputs | Various DT
+Authority management of FMS | NAME 29 DT
+Cases
+
+Risk Management of programme NAME 30 DT
+risks
+
+MDAL Maintaining the MDAL SRO SRO
+
+Table 18: Roles and Responsibilities.
+12.5 Resource Plan
+
+12.5.1 Funding. The budgetary limit set by the current approval (OBC) for the
+
+DELIVERABLE Programme is £XXXX (TDEL), 5|
+and £XXXX (RDEL). The Full Business Case wil
+
+plit as EXXXX (CDEL)
+reset the Acquisition
+
+ABL and approve the Sustainment ready for contract award in DATE.
+
+12.5.2 PROGRAMME Delivery Team. The PROGRAMME DT has a resource
+
+12.5.3 Primary COMPANY. As part of their HR recruitment and skil
+REDACTED has continued their engagement with the marke’
+proactively manage their resource growth to meet the support
+requirements for the PROGRAMME Sustainment programme. TI
+
+loaded schedule for the OPEX for acquisition, infra and long
+activities approved in the OBC. This is the basis
+Breakdown Structure and recruitment of DEPARTMENT NAME 1
+personnel against the programme. A new separate resource
+schedule is being developed for the Sustainment approval an
+Service Phase that will run in parallel to the acquisition sched!
+OPEX resourcing. The new Sustainment schedule will be reviewed
+against the DEPARTMENT NAME 1 Project Controls schedu
+process and health checks during its development. It will be endorsed
+and live prior to the Sustainment contract award in DATE.
+
+lead
+
+‘or the Organisational
+
+loaded
+id In-
+ule and
+
+ing
+
+Is growth,
+place to
+
+his is
+building on the work they have already done for the PROGRAMME
+acquisition programme with the LOCATION DELIVERABLE
+modification work and sub-COMPANYs supporting PROGRAMME
+acquisition. Additionally, the PROGRAMME Sustainment solution will
+build on the current COMPANY resources in place for OTHER
+PROGRAMME DELIVERABLE at LOCATIONS and DEPARTMENT
+NAME LOCATION. COMPANY has also continued to develop their
+engagement with local bodies in the DEPARTMENT NAME
+LOCATION area, including technical colleges, as part of their resource
+growth strategy for the area for the OTHER PROGRAMME
+DELIVERABLE and DELIVERABLE programmes.
+12.6 Performance Monitoring and Reporting
+
+12.6.1 The TLB Cap Programme Manager (PM), supported by the
+Requirements Manager (RM) and the Programme Management Office
+(PMO) will monitor programme performance to ensure that KURs are
+being satisfied and evidence is being gathered to support acceptance
+of the programme capabilities into Service, in accordance with the
+Programme specific detail contained within the Integrated Test,
+Evaluation & Acceptance Plan (ITEAP), maintained by the RM. The
+DLoD Assurers/Owners will be consulted to ensure that they are
+content that the activities that impact the Programme are on track to
+deliver its outcomes.
+
+12.6.2 A performance review is carried out during the Programme Board cycle
+hat runs 3 times per year, facilitated by the ORGANISATION PMO and
+aligned with the other TLB Programmes cycle. Prior to each
+Programme Board cycle the PROGRAMME NAME Programme shall run
+RAIDO WGs among others to inform the Programme Working Group
+WG) meeting at which the TLB Programme Manager will report
+Programme delivery confidence to the Pg Dir, including any risks or
+issues affecting performance, cost or time. At the Programme Board,
+he Pg Dir will report delivery confidence to the SRO.
+
+12.6.3 Reporting requirements include a quarterly return to the HQ TLB or
+JFC PfOs using the Portfolio Management Reporting System (PMRS).
+This information is used to inform the Portfolio Progress Group (PPG)
+and onward reporting to the Defence Major Programmes Portfolio
+DMPP) and Government Major Programmes Portfolio (GMPP).
+
+12.7 Engagement and Communication
+12.7.1 Identify and Analyse
+
+12.7.1.1.| The Programme has undertaken stakeholder identification in
+order to determine the key groups and individuals that it will need to
+engage and communicate with over its lifetime. Key programme
+stakeholders are identified in Table 19:
+
+Organisation Nature of Involvement Interaction Method
+
+Primary interaction via Programme
+Director and Manager, Programme
+Working boards with Business Cases.
+and review notes formally submitted.
+
+REDACTED Programme Sponsor.
+Organisation
+
+Nature of Involvement
+
+Interaction Method
+
+REDACTED
+
+Provide audit and assurance of
+Programme Infrastructure Solution.
+
+DEPARTMENT 2 are the default
+Delivery Agent for MOD infrastructure
+solutions. However, the PROGRAMME
+NAME Programme has been granted
+exemption to use DEPARTMENT
+NAME 1 as the Lead Delivery Agent.
+Exemption notwithstanding,
+DEPARTMENT 2 will have some
+involvement in the final assurance
+piece for the delivered infrastructure
+solution, and engagement will be
+required throughout.
+
+Infrastructure Working Group.
+
+Regular engagement via
+DEPARTMENT NAME 1 Lead
+Delivery Agent manager.
+
+REDACTED
+
+Capability End User; interests to be
+represented by an appointed Business
+Change Manager (BCM) to oversee
+entry into service, transition between
+the capabilities and realisation of
+prescribed capabilities. ROLE are the
+Operational Duty Holder (ODH)
+responsible for meeting the Senior
+Duty Holder's (SDH) objectives in the
+safe employment of personnel and
+usage of equipment.
+
+Delivers Programme activities/roles
+as tasked by Programme Team.
+
+REDACTED
+
+Oversight of the DEPARTMENT
+NAME Training requirements and
+training service delivery in support of
+entry into service and through life
+capability sustainment. Providing
+assurance of phrase 1 & 2 Trg and
+phase 3 Trg upon requirement via
+delegation of REDACTED.
+
+Specification and stand-up of new
+training services and capabilities for
+REDACTED STAFF
+
+Delivers Programme activities/roles
+as tasked by Programme Team.
+
+Training WG
+
+REDACTED
+
+Assure the Provision of through-life
+support, sustainment requirements, the
+support solution and the delivery of the
+REDACTED (REDACTED).
+
+Delivers Programme activities/roles
+as tasked by Programme Team.
+
+Logs WG
+
+REDACTED
+
+Provide oversight and expertise for all
+Information, Comms and Security
+requirements across PROGRAMME
+DLoDs, with primary focus on the
+Information DLoD (owner).
+
+Infra Comms
+
+Assures Programme activities/roles
+as tasked by Programme Team.
+
+Security and Information WGs
+Organisation
+
+Nature of Involvement
+
+Interaction Method
+
+Responsible for Information Exchange
+Environments (IERs)
+
+Risk Management & Accreditation
+Document Set (RMADS)
+
+REDACTED REDACTED oversee the Infrastructure | Delivers Programme activities/roles
+inthe PROGRAMME Strategic facility | as tasked by Programme Team.
+at DEPARTMENT NAME 2 .
+
+LOCATION. DEPARTMENT Information WG
+NAME 1 are Lead Delivery Agent for
+the provision.
+
+REDACTED REDACTED (on behalf of REDACTED) | Delivers Programme activities/roles
+is responsible for providing the as tasked by Programme Team.
+Workforce Requirement (WR). Pers
+DLoD is responsible for prioritising and
+allocating trained strength into the WR.
+
+REDACTED Provision of PROGRAMME specific Delivers Programme activities/roles
+doctrine, concepts and tactics; as tasked by Programme Team.
+integration of PROGRAMME into
+wider UK and Allied TLB structures.
+
+Also responsible for providing T&E
+support to the programme, inc GFX
+commitments to the CTT
+
+Investment Due to the Cat A Nature of this Primary interaction via SRO and
+
+Approvals Programme, all Programme Business. Programme Manager, with Business
+
+Committee Cases will be submitted to the MoD Cases and review notes formally
+
+(IAC) IAC for approval, post review and submitted.
+validation by the TLB Scrutiny and
+Approvals Team, and Defence
+Procurement Approvals & Scrutiny
+(DPAS).
+
+Business Case assurance for MoD,
+external to TLB.
+
+REDACTED The certification of the DELIVERABLE | REDACTED
+for UK service requires involvement
+with the REDACTED. DELIVERABLE Safety and
+
+Environmental Panel (WSEP), and
+other DT-led safety- and certification-
+related WGs.
+REDACTED
+
+Working Group.
+AMS
+
+Hd Scrutiny, Defence Procurement and Approvals Evidence Working Groups.
+
+DPAS Scrutiny team assist the Programme Operational Analysis Working
+
+Team with the preparation of business
+cases, and all required evidence for
+investment decisions to be made.
+
+Groups.
+Business Case preparation
+meetings.
+Organisation
+
+Nature of Involvement
+
+Interaction Method
+
+OTHER
+ORGANISATION
+
+Design and deliver a SOLUTION;
+ensure the solution satisfies JSP x
+Network Joining Rules; working
+alongside DELIVERY PARTNER, the
+PROGRAMME Information
+Requirements Engineer, and TLB as
+the Information DLoD assurers.
+
+Programme of Work managed
+between DEPARTMENT NAME 1 as
+LDA and Defence Digital in the
+Information Services Plan (ISP).
+
+TLB To assist in the negotiations of the Engagement through Programme
+Commercial provision of REDACTED contract. team and REDACTED WG.
+SUPPLIER Prime COMPANY and primary industry | Associated commercial activity and
+Defence UK partner with overall responsibility for engagement is managed through
+delivering PROGRAMME NAME DELIVERY PARTNER, being the
+DELIVERABLE, and the infrastructure lead delivery agent (LDA).
+concept and assessment phase.
+OTHER SUPPLIER are providing the Associated commercial activity and
+SUPPLIER DELIVERABLE which will be engagement is managed by
+REDACTED. SUPPLIER Defence and Space, as
+the Coordinating Design
+Organisation, via COMPANY (the
+prime COMPANY) and DELIVERY
+PARTNER, as LDA
+REDACTED REDACTED are existing operators of Either via REDACTED. Or, the
+
+the PROGRAMME platform, and the
+PROGRAMME NAME Programme will
+work closely with REDACTED to learn
+from their experience and de-risk
+delivery. REDACTED are providing
+initial training for PERSONNEL. Both
+nations are planning for future
+cooperative upgrades.
+
+DEPARTMENT NAME
+representative in LOCATION.
+Interaction is routine, due to existing
+Exchange Officers training in
+REDACTED. Moving forward, it is
+expected that a comprehensive
+Memorandum of Understanding
+(MOU) will be signed between the
+UK and REDACTED, which will
+permit for more open information
+sharing and LFE.
+
+12.7.2 Plan and Engage
+
+12.7.2.1
+
+Programme communication themes, objectives and key events
+
+and are captured in the PROGRAMME NAME Communications Plan‘.
+
+12.7.3 Review
+12.7.3.1 The stakeholder list will be regularly reviewed and kept up to
+date. A Core Script has been developed within the Programme
+Media & Communications Plan and is regularly reviewed to provide
+key messages, lines to take and information on the programme to
+
+inform MOD stakeholders and press office when dealing with media
+and industry.
+
+12.8 Learning from Experience and Knowledge Management
+
+12.8.1 Learning from Experience (LfE) is an essential element of project
+
+management, which allows organisational learning by replicating
+successes, avoiding mistakes, and publicising and promoting good
+practice. The ORGANISATION Quality Assurance and LfE strategy
+document details the responsibilities of all personnel invalved in the
+learning and exploitation of lessons to aid future planning and better
+programme management. It states why, by whom, how and when
+lessons should be submitted and is aligned to the principles of the TLB
+Portfolio Office (PfO) LfE Strategy.
+
+12.8.2 LfE reviews will be undertaken at appropriate intervals during the
+
+project life to implement the lessons gained. LfE will also be exchanged
+with TLB Command as appropriate. Lessons identified are captured in
+he ORGANISATION Lessons Register. DT stakeholders are to submit
+lessons identified using the OTHER PROGRAMME capture form to
+OTHER PROGRAMME HPMO1 EMAIL.
+
+12.8.3 The following 5-step approach to LfE will be used to ensure lessons
+are identified, captured, analysed, shared and implemented:
+
+IMAGE
+
+Figure 6: PROGRAMME Programme LfE process.
+
+12.8.4 The PROGRAMME DT have identified the following lessons to be
+considered and utilised from other major programmes:
+
+12.8.4.1 Allied platform upgrade Programmes. Both REDACTED and
+REDACTED have undergone recent upgrade Programmes in
+capabilities very similar to REDACTED. The DT has sought
+experiences from these Programmes.
+
+12.8.4.2. REDACTED. This team, funded through an extant FMS case,
+has provided valuable insight into the costs and schedules of
+comparable Programmes.
+
+12.8.4.3 Infrastructure upgrade for the PROJECT project at
+DEPARTMENT NAME LOCATION had similar programme
+12.9
+
+requirements.
+
+Information Management
+
+12.9.1 Effective information management across the DT is enabled through
+
+use of Microsoft (MS} Teams and SharePoint. MS Teams serves as a
+hub for real-time communication and collaboration, enabling the DT to
+chat, meet and co-author documents. SharePoint compliments this by
+providing a secure and organised document management system. The
+DT can access, share and collaborate on SharePoint libraries directly
+through the MS Teams interface.
+
+12.9.2 All key management, approval, planning and strategy documents are
+
+additionally stored within the HQ PROGRAMME SharePoint site. When
+documents are no longer being worked, they will be either deleted or
+filed as a record in accordance with MOD Policy. Please refer to the
+
+PROGRAMME Information Management Plan for additional information.
+
+13 Monitoring and Control
+
+13.1
+
+Change Control
+
+13.1.1 PROGRAMME programme change management is a key element of
+
+Project Controls (PC) as it ensures a consistent, controlled and
+assured approach involving all key stakeholders and incorporates
+internal business case approvals. The change management process is
+held on the SYSTEM with the responsibility of identifying, raising,
+approving, assuring and implementing change management requests
+falling to all functional areas as appropriate.
+
+13.1.2 The Project Management Baseline will only be amended via the use of
+
+13.2
+
+the PROGRAMME change management process and completion of the
+appropriate Baseline Change Request (BCR) form. The scheduler will
+liaise with the Project Manager (PM) or/and Control Account Manager
+(CAM) and others in the development and maintenance of a resource-
+loaded baseline schedule. The baseline schedule will only be adjusted
+with an approved BCR. The resource-loaded baseline schedule will be
+used as the basis for the EVM plan or Budgeted Costs of Work
+Scheduled (BCWS).
+
+Schedule Control
+
+13.2.1 An integral part of successful Programme delivery is the development
+
+and agreement of the schedule. The schedule should combine the
+efforts required from DEPARTMENT NAME 1 to deliver the
+programme, as well as a summary of the delivery schedule produced
+by the supplier. The Project Controls Scheduler verifies and validates
+the supplier schedule against the contract requirement. We expect the
+supplier to produce a summary schedule which we then integrate into
+our Integrated Master Schedule (IMS). If the programme has
+dependencies upon other projects in DELIVERY PARTNER, then a
+condensed view of the dependent schedule will also need to be
+integrated into the IMS. For audit purposes, all the estimated durations
+from the IMS are recorded in a schedule data and assumptions list
+{SDAL) along with any global assumptions applied to the schedule
+such as: non-working periods, hours in a working day, etc.
+
+13.2.2 Once the IMS has been created, it is output-assured by Project
+Controls against a checklist intended to assess the technical structure
+of the schedule. Once the schedule has been resource-loaded with one
+of the generic resource profiles, it is used to generate the staffing plan
+for the programme, which is used as a demand signal for assignments
+to be filled.
+
+13.2.3 The programme schedule is contained in SCHEDULE SOFTWARE
+and managed as follows:
+
+13.2.3.1. The DEPARTMENT NAME 1 Project Scheduler will liaise with
+relevant personnel (including COMPANYs and other staff external
+to the DT) monthly to determine progress of tasks against the
+schedule to update the current schedule. The PM is responsible for
+ensuring a monthly drumbeat meeting takes place prior to the ‘Bl
+Analytics’ Cost Performance Reporting (CPR) deadline. Once the
+drumbeat has taken place and the project position has been
+agreed, the PM is responsible for completing the CPR variance
+analysis in line with the TLB Chief Operating Officers (COO)
+timetable as notified by the PCM in BI Analytics.
+
+13.2.3.2 CPR variance explanations are to use the format of Cause,
+Impact, resolution for those variances that have a Schedule
+Performance and Cost Performance Indicator (SPI/CPI) variance
+that is outside of DT tolerance levels of +/-10%. Explanations are
+required for current period, cumulative and at-completion values
+and should be forward looking not just historical.
+
+13.2.3.3 The schedule details the project milestones as set out in the
+CASP. Schedule Risk Analysis will be used to determine risk
+adjusted 10%, 50% and 90% confidence figures for each milestone
+and CASP milestones will be reviewed by the PROGRAMME Team
+Leader monthly. The PM is responsible for ensuring that CPR
+variance analysis explanations includes pre-warning if a CASP
+milestone is at risk.
+
+13.3 Cost Control
+13.3.1 Cost Control activity will be undertaken in accordance with MOD’s
+
+Financial Management and in DEPARTMENT NAME 1 instructions,
+guidance and timetables published by DEPARTMENT NAME 1
+Resources.
+
+13.3.2 PROGRAMME programme funding will be provided by TLB Cmd,
+established through the Annual Budget Cycle (ABC) process and
+reviewed biannually through the Project Cost Review (PCR) process.
+The In-Year forecast and programme actual expenditure will be
+reviewed monthly utilising the Cost Coherency Tool (CCT) until the roll-
+out of P3M release 4 which will incorporate cost into the same
+mandated PC toolset. Performance against Control Totals (CT) is
+monitored through monthly cost.
+
+13.3.3 As costs are incurred, they are recorded in the FINANCE TOOL and
+are then fed into the project's P3M cost engine tool, OTHER
+SOFTWARE. The costs incurred by DEPARTMENT NAME 1 staff are
+extracted from the time-bookings for the PROGRAMME programme in
+the period, held in the P3M tool. The project controls cost controller
+scrutinises the costs incurred to date and gathers evidence for work
+currently in progress. They then determine what value of work should
+be added to the project's accruals for the ‘non-receipted’ work in
+progress (WIP). The value of this work and the associated evidence is
+passed over to the finance and accounting function so that the project
+monthly accruals can be added to the general ledger. Discrepancies
+between the P3M tool and the general ledger are investigated and the
+P3M tool amended before the cost data is ready for variance analysis.
+
+13.4 Risk Management
+
+13.4.1 The risk management procedure can be found via the following
+SYSTEM link: LINK . The RACI matrix shows who holds responsibility
+for risk management within the project.
+
+13.4.2 Project threat and opportunity information is held in the SOFTWARE
+NAME database. The following scoring schemes are used in
+SOFTWARE NAME:
+
+13.4.2.1 For acquisition: Cat A Acquisition - SOFTWARE NAME.
+13.4.2.2. For in-service: NEW In Service Support AB.
+
+13.4.3 The Risk Manager conducts a monthly drumbeat review of each risk in
+the PROGRAMME programme risk register with the respective risk
+owners. Quarterly risk reviews chaired by the Team Leader, facilitated
+by the Risk Manager and attended by all team members are required.
+
+13.4.4 Risk management documentation including policies, procedures, desk
+instructions and guidance can be accessed through the SYSTEM or
+through the DEPARTMENT NAME 1 Risk Community Portal on
+Sharepoint.
+13.4.4.1. SYSTEM link: LINK
+13.4.4.2. Risk Community Portal: LINK
+
+13.4.5 The Project Delivery Learning & Development Hub provides details of
+the risk discipline training which is currently available. Training courses
+can be booked via MyHR which requires approval by DM & FDO.
+
+13.4.6 Project Controls Foundation Skills (PCFS) training is a series of E-
+Learning modules providing an awareness level of training on the
+different Project Controls sub disciplines. Risk Management is module
+5 and is now available through the Defence Learning Environment.
+
+13.4.6.1 Risk Training link: LINK
+
+13.4.7 Risk ownership is delegated to the best person to manage. Generally,
+the CAMs are the owners of the risks, however the best person to
+manage is decided initially during risk identification and reviewed in
+further risk reviews.
+
+13.4.8 If a risk cannot be managed by the DT, then it will require escalating.
+The decision for this process lies with the Team Leader. All high and
+very high-level risks (based on target score) will be reviewed for
+escalation during the Team Leader level risk review. Escalation will be
+considered if:
+
+13.4.8.1 There is a perceived likelihood of cross-business influence
+outside of current delivery area.
+
+13.4.8.2 Required actions fall to a higher level of responsibility.
+
+13.4.9 Management Reserve (MR) for the PROGRAMME programme is
+determined utilising the risk data held in SOFTWARE NAME and
+provided to cost control to enable profiling for In-Year management and
+PCR MR reporting.
+
+13.4.10 Customer Risk Management is held on a quarterly basis by TLB
+Command via a pan DLOD risk review, to which the DT are invited to
+attend. The DT will review any actions required prior to this risk review
+and send relevant DEPARTMENT NAME 1 representation. Should
+there be any risk(s) that are better managed by DEPARTMENT NAME
+1 this will be proposed during the risk review and then sanctioned in
+the monthly DT risk review.
+
+13.4.11 The management of Risk, Assumptions, Issues, Dependencies
+and Opportunities (RAIDO) is documented in the MOD Risk
+Management Policy JSP x and DEPARTMENT NAME 1 risk
+management policy.
+13.5 Issue and Opportunity Management
+
+13.5.1 Issue and Opportunity Management is linked to the Risk Process and
+captured on SOFTWARE NAME.
+
+13.5.2 The Master Data and Assumptions List (MDAL) and Third Order
+Assumptions (OAs) are used to record all assumptions that underpin
+and affect PROGRAMME project. The MDAL is to be reviewed
+quarterly by the DT and the 30As are to be reviewed annually by the
+DT Requirements Manager RM as part of the ABC process.
+
+13.5.3 The project dependencies are recorded in the MDAL and managed
+primarily through Internal Business Agreements (IBA) and commercial
+contracts. Dependencies that are required by a specific date are
+included in the schedule and are monitored by the project scheduler.
+
+13.5.4 The delivery of Efficiencies and Benefits has been managed through
+the DEPARTMENT NAME 1 Benefits Management Application (BMA).
+The following key benefits have been recorded for the PROGRAMME
+
+Programme:
+Benefit Reference | Name Total DEL Value
+x PROGRAMME - Zero VAT Rating EXXXX
+Refund
+x PROGRAMME LOCATION EXXXX
+x Sale of residual PROGRAMME Surplus EXXXX
+
+Assets not required under Loan
+agreement with REDACTED
+
+x CatMan (Historic) - ESP SUPPLIER EXXXX
+Portfolio Approach - PROGRAMME Drop
+1
+
+x PROGRAMME/DELIVERABLE EXXXX
+Acquisition
+
+Table 20: Benefits delivered in the PROGRAMME as recorded on SOFTWARE.
+
+13.6 Supplier and Contract Management
+
+13.6.1 The Contract Management Plan (CMP) is the key reference document
+for contract management. It provides details of the approach to
+managing the UK PROGRAMME Acquisition Contract throughout its
+Period of Performance (PoP). During the contract, the CMP will be a
+day-to-day management handbook. It provides details including who
+does what, when and how under the contract.
+13.6.2 The CMP is an evolving document and will be updated throughout the
+life of the contract. It does not replace the contract (which always has
+
+primacy) and the CMP itself has no contractual status. The CMP is the
+requirement is managed and delivered.
+
+tool by which the contrac’
+
+13.6.3 Key suppliers to the PROGRAMME Programme are highlighted in
+
+Table 17 below:
+
+Contracting Transparency .
+Level Obligations Regime COMPANY Deliverable
+Contract Qualifying Defence NAME OF Overall responsibility of delivery of
+Contract COMPANY the contract, as a thin prime
+Sub-contract SUPPLIER Agreement. NAME OF Delivery of PROGRAMME Platform
+COMPANY System as the design organisation
+(also responsible for procurement
+Defence Contracts of SUPPLIER DELIVERABLE)
+Management Agency
+(DCMA) validated
+Sub-contract | Comparators. NAME OF DELIVERABLE
+COMPANY
+Sub-contract NAME OF Initially supplying DELIVERABLE
+COMPANY
+Sub-contract NAME OF Platform Modification
+COMPANY
+Sub-contract NAME OF OFT Supplier
+COMPANY
+Sub-contract Transparency as per the | NAME OF Certification: REDACTED and Test
+apc. COMPANY & Evaluation (T&E)
+Contracted back to
+SUPPLIER
+Sub-contract COMPANY Agreement. NAME OF Provision of REDACTED
+COMPANY (REDACTED) for Tranche 1 &
+
+Financial Investigation
+Services (FIS) validated
+comparators (FIS is a
+department of defence
+within the LOCATION).
+
+Tranche 2 Increment 1
+
+Table 21: Key suppliers to the PROGRAMME
+13.6.4 The following defined roles exist within the contract:
+
+AWACS Specific
+Role Description of Role DEPARTMENT
+NAME 1/
+COMPANY
+Defined as an organisation and team responsible for the project.
+[The COMPANY shall be responsible to the Authority, subject to}
+COMPANY the provisions of this Contract, for the timely, economic and COMPANY
+roper execution of the Contract as described in the Schedule of|
+equirements.
+lit is the Project Manager's duty to manage the contract on behalf|
+pf DEPARTMENT NAME 1 with the intention of achieving the
+{contract objectives regarding time, performance and cost.
+[The Project Manager is responsible to confirm with the Authority’s|
+{Commercial Officer that contract deliverables {including those|
+| gainst the Milestone Payment Plan) are acceptable following
+Authority engagement with the required SME's. DEPARTMENT
+Project
+Manager |The Project Manager is responsible for ensuring that the CDRL's| NAME 1
+re reviewed and approved by the appropriate function SME's
+.g., Engineering, Integrated Logistics, Project Controls etc.
+[The areas that the Project Manager is NOT involved in are:
+ommercial Officer responsibilities, the act of termination, and in
+his case authority to commit DEPARTMENT NAME 1.
+{Only the Commercial Officer has authority on behalf of
+IDEPARTMENT NAME 1 to make any decision or award or
+issue any acceptance, certificate, statement, approval,
+instruction or other communication that:
+Authority p) Varies the Completion Date, any Key Dates or the Accepted DEPARTMENT
+Commercial Programme;
+Officer NAME 1
+b) Varies to the Ts&Cs of the contract.
+ic) Settles, waives, diminishes or extinguishes any rights, claims.
+for entitlements that DEPARTMENT NAME 1 may have or
+pbligations or liabilities that the COMPANY may have.
+Table 22: Contract Management Responsibilities.
+
+13.6.5 A record of significant changes to the contract is captured in the Project
+History (PH) section of the CMP. Since initial signature, there have
+been eleven amendments to the contract to date, as follows:
+
+Contract version Date
+
+Amendment 1 XX XX DATE
+Amendment 2 XX XX DATE
+Amendment 3 XOX DATE
+Amendment 4 XX XX DATE
+Amendment 5 XX XX DATE
+Amendment 6 XX XX DATE
+Amendment 7 XOX DATE
+Amendment 8 XX XX DATE
+Amendment 9 XX XX DATE
+Amendment 10 XOX DATE
+Amendment 11 XX XX DATE
+
+Table 23: Contract amendments.
+
+13.7 Quality Management
+
+13.7.1 PROGRAMME programme quality and assurance is conducted in
+accordance with MOD policy JSP and will comply with the TLB Quality
+and Assurance Strategy.
+
+13.7.2 Quality management in the PROGRAMME programme ensures that
+stakeholders are satisfied that the planned benefits have the best
+chance of being realised and programme objectives will be met. It is
+about identifying the right things to do and doing them correctly. It is
+principally focused on process effectiveness which is set out in the
+programme governance strategies, alignment with the TLB Command
+Plan and confirmation that the programme will meet defined benefits
+and endorsed user requirements.
+
+13.7.3 PROGRAMME programme assurance will take place to provide the
+SRO and other stakeholders, including the Investment Approvals
+Committee, with confidence that the programme is on track to meet its
+objectives.
+
+13.7.4 Assurance activities will be focused on areas of highest risk to
+programme success and are coordinated to support decision-making
+and inform investment approvals, while avoiding duplication of activities
+that do not add value. Assurance activities will be recorded on the
+PROGRAMME programme’s Integrated Assurance and Approvals Plan
+{IAAP}, which will be maintained to cover as a minimum, the current
+and following two financial years.
+
+EVALUATION AND CLOSURE
+
+14 Evaluation
+
+141 The PROGRAMME programme evaluation and acceptance process is
+detailed in the Integrated Test, Evaluation and Acceptance Plan (ITEAP). The
+ITEAP is owned and maintained by TLB Cap via the Requirements Managers.
+14.2 The ITEAP outlines the general approach to be taken by the
+PROGRAMME programme and bound the activities required to satisfy the
+following structured arguments:
+
+14.2.1 Structured Argument 1 (SA‘1): the DELIVERABLE Systems will be
+Safe to Operate and Operated Safely.
+
+14.2.2 Structured Argument 2 (SA2): the DELIVERABLE Capability will be
+REDACTED.
+
+14.2.3 Structured Argument 3 (SA3): the DELIVERABLE Systems will be
+Contractually Acceptable.
+
+14.3 The status of each of the structured arguments will be measured at
+each capability milestone (e.g., Introduction to Service, Initial Operating
+Capability and Full Operating Capability) and are expected to require
+consideration from a pan-DLOD perspective (see Figure 7). The ITEA activity
+will ultimately underpin arguments that the programme KURs and hence
+approved business case has been met.
+
+IMAGE
+
+Figure 7: PROGRAMME ITEA in context.
+
+15 Closure
+
+15.1 AMS and REDACTED Acceptance shall be Achieved on satisfaction
+of the criteria detailed in Clauses 79 & 80 of the contract. Acceptance of Data
+Items required for Acceptance as detailed in Schedule 11 (Contract Data
+Requirements List) shall be achieved on satisfaction of the criteria detailed in
+Clause 81 of the contract.
+
+15.2 Prior to satisfaction of the acceptance criteria, set out in Clauses 79 -
+81 of the contract terms and conditions, the Authority shall have the right to
+reject the AMS, REDACTED, MSS and/or the Data Items.
+
+16.3 The PROGRAMME Programme Management Plan will be considered
+closed on contractual acceptance of the PROGRAMME NAME into service, at
+which point transition will take place into the PROGRAMME Service Delivery
+Plan. The Transition to Service Plan will be overseen and directed by
+ORGANISATION FHQ.
+Annexes
+
+Annex A: Delivery Team Organisational Chart (1).
+
+REDACTED
+
+Annex A: Delivery Team Organisational Chart (2).
+
+REDACTED
+Annex B: Work Breakdown Structure
+
+REDACTED
+Annex C: Summary of Programme Schedule (X DATE)
+
+REDACTED
+Document References
+
+Outline Business Case (OBC} REDACTED
+
+Full Business Case (FBC) REDACTED
+
+Concept of Employment (CONEMP) | REDACTED
+
+System Requirement Document REDACTED
+(SRD)
+Monitoring and Control Strategy REDACTED
+
+Contract Management Plan (CMP) REDACTED
+
+Command Acquisition and Support
+
+Plan (CASP) REDACTED
+Integrated Test & Evaluation
+
+Strategy (ITEA) REDACTED
+REDACTED SharePoint Site REDACTED
+30A Review REDACTED
+Commercial Strategy REDACTED
+Work Breakdown Structure (WBS} REDACTED
+Dictionary —===~=
+Engineering Management Plan
+
+(EMP) REDACTED
+Security Management Plan (SMP) REDACTED
+Obligations Matrix (OM) REDACTED
+Integrated Approvals & Assurance
+
+Plan (IAAP) REDACTED
+Specific Evidence Table (SET) REDACTED
+Programme Definition Document
+
+{PDD} REDACTED
+Communication Plan REDACTED
+
+Quality Assurance & LfE Strategy REDACTED

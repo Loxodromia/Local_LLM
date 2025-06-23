@@ -1,0 +1,996 @@
+DATE  
+File reference: XXXX  
+NAME OF PROJECT  OUTLINE BUSINESS CAS E – CAT B 
+Executive Summary  
+The NAME OF TEAM  delivers c. NUMBER OF DELIVERABLES  to provide  
+operational and training capability for multiple end users  across Defence.  
+ 
+The CUSTOMER  has their support activities  performed under the existing ‘In 
+Service Support’ (ISS) Contract s which are due to expire DATE . This project seeks 
+to re -assess the market to ensure continued Value for Money (VfM ) under new 
+seven (XXXX ) year’ contract s, ‘In Service Support  YEAR  - YEAR ’ (ISS DATE ), to 
+ensure ongoing delivery of the enduring capability provided by NAME OF 
+DEPARTMENT  DELIVERABLES . 
+ 
+Approval is sought to enable a competitive negotiated commercial process to take 
+place, so that contracts can be awarded effective DATE . Failure to deliver in -
+service support will lead to loss of operational capability across Defence . The 
+project is  high volume, but  low risk and low technical complexity.  
+ 
+Issue  
+1. Approval for the project to begin a competitive negotiated procurement exercise , to 
+allow NAME OF OTHER DEPARTMENT 1 to re-test the market to ensure that VfM is 
+delivered  and ongoing in -service support to the NAME OF DEPARTMENT 
+DELIVERABLE s CUSTOMER  is provided following expiry of the existing contracts on 
+DATE .  
+Timing  
+2. Routine.   Approval is required by DATE (NAME OF OTHER DEPARTMENT 1 ), 
+DATE (NAME OF OTHER DEPARTMENT 2 ) and  DATE (NAME OF OTHER 
+DEPARTMENT 3 ), to maintain the critical path to Contract Award and mitigate the risk of 
+the   CUSTOMER  becoming unsupported.  
+Recommendation(s)  
+3. The Approving Authority  is invited to  approv e: 
+a.  Progression to a zero -cost assessment phase with formal industrial 
+engagement through release of the Contract Notice , DPQQ  and subsequent ITN 
+documentation .   
+4. The Approving Authority is also invited to note :  
+a. The Control Total  (CT) allocated to provision of in -service support from DATE  
+to DATE  is £XXXX  including VAT  (Annex A) , split as follows:   Category  
+£XXXX  Total  Funded by 
+NAME OF 
+OTHER 
+DEPARTMENT 3  Funded by 
+NAME OF 
+OTHER 
+DEPARTMENT 4  Funded by NAME 
+OF OTHER 
+DEPARTMENT 5  
+RDEL  XXXX  XXXX  XXXX  XXXX  
+CDEL  XXXX  XXXX  XXXX  XXXX  
+RMC  XXXX  XXXX  XXXX  XXXX  
+Table 1: ISS DATE  Control Total  
+b. The FBC is planned to be submitted in DATE . 
+c. The forecast cost is £ XXXX  (Annex A) , giving a delta of £  XXXX . This will be 
+managed via  a Limit of Liability  (LoL)  and market engagement will be at the LoL 
+level so that if the agreed provision is not increased there will be no risk of legal 
+action.  
+Project Phase  Estimated Cost (£ XXXX ) 
+10% 50% 90% 
+Estimate at previous phases (SOC)  N/A N/A N/A 
+Actual costs at previous phases (SOC)  N/A N/A N/A 
+Estimate requested for current phase (OBC)  0 0 0 
+Estimate requested to deliver project (FBC)  XXXX  XXXX  XXXX  
+Table 2: 10/50/90% confidence levels for the cost of the project phases  
+d. An affordable FBC will be presented . The affordability challenge will be 
+addressed via several routes:  
+i. A bid to increase agreed provision in PCR 1 -DATE ; or 
+ii. Using the framework arrangement within the contract  so the number of 
+DELIVERABLE  supported can be tailored; and/or  
+iii. Utilising FLC underspends via Review Note; and 
+iv. Introducing efficiencies within the contract ; and  
+v. running the competition to achieve the best VfM.  
+e. The schedule to Contract Award  at Annex D has been baselined and a n SRA 
+has been conducted which indicates a X% pre -mitigated and X% post mitigated 
+chance of delivery to schedule . Post mitigation, the SRA has indicated project end 
+dates (including Project Evaluation) as:  
+i. 10% = DATE  
+ii. 50% = DATE  
+iii. 90% = DATE  
+  f. The Key User Requirements a t Annex B will be met by the recommended 
+option.  
+g. The significant risks to delivery at Annex G centre around affordability . All 
+relevant risks have been incorporated into the cost models and schedule presented . 
+However, there is no intention to spend beyond the agreed provision  and an 
+affordabl e FBC will be presented.  
+Strategic Case  
+5. The NAME OF OTHER DEPARTMENT 3 , NAME OF OTHER DEPARTMENT 4 , and 
+NAME OF OTHER DEPARTMENT 5  require a highly available and reliable  capability to 
+deliver endorsed Defence Tasks . The DELIVERABLE s CUSTOMER  delivers  against 
+operational and training  Statement of Need(s) and Key User Requirements (KURs) 
+(Annex B) . This p rovide s a timely provision of available DELIVERABLE s, along with the 
+ability to respond to increasing demands, which sits at the heart of improving platform 
+availability.  
+ 
+6. The DELIVERABLE s CUSTOMER  is comprised of c.NUMBER OF  
+DELIVERABLE s, ranging in complexity from DELIVERABLE s, to NUMBER  PXXXX  
+DELIVERABLES . From  DATE  to DATE , DELIVERABLE s have been supported by the 
+DELIVERABLE s In Service Support (ISS) contract s. The ISS contract s separates  the 
+DELIVERABLE s into NUMBER OF separate ‘lots’ based on user need and location, and  
+is currently delivered by NUMBER  service providers (Annex C). The support delivered 
+includes but is not limited to:  
+ 
+• Scheduled preventative maintenance ; 
+• Reactive maintenance, defect rectification, and repair ; 
+• Mid Life Upgrades ; 
+• Replacement and/or replenishment of existing DELIVERABLE  with 
+DELIVERABLE s; 
+• On-site support ; 
+• Supply of spares ; 
+• Post Design Services (PDS) ; 
+• Testing and trials ; 
+• Configuration, obsolescence, and documentation management . 
+ 
+7. Learning from Experience ( LfE) was conducted on the ISS contract,  and the most 
+significant points incorporated into the proposed ISS DATE  design, specifically:  
+• Lot structure and allocation – fewer lots with amended DELIVERABLE  allocation 
+(Annex H) ; 
+• Tasking processes – easier process with increased opportunity for automation ; 
+• Key Performance Indicators (KPIs) and Performance Management – introduction 
+of two amended and two additional KPIs to deliver increased contract 
+performance, with financial redress and incentivisation added to contract (Annex 
+H); 
+• Increased clarity of w ording in each of  the Statement of Technical Requirements 
+(SOTR) and Tariff items.  
+  8. The LfE incorporated delivers two key objectives: to incorporate changed 
+operational needs, and to create efficiencies in the administrative end -to-end processes. 
+A full logic model  is included at Annex F.   
+ 
+9. The changed operational needs reflect changes to the DELIVERABLE s in-scope 
+(detailed in the DELIVERABLE s Matrix). Whilst some DELIVERABLE s have been 
+disposed since YEAR , DELIVERABLE s have been acquired since the introduction of ISS 
+with in-service support provided via design, manufacture and initial support contracts with 
+the Original Equipment Manufacturer (OEM). The policy of DELIVERABLE s Team is that 
+post acquisition contract, these DELIVERABLE s will be subsumed into  the overarching 
+support solution at time of contract renewal; as a result,  support  currently  provided by five 
+additional  contracts is also in scope of ISS DATE  (Annex C) .  
+ 
+10. Failure to provide in -service support to all DELIVERABLE s will result in lapsed 
+safety cases, which in turn will lead to a rapid and progressive withdrawal from service, 
+and therefore inability to deliver KURs and endorsed Defence Tasks. It is therefore 
+proposed, after conducting a full options appraisal (see ‘Economic Case’), that a new 
+contract for NUMBER OF  years is awarded to replace ISS, to be known as the 
+DELIVERABLE s In Service Support YEAR  – YEAR  (ISS DATE ) Contract.  
+ 
+11. The schedule has factored in both time and resource implications to conduct the 
+tender process. The schedule is now fully baselined (Annex D) and the lessons learned 
+from previous DELIVERABLE s projects have enabled accurate resource allocation. The 
+DELIVERABLES  project controls assurance community has reviewed this schedule and 
+provided their assurance against it.  
+12. The project falls within the DEPARTMENT  Strategy Refresh and as such, 
+represents a substantial opportunity over the next NUMBER  years to support and 
+develop the UK’s healthy capacity in DELIVERABLE  and refit / repair . There is a clear 
+interface with the strategic objective s of the DEPARTMENT  Strategy YEAR  and the 
+potential to deliver on cross -government industrial policy, which is being tracked by the 
+DEPARTMENT  Office.  
+Economic Case  
+13. The Project Team undertook a full options analysis, including evaluating the historic 
+approach to  DELIVERABLE s In Service Support Contracts and funding for the contract. 
+The options presented in Table 2 were considered, and are detailed in Annex E.  
+Option  Summary  
+(1) Do Nothing  Allow ISS to lapse leaving all DELIVERABLE s unsupported 
+and KURs undelivered.  
+(2) Extend Existing 
+Contracts  (Business As 
+Usual)  Extend existing contracts to continue to deliver KURs. KURs 
+only partially delivered as acquisitions since ISS are not 
+included. VfM is not achieved ; some contractors may not accept 
+invitation to extend contract ; no opportunity for new suppliers ; 
+known  issues persist.  There is no Commercial  justification to 
+extend beyond 7 years without risking a legal challenge.  
+(3) Mirror ISS Create new contract based on ISS. KURs only partially delivered 
+as acquisitions since ISS are not included. Known issues 
+persist.  
+(4) Do Minimum  – Evolve 
+ISS Recommended 
+Option  Gather LfE to improve ISS contract to eradicate known issues 
+and make more efficient . Incorporate new acquisitions to deliver  against all KURs . Remove DELIVERABLE  disposed of post 
+ISS. 
+(5) Fully Re -Write ISS Develop a completely new contract  ignoring all aspects of ISS 
+that currently work well . This option creates a strong  risk that the 
+work will not be complete prior to DATE , leaving KURs at risk of 
+being unsupported.  This is the riskiest and most expensive 
+option.  
+(6) Contract for Availabil ity Develop elements of the ISS contract to include contracting for 
+availability, instead of using a framework agreement. KURs are 
+delivered. However, t here is a strong risk that the Control Total 
+is breached  due to the volume of DELIVERABLE s being 
+maintained . This drives risk and hence cost into an industrial 
+base not used to managing that throughput, and because a 
+significant minority of our CUSTOMER  (e.g. STAFF  
+DELIVERABLE s) would not benefit from an availability -type 
+contract because they are used on an ad -hoc basis and 
+therefore do not have true availability metrics.  
+Table 3: ISS DATE  Options  
+ 
+Commercial Case  
+14. A Commercial Strategy has been prepared and should be read in conjunction with 
+this Outline Business Case. Summary points are provided in this section.  
+15. ISS DATE  is largely a continuation of current arrangements, supporting 
+DELIVERABLE s which in most cases have been in service for a number of years. There 
+is only a need to re -approve because NAME OF OTHER DEPARTMENT 1 needs to re -
+test the market to validate VfM, particularly in the light of wider economic and market 
+turbulence since YEAR . 
+16. The Defence Sourcing Portal (DSP) was used to publish an  open  invitation to an 
+Industry Day held at LOCATION  on DATE , which was attended by over 70 
+representatives of  c. 30 suppliers.  
+17. A Market Survey Questionnaire  (MSQ)  was also distributed to incumbent suppliers  
+during DATE .  
+18. The Industry Day and MSQ had two purposes:  
+a. To generate interest in the procurement ; 
+b. To gather LfE f rom ISS to consider for inclusion in ISS DATE . 
+ 
+19. As some of DELIVERABLE s carry munitions, this procurement falls within the scope 
+of the Defence and Security Public Contracts Regulations  YEAR  (DSPCR YEAR ). To 
+allow for face -to-face discussion and clarification of each Tenderers’ proposal, the 
+Competitive Negotiated procedure, under DSPCR YEAR , will be utilised.  
+20. The Competitive Negotiated procedure  will help to ensure the NAME OF 
+DEPARTMENT ’s technical requirement is met and will secure best VfM as the contract 
+will be awarded through fair and open competition and advertised in the Defence 
+Contracts Bulletin (DCB) and the Defence Sourcing Portal (DSP).  
+21. A Dynamic Pre -Qualification Questionnaire (DPQQ) will be used to down -select  
+from those expressing interest through DSP to go forward to IT N. The DPQQ will be used  to look at basic capability and financial health of the participants. All interested parties will 
+be listed in the resulting Full Business Case (FBC).  
+22. At ITN, a Most Economically  Advantageous Tender  (MEAT) evaluation  using the 
+VfM Index (including up to two rounds of negotiation ) will be used to decide winners  of 
+each respective lot . The MEAT evaluation will be based on technical competency, firm 
+price tariff items and spares, and hourly rates for unplanned activity.  
+23. A Lot Allocation Mechanism will then be used to award Lots in order of priority and 
+to ensure that NAME OF DEPARTMENT  is not exposed to potential providers over -
+committing themselves. It is anticipated that there will be a minimum of 3 and a maximum 
+of 9 successful bidders  who will be invited to enter  a contract with the NAME OF 
+DEPARTMENT . 
+24. Risk:   A full project risk identification and analysis has been carried out for this 
+procurement. This includes commercial risks and will continue to be updated and refined 
+as the procurement progresses . The Risk and Complexity (RCA) Matrix  for ISS DATE  
+highlights the minimal level of technical and commercial risk . All risks have been 
+recorded in the Risks and Issues Register  and on ARM (Annex G). 
+ 
+Financial Case  
+25. A cost modelling exercise has been undertaken to determine affordability. The 
+exercise was conducted by SQEP within the DELIVERABLE s team , creating the cost 
+model from the lowest level of data available, as shown in figure 1: 
+ 
+Figure 1: Creation of the ISS DATE  Cost Model  
+26. The affordability challenge in this OBC is a result of several DELIVERABLE s 
+requiring Out of Service Date (OSD) extensions  as replacement DELIVERABLE s projects 
+have not been implemented by ORGANISATION  Dev, whilst capability requirement 
+remains enduring . This has been highlighted in a note to ORGANISATION  Command.  
+Subsequent detailed cost modelling has highlighted a total shortfall of £  XXXX against 
+CT (table 3). This affordability challenge will be addressed by a bid to increase CT 
+allocated to ISS DATE  via PCR1 -DATE , being progressed currently . If this PCR uplift is 
+implemented, it is expected tha t an affordable FBC will then be presented.  
+Category  
+(£XXXX ) Control Total  Cost Model  Shortfall  
+RDEL  XXXX  XXXX  XXXX  
+ CDEL   XXXX  XXXX  XXXX  
+    
+RMC  XXXX  XXXX  XXXX  
+Table 4: Control Total versus Cost Model  
+27. If PCR1 -DATE  is unable to be implemented or is not implemented in time to support 
+an FBC approval, the proposed contracting strategy is for a  framework contract which 
+does not guarantee any throughput. As a result,  throughput and scope of in -service 
+support activity can be tailored to meet budget , with the short duration of typical activities 
+giving an option  to take advantage of in -year underspe nds from elsewhere within FLCs 
+(to be approved via Review Note or standalone  Business Case  as required ).  
+28. The Cost Model has been reviewed at high level  by the DELIVERABLES  Cost 
+Assurance Group (CAG) . Final costs will be confirmed , verified and validated,  in the Full 
+Business Case after the competition  has co ncluded .   
+29. The affordability analysis for the Limit of Liability  (LoL) of ISS DATE  is set out in 
+Table 4 below  (inclusive of RMC) . The breakdown per FLC can be found in Annex A .iii. 
+Year   1  2  3 4  5 6 7 
+Total  
+FY  DATE  DATE  DATE  DATE  DATE  DATE  DATE  
+Forecast Cost at 
+50% Confidence (at 
+P50 value)  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Provision (ABC24 
+Outcome)  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Variance  
+(Negative 
+represents excess  
+in provision)  CDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Table 5 – Affordability Table        
+30. Commitment . The table below confirms no commitment has been made at this 
+stage .    
+  TLB Committed 
+DEL DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  DATE  
+RDEL  Additional 
+commitment 
+RDEL (£  XXXX)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+CDEL  Additional 
+commitment 
+CDEL (£XXXX)  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+ 
+31. FOREX . There is no FOREX exposure as bid prices provided by suppliers will be in 
+GBP.  
+32. VAT and accounting treatment . Assumptions applied in the cost model have been 
+confirmed by the ORGANISATION  Tax Team  (Financial Accounting Tax Enabling Team  / 
+ORGANISATION  Fin FA-Tax1a) .  33. Contingent Liability . The DELIVERABLE s team are in the process of conducting a 
+Contingent Liability risk assessment , however, the team does not anticipate there being a 
+Contingent Liability at this time , or for a Contingent Liability to be presented in the FBC.  
+34. The associated Raw Materials and Consumables (RMC) and Single Use Military 
+Inventory (SUMI) cost of £ XXXX  is included within the affordability table . 
+35. Private Sector Support (PSS). An assessment has been conducted and no Private 
+Sector Support is anticipated in the ISS DATE  contract.  
+Management Case  
+36. Programme Governance.  ISS DATE  will follow the prescribed route for funding 
+and approval arrangements relevant to a Category B project  in accordance with JSP655 .   
+37. Programme Milestones. The four programme milestones are OBC, FBC, IOC and 
+FOC with definitions and criteria detailed in Table 5 below:  
+ 
+Milestone  Definition  Criteria  
+OBC  Outline Business 
+Case approved  All PEAP artifacts assured;  
+Approvals achieved relevant to Cat B project . 
+FBC Full Business Case 
+approved  DPQQ and ITN complete  and preferred tenderers 
+selected ;  
+All PEAP artifacts assured;  
+Approvals achieved relevant to Cat B project  
+IOC ISS DATE  Contract 
+Award  All contract signatures received from suppliers and 
+contract live on CP&F . 
+FOC  ISS DATE  Contract 
+Begins  All transition work complete  (including industry -to-
+industry TUPE) ; 
+Procurement and commercial strategies agreed;  
+MI and reporting in place . 
+Table 6: Programme Milestones  
+38. Risk. Risks and Issues associated with the project are captured in Annex G.  The 
+most significant risks are:  
+a. Resource . There is insufficient resource in the team to successfully deliver the 
+project and some key posts, such as Requirements Manager and Risk Manager, 
+are still gapped . The risk is being mitigated by utilising PDP contractor resource and  
+drawing upon subject matter expertise from the Risk Management resource pool.  
+During the contract, care is being taken to ensure that any process engineering 
+does not impact on the Operational Management t eam’s capacity to manage the 
+contract.  
+b. Affordability. Significant effort has been made to achieve affordability and 
+mitigate risks accordingly. However, inflation above the expected level  leading to 
+increased  contractor costs may still mean a further increase in affordability pressure  
+once all bids have been received at ITN/FBC stage.   
+c. Contract Termination. If the contract is terminated by NAME OF 
+DEPARTMENT  or at short notice by the provider due to, for example, insolvency , 
+there needs to be a mechanism in the contract for DELIVERABLE s to remain 
+supported. Work is underway to address how this mechanism will work in practice.   d. General Election. The date of the General Election poses a risk to the project 
+schedule if key decision points cannot be completed (for example, NAME OF 
+OTHER DEPARTMENT 3  approval of OBC and FBC ). 
+39. Operating Model.  The contract will not greatly change the principles of the 
+DELIVERABLE s Team’s operating model . However, fewer lots  and improved processes  
+may result in a decreased administration burden across the team.  
+40. Performance Measurements.  The revised KPIs used in this contract are designed 
+to deliver increased performance from suppliers, together with improved performance 
+measurements. Changing the way that data is collected from suppliers and handled 
+internally will result in improved performance reporting, and new Management 
+Information allowing trend analysis and further evolution of the way that In Service 
+Support is delivered by the team.  
+41. Learning from Experience.  LfE has been undertaken during project initiation. 
+Evaluation will continue to be completed post OBC approval and prior to FBC 
+submission . 
+42.  Schedule. The project schedule was baselined on DATE  and is included at Annex 
+D. 
+43. A high -level version of the schedule is shown in Figure 2 . Note: The next approval 
+point is for FBC in DATE . 
+REDACTED  
+44. Schedule Risk Analysis  (SRA) : An SRA has been conducted which indicates a 
+17% pre-mitigated  and 43% post mitigated  chance of delivery to schedule. Post Contract 
+Award, the schedule will be managed on a Level of Effort basis in accordance with 
+Project Controls tailoring appropriate to service delivery.  
+45. The schedule assumes contract start date will be no later than DATE , driven by the 
+dependency of the current ISS contract expiration date of DATE . A fallback plan is 
+included in the Commercial Strategy in the case that this is not achieved.  
+Presentation and Handling  
+46. ISS DATE  is unlikely to attract any significant political or media interest directly  if the 
+programme proceeds to plan  as it continues to deliver what previous contracts have 
+delivered . 
+47. As this programme is being delivered under DSPCR YEAR , there is significant 
+potential for positive messaging as this programme supports the DEPARTMENT  Strategy 
+and UK industrial and SME capability for the next seven years. This opportunity will be 
+managed in collaboration with the DEPARTMENT  Office.  
+48. However, failure of the programme would mean a withdrawal of DELIVERABLE s 
+and this could attract significant media interest  as this would result in:  
+a. Loss of capabilities provided by the DELIVERABLE s CUSTOMER ;  b. Consequential loss of capabilities  provided by all ORGANISATION  
+DELIVERABLES . DELIVERABLE s are a fundamental part of DELIVERABLES ’ 
+Safety Case , and additionally provide waterborne escorts of CASD.  
+49. The provision of both STAFF s and Adventurous Training capabilities are emotive 
+issues  for the general public, and deliver specific benefit to the military, particularly 
+around recruitment and retention:  
+a.   STAFF  DELIVERABLE s provide the equipment  to deliver to two national 
+youth organisations:  STAFF s and the Combined  STAF F. Both provide opportunities 
+for young people to grow and develop . These organisations act as a breeding 
+ground for the next generation of recruits.  
+b. Adventurous Training DELIVERABLE s provide the equipment to deliver 
+experiences to  improve physical and mental robustness, allowing existing defence 
+staff to stay fit and learn new skills. This provision is a key part of recruitment and 
+retention of Army and ORGANISATION  personnel  at a period when both 
+recruitment and retention is challenging.   
+50. There has been a significant historic investment  in acquiring and maintaining the   
+CUSTOMER  of DELIVERABLE s supported by ISS DATE , so failing to fully utilise the   
+CUSTOMER  will not present VfM for the taxpayer.   
+51. If funding for DELIVERABLE s is removed, there would be a resultant cost to 
+decommission  and / or dispose  of DELIVERABLE s in good working order . Media interest 
+may question why Defence is reducing capability at a time of global volatility.  
+ 
+Signature Block:  
+Date  Title Signature  
+DATE  NAME  
+NAME OF OTHER DEPARTMENT 1 
+DELIVERABLES  – DELIVERABLE s Team 
+Leader  
+  
+DATE  NAME  (SRO)  
+ORGANISATION   
+ Via email  
+ 
+  
+Stakeholder Endorsements  
+ 
+Date  Title Signature  
+DATE  NAME  
+Acquisition Group Leader    
+DATE  NAME  
+ISS Team Leade r  Via email  
+DATE  NAME  
+DELIVERY ORGANISATION  
+DELIVERABLES  Commercial Group Lead  Via Email  
+DATE  NAME  
+DELIVERABLE s Lead Engineer    DATE  NAME  
+Finance Lead  
+ Via email  
+DATE  NAME  
+Project Controls Lead   
+ 
+   Annexes:  
+ 
+A. Cost Model  
+B. Key User Requirements  
+C. Existing Lots and Contract Providers , plus Contracts not in scope of ISS 
+D. Baselined Schedule  
+E. Options Analysis  
+F. Outcome s 
+G. Risk and Issues Register  
+H. ISS DATE  Design  
+ 
+ 
+   Annex A  - Cost Model  
+A.i – Control Total  (excluding RMC)  
+Row Labels  Sum of DATE  Sum of DATE  Sum of DATE  Sum of DATE  Sum of DATE  Sum of DATE  Sum of DATE   Totals  
+P9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Fiscal Capital DEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+S9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Fiscal Capital DEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Non-Ringfenced RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+S9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Fiscal Capital DEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Non-Ringfenced RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+S9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Fiscal Capital DEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Non-Ringfenced RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+S9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Non-Ringfenced RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+S9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Fiscal Capital DEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Non-Ringfenced RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+S9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Fiscal Capital DEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Non-Ringfenced RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+S9 XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Fiscal Capital DEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Non-Ringfenced RDEL  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+Grand Total  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  XXXX  
+RMC figure  
+ 
+ 
+ 
+ 
+  Annex B  - Key User Requirements  
+ 
+Single Statement of User Need  
+ 
+The User requires a DELIVERABLE s In-Service Support capability for maintaining  
+(Operate, Diagnose, Maintain and Repair) and updating the material state, design 
+intent, safety, environmental compliance, operational effectiveness, and 
+availability  of small DELIVERABLE s across defence – current and future.  The capability 
+must be compliant with the Support Services Envelope and with ORGANISATION  
+Engineering Strategy and Policy .  It must also be safe, limit its impact on the 
+environment and protect the security  of sensitive information and material.  
+Key User Requirements  
+KUR  User Requirement  
+KUR1  
+Availability  The DELIVERABLE s In-Service Support ( ISS) capability 
+requires each platform and its associated equipment to 
+meet its availability and reliability requirements specified in 
+CONEMP/User Statements of Need (SoN).  
+KUR 2  
+Operate, Maintain, 
+Diagnose & Repair  The ISS capability shall  provide  planned  Operate,  
+Diagnose,  Maintain  and Repair  (ODMR)  to enable each 
+platform and its associated equipment to be available and 
+ready within the operational notice to support defined 
+defence tasks as per SoN or equivalent globally.  
+KUR 3  
+Operate, Maintain, 
+Diagnose & Repair  The ISS capability shall  provide  reactive  ODMR  to enable 
+each platform and its associated equipment to be available 
+and ready within the operational notice to support defined 
+defence tasks as per SoN or equivalent globally.  
+KUR 4  
+Support Solutions 
+Envelope Compliance  The ISS capability shall have a Support Solutions 
+Envelope (SSE) Compliant through life support solution for 
+the capability.  
+KUR 5  
+Safety & Environment 
+Management, Legislation 
+& Policy  The ISS capability shall require all output to be effectively 
+safety managed and adhere to UK National and 
+International recognised Policy, Legislation and 
+Conventions.  
+KUR 6  
+TLM The ISS capability shall support through life capability 
+management.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Annex C - Existing Lots and Contract Providers , plus Contracts not in scope of ISS 
+ 
+DELIVERABLE s currently supported by the following ISS Lots and other c ontracts will be 
+supported by ISS DATE . This includes  the entirety of the extant NAME OF 
+DEPARTMENT  DELIVERABLE s CUSTOMER .  
+ 
+Contract Type  ISS Lot  Lot or Contract Name  Current Provider  
+In Service Support  1 Overseas DELIVERABLE s COMPANY 1  
+In Service Support  2 ORGANISATION  / CUSTOMER  
+DELIVERABLE s COMPANY 5  
+In Service Support  3 CUSTOMER  DELIVERABLE s COMPANY 5  
+In Service Support  4    Specialised 
+Technology  
+In Service Support  5 CUSTOMER  DELIVERABLE s COMPANY 7  
+In Service Support  6 ORGANISATION 2 
+DELIVERABLE s COMPANY 5  
+In Service Support  7 Second Line Training 
+DELIVERABLE s COMPANY 1  
+In Service Support  8 LOCATION  DELIVERABLE s LOCATION  
+In Service Support  9 Fourth Line Training 
+DELIVERABLE s (CCF/SCC)  COMPANY 1  
+In Service Support  10 CUSTOMER LOCATION  
+DELIVERABLE s COMPANY 5  
+In Service Support  11 Support DELIVERABLE s   Specialised 
+Technology  
+In Service Support  N/A Work  DELIVERABLE s  COMPANY 5  
+Acquisition  N/A Design, Build and In -Service Support 
+of DELIVERABLE s / 
+DELIVERABLE s In-Service Support  COMPANY 4  UK 
+Acquisition  N/A Design, Build and In -Service Support 
+of DELIVERABLE  COMPANY 2  
+Acquisition  N/A Acquisition Contract (not in scope of 
+ISS DATE ) COMPANY 6  
+Acquisition  N/A DELIVERABLE S – Build and In -
+Service Support DELIVERABLE  COMPANY 1  
+Acquisition  N/A DELIVERABLE S/0001 – Provision 
+of and In -Service Support of   
+DELIVERABLE  for NAME OF 
+OTHER DEPARTMENT  2 / 
+DELIVERABLE S – Provision of and 
+In-Service Support of   
+DELIVERABLE  for JFC 
+(LOCATIONS ) COMPANY 1  
+(LOCATION ) and 
+COMPANY 2  
+(LOCATION ) 
+Acquisition  N/A CUSTOMER DELIVERABLE  
+(subsumed into Lot s 1 and 3)   Specialised 
+Technology  
+   Annex D  - Baselined Schedule  
+ 
+REDACTED  
+ 
+   Schedule Risk Analysis  
+ 
+REDACTED Annex E - Options Analysis  
+ 
+The Project Team undertook a full options analysis , including evaluating the historic approach to 
+the In Service Support Contracts and funding  for the contract.    
+ 
+Options were evaluated against the project SMART objective and Critical Success Factors as 
+defined in JSP 507. 
+ 
+Critical Success Factors  (extract from JSP507)  
+ 
+ 
+ 
+SMART Objective  
+ 
+Contract  suppliers to deliver in service support to the DELIVERABLE s   CUSTOMER  starting 
+DATE  and ending DATE  to deliver all KURs  of Front Line Commands.  
+ 
+ 
+Summary  
+ 
+Option  1. Do  
+Nothing  2. Extend 
+ISS 3. Mirror 
+ISS 4. Do 
+Minimum 
+- Evolve 
+ISS 5. Re -
+write ISS 6. Contract 
+For 
+Availability  
+SMART 
+Objective  1. Contract  R R R G R A 
+Critical 
+Success 
+Factors  Strategic Fit  R R R G G A 
+Value for 
+Money  R R A G A R 
+Supplier 
+Capacity  R A G G A A 
+Affordability  R R A A A R 
+Achievability  R A A A R A 
+Summary  Do Not 
+Take 
+Forward  Take 
+Forward  Take 
+Forward  Preferred 
+Way 
+Forward  Take 
+Forward  Take 
+Forward  
+ 
+ 
+ 
+ 
+ Analysis of Options against KURs  
+ 
+ KUR1  KUR2  KUR3  KUR4  KUR5  KUR6  Rationale  
+1. Do Nothing  N N N N N N Support for   CUSTOMER  lapses 
+DATE  
+2. Extend ISS N N N N N N REDACTED  
+3. Mirror ISS N N N N N N REDACTED  
+4. Evolve ISS Y Y Y Y Y Y  
+5. Re -write ISS Y Y Y Y Y Y  
+6. Contract for 
+Availability  Y Y Y Y Y Y This option delivers more than 
+KURs request, representing 
+inefficient VfM  
+ 
+ 
+   Analysis of Options taken forward  
+ 
+ 
+Option  2. Extend ISS 
+Extend existing contracts to continue to deliver KURs. KURs only 
+partially delivered as acquisitions since ISS are not included. VfM is not 
+achieved; some contractors may not accept invitation to extend contract; 
+no opportunity for new suppliers; known issues persist. There is no 
+Commercial justification to extend beyond X years without risking a legal 
+challenge.  
+SMART 
+Objective  1. Contract  R Does not deliver the full contract as an extension will not be 
+approved for X years.  However, it could work as an interim solution.  
+Not all KURs are delivered (Annex C). 
+Critical 
+Success 
+Factors  Strategic Fit  R KURs are only partially delivered as new DELIVERABLE  have 
+come into scope of ISS DATE  that were not in ISS (Annex C). 
+There are some known issues (captured in LfE) within the ISS 
+contract which impair delivery and so extending the contract will not 
+address the known issues.  
+Value for 
+Money  R This option does not include running a competition to test the 
+market for VfM, and there is a risk that suppliers may inflate their 
+costs  under this option.  There is also no Commercially justifiable 
+rationale to extend the contract beyond the current X year contract 
+without risking a legal challenge.  New suppliers are excluded . 
+Supplier 
+Capacity  A Some existing contractors already have difficulties in delivering the 
+ISS contract . This option assumes that all existing suppliers will 
+accept an invitation for the contract to be extended, which may not 
+be the case.  There is no opportunity for new providers to take part 
+in this contract which is significant within the DELIVERABLE s 
+sector.  
+Affordability  R Due to the risks of inflated costs, this option is unlikely to be 
+affordable.   This is a short -term and expensive solution which will 
+be resource -hungry to implement . Longer -term, the ISS contract will 
+still need to be renegotiated, so duplication of effort will occur under 
+this option.  
+Achievability  A This option is achievable , but there is no commercial justification to 
+extend ISS, increasing the risk of a successful legal challenge.  
+Summary  Not Recommended  
+ 
+ 
+ 
+Option  3. Mirror ISS 
+Create new contract based on ISS. KURs only partially delivered  as 
+acquisitions since ISS are not included. Known issues persist.  
+SMART 
+Objective  1. Contract  R This option partially  meets SMART objective #1 .  Not all KURs are 
+met as new acquisitions since ISS are not included (Annex C). 
+Underlying the KURs in Annex C are the detailed requirements 
+which include individual DELIVERABLE  as named in the 
+DELIVERABLE s Matrix (refer to supporting documentation). In 
+ISS there are  NUMBER OF  DELIVERABLE  which are currently 
+supported that will not be part of ISS DATE . Additionally, there are 
+481 DELIVERABLE  that have been acquired since ISS. To 
+mirror ISS would therefore result in an incorrect number and mix of 
+DELIVERABLE s supported and as such, current KURs would 
+not be met.  
+Critical 
+Success 
+Factors  Strategic Fit  R DELIVERABLE s are partly supported to deliver KURs, but L fE is 
+not incorporated into the contract meaning that known issues 
+persist  and the opportunities to improve service for end users is not 
+delivered . 
+Value for 
+Money  A VfM will be pa rtially achieved through market engagement .  
+However, LfE will not be leveraged fully , so contract improvements  with the potential to deliver efficiencies will not be implemented . 
+Time taken to collect L fE will be wasted.  
+Supplier 
+Capacity  G The market will be tested during a competition whereby suppliers 
+will be able to bid for the Lots and evaluated against their bids.  
+Affordability  A Issues arise around the DELIVERABLE s currently not in scope 
+of ISS (Annex C). Additional funding would need to be secured to 
+cover these DELIVERABLE . 
+Achievability  A The ISS contract does not cover a number of current 
+DELIVERABLE  (Annex C), meaning that several contracts would 
+need to be written in addition to ISS, increasing effort and schedule.  
+Summary  Not Recommended  
+ 
+ 
+Option  4. Do Minimum - Evolve ISS 
+Gather LfE to improve ISS contract to eradicate known issues and make 
+more efficient. Incorporate new acquisitions to deliver against all KURs.  
+SMART 
+Objective  1. Contract  G This option delivers SMART objective #1.  
+Critical 
+Success 
+Factors  Strategic Fit  G ISS i sevolved  to incorporate all DELIVERABLE  that were out of 
+scope in ISS (Annex C) in order to deliver across all KURs. L fE is 
+incorporated into the contract to resolve known issues within the 
+ISS contract, delivering an improved s ervice to end users.  
+Value for 
+Money  G The competition element of this option allows for VfM to be 
+delivered . Additionally, incorporating L fE allows for identified 
+efficiencies to be written into the contract.   
+ 
+An opportunity has been identified (and tested within the 
+DELIVERABLE s In Service Support Contract) to evolve KPIs 
+and introduce Service Credits and Incentive Payments which are 
+not included in the current ISS contract.  This means that the 
+contract performance can be improved.   
+ 
+A further opportunity has been identified to restructure and reduce 
+the number of L ots within ISS, which could also help to deliver 
+further V fM. 
+Supplier 
+Capacity  G Industry engagement has taken place and i ndicates that there is 
+sufficient interest to run a competition aligned to this option. The 
+competition will allow for all suppliers to bid and be evaluated for 
+suitability.  
+Affordability  A Whilst t here is a deficit between Cost Model and Control Total, the 
+framework structure of the contract means that affordability can be 
+achieved.  
+Achievability  A Given the timeframe  of this project, the schedule is acknowledged 
+to be very tight . There are some resource gaps within the team , but 
+these are currently filled with Equinox resource and task based 
+resourcing support. Where SQEP is unavailable within the team to 
+create new performance monitoring software, this has been 
+sourced and booked from the Digital and Data Reserves team.  
+Summary  Recommended  
+ 
+ 
+Option  5. Re -write ISS 
+Develop a completely new contract ignoring all the aspects of ISS that 
+currently work well. This option creates a big risk that the work will not be 
+complete prior to DATE , leaving KURs at risk of being unsupported. This 
+is the riskiest and most expensive option.  
+SMART 
+Objective  1. Contract  R This option does not deliver SMART objective #1.  There is 
+insufficient resource or time available to complete contract award by  
+DATE .  Critical 
+Success 
+Factors  Strategic Fit  G A completely new contract delivers against all KURs. This option 
+has the opportunity for KURs to be reassessed and a ‘perfect fit’ 
+contract developed and delivered.  
+Value for 
+Money  A Given the timeframe, there will be insufficient time to run a 
+meaningful competition . This option ignores the L fE that has 
+already been captured and starts afresh.  
+Supplier 
+Capacity  A Market engagement to date has focussed on the current ISS and 
+proposed structure of ISS DATE  which has been well received. A 
+fully re -written contract would need to be tested with the market to 
+ascertain its attractiveness.  
+Affordability  A ISS is largely successful.  A full re -write would be time consuming 
+and not effective use of team resources. A new cost model would 
+need to be developed which carries the risk of not achieving 
+affordability under the existing Control Total which is based on ISS. 
+Achievability  R Fully re -writing ISS may deliver improved performance, but the 
+trade -off will be achieving the contract in the timeframe necessary.  
+It will therefore result in a temporary loss of operational capability 
+during the period between contracts.  
+Summary  Not Recommended  
+ 
+ 
+Option  6. Contract For Availability  
+Develop elements of the ISS contract to include contracting for 
+availability, instead of using a framework agreement.  KURs are 
+delivered. Cost is not controlled and there is a strong risk that the 
+Control Total is breached.  
+SMART 
+Objective  1. Contract  A This option will require a re -write of KURs to uplift them to contract 
+for availability – but this is not what the FLCs have indicated they 
+require. The effort needed does not match available resource 
+availability and so the contract will not be able to be  delivered by 
+DATE . 
+Critical 
+Success 
+Factors  Strategic Fit  A This option delivers against the KURs , but also risks ‘over -
+delivering’ as KURs do not specify availability on a 
+DELIVERABLE -by-DELIVERABLE  basis.  
+Value for 
+Money  R Changing operational demands require flexibility in 
+DELIVERABLE  availability, however, in this option, the contract 
+would be based on having ALL DELIVERABLE  available , 
+meaning that NAME OF DEPARTMENT  is paying for services 
+it doesn’t need . A number of DELIVERABLE  (for example,  
+STAFF  DELIVERABLE s) are used on an ad -hoc basis and do 
+not have true availability metrics . The Control Total is based on a 
+flexible framework contract, so contracting for availability would 
+result in a significant increase that is not affordable, due to the 
+volume of DELIVERABLE s being maintained. This drives risk 
+and hence cost into an industrial base not used to managing that 
+throughput .  
+Supplier 
+Capacity  A There is a risk that contracting for availability becomes an ‘unknown 
+risk’. Suppliers could be disinclined to bid for a contract where 
+availability KPIs are non-negotiable. Conversely, suppliers may be 
+more inclined to bid for a contract that guarantees throughput.  
+Affordability  R The current framework contract allows for affordability decisions to 
+be made on a daily, monthly and yearly basis . This option removes 
+the flexibility to make decisions based on combined objectives  of 
+operational need and affordability.  
+Achievability  A This option is largely achievable, but  will require additional resource 
+to further understand the availability that might be required – KURs 
+would need to be revisited.  
+Summary  Not Recommended  
+  Annex F – Logic Model  
+ 
+REDACTED   Annex G - Risk and Issues Register  
+REDACTED  
+ 
+ 
+  The top 5 risks for the project are as follows:  
+Risk  Current  Target  Detail  Mitigation  
+Operations 
+Team Capacity  
+(Resource)    Changes to processes  
+(specifically revised KPIs)  
+may result in increased 
+workload for Operations 
+Team.  ‘As is’ and ‘to be’ process 
+mapping has been completed 
+and opportunities for 
+automation explored. T EAM 
+NAME  has been identified and 
+tasked with creation of tool to 
+begin to automate more 
+processes.  
+Affordability    Contract may not be 
+affordable.  Please refer to paragraphs 25 -
+26 above.  
+Contract 
+Termination    Providers may be unable to 
+deliver the contract as a 
+result of  poor performance, 
+or insolvency.  Contract includes mechanism 
+to terminate contract for 
+variety of reasons including 
+poor performance. DPQQ and 
+ITN will include checks on 
+solvency and ability to deliver 
+contract . KPI measurement 
+will indicate any decline in 
+performance in time for further 
+mitigating action to be put in 
+place, but if a contractor 
+should become unable to 
+deliver the contract at short 
+notice, this still presents a risk 
+to capability.  
+General Election    The imminent General 
+Election and result could 
+mean that NAME OF 
+OTHER DEPARTMENT 
+3 approvals are delayed, or 
+that the competition 
+timeframe needs to be 
+amended.  Election date is now known so 
+schedule can be adapted to 
+work around pre -election 
+period rules. Guidance is 
+being sought on obtaining out 
+of committee approvals to 
+achieve the schedule.  
+Incomplete data 
+and/or 
+knowledge    The cost model is based on 
+Cost Drivers selected by 
+SQEP within the team and 
+based on historic activity. 
+However, historic activity is 
+not necessarily an accurate 
+indication of future activity.  Risk has been applied to the 
+Cost Model to mitigate this 
+risk. 
+ 
+ 
+   Annex H – ISS DATE  Design  
+Introduction  
+Using LfE and the team’s considerable SQEP, market knowledge and understanding of 
+operational priorities, the structure, naming convention, prioritisation and content of each 
+lot was determined.  
+Design of the Lot Structure  
+The process began with r epresentatives from Engineering and Operations agree ing the 
+content of each lot, on a quantity basis, using L fE and information held within the   DMR. 
+The outputs were captured in  the   Matrix and ratified by representatives from all other 
+functions (Acquisitions, Finance, Commercial, Security, and Safety) at a workshop held 
+on DATE .  
+It was also agreed that the following items would be incorporated into ISS DATE  Lots:  
+• REDACTED  
+The following will remain outside of the scope of ISS DATE : 
+•   REDACTED  
+Objectives  of the proposed design were captured as follows:  
+• Reduction in Lots will result in reduction in administrative burden around contract 
+awards  and management  
+• Better distribution within lots will improve user experience  
+• Lots renamed to adhere to current naming conventions (for example, removing 
+reference to location and MAB details)  
+• Lots put in priority order of operational importance and numbered accordingly to 
+improve clarity around internal processes  
+Final Lot Structure:  
+1. ORGANISATION 1  
+2. ORGANISATION  2 
+3. CUSTOMER  
+4. Overseas     
+5. Work   
+6. ORGANISATION 3  
+7. UK Operations   
+8. Support and Training   
+Lot Allocation Mechanism  
+Principles will apply to the Lot Allocation Mechanism based on NAME OF DEPARTMENT  
+contractual requirements and replicate what worked well when awarding the ISS 
+contract:  
+• Contractors may bid on any number of Lots.  
+• Lots will be awarded from highest (1) to lowest (10) rank.  
+• Contractors cannot win a combination of Lots that exceed a percentage 50% of 
+their annual turnover, without some further guarantee.   Additional principles based on L fE from ISS will apply:  
+• The order of precedence has been divided into four  tiers.  
+• Lots 1,2, 3 are tier 1; Lot 4 is tier 2; Lots 5, 6, 7, 8 are tier 3; and Lot 9 is tier 4.  
+• Each tier attracts a different number of points (tier 1 = 10; tier 2 = 6; tier 3 = 5; tier 
+4 = 1)  
+• Contractors can only win one Lot in tier 1.  
+• Contractors can only win Lots of a total value of 21 points.  
+• Ambition: If a contractor turns down the offer of a Lot Contract, they automatically 
+become ineligible to accept any alternative lots – CLS to review full tender pack 
+and advise if we can use this clause.  
+Contract Performance  
+LfE was gathered from ISS and the In Service Support Contract ( ISS). The ISS contract 
+took a novel approach to KPIs, to allow the Operations Team to use the contract more 
+actively to monitor contract performance than is possible in ISS. 
+KPIs for ISS DATE  are therefore divided into 3 elements  based on the ISS contract :   
+• Element 1: What we want suppliers to deliver  
+• Element 2: How we’ll measure the overall performance of the contract  
+• Element 3: Incentivisation and Redress within the contract  
+As worked well on the ISS contract, Service Credits and Incentive payments will apply to 
+specific KPIs, based on contractual and agreed delivery dates.  
+A further element of KPIs relates to the mandated inclusion of Social Values performance 
+measures within the contract:   
+• Element 4: Social Values  
+Social Values will be evaluated as part of both DPQQ and ITN during contract placement 
+and will be monitored under the contract as an element which is distinct from Elements 
+1,2, and 3. There will not be any financial redress linked to Element 4 of the Soc ial 
+Values, but this KPI will be linked to performance with associated action plans.  
+  Contract Performance KPIs with associated elements 1 -3 
+REDACTED
