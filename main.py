@@ -10,7 +10,7 @@ v1 2025-06-14'''
 # ---------------- Dependencies ---------------- #
 # ---------------------------------------------- #
 
-from fileprocessing import extract_text_from_file, extract_text_from_directory
+from fileprocessing import extract_text_from_file, extract_text_from_directory, sanitise
 import os
 import json
 from pathlib import Path
@@ -21,6 +21,8 @@ from structure_output import parse_llm_output_to_df, read_xlsx_file, process_ksb
 import pandas as pd
 import datetime
 import logging
+
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # ---------------------------------------------- #
 # ------------------- Inputs ------------------- #
@@ -33,6 +35,9 @@ vector_subdirectory = "vector_store"  # Subdirectory for vector store
 # OCR Mode: Choose if pdfs are processed from their text only (faster) or transfored to images and OCR (slower but includes images)
 ocr_mode = False # Set to True if you want to use OCR for PDFs
 regenerate_vector_store = False  # Set to True to regenerate the vector database e.g. after adding new files
+
+# Number of iterations per prompt
+no_runs = 3
 
 # Note: additional prompt and RAG parameters in RAG.py
 
@@ -133,31 +138,53 @@ all_dfs = []
 
 output_csv = f"{output}/rag_test.csv"
 
-# Check if output file exists to determine if we need to write the header
-file_exists = os.path.isfile(output_csv)
 
-for idx, prompt in enumerate(prompts_list):
-    logging.info(f"Processing Prompt {idx + 1} of {number_of_prompts}: {prompt}")
+
+def process_prompt_run(idx, prompt, run_num, prompts_df_row, directory, text_directory, vector_subdirectory):
     response = run_rag_pipeline(query=prompt, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
-    
-    # Parse the response into a DataFrame
+    response = sanitise(response)
     df = parse_llm_output_to_df(prompt, response)
 
-    # Drop repeated "Prompt" column
     if "Prompt" in df.columns:
         df = df.drop(columns=["Prompt"])
-    
-    # Add all columns from prompts_df for this prompt
-    for col in prompts_df.columns:
-        df[col] = prompts_df.iloc[idx][col]
-    
-    # Append the row to CSV immediately
-    # Write header only if file does not exist
-    df.to_csv(output_csv, mode='a', header=not file_exists, index=False)
-    file_exists = True  # After first write, always append without header
 
-    all_dfs.append(df)
-    print(f"Prompt {idx + 1} processed")
+    for col in prompts_df_row.index:
+        df[col] = prompts_df_row[col]
+
+    print(f"Processed Prompt {idx + 1} of {number_of_prompts}, Run {run_num + 1} of {no_runs}")
+
+    df["Run"] = run_num + 1
+
+    return df
+
+# Parallel processing run
+if __name__ == "__main__":
+    # Check if output file exists to determine if we need to write the header
+    file_exists = os.path.isfile(output_csv)
+
+    with ProcessPoolExecutor(max_workers=4) as executor:
+        futures = []
+        for idx, prompt in enumerate(prompts_list):
+            prompts_df_row = prompts_df.iloc[idx]
+            for run_num in range(no_runs):
+                futures.append(
+                    executor.submit(
+                        process_prompt_run,
+                        idx,
+                        prompt,
+                        run_num,
+                        prompts_df_row,
+                        directory,
+                        text_directory,
+                        vector_subdirectory
+                    )
+                )
+
+        for future in as_completed(futures):
+            df = future.result()
+            df.to_csv(output_csv, mode='a', header=not file_exists, index=False)
+            file_exists = True
+            all_dfs.append(df)
 
 end_time = datetime.datetime.now()
 run_time = end_time - start_time

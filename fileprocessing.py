@@ -51,6 +51,18 @@ dpino = 150  # Lower DPI for faster processing, adjust as needed
 maxlength = 3000  # Adjust based on LLM's token limit. Note prompt must be included. Deepseek-R1 has a 4096 token limit.
 
 #----------------------------------
+# HELPERS
+#----------------------------------
+
+# Clean text input for data processing
+def sanitise(source_text):
+    source_text = source_text.replace('"', '')  # Remove any quotes from the source text
+    source_text = source_text.replace("'", "")  # Remove any single quotes from the source text
+    source_text = source_text.replace("`", "")  # Remove any backticks from the source text
+    text = source_text
+    return text
+
+#----------------------------------
 # READERS
 #----------------------------------
 

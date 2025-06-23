@@ -11,7 +11,7 @@ https://github.com/Loxodromia/Local_LLM/
 
 MVP branch - V1, single prompt on RAG with Streamlit UI, no parsing:  ` RAG ` https://github.com/Loxodromia/Local_LLM/tree/RAG
 
-Most current branch - V2, structured data and iteration over list of queries from spreadsheet: ` struct-output ` (built from ` RAG `) https://github.com/Loxodromia/Local_LLM/tree/struct-output
+Most current branch - V3, structured data and iteration over list of queries from spreadsheet, designed to document evidence for a list of KSBs (Knowledge, Skills and Behaviours) for apprenticeship work: ` quote ` (built from ` struct-output `) https://github.com/Loxodromia/Local_LLM/tree/quote
 
 ## File Structure
 * Files for RAG are placed in folder ` INPUT/ ` (excluded from git in .gitignore). The txt processing files will be created in a subfolder of the input directory, as well as the indexing.
@@ -64,7 +64,7 @@ This should start the server without errors.
 
 Add Ollama to Bash PATH (if you prefer Bash):
 If you want to keep using Bash (e.g., Git Bash), add Ollama to its PATH:
-Find Ollama’s executable path. On Windows, it’s typically in ` C:\Users\ <YourUser> \AppData\Local\Programs\Ollama\ollama.exe `
+Find Ollama’s executable path. On Windows, it’s typically in ` C:\Users\<YourUser>\AppData\Local\Programs\Ollama\ollama.exe `
 Edit your Bash profile (e.g., ~/.bashrc or ~/.bash_profile):
 ` nano ~/.bashrc `
 

@@ -19,8 +19,9 @@ import ollama
 
 from sentence_transformers import SentenceTransformer
 
-os.environ["TRANSFORMERS_OFFLINE"] = "1"  # Use local models only, no internet access]
-
+# Use local models only, no internet access
+os.environ["TRANSFORMERS_OFFLINE"] = "1"  
+os.environ["HF_HUB_OFFLINE"] = "1"
 
 # Configuration
 MODEL_NAME = "all-MiniLM-L6-v2"  # Lightweight embedding model
@@ -36,7 +37,7 @@ model_path = r".venv/model/all-MiniLM-L6-v2"
 model = SentenceTransformer(model_path)
 
 # RAG Parameters
-top_k = 4  # Number of top relevant chunks to retrieve for each LLM call
+top_k = 6  # Number of top relevant chunks to retrieve for each LLM call
 depth = 1  # Number of retrieval iterations: 1 to 3. The higher, the more search extent, but processing time multiplies. E.g. if top_k = 5 and depth = 2, the LLM will retrieve the top 5 chunks from the vector store in a prompt, then the next 5, and use them to generate a response.
 max_context_length = 3000  # Maximum length of context to pass to the LLM for each prompt, from collating the top chunks
 

@@ -2,6 +2,7 @@ import pandas as pd
 import re
 import numpy as np
 import openpyxl
+from fileprocessing import sanitise
 
 questions_file = r"INPUT/PEAT_reduced.xlsm"
 sheet = r"2.1 LOEs, Artefacts & Assurance"
@@ -49,10 +50,7 @@ def parse_llm_output_to_df(query, raw_output: str) -> pd.DataFrame:
     quote_pattern = r"Quote:\s*(.*?)(?=\n|$)"
     source_match = re.search(quote_pattern, raw_output, flags=re.IGNORECASE)
     source_text = source_match.group(1).strip() if source_match else "No quote found"
-    source_text = source_text.replace('"', '')  # Remove any quotes from the source text
-    source_text = source_text.replace("'", "")  # Remove any single quotes from the source text
-    source_text = source_text.replace("`", "")  # Remove any backticks from the source text
-
+    source_text = sanitise(source_text)
     # Get the highest confidence
     highest_confidence = float(max(confidence_values)) if confidence_values else np.nan
     
@@ -190,18 +188,20 @@ def process_ksb_df(df: pd.DataFrame) -> pd.DataFrame:
     processed_rows = []
     for _, row in df.iterrows():
         # Add the standard KSB row
+        criteria = sanitise(f"Use file {row['Project']}.pdf to document evidence on {row['Standard']}: {row['Pass']}. {row['Queries']}. {row['Type']}")
         processed_rows.append({
             "Standard": row["Standard"],
-            "Criteria": f"Use file {row['Project']}.pdf to document evidence on {row['Standard']}: {row['Pass']}. {row['Queries']}. {row['Type']}",
+            "Criteria": criteria,
             "Project": row["Project"],
             "Target date": row["Target date"]
         })
 
         # Add distinction criteria rows if they exist
+        dist_criteria = sanitise(f"Use file {row['Project']}.pdf to document evidence on: {row['Standard']}(Distinction): {row['Distinction']}. {row['Queries']}. {row['Type']}")
         if pd.notna(row["Distinction"]):
             processed_rows.append({
                 "Standard": row["Standard"],
-                "Criteria": f"Use file {row['Project']}.pdf to document evidence on: {row['Standard']}(Distinction): {row['Distinction']}. {row['Queries']}. {row['Type']}",
+                "Criteria": dist_criteria,
                 "Project": row["Project"],
                 "Target date": row["Target date"]
             })
