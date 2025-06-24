@@ -37,14 +37,14 @@ model_path = r".venv/model/all-MiniLM-L6-v2"
 model = SentenceTransformer(model_path)
 
 # RAG Parameters
-top_k = 6  # Number of top relevant chunks to retrieve for each LLM call
+top_k = 5  # Number of top relevant chunks to retrieve for each LLM call
 depth = 1  # Number of retrieval iterations: 1 to 3. The higher, the more search extent, but processing time multiplies. E.g. if top_k = 5 and depth = 2, the LLM will retrieve the top 5 chunks from the vector store in a prompt, then the next 5, and use them to generate a response.
 max_context_length = 3000  # Maximum length of context to pass to the LLM for each prompt, from collating the top chunks
 
 # Prompt parameters
 temperature = 0.3  # Temperature for response generation (creativity)
-prompt_text = '''Provide a clear and concise response to document evidence, quoting the most relevant exact text fragment from the context, with the following structure for each prompt (3 bullet points starting with "-") and only producing the below:
-- Evidence explanation:... (summarise)
+prompt_text = '''Provide a clear and concise response to document evidence, quoting the most relevant exact text fragment from the context, with the following structure for each prompt and only producing the below as bullet points starting with "-":
+- Evidence explanation:... (briefly summarised)
 - Confidence level that the evidence is adequate and sufficient, in the format "[Confidence: XX%]" (0-100).
 - *Exact* quote from the source text, in the format "Quote: 'exact text from the source'". If no evidence is found, state "No evidence found" and provide a confidence level of 0%.'''
 max_tokens = 700  # Maximum tokens for the response generation (output length)
@@ -131,16 +131,20 @@ def embed_query(query: str, model_name: str = "all-MiniLM-L6-v2") -> list: # Con
     query_embedding = embeddings.embed_query(query)
     return query_embedding
 
-def retrieve_chunks(query: str, vector_store_path: str, k: int = depth*top_k) -> list: # Retrieve top-k relevant chunks from FAISS vector store, considering depth for multiple calls
-    """Retrieve top-k relevant chunks from FAISS vector store."""
-    embeddings = HuggingFaceEmbeddings(
-        model_name=model_path,  # Use the local model path
-    )
+def retrieve_chunks(query: str, vector_store_path: str, target_doc: str = None, k: int = 10) -> list:
+    """Retrieve top-k relevant chunks from FAISS vector store, optionally filtering by document."""
+    embeddings = HuggingFaceEmbeddings(model_name=model_path)
     vector_store = FAISS.load_local(vector_store_path, embeddings, allow_dangerous_deserialization=True)
     query_embedding = embed_query(query)
     results = vector_store.similarity_search_by_vector(query_embedding, k=k)
+
+    # Filter by document if specified
+    if target_doc:
+        results = [doc for doc in results if doc.metadata.get("source") == target_doc]
+
     retrieved_chunks = [{"text": doc.page_content, "source": doc.metadata["source"]} for doc in results]
     return retrieved_chunks
+
 
 def assemble_context(chunks: list, max_context_length: int = max_context_length) -> str:# Combine retrieved chunks into a context string
     """Combine retrieved chunks into a context string with source references."""
@@ -210,6 +214,7 @@ def rag_pipeline(
     vector_store_path: str,
     directory: str,
     text_directory: str,
+    document: str = None,
     k: int = top_k,
     depth: int = depth,
     max_context_length: int = max_context_length,
@@ -228,8 +233,8 @@ def rag_pipeline(
     
     # Retrieve k * depth chunks
     total_chunks = k * depth
-    chunks = retrieve_chunks(query, vector_store_path, k=total_chunks)
-    print(f"Retrieved {len(chunks)} chunks for query: '{query}'")
+    chunks = retrieve_chunks(query, vector_store_path, document, k=total_chunks)
+    print(f"Retrieved {len(chunks)} chunks from {document} for query: '{query}'")
     
     # Split chunks into batches of k
     chunk_batches = [chunks[i:i+k] for i in range(0, len(chunks), k)]

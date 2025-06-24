@@ -21,6 +21,7 @@ from structure_output import parse_llm_output_to_df, read_xlsx_file, process_ksb
 import pandas as pd
 import datetime
 import logging
+import csv
 
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
@@ -77,10 +78,16 @@ def RAG_base(directory, txt_folder=text_directory, vector_store_subfolder=vector
         return
 
 # Query function for RAG pipeline
-def run_rag_pipeline(query, directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory):
+def run_rag_pipeline(query, directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory, document=None):
     vector_store_path = f"{directory}/{text_directory}/{vector_subdirectory}"
     print(f"Querying: {query}")
-    response = rag_pipeline(query, directory=directory, text_directory=text_directory, vector_store_path=vector_store_path, show_thinking=False)
+    response = rag_pipeline(
+        query, 
+        directory=directory, 
+        text_directory=text_directory, 
+        vector_store_path=vector_store_path, 
+        document=document,
+        show_thinking=False)
     # print(f"RAG pipeline response:\n{response}\n")
     print("Response produced. Writing.")
     return response
@@ -95,22 +102,6 @@ if regenerate_vector_store:
     RAG_base(directory, txt_folder=text_directory, vector_store_subfolder=vector_subdirectory)
 else:
     pass
-
-# Save response as txt
-# response = run_rag_pipeline(query = query, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
-# print(response)
-# # Save the run rag pipeline response to a .txt file
-# output_file = f"{directory}/{text_directory}/rag_response.txt"
-# def write_output(output_file, query, response):
-#     with open(output_file, "w") as f:
-#         f.write(f"Query: {query}\n")
-#         f.write("RAG pipeline response:\n")
-#         f.write(response)
-
-# write_output(output_file, query, response)
-# df = parse_llm_output_to_df(query, response)
-# df.head()
-# df.to_csv(f"{directory}/{text_directory}/rag_response.csv", index=False)
 
 # ---------------------------------------------- #
 # Read queries from excel
@@ -140,8 +131,14 @@ output_csv = f"{output}/rag_test.csv"
 
 
 
-def process_prompt_run(idx, prompt, run_num, prompts_df_row, directory, text_directory, vector_subdirectory):
-    response = run_rag_pipeline(query=prompt, directory=directory, text_directory=text_directory, vector_subdirectory=vector_subdirectory)
+def process_prompt_run(idx, prompt, run_num, prompts_df_row, directory, text_directory, vector_subdirectory, document=None):
+    document = f"{prompts_df_row['Project']}.txt" # Context
+    response = run_rag_pipeline(
+        query=prompt, 
+        directory=directory, 
+        text_directory=text_directory, 
+        vector_subdirectory=vector_subdirectory, 
+        document=document)
     response = sanitise(response)
     df = parse_llm_output_to_df(prompt, response)
 
@@ -166,6 +163,7 @@ if __name__ == "__main__":
         futures = []
         for idx, prompt in enumerate(prompts_list):
             prompts_df_row = prompts_df.iloc[idx]
+            document = f"{prompts_df_row['Project']}.txt" # Context
             for run_num in range(no_runs):
                 futures.append(
                     executor.submit(
@@ -176,13 +174,14 @@ if __name__ == "__main__":
                         prompts_df_row,
                         directory,
                         text_directory,
-                        vector_subdirectory
+                        vector_subdirectory,
+                        document
                     )
                 )
 
         for future in as_completed(futures):
             df = future.result()
-            df.to_csv(output_csv, mode='a', header=not file_exists, index=False)
+            df.to_csv(output_csv, mode='a', header=not file_exists, index=False, quoting=csv.QUOTE_ALL)
             file_exists = True
             all_dfs.append(df)
 

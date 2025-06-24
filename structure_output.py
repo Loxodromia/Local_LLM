@@ -188,7 +188,7 @@ def process_ksb_df(df: pd.DataFrame) -> pd.DataFrame:
     processed_rows = []
     for _, row in df.iterrows():
         # Add the standard KSB row
-        criteria = sanitise(f"Use file {row['Project']}.pdf to document evidence on {row['Standard']}: {row['Pass']}. {row['Queries']}. {row['Type']}")
+        criteria = sanitise(f"Use file {row['Project']}.txt ONLY to document evidence on {row['Standard']}: {row['Pass']}. {row['Queries']}. {row['Type']}")
         processed_rows.append({
             "Standard": row["Standard"],
             "Criteria": criteria,
